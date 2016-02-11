@@ -8,7 +8,7 @@ file://cities15000.txt <- file://cities15000.zip
 file://world-cities.csv <- file://cities15000.txt ! python
     import csv
     HEADERS = ['geonameid', 'asciiname', 'name', 'country_code', 'subcountry_code']
-
+    
     infile = 'cities15000.txt'
     outfile = 'world-cities.csv'
     with open(infile) as incsv, \
@@ -103,3 +103,35 @@ sqlite://world-cities.sqlite/country <- file://countryInfo.txt ! python
             c.execute("INSERT INTO country VALUES (?, ?, ?)", (country_code, name, geonameid))
         conn.commit()
         conn.close()
+
+        
+file://world-cities.test.csv <- sqlite://world-cities.sqlite/country, sqlite://world-cities.sqlite/admin1, sqlite://world-cities.sqlite/city ! python
+    import sqlite3
+    import csv
+    OUTFILE = 'world-cities.test.csv'
+    HEADERS = ['name', 'asciiname', 'country', 'subcountry', 'geonameid']
+    DBFILE = 'world-cities.sqlite'
+    
+    with open(OUTFILE, 'wb') as outcsv:
+        writer = csv.writer(outcsv, lineterminator="\n")
+        writer.writerow(HEADERS)
+        conn = sqlite3.connect(DBFILE)
+        c = conn.cursor()
+        sql = '''SELECT 
+                    city.name, 
+                    city.asciiname, 
+                    country.name, 
+                    admin1.name, 
+                    city.geonameid
+                 FROM city 
+                    LEFT OUTER JOIN country ON city.country_code = country.country_code
+                    LEFT OUTER JOIN admin1 ON city.subcountry_code = admin1.subcountry_code AND city.country_code = admin1.country_code
+                 '''
+        for row in c.execute(sql):
+            name, asciiname, country, subcountry, geonameid = row
+            name = '' #str.decode(name)
+            asciiname = str(asciiname)
+            country = str(country)
+            subcountry = '' #str(u"{}".format(subcountry))
+            geonameid = str(geonameid)
+            writer.writerow((name, asciiname, country, subcountry, geonameid))
