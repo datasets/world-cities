@@ -1,0 +1,21 @@
+file://cities15000.zip <- http://download.geonames.org/export/dump/cities15000.zip ! download
+
+    
+file://cities15000.txt <- file://cities15000.zip
+    unzip cities15000.zip
+
+
+file://world-cities.csv <- file://cities15000.zip ! python
+    import csv
+    HEADERS = ['geonameid', 'asciiname', 'name', 'country_code', 'subcountry_code']
+
+    infile = 'cities15000.txt'
+    outfile = 'world-cities.csv'
+    with open(infile) as incsv, \
+         open(outfile, 'w') as outcsv:
+        reader = csv.reader(incsv, delimiter="\t")
+        writer = csv.writer(outcsv, lineterminator="\n")
+        writer.writerow(HEADERS)
+        for  geonameid, name, asciiname, alternate_names, lng, lat, _, _, country_code, _,  admin1_code,  _,  _,  _,  _,  _,  _,  _,  _  in reader:
+            row = (geonameid, asciiname, name, country_code, admin1_code)
+            writer.writerow(row)
