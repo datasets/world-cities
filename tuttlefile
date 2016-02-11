@@ -26,21 +26,22 @@ file://world-cities.csv <- file://cities15000.zip ! python
 sqlite://world-cities.sqlite/admin1 <- file://admin1CodesASCII.txt ! python
     import sqlite3
     import csv
-    infile = 'admin1CodesASCII.txt'
-    dbfile = 'world-cities.sqlite'
+    INFILE = 'admin1CodesASCII.txt'
+    DBFILE = 'world-cities.sqlite'
     
-    with open(infile) as incsv:
+    with open(INFILE) as incsv:
         reader = csv.reader(incsv, delimiter="\t")        
-        conn = sqlite3.connect(dbfile)
+        conn = sqlite3.connect(DBFILE)
         c = conn.cursor()
         c.execute('''CREATE TABLE admin1
-                 (code, name, asciiname, unknown)''')
-        for code, name, asciiname, unknown in reader:
-            #FR.A8	Île-de-France	Ile-de-France	3012874
+                 (country_code, subcountry_code, name, asciiname, geonameid)''')
+        for code, name, asciiname, geonameid in reader:
             code = str.decode(code, 'utf8')
+            country_code, subcountry_code = code.split(u'.', 2)
             name = str.decode(name, 'utf8')
             asciiname = str.decode(asciiname, 'utf8')
-            unknown = str.decode (unknown, 'utf8')
-            c.execute("INSERT INTO admin1 VALUES (?, ?, ?, ?)", (code, name, asciiname, unknown))
+            geonameid = str.decode (geonameid, 'utf8')
+            c.execute("INSERT INTO admin1 VALUES (?, ?, ?, ?, ?)", (country_code, subcountry_code, name, asciiname, geonameid))
         conn.commit()
         conn.close()
+
