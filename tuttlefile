@@ -23,6 +23,7 @@ file://world-cities.csv <- file://cities15000.zip ! python
             
 #file://admin1CodesASCII.txt <- http://download.geonames.org/export/dump/admin1CodesASCII.txt ! download
 
+
 sqlite://world-cities.sqlite/admin1 <- file://admin1CodesASCII.txt ! python
     import sqlite3
     import csv
@@ -45,3 +46,34 @@ sqlite://world-cities.sqlite/admin1 <- file://admin1CodesASCII.txt ! python
         conn.commit()
         conn.close()
 
+        
+#file://countryInfo.txt <- http://download.geonames.org/export/dump/countryInfo.txt ! download
+
+
+sqlite://world-cities.sqlite/country <- file://countryInfo.txt ! python
+    import sqlite3
+    import csv
+    INFILE = 'countryInfo.txt'
+    DBFILE = 'world-cities.sqlite'
+    
+    def skip_comment(instream):
+        for line in instream:
+            if line[0] != "#":
+                yield line
+        
+    with open(INFILE) as incsv:
+        reader = csv.reader(skip_comment(incsv), delimiter="\t")
+        conn = sqlite3.connect(DBFILE)
+        c = conn.cursor()
+        c.execute('''CREATE TABLE country
+                 (country_code, name, geonameid)''')
+        for ISO, ISO3, ISONumeric, fips, Country, Capital, Area, \
+          Population, Continent, tld, CurrencyCode, CurrencyName, \
+          Phone, PostalCodeFormat, PostalCodeRegex, Languages, \
+          geonameid, neighbours, EquivalentFipsCode in reader:
+            country_code = str.decode(ISO, 'utf8')
+            name = str.decode(Country, 'utf8')
+            geonameid = str.decode (geonameid, 'utf8')
+            c.execute("INSERT INTO country VALUES (?, ?, ?)", (country_code, name, geonameid))
+        conn.commit()
+        conn.close()
