@@ -26,8 +26,13 @@ sqlite://world-cities.sqlite/city <- file://cities15000.txt ! python
     import csv
     INFILE = 'cities15000.txt'
     DBFILE = 'world-cities.sqlite'
+
+
+    def utf_8_encoder(unicode_csv_data):
+        for line in unicode_csv_data:
+            yield line.encode('utf8')
     
-    with open(INFILE) as incsv:
+    with codecs.open(INFILE) as incsv:
         reader = csv.reader(incsv, delimiter="\t")        
         conn = sqlite3.connect(DBFILE)
         c = conn.cursor()
@@ -37,11 +42,11 @@ sqlite://world-cities.sqlite/city <- file://cities15000.txt ! python
           featureclass, featurecode, countrycode, cc2, admin1code, admin2code, \
           admin3code, admin4code, population, elevation, dem, timezone, \
           modificationdate in reader:
-            name = str.decode(name, 'utf8')
-            asciiname = str.decode(asciiname, 'utf8')
-            country_code = str.decode(countrycode, 'utf8')
-            subcountry_code = str.decode(admin1code, 'utf8')
-            geonameid = str.decode (geonameid, 'utf8')
+            name = name.decode('utf8')
+            asciiname = asciiname.decode('utf8')
+            country_code = countrycode.decode('utf8')
+            subcountry_code = admin1code.decode('utf8')
+            geonameid = geonameid.decode('utf8')
             c.execute("INSERT INTO city VALUES (?, ?, ?, ?, ?)", (name, asciiname, country_code, subcountry_code, geonameid))
         conn.commit()
         conn.close()
@@ -63,11 +68,11 @@ sqlite://world-cities.sqlite/admin1 <- file://admin1CodesASCII.txt ! python
         c.execute('''CREATE TABLE admin1
                  (country_code, subcountry_code, name, asciiname, geonameid)''')
         for code, name, asciiname, geonameid in reader:
-            code = str.decode(code, 'utf8')
+            code = code.decode('utf8')
             country_code, subcountry_code = code.split(u'.', 2)
-            name = str.decode(name, 'utf8')
-            asciiname = str.decode(asciiname, 'utf8')
-            geonameid = str.decode (geonameid, 'utf8')
+            name = name.decode('utf8')
+            asciiname = asciiname.decode('utf8')
+            geonameid = geonameid.decode('utf8')
             c.execute("INSERT INTO admin1 VALUES (?, ?, ?, ?, ?)", (country_code, subcountry_code, name, asciiname, geonameid))
         conn.commit()
         conn.close()
@@ -97,9 +102,9 @@ sqlite://world-cities.sqlite/country <- file://countryInfo.txt ! python
           Population, Continent, tld, CurrencyCode, CurrencyName, \
           Phone, PostalCodeFormat, PostalCodeRegex, Languages, \
           geonameid, neighbours, EquivalentFipsCode in reader:
-            country_code = str.decode(ISO, 'utf8')
-            name = str.decode(Country, 'utf8')
-            geonameid = str.decode (geonameid, 'utf8')
+            country_code = ISO.decode('utf8')
+            name = Country.decode('utf8')
+            geonameid = geonameid.decode('utf8')
             c.execute("INSERT INTO country VALUES (?, ?, ?)", (country_code, name, geonameid))
         conn.commit()
         conn.close()
@@ -121,17 +126,13 @@ file://world-cities.test.csv <- sqlite://world-cities.sqlite/country, sqlite://w
                     city.name, 
                     city.asciiname, 
                     country.name, 
-                    admin1.name, 
+                    IFNULL(admin1.name, "N/A"),
                     city.geonameid
                  FROM city 
                     LEFT OUTER JOIN country ON city.country_code = country.country_code
                     LEFT OUTER JOIN admin1 ON city.subcountry_code = admin1.subcountry_code AND city.country_code = admin1.country_code
                  '''
-        for row in c.execute(sql):
-            name, asciiname, country, subcountry, geonameid = row
-            name = '' #str.decode(name)
-            asciiname = str(asciiname)
-            country = str(country)
-            subcountry = '' #str(u"{}".format(subcountry))
-            geonameid = str(geonameid)
-            writer.writerow((name, asciiname, country, subcountry, geonameid))
+        for name, asciiname, country, subcountry, geonameid in c.execute(sql):
+            row = (name.encode('utf8'), asciiname.encode('utf8'), country.encode('utf8'),
+                   subcountry.encode('utf8'), geonameid.encode('utf8'))
+            writer.writerow(row)
