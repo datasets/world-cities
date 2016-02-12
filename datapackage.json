@@ -1,0 +1,40 @@
+{
+  "name": "world-cities",
+  "title": "Major cities of the world",
+  "license": "PDDL-1.0",
+  "resources": [
+    {
+      "name": "world-cities",
+      "path": "world-cities.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "name",
+            "description": "Name of the city",
+            "type": "string",
+            "comment": "Usually the transcription of the name in latin alphabet. Can contain some utf-8 characters"
+          },
+          {
+            "name": "asciiname",
+            "description": "Name of the city in ASCII characters",
+            "type": "string",
+            "comment": "Only ASCII characters in order to display in not utf-8 friendly environment"
+          },
+          {
+            "name": "country",
+            "description": "English name of the country",
+            "type": "string"
+          },
+          {
+            "name": "subcountry",
+            "description": "Name of the administrative area",
+            "type": "string",
+            "comment": "subcountry can be a state, a district, etc. Can contain some utf-8 characters"            
+          }          
+        ]
+      }
+    }
+  ]
+}
