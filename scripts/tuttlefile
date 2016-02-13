@@ -89,13 +89,18 @@ sqlite://world-cities.sqlite/country <- file://countryInfo.txt ! python
         conn.close()
 
         
-file://world-cities.csv <- sqlite://world-cities.sqlite/country, sqlite://world-cities.sqlite/admin1, sqlite://world-cities.sqlite/city ! python
+file://../data/world-cities.csv <- sqlite://world-cities.sqlite/country, sqlite://world-cities.sqlite/admin1, sqlite://world-cities.sqlite/city ! python
     import sqlite3
     import csv
-    OUTFILE = 'world-cities.csv'
+    from os.path import exists, join
+    from os import mkdir
+    DATADIR = join('..', 'data')
+    OUTFILE = join(DATADIR, 'world-cities.csv')
     HEADERS = ['name', 'asciiname', 'country', 'subcountry', 'geonameid']
     DBFILE = 'world-cities.sqlite'
     
+    if not exists(DATADIR):
+        mkdir(DATADIR)
     with open(OUTFILE, 'wb') as outcsv:
         writer = csv.writer(outcsv, lineterminator="\n")
         writer.writerow(HEADERS)
