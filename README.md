@@ -16,7 +16,7 @@ the source data primary key ``geonameid`` is provided.
 
 [geonames]: http://www.geonames.org/
 [datapackage]: http://dataprotocols.org/data-packages/
-[ambiguities]: http://sisyphus.lexman.org/workspaces/world-cities/scripts/ambiguities.csv
+[ambiguities]: http://sisyphus.lexman.org/workflows/world-cities/scripts/ambiguities.csv
 
 
 ## Preparation
