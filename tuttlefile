@@ -115,3 +115,36 @@ file://world-cities.csv <- sqlite://world-cities.sqlite/country, sqlite://world-
             row = (name.encode('utf8'), asciiname.encode('utf8'), country.encode('utf8'),
                    subcountry.encode('utf8'), geonameid.encode('utf8'))
             writer.writerow(row)
+
+file://ambiguities.csv <- sqlite://world-cities.sqlite/country, sqlite://world-cities.sqlite/admin1, sqlite://world-cities.sqlite/city ! python
+    import sqlite3
+    import csv
+    OUTFILE = 'ambiguities.csv'
+    HEADERS = ['name', 'asciiname', 'country', 'subcountry', 'nb']
+    DBFILE = 'world-cities.sqlite'
+    
+    with open(OUTFILE, 'wb') as outcsv:
+        writer = csv.writer(outcsv, lineterminator="\n")
+        writer.writerow(HEADERS)
+        conn = sqlite3.connect(DBFILE)
+        c = conn.cursor()
+        sql = '''SELECT 
+                    city.name, 
+                    city.asciiname, 
+                    country.name, 
+                    IFNULL(admin1.name, "N/A"),
+                    COUNT(*) as nb
+                 FROM city 
+                    LEFT OUTER JOIN country ON city.country_code = country.country_code
+                    LEFT OUTER JOIN admin1 ON city.subcountry_code = admin1.subcountry_code AND city.country_code = admin1.country_code
+                 GROUP BY 
+                    city.name, 
+                    city.asciiname, 
+                    country.name, 
+                    IFNULL(admin1.name, "N/A")
+                 HAVING COUNT(*) > 1
+                 '''
+        for name, asciiname, country, subcountry, nb in c.execute(sql):
+            row = (name.encode('utf8'), asciiname.encode('utf8'), country.encode('utf8'),
+                   subcountry.encode('utf8'), nb)
+            writer.writerow(row)
