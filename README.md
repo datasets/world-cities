@@ -2,21 +2,22 @@ List of major cities in the world
 
 ## Data
 
-The data is extracted from geonames [geonames], a very exhaustive list of worldwide toponymes.
+The data is extracted from [geonames][geonames], a very exhaustive list of worldwide toponyms.
 
-This datapackage [datapackage] only list cities above 15,000 inhabitants. Each city is associated with the 
-country and the subcountry to reduce the number of ambiguities. Subcountry can be the name of a state (eg in 
-the United States of America or United Kingdom) or the major administrative section (eg ''region'' in France''). 
+This [datapackage][datapackage] only list cities above 15,000 inhabitants. Each city is associated with its 
+country and subcountry to reduce the number of ambiguities. Subcountry can be the name of a state (eg in 
+United Kingdom or the United States of America) or the major administrative section (eg ''region'' in France''). 
 More info about subcountry is available on the [geonames website][geonames] on ''admin1'' field.
 
 Notice that :
-* some cities like ''Vatican city'' or ''Singapore'' are a state themselves so they don't belong to any subcountry. Therefore subcountry is ''N/A''.
-* There is no guaranty that a city has a uniq name in a country and a subcountry. See [ambiguities] for a list of duplicate. For each city, 
-the source data primary key ''geonameid'' is provided.
+* some cities like **Vatican city** or **Singapore** are a state themselves so they don't belong to any subcountry. Therefore subcountry is ``N/A``.
+* There is no guaranty that a city has a uniq name in a country and a subcountry. See [ambiguities][ambiguities] for a list of duplicates. For each city, 
+the source data primary key ``geonameid`` is provided.
 
-[geonames]: http://www.geonames.com/
-[datapackage] : http://www.okfn.org/datapackage
+[geonames]: http://www.geonames.org/
+[datapackage] : http://dataprotocols.org/data-packages/
 [ambiguities] : http://sisyphus.lexman.org/workspaces/world-cities/scripts/ambiguities.csv
+
 
 ## Preparation
 
@@ -24,17 +25,17 @@ You can run the script yourself to update the data and publish them to github : 
 
 ## License
 
-All source code is licenced under the [MIT licence][mit].
+All data is licensed under the [Open Data Commons Public Domain Dedication and
+License][pddl]. 
 
-The original data licence is Creative Common ???, and I, the maintainer,
-explicitly license this file under the [Open Data Commons Public Domain Dedication and
-License][pddl].
-
-Note that while no credit is formally required a link back or credit to [geonames][geonames], [Lexman][lexman] and 
+Note that the original data from [geonames][geonames] is licenced under Creative Common Attribution. This means you have to  
+credit [geonames][geonames] when using the data. And while no credit is formally required a link back or credit to [Lexman][lexman] and 
 the [Open Knowledge Foundation][okfn] is much appreciated.
 
-[mit]: http://???/
-[geonames]: http://www.geonames.com/
+All source code is licenced under the [MIT licence][mit].
+
+[mit]: https://opensource.org/licenses/MIT
+[geonames]: http://www.geonames.org/
 [pddl]: http://opendatacommons.org/licenses/pddl/1.0/
 [lexman]: http://github.com/lexman
 [okfn]: http://okfn.org/
