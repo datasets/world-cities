@@ -11,7 +11,7 @@ See ``admin1`` field on [geonames website][geonames] for further info about subc
 
 Notice that :
 * some cities like *Vatican city* or *Singapore* are a whole state so they don't belong to any subcountry. Therefore subcountry is ``N/A``.
-* There is no guaranty that a city has a unique name in a country and subcountry ([list of duplicates][ambiguities]). For each city, 
+* There is no guaranty that a city has a unique name in a country and subcountry (see [list of duplicates][ambiguities]). But for each city, 
 the source data primary key ``geonameid`` is provided.
 
 [geonames]: http://www.geonames.org/
