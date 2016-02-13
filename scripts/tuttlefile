@@ -1,4 +1,4 @@
-#file://cities15000.zip <- http://download.geonames.org/export/dump/cities15000.zip ! download
+file://cities15000.zip <- http://download.geonames.org/export/dump/cities15000.zip ! download
 
     
 file://cities15000.txt <- file://cities15000.zip
@@ -31,7 +31,7 @@ sqlite://world-cities.sqlite/city <- file://cities15000.txt ! python
         conn.close()
 
             
-#file://admin1CodesASCII.txt <- http://download.geonames.org/export/dump/admin1CodesASCII.txt ! download
+file://admin1CodesASCII.txt <- http://download.geonames.org/export/dump/admin1CodesASCII.txt ! download
 
 
 sqlite://world-cities.sqlite/admin1 <- file://admin1CodesASCII.txt ! python
@@ -57,7 +57,7 @@ sqlite://world-cities.sqlite/admin1 <- file://admin1CodesASCII.txt ! python
         conn.close()
 
         
-#file://countryInfo.txt <- http://download.geonames.org/export/dump/countryInfo.txt ! download
+file://countryInfo.txt <- http://download.geonames.org/export/dump/countryInfo.txt ! download
 
 
 sqlite://world-cities.sqlite/country <- file://countryInfo.txt ! python
