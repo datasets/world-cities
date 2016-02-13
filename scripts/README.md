@@ -1,5 +1,6 @@
 These scripts retrieve data from geoname's website and computes a the ``data/world-cities.csv`` file.
 
+
 ## Install the dependencies
 The preparation process work under Linux and Windows (under a git bash session).
 
