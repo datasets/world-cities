@@ -16,17 +16,16 @@ sqlite://world-cities.sqlite/city <- file://cities15000.txt ! python
         conn = sqlite3.connect(DBFILE)
         c = conn.cursor()
         c.execute('''CREATE TABLE city
-                 (name, asciiname, country_code, subcountry_code, geonameid)''')
+                 (name, country_code, subcountry_code, geonameid)''')
         for geonameid, name, asciiname, alternatenames, latitude, longitude, \
           featureclass, featurecode, countrycode, cc2, admin1code, admin2code, \
           admin3code, admin4code, population, elevation, dem, timezone, \
           modificationdate in reader:
             name = name.decode('utf8')
-            asciiname = asciiname.decode('utf8')
             country_code = countrycode.decode('utf8')
             subcountry_code = admin1code.decode('utf8')
             geonameid = geonameid.decode('utf8')
-            c.execute("INSERT INTO city VALUES (?, ?, ?, ?, ?)", (name, asciiname, country_code, subcountry_code, geonameid))
+            c.execute("INSERT INTO city VALUES (?, ?, ?, ?)", (name, country_code, subcountry_code, geonameid))
         conn.commit()
         conn.close()
 
@@ -45,14 +44,13 @@ sqlite://world-cities.sqlite/admin1 <- file://admin1CodesASCII.txt ! python
         conn = sqlite3.connect(DBFILE)
         c = conn.cursor()
         c.execute('''CREATE TABLE admin1
-                 (country_code, subcountry_code, name, asciiname, geonameid)''')
+                 (country_code, subcountry_code, name, geonameid)''')
         for code, name, asciiname, geonameid in reader:
             code = code.decode('utf8')
             country_code, subcountry_code = code.split(u'.', 2)
             name = name.decode('utf8')
-            asciiname = asciiname.decode('utf8')
             geonameid = geonameid.decode('utf8')
-            c.execute("INSERT INTO admin1 VALUES (?, ?, ?, ?, ?)", (country_code, subcountry_code, name, asciiname, geonameid))
+            c.execute("INSERT INTO admin1 VALUES (?, ?, ?, ?)", (country_code, subcountry_code, name, geonameid))
         conn.commit()
         conn.close()
 
@@ -96,7 +94,7 @@ file://../data/world-cities.csv <- sqlite://world-cities.sqlite/country, sqlite:
     from os import mkdir
     DATADIR = join('..', 'data')
     OUTFILE = join(DATADIR, 'world-cities.csv')
-    HEADERS = ['name', 'asciiname', 'country', 'subcountry', 'geonameid']
+    HEADERS = ['name', 'country', 'subcountry', 'geonameid']
     DBFILE = 'world-cities.sqlite'
     
     if not exists(DATADIR):
@@ -108,7 +106,6 @@ file://../data/world-cities.csv <- sqlite://world-cities.sqlite/country, sqlite:
         c = conn.cursor()
         sql = '''SELECT 
                     city.name, 
-                    city.asciiname, 
                     country.name, 
                     IFNULL(admin1.name, "N/A"),
                     city.geonameid
@@ -116,8 +113,8 @@ file://../data/world-cities.csv <- sqlite://world-cities.sqlite/country, sqlite:
                     LEFT OUTER JOIN country ON city.country_code = country.country_code
                     LEFT OUTER JOIN admin1 ON city.subcountry_code = admin1.subcountry_code AND city.country_code = admin1.country_code
                  '''
-        for name, asciiname, country, subcountry, geonameid in c.execute(sql):
-            row = (name.encode('utf8'), asciiname.encode('utf8'), country.encode('utf8'),
+        for name, country, subcountry, geonameid in c.execute(sql):
+            row = (name.encode('utf8'), country.encode('utf8'),
                    subcountry.encode('utf8'), geonameid.encode('utf8'))
             writer.writerow(row)
 
@@ -125,7 +122,7 @@ file://ambiguities.csv <- sqlite://world-cities.sqlite/country, sqlite://world-c
     import sqlite3
     import csv
     OUTFILE = 'ambiguities.csv'
-    HEADERS = ['name', 'asciiname', 'country', 'subcountry', 'nb']
+    HEADERS = ['name', 'country', 'subcountry', 'nb']
     DBFILE = 'world-cities.sqlite'
     
     with open(OUTFILE, 'wb') as outcsv:
@@ -135,7 +132,6 @@ file://ambiguities.csv <- sqlite://world-cities.sqlite/country, sqlite://world-c
         c = conn.cursor()
         sql = '''SELECT 
                     city.name, 
-                    city.asciiname, 
                     country.name, 
                     IFNULL(admin1.name, "N/A"),
                     COUNT(*) as nb
@@ -144,12 +140,10 @@ file://ambiguities.csv <- sqlite://world-cities.sqlite/country, sqlite://world-c
                     LEFT OUTER JOIN admin1 ON city.subcountry_code = admin1.subcountry_code AND city.country_code = admin1.country_code
                  GROUP BY 
                     city.name, 
-                    city.asciiname, 
                     country.name, 
                     IFNULL(admin1.name, "N/A")
                  HAVING COUNT(*) > 1
                  '''
-        for name, asciiname, country, subcountry, nb in c.execute(sql):
-            row = (name.encode('utf8'), asciiname.encode('utf8'), country.encode('utf8'),
-                   subcountry.encode('utf8'), nb)
+        for name, country, subcountry, nb in c.execute(sql):
+            row = (name.encode('utf8'), country.encode('utf8'), subcountry.encode('utf8'), nb)
             writer.writerow(row)
