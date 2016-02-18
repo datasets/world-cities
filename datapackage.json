@@ -26,7 +26,13 @@
             "description": "Name of the administrative area",
             "type": "string",
             "comment": "subcountry can be a state, a district, etc. Can contain some utf-8 characters"            
-          }          
+          },
+          {
+            "name": "geonamesid",
+            "description": "id from geonames",
+            "type": "int",
+            "comment": "This id can be used as a primary key"
+          }
         ]
       }
     }
