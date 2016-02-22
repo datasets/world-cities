@@ -119,6 +119,7 @@ file://../data/world-cities.csv <- sqlite://world-cities.sqlite/country, sqlite:
             writer.writerow(row)
 
 file://ambiguities.csv <- sqlite://world-cities.sqlite/country, sqlite://world-cities.sqlite/admin1, sqlite://world-cities.sqlite/city ! python
+    # Export the list of ambiguous cities, as a tip for the end user
     import sqlite3
     import csv
     OUTFILE = 'ambiguities.csv'
@@ -147,3 +148,19 @@ file://ambiguities.csv <- sqlite://world-cities.sqlite/country, sqlite://world-c
         for name, country, subcountry, nb in c.execute(sql):
             row = (name.encode('utf8'), country.encode('utf8'), subcountry.encode('utf8'), nb)
             writer.writerow(row)
+
+
+file://validate.json  <- file://../data/world-cities.csv, file://../datapackage.json ! python
+    # Query the OKI online validation service
+    from urllib import urlencode
+    from urllib2 import urlopen
+    SERVICE = 'http://data.okfn.org/tools/validate.json'
+    PACKAGE_URL = 'http://sisyphus.lexman.org/workflows/world-cities/datapackage.json'
+    url = "{}?{}".format(SERVICE, urlencode({'url' : PACKAGE_URL}))
+    response = urlopen(url)
+    json = response.read()
+    with open('validate.json', 'w') as fout:
+        fout.write(json)
+    if json.find('"valid":true') < 0:
+        raise Exception("Datapackage {} is not valid !".format(PACKAGE_URL))
+        
