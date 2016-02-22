@@ -6647,7 +6647,7 @@ Vincennes,France,Île-de-France,2968054
 Villiers-sur-Marne,France,Île-de-France,2968142
 Villiers-le-Bel,France,Île-de-France,2968176
 Villeurbanne,France,Auvergne-Rhône-Alpes,2968254
-Villers-lès-Nancy,France,Lorraine,2968368
+Villers-lès-Nancy,France,Alsace-Champagne-Ardenne-Lorraine,2968368
 Villepinte,France,Île-de-France,2968482
 Villeparisis,France,Île-de-France,2968496
 Villeneuve-sur-Lot,France,Aquitaine-Limousin-Poitou-Charentes,2968515
@@ -6669,7 +6669,7 @@ Versailles,France,Île-de-France,2969679
 Verrières-le-Buisson,France,Île-de-France,2969692
 Vernon,France,Normandy,2969766
 Verneuil-sur-Seine,France,Île-de-France,2969796
-Verdun,France,Lorraine,2969958
+Verdun,France,Alsace-Champagne-Ardenne-Lorraine,2969958
 Vénissieux,France,Auvergne-Rhône-Alpes,2970072
 Vendôme,France,Centre,2970110
 Vence,France,Provence-Alpes-Côte d'Azur,2970148
@@ -6678,7 +6678,7 @@ Vauréal,France,Île-de-France,2970432
 Vaulx-en-Velin,France,Auvergne-Rhône-Alpes,2970456
 Vanves,France,Île-de-France,2970761
 Vannes,France,Brittany,2970777
-Vandœuvre-lès-Nancy,France,Lorraine,2970797
+Vandœuvre-lès-Nancy,France,Alsace-Champagne-Ardenne-Lorraine,2970797
 Vallauris,France,Provence-Alpes-Côte d'Azur,2970962
 Valenciennes,France,Nord-Pas-de-Calais-Picardie,2971041
 Valence,France,Auvergne-Rhône-Alpes,2971053
@@ -6692,10 +6692,10 @@ Tourlaville,France,Normandy,2972270
 Tourcoing,France,Nord-Pas-de-Calais-Picardie,2972284
 Toulouse,France,Languedoc-Roussillon-Midi-Pyrénées,2972315
 Toulon,France,Provence-Alpes-Côte d'Azur,2972328
-Toul,France,Lorraine,2972350
+Toul,France,Alsace-Champagne-Ardenne-Lorraine,2972350
 Torcy,France,Île-de-France,2972444
 Thonon-les-Bains,France,Auvergne-Rhône-Alpes,2972742
-Thionville,France,Lorraine,2972811
+Thionville,France,Alsace-Champagne-Ardenne-Lorraine,2972811
 Thiais,France,Île-de-France,2972893
 Tergnier,France,Nord-Pas-de-Calais-Picardie,2973146
 Taverny,France,Île-de-France,2973258
@@ -6726,7 +6726,7 @@ Savigny-sur-Orge,France,Île-de-France,2975525
 Savigny-le-Temple,France,Île-de-France,2975536
 Saumur,France,Pays de la Loire,2975758
 Sartrouville,France,Île-de-France,2975921
-Sarreguemines,France,Lorraine,2975964
+Sarreguemines,France,Alsace-Champagne-Ardenne-Lorraine,2975964
 Sarcelles,France,Île-de-France,2976043
 Saran,France,Centre,2976050
 Sannois,France,Île-de-France,2976179
@@ -6769,14 +6769,14 @@ Sainte-Geneviève-des-Bois,France,Île-de-France,2980558
 Sainte-Foy-lès-Lyon,France,Auvergne-Rhône-Alpes,2980586
 Saint-Égrève,France,Auvergne-Rhône-Alpes,2980636
 Saint-Dizier,France,Alsace-Champagne-Ardenne-Lorraine,2980816
-Saint-Dié-des-Vosges,France,Lorraine,2980827
+Saint-Dié-des-Vosges,France,Alsace-Champagne-Ardenne-Lorraine,2980827
 Saint-Denis,France,Île-de-France,2980916
 Saint-Cyr-sur-Loire,France,Centre,2980935
 Saint-Cyr-l’École,France,Île-de-France,2980942
 Saint-Cloud,France,Île-de-France,2981041
 Saint-Chamond,France,Auvergne-Rhône-Alpes,2981206
 Saint-Brieuc,France,Brittany,2981280
-Saint-Avold,France,Lorraine,2981492
+Saint-Avold,France,Alsace-Champagne-Ardenne-Lorraine,2981492
 Saint-Avertin,France,Centre,2981512
 Saint-Amand-les-Eaux,France,Nord-Pas-de-Calais-Picardie,2981839
 Rueil-Malmaison,France,Île-de-France,2982235
@@ -6805,7 +6805,7 @@ Port-de-Bouc,France,Provence-Alpes-Côte d'Azur,2986025
 Pontoise,France,Île-de-France,2986140
 Pontivy,France,Brittany,2986160
 Pontarlier,France,Bourgogne-Franche-Comté,2986302
-Pont-à-Mousson,France,Lorraine,2986306
+Pont-à-Mousson,France,Alsace-Champagne-Ardenne-Lorraine,2986306
 Poitiers,France,Aquitaine-Limousin-Poitou-Charentes,2986495
 Poissy,France,Île-de-France,2986501
 Ploemeur,France,Brittany,2986732
@@ -6849,7 +6849,7 @@ Neuilly-Plaisance,France,Île-de-France,2990616
 Narbonne,France,Languedoc-Roussillon-Midi-Pyrénées,2990919
 Nantes,France,Pays de la Loire,2990969
 Nanterre,France,Île-de-France,2990970
-Nancy,France,Lorraine,2990999
+Nancy,France,Alsace-Champagne-Ardenne-Lorraine,2990999
 Muret,France,Languedoc-Roussillon-Midi-Pyrénées,2991153
 Mulhouse,France,Alsace-Champagne-Ardenne-Lorraine,2991214
 Moulins,France,Auvergne-Rhône-Alpes,2991481
@@ -6863,7 +6863,7 @@ Montpellier,France,Languedoc-Roussillon-Midi-Pyrénées,2992166
 Montmorency,France,Île-de-France,2992229
 Montluçon,France,Auvergne-Rhône-Alpes,2992292
 Montivilliers,France,Normandy,2992367
-Montigny-lès-Metz,France,Lorraine,2992402
+Montigny-lès-Metz,France,Alsace-Champagne-Ardenne-Lorraine,2992402
 Montigny-lès-Cormeilles,France,Île-de-France,2992404
 Montigny-le-Bretonneux,France,Île-de-France,2992415
 Montgeron,France,Île-de-France,2992536
@@ -6885,7 +6885,7 @@ Millau,France,Languedoc-Roussillon-Midi-Pyrénées,2993875
 Meyzieu,France,Auvergne-Rhône-Alpes,2994048
 Meylan,France,Auvergne-Rhône-Alpes,2994087
 Meudon,France,Île-de-France,2994144
-Metz,France,Lorraine,2994160
+Metz,France,Alsace-Champagne-Ardenne-Lorraine,2994160
 Mérignac,France,Aquitaine-Limousin-Poitou-Charentes,2994393
 Menton,France,Provence-Alpes-Côte d'Azur,2994497
 Melun,France,Île-de-France,2994651
@@ -6910,7 +6910,7 @@ Maisons-Laffitte,France,Île-de-France,2996564
 Maisons-Alfort,France,Île-de-France,2996568
 Mâcon,France,Bourgogne-Franche-Comté,2996882
 Lyon,France,Auvergne-Rhône-Alpes,2996944
-Lunéville,France,Lorraine,2997110
+Lunéville,France,Alsace-Champagne-Ardenne-Lorraine,2997110
 Lunel,France,Languedoc-Roussillon-Midi-Pyrénées,2997116
 Lucé,France,Centre,2997246
 Louviers,France,Normandy,2997336
@@ -6961,7 +6961,7 @@ Le Chesnay,France,Île-de-France,3004630
 Le Cannet,France,Provence-Alpes-Côte d'Azur,3004871
 Le Bouscat,France,Aquitaine-Limousin-Poitou-Charentes,3005066
 Le Blanc-Mesnil,France,Île-de-France,3005269
-Laxou,France,Lorraine,3005417
+Laxou,France,Alsace-Champagne-Ardenne-Lorraine,3005417
 La Valette-du-Var,France,Provence-Alpes-Côte d'Azur,3005825
 Laval,France,Pays de la Loire,3005866
 Lattes,France,Languedoc-Roussillon-Midi-Pyrénées,3006121
@@ -7000,9 +7000,9 @@ Herblay,France,Île-de-France,3013477
 Hénin-Beaumont,France,Nord-Pas-de-Calais-Picardie,3013525
 Hem,France,Nord-Pas-de-Calais-Picardie,3013549
 Hazebrouck,France,Nord-Pas-de-Calais-Picardie,3013619
-Hayange,France,Lorraine,3013627
+Hayange,France,Alsace-Champagne-Ardenne-Lorraine,3013627
 Hautmont,France,Nord-Pas-de-Calais-Picardie,3013681
-Yutz,France,Lorraine,3013701
+Yutz,France,Alsace-Champagne-Ardenne-Lorraine,3013701
 Haubourdin,France,Nord-Pas-de-Calais-Picardie,3013862
 Halluin,France,Nord-Pas-de-Calais-Picardie,3014034
 Haguenau,France,Alsace-Champagne-Ardenne-Lorraine,3014078
@@ -7033,7 +7033,7 @@ Fréjus,France,Provence-Alpes-Côte d'Azur,3017253
 Franconville,France,Île-de-France,3017341
 Fougères,France,Brittany,3017609
 Fos-sur-Mer,France,Provence-Alpes-Côte d'Azur,3017651
-Forbach,France,Lorraine,3017805
+Forbach,France,Alsace-Champagne-Ardenne-Lorraine,3017805
 Fontenay-sous-Bois,France,Île-de-France,3017910
 Fontenay-le-Comte,France,Pays de la Loire,3017921
 Fontenay-aux-Roses,France,Île-de-France,3017924
@@ -7054,7 +7054,7 @@ Ermont,France,Île-de-France,3019897
 Éragny,France,Île-de-France,3019952
 Équeurdreville-Hainneville,France,Normandy,3019960
 Épinay-sur-Seine,France,Île-de-France,3020020
-Épinal,France,Lorraine,3020035
+Épinal,France,Alsace-Champagne-Ardenne-Lorraine,3020035
 Épernay,France,Alsace-Champagne-Ardenne-Lorraine,3020062
 Elbeuf,France,Normandy,3020307
 Élancourt,France,Île-de-France,3020310
@@ -7196,7 +7196,7 @@ Beaune,France,Bourgogne-Franche-Comté,3034126
 Bayonne,France,Aquitaine-Limousin-Poitou-Charentes,3034475
 Bayeux,France,Normandy,3034483
 Bastia,France,Corsica,3034640
-Bar-le-Duc,France,Lorraine,3034911
+Bar-le-Duc,France,Alsace-Champagne-Ardenne-Lorraine,3034911
 Balma,France,Languedoc-Roussillon-Midi-Pyrénées,3035204
 Bagnols-sur-Cèze,France,Languedoc-Roussillon-Midi-Pyrénées,3035396
 Bagnolet,France,Île-de-France,3035403
