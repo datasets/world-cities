@@ -99,7 +99,7 @@ file://../data/world-cities.csv <- sqlite://world-cities.sqlite/country, sqlite:
     
     if not exists(DATADIR):
         mkdir(DATADIR)
-    with open(OUTFILE, 'wb') as outcsv:
+    with open(OUTFILE, 'w') as outcsv:
         writer = csv.writer(outcsv, lineterminator="\n")
         writer.writerow(HEADERS)
         conn = sqlite3.connect(DBFILE)
