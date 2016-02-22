@@ -21,7 +21,7 @@
   "resources": [
     {
       "name": "world-cities",
-      "path": "world-cities.csv",
+      "path": "data/world-cities.csv",
       "format": "csv",
       "mediatype": "text/csv",
       "schema": {
@@ -51,5 +51,5 @@
       "primaryKey": "geonamesid"
     }
   ],
-  "homepage": "git://github.com/lexman/world-cities"
+  "homepage": "http://github.com/lexman/world-cities"
 }
