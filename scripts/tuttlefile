@@ -86,7 +86,62 @@ sqlite://world-cities.sqlite/country <- file://countryInfo.txt ! python
         conn.commit()
         conn.close()
 
+
+file://countryLang <- file://countryInfo.txt ! python
+    import sqlite3
+    import csv
+    INFILE = 'countryInfo.txt'
+    
+    def skip_comment(instream):
+        for line in instream:
+            if line[0] != "#":
+                yield line
         
+    with open(INFILE) as incsv:
+        reader = csv.reader(skip_comment(incsv), delimiter="\t")
+        for ISO, ISO3, ISONumeric, fips, Country, Capital, Area, \
+          Population, Continent, tld, CurrencyCode, CurrencyName, \
+          Phone, PostalCodeFormat, PostalCodeRegex, Languages, \
+          geonameid, neighbours, EquivalentFipsCode in reader:
+            country_code = ISO.decode('utf8')
+            name = Country.decode('utf8')
+            geonameid = geonameid.decode('utf8')
+            Languages = Languages.decode('utf8')
+            print Languages
+            langs = Languages.split(',')
+            print "nb langs : {} - {} - {}".format(len(langs), name, Languages)
+        
+        
+file://alternateNames.zip <- http://download.geonames.org/export/dump/alternateNames.zip   ! download
+
+
+file://alternateNames.txt, file://iso-languagecodes.txt <- file://alternateNames.zip
+    unzip alternateNames.zip
+
+
+sqlite://world-cities.sqlite/alternate_name <- file://alternateNames.txt ! python
+    import sqlite3
+    import csv
+    INFILE = 'alternateNames.txt'
+    DBFILE = 'world-cities.sqlite'
+        
+    with open(INFILE) as incsv:
+        reader = csv.reader(incsv, delimiter="\t")
+        conn = sqlite3.connect(DBFILE)
+        c = conn.cursor()
+        c.execute('''CREATE TABLE alternate_name
+                     (alternate_name, isolanguage, isPreferredName, geonameid)''')
+        for alternateNameId, geonameid, isolanguage, alternate_name, isPreferredName, isShortName, isColloquial, \
+          isHistoric in reader:
+            alternate_name = alternate_name.decode('utf8')
+            isolanguage = isolanguage.decode('utf8')
+            isPreferredName = isPreferredName.decode('utf8')
+            geonameid = geonameid.decode('utf8')
+            c.execute("INSERT INTO alternate_name VALUES (?, ?, ?, ?)", (alternate_name, isolanguage, isPreferredName, geonameid))
+        conn.commit()
+        conn.close()
+
+    
 file://../data/world-cities.csv <- sqlite://world-cities.sqlite/country, sqlite://world-cities.sqlite/admin1, sqlite://world-cities.sqlite/city ! python
     import sqlite3
     import csv
