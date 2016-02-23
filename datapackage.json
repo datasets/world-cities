@@ -4,7 +4,7 @@
   "description": "List of the world's major cities (above 15,000 inhabitants)",
   "repository": {
     "type": "git",
-    "url": "git://github.com/lexman/world-cities.git"
+    "url": "git://github.com/datasets/world-cities.git"
   },
   "sources": [{
     "name": "Geonames",
@@ -51,5 +51,5 @@
       "primaryKey": "geonamesid"
     }
   ],
-  "homepage": "http://github.com/lexman/world-cities"
+  "homepage": "http://github.com/datasets/world-cities"
 }
