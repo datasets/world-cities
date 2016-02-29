@@ -24,9 +24,7 @@ You can run the script yourself to update the data and publish them to github : 
 
 ## License
 
-All data is licensed under the [Creative Common Attribution License][CC] with attribution to [geonames][geonames] the original source of the data. This means you have to  
-credit [geonames][geonames] when using the data. And, while no credit is formally required, a link back or credit to [Lexman][lexman] and 
-the [Open Knowledge Foundation][okfn] is much appreciated.
+All data is licensed under the [Creative Common Attribution License][CC] as is the original data from [geonames][geonames]. This means you have to credit [geonames][geonames] when using the data. And while no credit is formally required a link back or credit to [Lexman][lexman] and the [Open Knowledge Foundation][okfn] is much appreciated.
 
 All source code is licensed under the [MIT licence][mit].
 
