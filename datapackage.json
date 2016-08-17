@@ -14,7 +14,7 @@
     "geodata",
     "city"
   ],
-  "licenses": {
+  "license": {
     "type": "ODC-PDDL",
     "url": "http://opendatacommons.org/licenses/pddl/1.0/"
   },
