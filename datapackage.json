@@ -42,7 +42,7 @@
             "type": "string"
           },
           {
-            "name": "geonamesid",
+            "name": "geonameid",
             "description": "id from geonames",
             "type": "integer"
           }
