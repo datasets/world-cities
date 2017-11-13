@@ -8,16 +8,20 @@
   },
   "sources": [{
     "name": "Geonames",
-    "web": "http://www.geonames.org/"
+    "path": "http://www.geonames.org/",
+    "title": "Geonames"
   }],
   "keywords": [
     "geodata",
     "city"
   ],
-  "license": {
-    "type": "ODC-PDDL",
-    "url": "http://opendatacommons.org/licenses/pddl/1.0/"
-  },
+  "licenses": [
+    {
+      "title": "Public Domain Dedication and License",
+      "type": "ODC-PDDL",
+      "url": "http://opendatacommons.org/licenses/pddl/1.0/"
+    }
+  ],
   "resources": [
     {
       "name": "world-cities",
