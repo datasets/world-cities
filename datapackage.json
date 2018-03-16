@@ -6,20 +6,22 @@
     "type": "git",
     "url": "git://github.com/datasets/world-cities.git"
   },
-  "sources": [{
-    "name": "Geonames",
-    "path": "http://www.geonames.org/",
-    "title": "Geonames"
-  }],
+  "sources": [
+    {
+      "name": "Geonames",
+      "path": "http://www.geonames.org/",
+      "title": "Geonames"
+    }
+  ],
   "keywords": [
     "geodata",
     "city"
   ],
-  "licenses": [
+  "licensces": [
     {
-      "title": "Public Domain Dedication and License",
-      "type": "ODC-PDDL",
-      "url": "http://opendatacommons.org/licenses/pddl/1.0/"
+      "name": "ODC-PDDL-1.0",
+      "path": "http://opendatacommons.org/licenses/pddl/",
+      "title": "Open Data Commons Public Domain Dedication and License v1.0"
     }
   ],
   "resources": [
