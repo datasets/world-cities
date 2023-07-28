@@ -1,4 +1,1 @@
 requests==2.25.1
-dataflows.egg==info
-datapackage==1.15.2
-dataflows==0.4.0

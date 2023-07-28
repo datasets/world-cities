@@ -1,57 +1,87 @@
 {
-  "bytes": 1019186,
-  "count_of_rows": 26467,
-  "description": "List of the world's major cities (above 15,000 inhabitants)",
-  "hash": "7f81628f6376155f855573e85de2745c",
-  "homepage": "http://github.com/datasets/world-cities",
   "name": "world-cities",
-  "profile": "data-package",
+  "title": "Major cities of the world",
+  "description": "List of the world's major cities (above 15,000 inhabitants)",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/datasets/world-cities.git"
+  },
+  "sources": [
+    {
+      "name": "Geonames",
+      "path": "http://www.geonames.org/",
+      "title": "Geonames"
+    }
+  ],
+  "keywords": [
+    "geodata",
+    "city"
+  ],
+  "licensces": [
+    {
+      "name": "ODC-PDDL-1.0",
+      "path": "http://opendatacommons.org/licenses/pddl/",
+      "title": "Open Data Commons Public Domain Dedication and License v1.0"
+    }
+  ],
   "resources": [
     {
-      "bytes": 1019186,
-      "dialect": {
-        "caseSensitiveHeader": false,
-        "delimiter": ",",
-        "doubleQuote": true,
-        "header": true,
-        "lineTerminator": "\r\n",
-        "quoteChar": "\"",
-        "skipInitialSpace": false
-      },
-      "encoding": "utf-8",
-      "format": "csv",
-      "hash": "a4d173256fc3b97cc04338edeb2dd13e",
       "name": "world-cities",
       "path": "data/world-cities.csv",
-      "profile": "tabular-data-resource",
+      "format": "csv",
+      "mediatype": "text/csv",
       "schema": {
         "fields": [
           {
-            "format": "default",
             "name": "name",
+            "description": "English name of the city",
             "type": "string"
           },
           {
-            "format": "default",
             "name": "country",
+            "description": "Common name of the country, in english",
             "type": "string"
           },
           {
-            "format": "default",
             "name": "subcountry",
+            "description": "Name of the major administrative area",
             "type": "string"
           },
           {
-            "format": "default",
             "name": "geonameid",
+            "description": "id from geonames",
             "type": "integer"
           }
-        ],
-        "missingValues": [
-          ""
         ]
-      }
+      },
+      "primaryKey": "geonamesid"
     }
   ],
-  "title": "Major cities of the world"
+  "homepage": "http://github.com/datasets/world-cities",
+  "related": [
+    {
+      "title": "Country list",
+      "path": "/core/country-list",
+      "publisher": "core",
+      "formats": ["CSV", "JSON"]
+    },
+    {
+      "title": "Continent codes",
+      "path": "/core/continent-codes",
+      "publisher": "core",
+      "formats": ["CSV", "JSON"]
+    },
+    {
+      "title": "Airport codes",
+      "path": "/core/airport-codes",
+      "publisher": "core",
+      "formats": ["CSV", "JSON"]
+    },
+    {
+      "title": "Language codes",
+      "path": "/core/language-codes",
+      "publisher": "core",
+      "formats": ["CSV", "JSON"]
+    }
+  ]
 }

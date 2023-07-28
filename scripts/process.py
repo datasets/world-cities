@@ -7,10 +7,6 @@ from zipfile import ZipFile
 from os import mkdir
 from os.path import exists, join
 from urllib import request
-from datapackage import Package
-
-from dataflows import Flow, load, dump_to_path, add_metadata, printer, update_resource, unpivot,set_type
-from dataflows.helpers import ResourceMatcher
 
 def step1():    
     # Download the cities15000.zip file
@@ -149,17 +145,6 @@ def world_cities_process():
     step2()
     step3()
     step4()
-    flow = Flow(
-        load("data/world-cities.csv", format='csv', name='world-cities'),
-        update_resource('world-cities', path='data/world-cities.csv'),
-        add_metadata(name='world-cities', title='''Major cities of the world'''),
-        add_metadata(name='world-cities', description='''List of the world's major cities (above 15,000 inhabitants)'''),
-        add_metadata(name='world-cities', homepage='''http://github.com/datasets/world-cities'''),
-        set_type("geonameid", type="integer"),
-        printer(),
-        dump_to_path(),
-    )
-    flow.process()
     os.remove("admin1CodesASCII.txt")
     os.remove("ambiguities.csv")
     os.remove("cities15000.txt")
