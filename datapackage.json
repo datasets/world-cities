@@ -54,7 +54,7 @@
           }
         ]
       },
-      "primaryKey": "geonamesid"
+      "primaryKey": "geonameid"
     }
   ],
   "homepage": "http://github.com/datasets/world-cities",
