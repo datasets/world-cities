@@ -10900,6 +10900,7 @@ Yegyi,Ghana,Bono East,2293805
 Winneba,Ghana,Central,2294034
 Wankyi,Ghana,Bono,2294086
 Wa,Ghana,Upper West,2294206
+Twifu Praso,Ghana,Central,2294308
 Teshi Old Town,Ghana,Greater Accra,2294665
 Tema,Ghana,Greater Accra,2294700
 Techiman,Ghana,Bono East,2294727
@@ -10944,6 +10945,7 @@ Ho,Ghana,Volta,2300379
 Gbawe,Ghana,Greater Accra,2300721
 Goaso,Ghana,Ahafo,2300749
 Foso,Ghana,Central,2300883
+Elubo,Ghana,Western,2301184
 Elmina,Ghana,Central,2301190
 Ejura,Ghana,Ashanti,2301217
 Ahwiaa,Ghana,Ashanti,2301245
@@ -11057,6 +11059,7 @@ Conakry,Guinea,Conakry,2422465
 Camayenne,Guinea,Conakry,2422488
 Boké,Guinea,Boke Region,2422924
 Beyla,Guinea,Nzerekore Region,2423126
+Albadéria,Guinea,Faranah,2423969
 Sainte-Rose,Guadeloupe,Guadeloupe,3578447
 Sainte-Anne,Guadeloupe,Guadeloupe,3578466
 Pointe-à-Pitre,Guadeloupe,Guadeloupe,3578599
@@ -14669,6 +14672,7 @@ Paramathi Velur,India,Tamil Nadu,12501142
 Kanayannur,India,Kerala,12501153
 Shahuwadi,India,Maharashtra,12501195
 Lalganj,India,Uttar Pradesh,12501265
+Kim,India,Gujarat,13100428
 Zaxo,Iraq,Duhok,89570
 Umm Qaşr,Iraq,Basra,89824
 Ţūz Khūrmātū,Iraq,Salah ad Din,90026
@@ -16173,6 +16177,7 @@ Amagasaki,Japan,Hyogo,1865387
 Akune,Japan,Kagoshima,1865401
 Kariya,Japan,Hyogo,1865412
 Aki,Japan,Kochi,1865449
+Akasaka,Japan,Tokyo,1865522
 Aioi,Japan,Hyogo,1865661
 Ageoshimo,Japan,Saitama,1865714
 Okinawa,Japan,Okinawa,1894616
@@ -18495,6 +18500,7 @@ Cangkat Jong,Malaysia,Perak,1732915
 Sungkai,Malaysia,Perak,1732927
 Cukai,Malaysia,Terengganu,1732945
 Kuala Lipis,Malaysia,Pahang,1733023
+Val Dor,Malaysia,Penang,1733331
 Papar,Malaysia,Sabah,1733353
 Kota Kinabalu,Malaysia,Sabah,1733432
 Donggongon,Malaysia,Sabah,1733438
@@ -18601,6 +18607,7 @@ Jitra,Malaysia,Kedah,1736302
 Kuala Kedah,Malaysia,Kedah,1736305
 Alor Setar,Malaysia,Kedah,1736309
 Pokok Sena,Malaysia,Kedah,1736338
+Wakaf Baharu,Malaysia,Kelantan,1736366
 Pasir Mas,Malaysia,Kelantan,1736372
 Kota Bharu,Malaysia,Kelantan,1736376
 Kudat,Malaysia,Sabah,1736458
@@ -18711,6 +18718,7 @@ Taman Melawati,Malaysia,Selangor,12750644
 Perling,Malaysia,Johor,12750652
 Mukim Pulai,Malaysia,Johor,12750654
 Bandar Mahkota Cheras,Malaysia,Selangor,13061022
+Paya Terubong,Malaysia,Penang,13100478
 Xai-Xai,Mozambique,Gaza Province,1024552
 Gorongosa,Mozambique,Sofala,1024680
 Vilankulo,Mozambique,Inhambane Province,1024683
@@ -20835,6 +20843,7 @@ Rejon ulicy Traugutta,Poland,Lower Silesia,12047628
 Kozanów,Poland,Lower Silesia,12047636
 Rejon placu Świętego Macieja,Poland,Lower Silesia,12047644
 Różanka-Polanka,Poland,Lower Silesia,12047651
+Orunia Górna-Gdańsk Południe,Poland,Pomerania,13100477
 Saint-Pierre,Saint Pierre and Miquelon,Saint-Pierre,3424934
 Adamstown,Pitcairn,,4030723
 Aguadilla,Puerto Rico,Aguadilla,4562506
@@ -22756,6 +22765,9 @@ Choa Chu Kang New Town,Singapore,,1884737
 Novena,Singapore,,7281987
 Eunos,Singapore,,7289731
 Sengkang New Town,Singapore,,7289760
+Fajar,Singapore,,13100482
+Saujana,Singapore,,13100483
+Bangkit,Singapore,,13100484
 Jamestown,"Saint Helena, Ascension and Tristan da Cunha",Saint Helena,3370903
 Trbovlje,Slovenia,Trbovlje,3188915
 Velenje,Slovenia,Velenje,3189075
@@ -23886,6 +23898,7 @@ Karabağlar,Türkiye,Izmir Province,7701384
 Oba,Türkiye,Antalya,8068982
 Cikcilli,Türkiye,Antalya,8069036
 Muratpaşa,Türkiye,Antalya,8074174
+Çubuklu,Türkiye,Istanbul,8623183
 Merkezefendi,Türkiye,Denizli,11238838
 Tunapuna,Trinidad and Tobago,Tunapuna/Piarco,3573576
 Scarborough,Trinidad and Tobago,Tobago,3573703
@@ -23908,7 +23921,9 @@ Yuanlin,"Taiwan, Province of China",Taiwan,1665443
 Yingge,"Taiwan, Province of China",Taipei,1665491
 Wufeng,"Taiwan, Province of China",Taiwan,1665892
 Donggang,"Taiwan, Province of China",Taiwan,1666596
+Toufen,"Taiwan, Province of China",Taiwan,1667027
 Tianzhong,"Taiwan, Province of China",Taiwan,1667471
+Taitung,"Taiwan, Province of China",Taiwan,1668295
 Taipei,"Taiwan, Province of China",Taiwan,1668341
 Tainan,"Taiwan, Province of China",Taiwan,1668355
 Taichung,"Taiwan, Province of China",Taiwan,1668399
@@ -23936,7 +23951,9 @@ Hengchun,"Taiwan, Province of China",Taiwan,1676242
 Erlin,"Taiwan, Province of China",Taiwan,1676914
 Jincheng,"Taiwan, Province of China",Fukien,1678008
 Keelung,"Taiwan, Province of China",Taiwan,1678228
+Chiayi City,"Taiwan, Province of China",Taiwan,1678836
 Chaozhou,"Taiwan, Province of China",Taiwan,1679047
+Changhua,"Taiwan, Province of China",Taiwan,1993459
 Taoyuan City,"Taiwan, Province of China",Taiwan,6696918
 Zhongxing New Village,"Taiwan, Province of China",Taiwan,7601921
 New Taipei City,"Taiwan, Province of China",Taipei,12908892
@@ -27585,15 +27602,25 @@ Sheridan,United States,Wyoming,5838198
 American Fork,United States,Utah,5844096
 Kahului,United States,Hawaii,5847411
 Kailua,United States,Hawaii,5847486
+Kaimukī,United States,Hawaii,5847530
+Kalihi,United States,Hawaii,5847832
 Kaneohe,United States,Hawaii,5848189
+Diamond Head / Kapahulu / Saint Louis Heights,United States,Hawaii,5848322
 Kīhei,United States,Hawaii,5849297
 Makakilo City,United States,Hawaii,5850554
 Mililani Town,United States,Hawaii,5851030
+Mō‘ili‘ili,United States,Hawaii,5851096
+Niu Valley,United States,Hawaii,5851484
+Pacific Palisades,United States,Hawaii,5851889
 Pearl City,United States,Hawaii,5852275
 Wahiawā,United States,Hawaii,5853992
+Waikīkī,United States,Hawaii,5854380
 Wailuku,United States,Hawaii,5854496
+Wailupe,United States,Hawaii,5854511
 Waipahu,United States,Hawaii,5854686
+‘Ewa Beach,United States,Hawaii,5855051
 ‘Ewa Gentry,United States,Hawaii,5855070
+Hawai‘i Kai,United States,Hawaii,5855754
 Hilo,United States,Hawaii,5855927
 Honolulu,United States,Hawaii,5856195
 Eagle River,United States,Alaska,5861187
@@ -27700,9 +27727,18 @@ Lincoln,United States,Rhode Island,8531960
 Johnston,United States,Rhode Island,8604682
 Dixiana,United States,Alabama,8605041
 Cranberry Township,United States,Pennsylvania,8643098
+Kuliouou - Kalani Iki,United States,Hawaii,9403721
+Manoa,United States,Hawaii,9409821
+Makiki / Lower Punchbowl / Tantalus,United States,Hawaii,9409823
+Kalihi Valley,United States,Hawaii,9534958
 Center City,United States,Pennsylvania,9958118
 Silver Lake,United States,California,10104153
 Echo Park,United States,California,10104154
+Ala Moana - Kakaako,United States,Hawaii,10172958
+Joint Base Pearl Harbor Hickam,United States,Hawaii,10173805
+McCully - Moiliili,United States,Hawaii,10173811
+Nuuanu - Punchbowl,United States,Hawaii,10286555
+Liliha - Kapalama,United States,Hawaii,11071594
 St. Johns,United States,Florida,11704266
 Stonecrest,United States,Georgia,11748973
 Cortlandt Manor,United States,New York,11811570
@@ -27717,6 +27753,11 @@ El Camino Real,United States,California,12750403
 Stonegate,United States,California,12750405
 Northwood,United States,California,12750406
 Tustin Legacy,United States,California,12750416
+Aliamanu / Salt Lake / Foster Village,United States,Hawaii,13100433
+Mililani Mauka / Launani Valley,United States,Hawaii,13100434
+Koolauloa,United States,Hawaii,13100438
+Makakilo / Kapolei / Honokai Hale,United States,Hawaii,13100439
+Waialae Iki,United States,Hawaii,13100446
 Young,Uruguay,Rio Negro Department,3439525
 Trinidad,Uruguay,Flores Department,3439748
 Treinta y Tres,Uruguay,Treinta y Tres Department,3439781
