@@ -63,25 +63,38 @@
       "title": "Country list",
       "path": "/core/country-list",
       "publisher": "core",
-      "formats": ["CSV", "JSON"]
+      "formats": [
+        "CSV",
+        "JSON"
+      ]
     },
     {
       "title": "Continent codes",
       "path": "/core/continent-codes",
       "publisher": "core",
-      "formats": ["CSV", "JSON"]
+      "formats": [
+        "CSV",
+        "JSON"
+      ]
     },
     {
       "title": "Airport codes",
       "path": "/core/airport-codes",
       "publisher": "core",
-      "formats": ["CSV", "JSON"]
+      "formats": [
+        "CSV",
+        "JSON"
+      ]
     },
     {
       "title": "Language codes",
       "path": "/core/language-codes",
       "publisher": "core",
-      "formats": ["CSV", "JSON"]
+      "formats": [
+        "CSV",
+        "JSON"
+      ]
     }
-  ]
+  ],
+  "collection": "reference-data"
 }
