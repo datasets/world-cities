@@ -493,10 +493,12 @@ Graz,Austria,Styria,2778067
 Fünfhaus,Austria,Vienna,2779139
 Floridsdorf,Austria,Vienna,2779469
 Feldkirch,Austria,Vorarlberg,2779674
+Essling,Austria,Vienna,2779912
 Eggenberg,Austria,Styria,2780361
 Dornbirn,Austria,Vorarlberg,2780741
 Bregenz,Austria,Vorarlberg,2781503
 Baden,Austria,Lower Austria,2782067
+Aspern,Austria,Vienna,2782315
 Amstetten,Austria,Lower Austria,2782555
 Favoriten,Austria,Vienna,8063098
 Donaustadt,Austria,Vienna,11903636
@@ -3551,6 +3553,7 @@ Luénoufla,Côte d'Ivoire,Sassandra-Marahoue,2284787
 Logoualé,Côte d'Ivoire,Montagnes,2285092
 Lobakuya,Côte d'Ivoire,Bas-Sassandra District,2285161
 Lakota,Côte d'Ivoire,Goh-Djiboua,2285449
+Koumassi,Côte d'Ivoire,Abidjan Autonomous District,2285853
 Kouibly,Côte d'Ivoire,Montagnes,2285905
 Kaouara,Côte d'Ivoire,Savanes District,2286023
 Korhogo,Côte d'Ivoire,Savanes District,2286304
@@ -15959,6 +15962,7 @@ Komono,Japan,Mie,1858866
 Komatsushimachō,Japan,Tokushima,1858902
 Komatsu,Japan,Ishikawa,1858910
 Komaki,Japan,Aichi,1858926
+Komagome,Japan,Tokyo,1858928
 Kokubunji,Japan,Tokyo,1858964
 Kokubu-matsuki,Japan,Kagoshima,1858972
 Koga,Japan,Ibaraki,1859093
@@ -16045,6 +16049,7 @@ Itoman,Japan,Okinawa,1861280
 Itoigawa,Japan,Niigata,1861285
 Itō,Japan,Shizuoka,1861290
 Itami,Japan,Hyogo,1861310
+Itabashi,Japan,Tokyo,1861321
 Ishiki,Japan,Aichi,1861383
 Ishikawa,Japan,Okinawa,1861393
 Ishii,Japan,Tokushima,1861400
@@ -16450,9 +16455,11 @@ Kamigyō-ku,Japan,Kyoto,8125829
 Buzen,Japan,Fukuoka,8198709
 Washinomiya,Japan,Saitama,8572218
 Ukima,Japan,Tokyo,8572992
+Nagasaki,Japan,Tokyo,8573184
 Sugamo,Japan,Tokyo,8573188
 Kamiigusa,Japan,Tokyo,8573577
 Shimoigusa,Japan,Tokyo,8573717
+Eifuku,Japan,Tokyo,8573723
 Wakabayashi,Japan,Tokyo,8576449
 Nakano,Japan,Tokyo,8715035
 Kanmaki,Japan,Nara,9633110
@@ -16463,6 +16470,7 @@ Yomitan,Japan,Okinawa,10860988
 Shimo’ochiai,Japan,Tokyo,10865987
 Yoyogi,Japan,Tokyo,10866689
 Ebisu,Japan,Tokyo,10866730
+Ōjima,Japan,Tokyo,10963038
 Matsubushi,Japan,Saitama,10979195
 Eniwa,Japan,Hokkaido,11127679
 Minami-Alps,Japan,Yamanashi,11205269
@@ -18470,7 +18478,7 @@ Batu Pahat,Malaysia,Johor,1732687
 Parit Raja,Malaysia,Johor,1732698
 Simpang Renggam,Malaysia,Johor,1732700
 Pekan Nenas,Malaysia,Johor,1732706
-Pontian Kechil,Malaysia,Johor,1732711
+Pontian Besar,Malaysia,Johor,1732710
 Kampung Pasir Gudang Baru,Malaysia,Johor,1732721
 Pasir Gudang,Malaysia,Johor,1732722
 Kampung Sedenak,Malaysia,Johor,1732734
@@ -18494,6 +18502,7 @@ Labis,Malaysia,Johor,1732877
 Kuala Selangor,Malaysia,Selangor,1732891
 Batang Berjuntai,Malaysia,Selangor,1732892
 Batu Arang,Malaysia,Selangor,1732893
+Kapar,Malaysia,Selangor,1732901
 Shah Alam,Malaysia,Selangor,1732903
 Klang,Malaysia,Selangor,1732905
 Cangkat Jong,Malaysia,Perak,1732915
@@ -18502,18 +18511,22 @@ Cukai,Malaysia,Terengganu,1732945
 Kuala Lipis,Malaysia,Pahang,1733023
 Val Dor,Malaysia,Penang,1733331
 Papar,Malaysia,Sabah,1733353
+Kuala Penyu,Malaysia,Sabah,1733376
 Kota Kinabalu,Malaysia,Sabah,1733432
 Donggongon,Malaysia,Sabah,1733438
 Putatan,Malaysia,Sabah,1733440
 Kinarut,Malaysia,Sabah,1733449
+Tambunan,Malaysia,Sabah,1733468
 Ranau,Malaysia,Sabah,1733502
 Semporna,Malaysia,Sabah,1733697
 Labuan,Malaysia,Labuan,1733782
+Sipitang,Malaysia,Sabah,1733868
 Beaufort,Malaysia,Sabah,1733874
 Lahad Datu,Malaysia,Sabah,1733953
 Sandakan,Malaysia,Sabah,1734052
 Keningau,Malaysia,Sabah,1734098
 Tawau,Malaysia,Sabah,1734199
+Dungun,Malaysia,Terengganu,1734308
 Paka,Malaysia,Terengganu,1734313
 Kertih,Malaysia,Terengganu,1734316
 Gerik,Malaysia,Perak,1734372
@@ -18521,6 +18534,7 @@ Kulim,Malaysia,Kedah,1734393
 Selama,Malaysia,Perak,1734399
 Bandar Baharu,Malaysia,Kedah,1734407
 Bagan Serai,Malaysia,Perak,1734409
+Padang Serai,Malaysia,Kedah,1734418
 Bedong,Malaysia,Kedah,1734439
 Kampung Kupang,Malaysia,Kedah,1734444
 Pulai,Malaysia,Kedah,1734445
@@ -18530,21 +18544,26 @@ Bau,Malaysia,Sarawak,1734539
 Simpang Empat,Malaysia,Perak,1734576
 Kamunting,Malaysia,Perak,1734577
 Taiping,Malaysia,Perak,1734586
+Padang Rengas,Malaysia,Perak,1734594
 Kuala Kangsar,Malaysia,Perak,1734599
 Ipoh,Malaysia,Perak,1734634
 Lahat,Malaysia,Perak,1734637
 Gua Musang,Malaysia,Kelantan,1734651
 Kuala Terengganu,Malaysia,Terengganu,1734705
 Marang,Malaysia,Terengganu,1734715
+Kampung Teluk Kemang,Malaysia,Negeri Sembilan,1734721
 Tampin,Malaysia,Negeri Sembilan,1734738
 Alor Gajah,Malaysia,Melaka,1734745
 Durian Tunggal,Malaysia,Melaka,1734748
 Kampung Ayer Keroh,Malaysia,Melaka,1734753
 Sungai Udang,Malaysia,Melaka,1734757
 Malacca,Malaysia,Melaka,1734759
+Merlimau,Malaysia,Melaka,1734762
+Teluk Panglima Garang,Malaysia,Selangor,1734768
 Pelabuhan Klang,Malaysia,Selangor,1734769
 Banting,Malaysia,Selangor,1734781
 Jenjarum,Malaysia,Selangor,1734793
+Bangi,Malaysia,Selangor,1734797
 Semenyih,Malaysia,Selangor,1734798
 Seremban,Malaysia,Negeri Sembilan,1734810
 Port Dickson,Malaysia,Negeri Sembilan,1734815
@@ -18552,11 +18571,13 @@ Sepang,Malaysia,Selangor,1734821
 Taman Senawang Indah,Malaysia,Negeri Sembilan,1734826
 Bahau,Malaysia,Negeri Sembilan,1734839
 Kuala Pilah,Malaysia,Negeri Sembilan,1734841
+Rembau,Malaysia,Negeri Sembilan,1734854
 Rompin,Malaysia,Negeri Sembilan,1734883
 Gemas,Malaysia,Negeri Sembilan,1734885
 Pekan,Malaysia,Pahang,1734971
 Mentakab,Malaysia,Pahang,1735018
 Temerluh,Malaysia,Pahang,1735022
+Kampung Teluk Air Tawar,Malaysia,Penang,1735069
 Batu Feringgi,Malaysia,Penang,1735074
 Butterworth,Malaysia,Penang,1735076
 Perai,Malaysia,Penang,1735077
@@ -18568,17 +18589,20 @@ Tasek Glugor,Malaysia,Penang,1735093
 Balik Pulau,Malaysia,Penang,1735096
 Bayan Lepas,Malaysia,Penang,1735102
 George Town,Malaysia,Penang,1735106
+Hulu Yam Lama,Malaysia,Selangor,1735147
 Serendah,Malaysia,Selangor,1735148
 Rawang,Malaysia,Selangor,1735150
 Sungai Buloh,Malaysia,Selangor,1735153
 Petaling Jaya,Malaysia,Selangor,1735158
 Kuala Lumpur,Malaysia,Kuala Lumpur,1735161
+Setapak,Malaysia,Selangor,1735162
 Batu Caves,Malaysia,Selangor,1735166
 Ampang,Malaysia,Kuala Lumpur,1735168
 Hulu Langat,Malaysia,Selangor,1735172
 Hutan Melintang,Malaysia,Perak,1735188
 Sungai Besar,Malaysia,Selangor,1735199
 Kuantan,Malaysia,Pahang,1735227
+Sungai Siput,Malaysia,Perak,1735265
 Batu Gajah,Malaysia,Perak,1735268
 Kampar,Malaysia,Perak,1735274
 Tapah Road,Malaysia,Perak,1735282
@@ -18592,7 +18616,9 @@ Gurun,Malaysia,Kedah,1735485
 Yan Besar,Malaysia,Kedah,1735489
 Sungai Petani,Malaysia,Kedah,1735498
 Kepala Batas,Malaysia,Penang,1735506
+Pasir Puteh,Malaysia,Kelantan,1735545
 Tanah Merah,Malaysia,Kelantan,1735553
+Kuala Krai,Malaysia,Kelantan,1735572
 Kuching,Malaysia,Sarawak,1735634
 Simunjan,Malaysia,Sarawak,1735681
 Sri Aman,Malaysia,Sarawak,1735799
@@ -18631,6 +18657,9 @@ Miri,Malaysia,Sarawak,1738050
 Ulu Tiram,Malaysia,Johor,1738294
 Ulu Kelang,Malaysia,Selangor,1738412
 Tanjung Sepat,Malaysia,Selangor,1741562
+Sungai Lalang,Malaysia,Kedah,1742731
+Sungai Dua,Malaysia,Penang,1742815
+Seri Kembangan,Malaysia,Selangor,1744246
 Serian,Malaysia,Sarawak,1744288
 Seputeh,Malaysia,Kuala Lumpur,1744508
 Relau,Malaysia,Penang,1748731
@@ -18640,21 +18669,28 @@ Ladang Seri Kundang,Malaysia,Selangor,1750974
 Pantai Remis,Malaysia,Perak,1752256
 Padang Besar,Malaysia,Kedah,1753004
 Lukut,Malaysia,Negeri Sembilan,1756720
+Kubang Semang,Malaysia,Penang,1759378
 Kuang,Malaysia,Selangor,1759486
 Kuala Ketil,Malaysia,Kedah,1759564
+Kepong,Malaysia,Kuala Lumpur,1760605
 Klebang Besar,Malaysia,Melaka,1761242
 Kampung Kangkar Teberau,Malaysia,Johor,1762110
+Kampung Tanjung Minyak,Malaysia,Melaka,1763378
 Kampung Tanjung Karang,Malaysia,Selangor,1763412
 Kampung Sungai Kajang,Malaysia,Selangor,1763999
 Kampung Sungai Glugur,Malaysia,Penang,1764027
 Kampung Sungai Ara,Malaysia,Penang,1764160
 Kampung Simpang Renggam,Malaysia,Johor,1764318
+Kampong Sidam,Malaysia,Kedah,1764375
 Kampong Pangkal Kalong,Malaysia,Kelantan,1766249
 Kampung Minyak Beku,Malaysia,Johor,1766795
 Kampong Masjid Tanah,Malaysia,Melaka,1767021
+Kampung Machap Baru,Malaysia,Melaka,1767194
+Kampung Kerubong,Malaysia,Melaka,1768286
 Kampong Kadok,Malaysia,Kelantan,1768664
 Ijok,Malaysia,Selangor,1769014
 Kampong Dungun,Malaysia,Perak,1769612
+Kampung Cheng,Malaysia,Melaka,1769827
 Kampung Bukit Baharu,Malaysia,Melaka,1770351
 Kampung Baru Subang,Malaysia,Selangor,1771023
 Kampung Baharu Nilai,Malaysia,Negeri Sembilan,1771287
@@ -18664,8 +18700,10 @@ Kampung Ayer Molek,Malaysia,Melaka,1771485
 Anak Bukit,Malaysia,Kedah,1771606
 Jelutong,Malaysia,Penang,1772808
 Jawi,Malaysia,Penang,1772983
+Cheras,Malaysia,Selangor,1777077
 Bukit Tambun,Malaysia,Penang,1778262
 Bukit Rambai,Malaysia,Melaka,1778290
+Kampung Bertam Ulu,Malaysia,Melaka,1779395
 Bentong Town,Malaysia,Pahang,1779790
 Kampung Batu Empat,Malaysia,Johor,1780841
 Batu Berendam,Malaysia,Melaka,1780890
@@ -18674,6 +18712,7 @@ Kampung Teluk Kumbar,Malaysia,Penang,1887985
 Putrajaya,Malaysia,Putrajaya,6697380
 Kampung Baru Ulu Melaka,Malaysia,Kedah,6804851
 Sik,Malaysia,Kedah,6805124
+Kampung Alor Mengkudu,Malaysia,Kedah,6807244
 Kampung Hutan Arau,Malaysia,Perlis,6819209
 Glugor,Malaysia,Penang,6833189
 Teloi Kanan,Malaysia,Kedah,6847278
@@ -18681,14 +18720,18 @@ Kota Kuala Muda,Malaysia,Kedah,6847550
 Cyberjaya,Malaysia,Selangor,6930887
 Bandar Labuan,Malaysia,Sabah,7302815
 Bercham,Malaysia,Perak,7473418
+Kampung Manjoi,Malaysia,Perak,7473443
 Kampung Perak,Malaysia,Pahang,7566098
+Johor Jaya,Malaysia,Johor,7619704
 Kawasan Penempatan Ulu Sungai Benut,Malaysia,Johor,7620438
 Kawasan Penempatan Ulu Benut Tiga,Malaysia,Johor,7620439
 Kawasan Penempatan Ulu Benut Lima,Malaysia,Johor,7620470
+Bandar Tun Razak,Malaysia,Pahang,7697762
 Sri Petaling,Malaysia,Kuala Lumpur,7779082
 Seri Manjung,Malaysia,Perak,7792200
 Selayang Baru Utara,Malaysia,Selangor,7795834
 Taman Seremban Jaya,Malaysia,Negeri Sembilan,7797211
+Kawasan Perindustrian Cheng,Malaysia,Melaka,7797910
 Taman Pelangi,Malaysia,Johor,7798288
 Taman Universiti,Malaysia,Johor,7858022
 Kampung Jelutong Tengah,Malaysia,Johor,7858028
@@ -18696,8 +18739,10 @@ Subang Jaya,Malaysia,Kuala Lumpur,8504423
 Iskandar Puteri,Malaysia,Johor,10063567
 Putra Heights,Malaysia,Selangor,10792382
 Kajang,Malaysia,Selangor,10941913
+Bandar Puncak Alam,Malaysia,Selangor,11429145
 Kota Damansara,Malaysia,Selangor,12514556
 Kuala Nerus,Malaysia,Terengganu,12534340
+Bandar Sri Damansara,Malaysia,Selangor,12535033
 Selangau,Malaysia,Sarawak,12547009
 Taman Petaling,Malaysia,Kuala Lumpur,12557764
 Elmina,Malaysia,Selangor,12622018
@@ -18719,6 +18764,19 @@ Perling,Malaysia,Johor,12750652
 Mukim Pulai,Malaysia,Johor,12750654
 Bandar Mahkota Cheras,Malaysia,Selangor,13061022
 Paya Terubong,Malaysia,Penang,13100478
+Bandar Tun Hussein Onn,Malaysia,Selangor,13117827
+Bukit Beruntung,Malaysia,Selangor,13118055
+Sibu Jaya,Malaysia,Sarawak,13118085
+Petagas,Malaysia,Sabah,13118086
+Setia Alam,Malaysia,Selangor,13118091
+Taman Sri Sinar,Malaysia,Kuala Lumpur,13118095
+Bandar Kinrara,Malaysia,Selangor,13118096
+Bandar Bukit Raja,Malaysia,Selangor,13118145
+Pandamaran,Malaysia,Selangor,13118146
+Bandar Sri Sendayan,Malaysia,Negeri Sembilan,13118149
+Bandar Country Homes,Malaysia,Selangor,13118193
+Alam Damai,Malaysia,Kuala Lumpur,13118197
+SS2,Malaysia,Kuala Lumpur,13118198
 Xai-Xai,Mozambique,Gaza Province,1024552
 Gorongosa,Mozambique,Sofala,1024680
 Vilankulo,Mozambique,Inhambane Province,1024683
@@ -20006,9 +20064,11 @@ City of Isabela,Philippines,Autonomous Region in Muslim Mindanao,1710519
 Irosin,Philippines,Bicol Region,1710531
 Iriga City,Philippines,Bicol Region,1710544
 Ipil,Philippines,Zamboanga Peninsula,1710612
+Inopacan,Philippines,Eastern Visayas,1710666
 Indang,Philippines,Calabarzon,1710770
 Inabanga,Philippines,Central Visayas,1710908
 Imus,Philippines,Calabarzon,1710914
+Impasugong,Philippines,Northern Mindanao,1710932
 Iloilo,Philippines,Western Visayas,1711005
 Iligan City,Philippines,Soccsksargen,1711082
 Iligan,Philippines,Northern Mindanao,1711084
@@ -20035,7 +20095,7 @@ General Mamerto Natividad,Philippines,Central Luzon,1713027
 Gapan,Philippines,Central Luzon,1713226
 Esperanza,Philippines,Bicol Region,1713767
 Escalante,Philippines,Western Visayas,1713818
-Saravia,Philippines,Western Visayas,1713857
+Enrique B. Magalona,Philippines,Western Visayas,1713857
 Dupax del Sur,Philippines,Cagayan Valley,1714050
 Dupax Del Norte,Philippines,Cagayan Valley,1714052
 Dumaguete,Philippines,Central Visayas,1714201
@@ -20191,6 +20251,7 @@ Banco Filipino Homes,Philippines,Metro Manila,8534157
 Apas,Philippines,Central Visayas,10628881
 General Salipada K. Pendatun,Philippines,Autonomous Region in Muslim Mindanao,13060471
 Bagong Silang,Philippines,Metro Manila,13060482
+Al-Barka,Philippines,Autonomous Region in Muslim Mindanao,13118057
 Chuhar Jamali,Pakistan,Sindh,1108161
 Rawalakot,Pakistan,Azad Jammu and Kashmir(POK),1161983
 Pir Jo Goth,Pakistan,Sindh,1161991
@@ -22720,7 +22781,7 @@ Tanglin,Singapore,,1880214
 Tampines Estate,Singapore,,1880216
 Sungai Simpang,Singapore,,1880226
 Singapore,Singapore,,1880252
-Serangoon Garden Estate,Singapore,,1880268
+Serangoon Garden,Singapore,,1880268
 Serangoon,Singapore,,1880271
 Sembawang Estate,Singapore,,1880283
 Punggol,Singapore,,1880348
@@ -22769,6 +22830,12 @@ Sengkang New Town,Singapore,,7289760
 Fajar,Singapore,,13100482
 Saujana,Singapore,,13100483
 Bangkit,Singapore,,13100484
+Margaret Drive,Singapore,,13118122
+Jelebu,Singapore,,13118135
+Senja,Singapore,,13118136
+Anak Bukit,Singapore,,13118138
+Peng Siang,Singapore,,13118139
+Teck Whye,Singapore,,13118140
 Jamestown,"Saint Helena, Ascension and Tristan da Cunha",Saint Helena,3370903
 Trbovlje,Slovenia,Trbovlje,3188915
 Velenje,Slovenia,Velenje,3189075
@@ -22836,6 +22903,7 @@ Bánovce nad Bebravou,Slovakia,Trencin Region,3061188
 Waterloo,Sierra Leone,Western Area,2403094
 Segbwema,Sierra Leone,Eastern Province,2404041
 Port Loko,Sierra Leone,North West,2404433
+Njala,Sierra Leone,Southern Province,2404837
 Makeni,Sierra Leone,Northern Province,2406407
 Lunsar,Sierra Leone,Northern Province,2406916
 Koidu,Sierra Leone,Eastern Province,2407656
@@ -22900,9 +22968,12 @@ Bargny,Senegal,Dakar,2254154
 Sali,Senegal,Thies,2595222
 Bargny Ngoude,Senegal,Dakar,2595382
 Diamniadio,Senegal,Dakar,2595640
+Le Plateau,Senegal,Dakar,2595758
+Guédiawaye,Senegal,Dakar,2595778
 Bambey,Senegal,Diourbel Region,7670740
 N’diareme limamoulaye,Senegal,Dakar,11101616
 Rufisque est,Senegal,Dakar,11101625
+Jaxaay Parcelle Niakoul Rap,Senegal,Dakar,13117829
 Wanlaweyn,Somalia,Lower Shabeelle,50672
 Tog Wajaale,Somalia,Woqooyi Galbeed,51228
 Ruqi,Somalia,Awdal,52407
@@ -23927,6 +23998,7 @@ Toufen,"Taiwan, Province of China",Taiwan,1667027
 Tianzhong,"Taiwan, Province of China",Taiwan,1667471
 Taitung,"Taiwan, Province of China",Taiwan,1668295
 Taipei,"Taiwan, Province of China",Taiwan,1668341
+Taibao,"Taiwan, Province of China",Taiwan,1668347
 Tainan,"Taiwan, Province of China",Taiwan,1668355
 Taichung,"Taiwan, Province of China",Taiwan,1668399
 Daxi,"Taiwan, Province of China",Taiwan,1668467
@@ -23934,6 +24006,7 @@ Shulin,"Taiwan, Province of China",Taipei,1668875
 Banqiao,"Taiwan, Province of China",Taipei,1670029
 Sanxia,"Taiwan, Province of China",Taipei,1670106
 Sanzhi,"Taiwan, Province of China",Taipei,1670157
+Buzi,"Taiwan, Province of China",Taiwan,1670264
 Budai,"Taiwan, Province of China",Taiwan,1670295
 Puli,"Taiwan, Province of China",Taiwan,1670310
 Beigang,"Taiwan, Province of China",Taiwan,1670826
@@ -26586,6 +26659,7 @@ Westbury,United States,New York,5144040
 White Plains,United States,New York,5144336
 Whitestone,United States,New York,5144400
 Williamsburg,United States,New York,5144580
+Wilton,United States,New York,5144736
 Woodhaven,United States,New York,5144975
 Woodmere,United States,New York,5145028
 Woodrow,United States,New York,5145034
@@ -27605,7 +27679,7 @@ American Fork,United States,Utah,5844096
 Kahului,United States,Hawaii,5847411
 Kailua,United States,Hawaii,5847486
 Kaimukī,United States,Hawaii,5847530
-Kalihi,United States,Hawaii,5847832
+Kalihi-Palama,United States,Hawaii,5847832
 Kaneohe,United States,Hawaii,5848189
 Diamond Head / Kapahulu / Saint Louis Heights,United States,Hawaii,5848322
 Kīhei,United States,Hawaii,5849297
@@ -27613,12 +27687,10 @@ Makakilo City,United States,Hawaii,5850554
 Mililani Town,United States,Hawaii,5851030
 Mō‘ili‘ili,United States,Hawaii,5851096
 Niu Valley,United States,Hawaii,5851484
-Pacific Palisades,United States,Hawaii,5851889
 Pearl City,United States,Hawaii,5852275
 Wahiawā,United States,Hawaii,5853992
 Waikīkī,United States,Hawaii,5854380
 Wailuku,United States,Hawaii,5854496
-Wailupe,United States,Hawaii,5854511
 Waipahu,United States,Hawaii,5854686
 ‘Ewa Beach,United States,Hawaii,5855051
 ‘Ewa Gentry,United States,Hawaii,5855070
@@ -27759,8 +27831,6 @@ Aliamanu / Salt Lake / Foster Village,United States,Hawaii,13100433
 Mililani Mauka / Launani Valley,United States,Hawaii,13100434
 Koolauloa,United States,Hawaii,13100438
 Makakilo / Kapolei / Honokai Hale,United States,Hawaii,13100439
-Waialae Iki,United States,Hawaii,13100446
-University of Hawaii - Manoa Campus,United States,Hawaii,13100516
 Young,Uruguay,Rio Negro Department,3439525
 Trinidad,Uruguay,Flores Department,3439748
 Treinta y Tres,Uruguay,Treinta y Tres Department,3439781
