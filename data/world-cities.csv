@@ -16722,6 +16722,7 @@ Wŏnsan,"Korea, Democratic People's Republic of",Kangwon-do,1866923
 Ŭnch’ŏn-ŭp,"Korea, Democratic People's Republic of",South Hwanghae,1867377
 Ŭllyul,"Korea, Democratic People's Republic of",South Hwanghae,1867429
 T’ongch’ŏn-ŭp,"Korea, Democratic People's Republic of",Kangwon-do,1867927
+Tŏkch’ŏn,"Korea, Democratic People's Republic of",South Pyongan,1868144
 T’aet’an-ŭp,"Korea, Democratic People's Republic of",South Hwanghae,1868578
 Sŭngho 1-tong,"Korea, Democratic People's Republic of",Pyongyang,1868998
 Sunch’ŏn,"Korea, Democratic People's Republic of",South Pyongan,1869012
@@ -18474,6 +18475,7 @@ Maran,Malaysia,Pahang,1732637
 Raub,Malaysia,Pahang,1732663
 Bentung,Malaysia,Pahang,1732667
 Tanjong Malim,Malaysia,Perak,1732672
+Parit Sulung,Malaysia,Johor,1732680
 Batu Pahat,Malaysia,Johor,1732687
 Parit Raja,Malaysia,Johor,1732698
 Simpang Renggam,Malaysia,Johor,1732700
@@ -18543,6 +18545,7 @@ Tebedu,Malaysia,Sarawak,1734537
 Bau,Malaysia,Sarawak,1734539
 Simpang Empat,Malaysia,Perak,1734576
 Kamunting,Malaysia,Perak,1734577
+Batu Kurau,Malaysia,Perak,1734579
 Taiping,Malaysia,Perak,1734586
 Padang Rengas,Malaysia,Perak,1734594
 Kuala Kangsar,Malaysia,Perak,1734599
@@ -18572,6 +18575,7 @@ Taman Senawang Indah,Malaysia,Negeri Sembilan,1734826
 Bahau,Malaysia,Negeri Sembilan,1734839
 Kuala Pilah,Malaysia,Negeri Sembilan,1734841
 Rembau,Malaysia,Negeri Sembilan,1734854
+Batu Anam,Malaysia,Johor,1734881
 Rompin,Malaysia,Negeri Sembilan,1734883
 Gemas,Malaysia,Negeri Sembilan,1734885
 Pekan,Malaysia,Pahang,1734971
@@ -18662,6 +18666,7 @@ Sungai Dua,Malaysia,Penang,1742815
 Seri Kembangan,Malaysia,Selangor,1744246
 Serian,Malaysia,Sarawak,1744288
 Seputeh,Malaysia,Kuala Lumpur,1744508
+Sentul,Malaysia,Kuala Lumpur,1744763
 Relau,Malaysia,Penang,1748731
 Permatang Kuching,Malaysia,Penang,1750500
 Peringat,Malaysia,Kelantan,1750582
@@ -18722,7 +18727,9 @@ Bandar Labuan,Malaysia,Sabah,7302815
 Bercham,Malaysia,Perak,7473418
 Kampung Manjoi,Malaysia,Perak,7473443
 Kampung Perak,Malaysia,Pahang,7566098
+Bandar Tenggara,Malaysia,Johor,7614200
 Johor Jaya,Malaysia,Johor,7619704
+Taman Permas Jaya,Malaysia,Johor,7619709
 Kawasan Penempatan Ulu Sungai Benut,Malaysia,Johor,7620438
 Kawasan Penempatan Ulu Benut Tiga,Malaysia,Johor,7620439
 Kawasan Penempatan Ulu Benut Lima,Malaysia,Johor,7620470
@@ -18739,13 +18746,16 @@ Subang Jaya,Malaysia,Kuala Lumpur,8504423
 Iskandar Puteri,Malaysia,Johor,10063567
 Putra Heights,Malaysia,Selangor,10792382
 Kajang,Malaysia,Selangor,10941913
+Bukit Bintang,Malaysia,Kuala Lumpur,11054399
 Bandar Puncak Alam,Malaysia,Selangor,11429145
 Kota Damansara,Malaysia,Selangor,12514556
+Damansara Damai,Malaysia,Selangor,12514620
 Kuala Nerus,Malaysia,Terengganu,12534340
 Bandar Sri Damansara,Malaysia,Selangor,12535033
 Selangau,Malaysia,Sarawak,12547009
 Taman Petaling,Malaysia,Kuala Lumpur,12557764
 Elmina,Malaysia,Selangor,12622018
+Denai Alam,Malaysia,Selangor,12625525
 Taman Melati,Malaysia,Kuala Lumpur,12680194
 Ara Damansara,Malaysia,Selangor,12746668
 Kampung Setia,Malaysia,Selangor,12746683
@@ -18777,6 +18787,14 @@ Bandar Sri Sendayan,Malaysia,Negeri Sembilan,13118149
 Bandar Country Homes,Malaysia,Selangor,13118193
 Alam Damai,Malaysia,Kuala Lumpur,13118197
 SS2,Malaysia,Kuala Lumpur,13118198
+Sungai Jawi,Malaysia,Penang,13118223
+Bandar Saujana Utama,Malaysia,Selangor,13118224
+Bukit Rahman Putra,Malaysia,Selangor,13118225
+Setia Tropika,Malaysia,Johor,13118228
+Bandar Tasik Puteri,Malaysia,Selangor,13118229
+Desa Petaling,Malaysia,Kuala Lumpur,13118230
+Bukit Kerinchi,Malaysia,Kuala Lumpur,13118231
+Titiwangsa,Malaysia,Kuala Lumpur,13118233
 Xai-Xai,Mozambique,Gaza Province,1024552
 Gorongosa,Mozambique,Sofala,1024680
 Vilankulo,Mozambique,Inhambane Province,1024683
@@ -22822,7 +22840,7 @@ Bedok New Town,Singapore,,1884382
 Clementi Housing Estate,Singapore,,1884384
 Pasir Ris New Town,Singapore,,1884385
 Queenstown Estate,Singapore,,1884386
-Telok Blangah New Town,Singapore,,1884403
+Telok Blangah,Singapore,,1884403
 Choa Chu Kang New Town,Singapore,,1884737
 Novena,Singapore,,7281987
 Eunos,Singapore,,7289731
