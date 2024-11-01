@@ -2,7 +2,9 @@ name,country,subcountry,geonameid
 les Escaldes,Andorra,Escaldes-Engordany,3040051
 Andorra la Vella,Andorra,Andorra la Vella,3041563
 Warīsān,United Arab Emirates,Dubai,290503
+Umm Suqaym,United Arab Emirates,Dubai,290581
 Umm Al Quwain City,United Arab Emirates,Imarat Umm al Qaywayn,290594
+Ar Rāshidīyah,United Arab Emirates,Dubai,291061
 Ras Al Khaimah City,United Arab Emirates,Imarat Ra's al Khaymah,291074
 Zayed City,United Arab Emirates,Abu Dhabi,291580
 Khawr Fakkān,United Arab Emirates,Sharjah,291696
@@ -11,6 +13,7 @@ Jumayrā,United Arab Emirates,Dubai,291775
 Dubai,United Arab Emirates,Dubai,292223
 Dibba Al-Fujairah,United Arab Emirates,Fujairah,292231
 Dibba Al-Hisn,United Arab Emirates,Fujairah,292239
+Dayrah,United Arab Emirates,Dubai,292261
 Sharjah,United Arab Emirates,Sharjah,292672
 Ar Ruways,United Arab Emirates,Abu Dhabi,292688
 Ḩattā,United Arab Emirates,Dubai,292862
@@ -19,13 +22,29 @@ Al Ain City,United Arab Emirates,Abu Dhabi,292913
 Ajman City,United Arab Emirates,Ajman,292932
 Adh Dhayd,United Arab Emirates,Sharjah,292953
 Abu Dhabi,United Arab Emirates,Abu Dhabi,292968
+Abū Hayl,United Arab Emirates,Dubai,292991
+As Saţwah,United Arab Emirates,Dubai,385024
 Al Ḩamīdīyah,United Arab Emirates,Ajman,414901
+Al Waheda,United Arab Emirates,Dubai,6691079
+Al Karama,United Arab Emirates,Dubai,6691091
+The Palm Jumeirah,United Arab Emirates,Dubai,6691113
 Bur Dubai,United Arab Emirates,Dubai,7289825
 Khalifah A City,United Arab Emirates,Abu Dhabi,8057551
+Mirdif,United Arab Emirates,Dubai,8200824
+Hawr al ‘Anz,United Arab Emirates,Dubai,8201275
+Mankhūl,United Arab Emirates,Dubai,8225407
+Nāyf,United Arab Emirates,Dubai,8226485
+Al Murar al Qadīm,United Arab Emirates,Dubai,8226590
+Al Warqaa,United Arab Emirates,Dubai,8469658
+International City,United Arab Emirates,Dubai,8469668
+Discovery Gardens,United Arab Emirates,Dubai,8469751
+Jumeirah Lake Towers,United Arab Emirates,Dubai,8469754
 Dubai Marina,United Arab Emirates,Dubai,8469788
 Dubai Internet City,United Arab Emirates,Dubai,8469811
+Al Safa,United Arab Emirates,Dubai,8469819
 Ar Rumaylah,United Arab Emirates,Ajman,8475866
 Al Jurf,United Arab Emirates,Ajman,8475923
+Al Majaz,United Arab Emirates,Sharjah,8476509
 Dubai Festival City,United Arab Emirates,Dubai,8541937
 Dubai International Financial Centre,United Arab Emirates,Dubai,8541977
 Dubai Investments Park,United Arab Emirates,Dubai,11048853
@@ -34,6 +53,17 @@ Bani Yas City,United Arab Emirates,Abu Dhabi,12042052
 Musaffah,United Arab Emirates,Abu Dhabi,12042053
 Al Shamkhah City,United Arab Emirates,Abu Dhabi,12047416
 Reef Al Fujairah City,United Arab Emirates,Fujairah,12047417
+Al Bada'a,United Arab Emirates,Dubai,13118420
+Al Muteena,United Arab Emirates,Dubai,13118421
+Al Mizhar First,United Arab Emirates,Dubai,13118422
+Dubai Silicon Oasis,United Arab Emirates,Dubai,13118424
+Al Furjan,United Arab Emirates,Dubai,13118431
+Business Bay,United Arab Emirates,Dubai,13118432
+Al Qusais 1,United Arab Emirates,Dubai,13118433
+Halwan,United Arab Emirates,Sharjah,13118437
+Al Sajaah,United Arab Emirates,Sharjah,13118438
+Lahbab,United Arab Emirates,Dubai,13118439
+Mohammed Bin Zayed City,United Arab Emirates,Abu Dhabi,13118447
 Zaranj,Afghanistan,Nimroz,1120985
 Bāzār-e Yakāwlang,Afghanistan,Bamyan,1121381
 Taloqan,Afghanistan,Takhar,1123004
@@ -107,6 +137,7 @@ Fier-Çifçi,Albania,Fier County,3185670
 Fier,Albania,Fier County,3185672
 Durrës,Albania,Durres County,3185728
 Berat,Albania,Berat County,3186084
+Babru,Albania,Tirana,3186169
 Kapan,Armenia,Syunik,174875
 Goris,Armenia,Syunik,174895
 Hats’avan,Armenia,Syunik,174972
@@ -2739,6 +2770,7 @@ São Mateus,Brazil,Sao Paulo,6318546
 Sapopemba,Brazil,Sao Paulo,6318632
 Simões Filho,Brazil,Bahia,6318694
 Sinop,Brazil,Mato Grosso,6318696
+Tangará da Serra,Brazil,Mato Grosso,6318738
 Tucumã,Brazil,Para,6318807
 Vargem Grande Paulista,Brazil,Sao Paulo,6318864
 Xinguara,Brazil,Para,6318968
@@ -2855,6 +2887,8 @@ Tutume,Botswana,Central,7573818
 Jwaneng,Botswana,Jwaneng,8308627
 Horad Zhodzina,Belarus,Minsk,618800
 Zhlobin,Belarus,Gomel Oblast,618806
+Žytkavičy,Belarus,Gomel Oblast,618815
+Zaslawye,Belarus,Minsk,619066
 Vitebsk,Belarus,Vitebsk,620127
 Vileyka,Belarus,Minsk,620181
 Volkovysk,Belarus,Grodnenskaya,620391
@@ -2872,24 +2906,28 @@ Pruzhany,Belarus,Brest,622997
 Polotsk,Belarus,Vitebsk,623317
 Pinsk,Belarus,Brest,623549
 Pastavy,Belarus,Vitebsk,623760
+Astraviec,Belarus,Grodnenskaya,623941
 Osipovichi,Belarus,Mogilev,624034
 Orsha,Belarus,Vitebsk,624079
+Nesvizh,Belarus,Minsk,624700
 Novopolotsk,Belarus,Vitebsk,624784
 Novogrudok,Belarus,Grodnenskaya,624785
 Minsk,Belarus,Minsk City,625144
 Mazyr,Belarus,Gomel Oblast,625324
-Mosty,Belarus,Grodnenskaya,625367
 Mar’ina Gorka,Belarus,Minsk,625409
 Maladziečna,Belarus,Minsk,625625
 Mahilyow,Belarus,Mogilev,625665
 Lyepyel’,Belarus,Vitebsk,625743
 Luninyets,Belarus,Brest,625818
+Logoysk,Belarus,Minsk,625972
 Lida,Belarus,Grodnenskaya,626081
 Krychaw,Belarus,Mogilev,626450
 Kalodzishchy,Belarus,Minsk,627083
 Kobryn,Belarus,Brest,627145
+Klimovichi,Belarus,Mogilev,627202
 Kalinkovichi,Belarus,Gomel Oblast,627751
 Ivatsevichi,Belarus,Brest,627800
+Ivanovo,Belarus,Brest,627811
 Hrodna,Belarus,Grodnenskaya,627904
 Horki,Belarus,Mogilev,627905
 Homyel',Belarus,Gomel Oblast,627907
@@ -2902,6 +2940,8 @@ Brest,Belarus,Brest,629634
 Barysaw,Belarus,Minsk,630376
 Baranovichi,Belarus,Brest,630429
 Bobruysk,Belarus,Mogilev,630468
+Oshmyany,Belarus,Grodnenskaya,630515
+Fanipol,Belarus,Minsk,6846555
 San Pedro,Belize,Belize District,3581164
 San Ignacio,Belize,Cayo District,3581194
 Orange Walk,Belize,Orange Walk District,3581514
@@ -8737,6 +8777,7 @@ Prosperidad,Spain,Madrid,3119198
 La Pineda,Spain,Catalonia,3119231
 Lalín,Spain,Galicia,3119536
 Laguna de Duero,Spain,Castille and Leon,3119631
+La Felguera,Spain,Asturias,3119739
 A Estrada,Spain,Galicia,3119746
 A Coruña,Spain,Galicia,3119841
 Alameda de Osuna,Spain,Madrid,3120030
@@ -10306,6 +10347,7 @@ Newcastle under Lyme,United Kingdom,England,2641674
 Newbury,United Kingdom,England,2641689
 Newburn,United Kingdom,England,2641690
 Newark on Trent,United Kingdom,England,2641731
+Nether Edge,United Kingdom,England,2641783
 Neston,United Kingdom,England,2641795
 Nelson,United Kingdom,England,2641810
 Neath,United Kingdom,Wales,2641843
@@ -10985,6 +11027,7 @@ Accra,Ghana,Greater Accra,2306104
 Aburi,Ghana,Eastern,2306119
 Effiduase,Ghana,Ashanti,7281088
 Adenta,Ghana,Greater Accra,7648641
+Osu,Ghana,Greater Accra,8456972
 Awoshi,Ghana,Greater Accra,8457205
 New Achimota,Ghana,Greater Accra,8541923
 Tema New Town,Ghana,Greater Accra,11205476
@@ -16743,6 +16786,7 @@ Pongch’ŏn-ŭp,"Korea, Democratic People's Republic of",South Hwanghae,1871932
 Paech’ŏn-ŭp,"Korea, Democratic People's Republic of",South Hwanghae,1873014
 Ongjin,"Korea, Democratic People's Republic of",South Hwanghae,1873172
 Namp’o,"Korea, Democratic People's Republic of",Nampo,1873757
+Man’gyŏngdae-ri,"Korea, Democratic People's Republic of",Pyongyang,1874533
 Kwail-ŭp,"Korea, Democratic People's Republic of",South Hwanghae,1875060
 Kusŏng,"Korea, Democratic People's Republic of",P'yongan-bukto,1875107
 Kujang-ŭp,"Korea, Democratic People's Republic of",P'yongan-bukto,1875506
@@ -16751,6 +16795,7 @@ Kosan,"Korea, Democratic People's Republic of",Kangwon-do,1875632
 Kangnyŏng,"Korea, Democratic People's Republic of",South Hwanghae,1876124
 Kangdong-ŭp,"Korea, Democratic People's Republic of",Pyongyang,1876153
 Kaesŏng,"Korea, Democratic People's Republic of",Kaesong,1876373
+Kaech’ŏn,"Korea, Democratic People's Republic of",South Pyongan,1876401
 Hwangju-ŭp,"Korea, Democratic People's Republic of",North Hwanghae,1876873
 Hŭngnam,"Korea, Democratic People's Republic of",South Hamgyong,1877030
 Hŭkkyo-ri,"Korea, Democratic People's Republic of",North Hwanghae,1877046
@@ -17533,6 +17578,7 @@ Antsohimbondrona,Madagascar,Diana,1068955
 Antsohihy,Madagascar,Sofia,1068971
 Antsiranana,Madagascar,Diana,1069129
 Antsirabe,Madagascar,Vakinankaratra,1069166
+Antsalova,Madagascar,Melaky,1069579
 Antanifotsy,Madagascar,Vakinankaratra,1070661
 Antananarivo,Madagascar,Analamanga,1070940
 Antalaha,Madagascar,Sava,1071296
@@ -18483,6 +18529,7 @@ Pekan Nenas,Malaysia,Johor,1732706
 Pontian Besar,Malaysia,Johor,1732710
 Kampung Pasir Gudang Baru,Malaysia,Johor,1732721
 Pasir Gudang,Malaysia,Johor,1732722
+Kampung Larkin Lama,Malaysia,Johor,1732724
 Kampung Sedenak,Malaysia,Johor,1732734
 Kota Tinggi,Malaysia,Johor,1732738
 Taman Senai,Malaysia,Johor,1732741
@@ -18490,13 +18537,16 @@ Kulai,Malaysia,Johor,1732742
 Skudai,Malaysia,Johor,1732745
 Kempas,Malaysia,Johor,1732746
 Pelentong,Malaysia,Johor,1732747
+Masai,Malaysia,Johor,1732750
 Johor Bahru,Malaysia,Johor,1732752
 Gelang Patah,Malaysia,Johor,1732755
+Pengerang,Malaysia,Johor,1732785
 Kluang,Malaysia,Johor,1732811
 Yong Peng,Malaysia,Johor,1732814
 Mersing,Malaysia,Johor,1732826
 Segamat,Malaysia,Johor,1732846
 Tangkak,Malaysia,Johor,1732857
+Gerisek,Malaysia,Johor,1732858
 Pagoh,Malaysia,Johor,1732859
 Muar,Malaysia,Johor,1732869
 Bakri,Malaysia,Johor,1732871
@@ -18527,11 +18577,13 @@ Beaufort,Malaysia,Sabah,1733874
 Lahad Datu,Malaysia,Sabah,1733953
 Sandakan,Malaysia,Sabah,1734052
 Keningau,Malaysia,Sabah,1734098
+Bandar Nabawan,Malaysia,Sabah,1734114
 Tawau,Malaysia,Sabah,1734199
 Dungun,Malaysia,Terengganu,1734308
 Paka,Malaysia,Terengganu,1734313
 Kertih,Malaysia,Terengganu,1734316
 Gerik,Malaysia,Perak,1734372
+Lunas,Malaysia,Kedah,1734389
 Kulim,Malaysia,Kedah,1734393
 Selama,Malaysia,Perak,1734399
 Bandar Baharu,Malaysia,Kedah,1734407
@@ -18540,6 +18592,7 @@ Padang Serai,Malaysia,Kedah,1734418
 Bedong,Malaysia,Kedah,1734439
 Kampung Kupang,Malaysia,Kedah,1734444
 Pulai,Malaysia,Kedah,1734445
+Kampung Jeli,Malaysia,Kelantan,1734464
 Siburan,Malaysia,Sarawak,1734506
 Tebedu,Malaysia,Sarawak,1734537
 Bau,Malaysia,Sarawak,1734539
@@ -18549,6 +18602,7 @@ Batu Kurau,Malaysia,Perak,1734579
 Taiping,Malaysia,Perak,1734586
 Padang Rengas,Malaysia,Perak,1734594
 Kuala Kangsar,Malaysia,Perak,1734599
+Chemor,Malaysia,Perak,1734626
 Ipoh,Malaysia,Perak,1734634
 Lahat,Malaysia,Perak,1734637
 Gua Musang,Malaysia,Kelantan,1734651
@@ -18613,6 +18667,7 @@ Tapah Road,Malaysia,Perak,1735282
 Bidur,Malaysia,Perak,1735287
 Mukah,Malaysia,Sarawak,1735339
 Tatau,Malaysia,Sarawak,1735404
+Parit,Malaysia,Perak,1735433
 Lumut,Malaysia,Perak,1735450
 Sitiawan,Malaysia,Perak,1735453
 Teluk Intan,Malaysia,Perak,1735459
@@ -18636,6 +18691,7 @@ Changloon,Malaysia,Kedah,1736284
 Jitra,Malaysia,Kedah,1736302
 Kuala Kedah,Malaysia,Kedah,1736305
 Alor Setar,Malaysia,Kedah,1736309
+Tokai,Malaysia,Kedah,1736314
 Pokok Sena,Malaysia,Kedah,1736338
 Wakaf Baharu,Malaysia,Kelantan,1736366
 Pasir Mas,Malaysia,Kelantan,1736372
@@ -18687,6 +18743,7 @@ Kampung Sungai Glugur,Malaysia,Penang,1764027
 Kampung Sungai Ara,Malaysia,Penang,1764160
 Kampung Simpang Renggam,Malaysia,Johor,1764318
 Kampong Sidam,Malaysia,Kedah,1764375
+Kampung Selang,Malaysia,Johor,1764685
 Kampong Pangkal Kalong,Malaysia,Kelantan,1766249
 Kampung Minyak Beku,Malaysia,Johor,1766795
 Kampong Masjid Tanah,Malaysia,Melaka,1767021
@@ -18706,8 +18763,10 @@ Anak Bukit,Malaysia,Kedah,1771606
 Jelutong,Malaysia,Penang,1772808
 Jawi,Malaysia,Penang,1772983
 Cheras,Malaysia,Selangor,1777077
+Bukit Tengah,Malaysia,Penang,1778252
 Bukit Tambun,Malaysia,Penang,1778262
 Bukit Rambai,Malaysia,Melaka,1778290
+Bukit Gambir,Malaysia,Johor,1778385
 Kampung Bertam Ulu,Malaysia,Melaka,1779395
 Bentong Town,Malaysia,Pahang,1779790
 Kampung Batu Empat,Malaysia,Johor,1780841
@@ -18756,8 +18815,11 @@ Selangau,Malaysia,Sarawak,12547009
 Taman Petaling,Malaysia,Kuala Lumpur,12557764
 Elmina,Malaysia,Selangor,12622018
 Denai Alam,Malaysia,Selangor,12625525
+Tropicana Indah,Malaysia,Selangor,12625526
+Taman Greenwood,Malaysia,Selangor,12648574
 Taman Melati,Malaysia,Kuala Lumpur,12680194
 Ara Damansara,Malaysia,Selangor,12746668
+Desa Parkcity,Malaysia,Kuala Lumpur,12746672
 Kampung Setia,Malaysia,Selangor,12746683
 Mont Kiara,Malaysia,Kuala Lumpur,12750571
 Taman OUG,Malaysia,Kuala Lumpur,12750572
@@ -18795,6 +18857,15 @@ Bandar Tasik Puteri,Malaysia,Selangor,13118229
 Desa Petaling,Malaysia,Kuala Lumpur,13118230
 Bukit Kerinchi,Malaysia,Kuala Lumpur,13118231
 Titiwangsa,Malaysia,Kuala Lumpur,13118233
+Horizon Hills,Malaysia,Johor,13118269
+Bandar Putra Kulai,Malaysia,Johor,13118270
+Taman Scientex,Malaysia,Johor,13118271
+Bandar Seri Alam,Malaysia,Johor,13118272
+FELDA Chini,Malaysia,Pahang,13118274
+Bandar Baru Salak Tinggi,Malaysia,Selangor,13118276
+Bandar Utama,Malaysia,Kuala Lumpur,13118277
+Bukit Jalil,Malaysia,Kuala Lumpur,13118362
+Taman Desa,Malaysia,Kuala Lumpur,13118381
 Xai-Xai,Mozambique,Gaza Province,1024552
 Gorongosa,Mozambique,Sofala,1024680
 Vilankulo,Mozambique,Inhambane Province,1024683
@@ -19575,6 +19646,7 @@ Otara,New Zealand,Auckland,6232067
 Blockhouse Bay,New Zealand,Auckland,6232191
 New Lynn,New Zealand,Auckland,6232192
 Epsom,New Zealand,Auckland,6232235
+Mount Eden,New Zealand,Auckland,6232237
 Remuera,New Zealand,Auckland,6232305
 Massey East,New Zealand,Auckland,6232326
 Te Atatu South,New Zealand,Auckland,6232330
@@ -20270,6 +20342,7 @@ Apas,Philippines,Central Visayas,10628881
 General Salipada K. Pendatun,Philippines,Autonomous Region in Muslim Mindanao,13060471
 Bagong Silang,Philippines,Metro Manila,13060482
 Al-Barka,Philippines,Autonomous Region in Muslim Mindanao,13118057
+Mandaluyong,Philippines,Metro Manila,13118244
 Chuhar Jamali,Pakistan,Sindh,1108161
 Rawalakot,Pakistan,Azad Jammu and Kashmir(POK),1161983
 Pir Jo Goth,Pakistan,Sindh,1161991
@@ -20704,6 +20777,7 @@ Busko-Zdrój,Poland,Swietokrzyskie,774747
 Brzesko,Poland,Lesser Poland,775183
 Bochnia,Poland,Lesser Poland,775758
 Biłgoraj,Poland,Lublin,775922
+Bieńczyce,Poland,Lesser Poland,775984
 Bielsk Podlaski,Poland,Podlasie,775986
 Bielany,Poland,Mazovia,776029
 Białystok,Poland,Podlasie,776069
@@ -22883,6 +22957,7 @@ Zvolen,Slovakia,Banska Bystrica Region,3056459
 Zlaté Moravce,Slovakia,Nitra Region,3056495
 Žilina,Slovakia,Zilina Region,3056508
 Žiar nad Hronom,Slovakia,Banska Bystrica Region,3056523
+Vrakuňa,Slovakia,Bratislava Region,3056708
 Trnava,Slovakia,Trnava Region,3057124
 Trenčín,Slovakia,Trencin Region,3057140
 Stupava,Slovakia,Bratislava Region,3057384
@@ -22894,6 +22969,7 @@ Ružomberok,Slovakia,Zilina Region,3057789
 Púchov,Slovakia,Trencin Region,3057963
 Prievidza,Slovakia,Trencin Region,3058000
 Považská Bystrica,Slovakia,Trencin Region,3058060
+Podunajské Biskupice,Slovakia,Bratislava Region,3058117
 Piešťany,Slovakia,Trnava Region,3058202
 Pezinok,Slovakia,Bratislava Region,3058210
 Partizánske,Slovakia,Trencin Region,3058268
@@ -22907,10 +22983,12 @@ Liptovský Mikuláš,Slovakia,Zilina Region,3059050
 Levice,Slovakia,Nitra Region,3059101
 Kysucké Nové Mesto,Slovakia,Zilina Region,3059179
 Komárno,Slovakia,Nitra Region,3059436
+Karlova Ves,Slovakia,Bratislava Region,3059564
 Hlohovec,Slovakia,Trnava Region,3060095
 Handlová,Slovakia,Trencin Region,3060139
 Galanta,Slovakia,Trnava Region,3060219
 Dunajská Streda,Slovakia,Trnava Region,3060308
+Dúbravka,Slovakia,Bratislava Region,3060322
 Dubnica nad Váhom,Slovakia,Trencin Region,3060346
 Dolný Kubín,Slovakia,Zilina Region,3060405
 Čadca,Slovakia,Zilina Region,3060835
@@ -22918,6 +22996,8 @@ Brezno,Slovakia,Banska Bystrica Region,3060950
 Bratislava,Slovakia,Bratislava Region,3060972
 Banská Bystrica,Slovakia,Banska Bystrica Region,3061186
 Bánovce nad Bebravou,Slovakia,Trencin Region,3061188
+Devínska Nová Ves,Slovakia,Bratislava Region,3077170
+Dlhé diely,Slovakia,Bratislava Region,13118651
 Waterloo,Sierra Leone,Western Area,2403094
 Segbwema,Sierra Leone,Eastern Province,2404041
 Port Loko,Sierra Leone,North West,2404433
@@ -24007,13 +24087,18 @@ Arima,Trinidad and Tobago,Borough of Arima,3575051
 Funafuti,Tuvalu,Funafuti,2110394
 Douliu,"Taiwan, Province of China",Taiwan,1665196
 Yongkang,"Taiwan, Province of China",Taiwan,1665221
+Yongjing,"Taiwan, Province of China",Taiwan,1665259
 Yujing,"Taiwan, Province of China",Taiwan,1665357
 Yuanlin,"Taiwan, Province of China",Taiwan,1665443
 Yingge,"Taiwan, Province of China",Taipei,1665491
 Wufeng,"Taiwan, Province of China",Taiwan,1665892
+Citong,"Taiwan, Province of China",Taiwan,1666323
 Donggang,"Taiwan, Province of China",Taiwan,1666596
+Caotun,"Taiwan, Province of China",Taiwan,1666855
 Toufen,"Taiwan, Province of China",Taiwan,1667027
+Tianwei,"Taiwan, Province of China",Taiwan,1667121
 Tianzhong,"Taiwan, Province of China",Taiwan,1667471
+Danshui,"Taiwan, Province of China",Taipei,1667982
 Taitung,"Taiwan, Province of China",Taiwan,1668295
 Taipei,"Taiwan, Province of China",Taiwan,1668341
 Taibao,"Taiwan, Province of China",Taiwan,1668347
@@ -24021,27 +24106,34 @@ Tainan,"Taiwan, Province of China",Taiwan,1668355
 Taichung,"Taiwan, Province of China",Taiwan,1668399
 Daxi,"Taiwan, Province of China",Taiwan,1668467
 Shulin,"Taiwan, Province of China",Taipei,1668875
+Shetou,"Taiwan, Province of China",Taiwan,1669506
 Banqiao,"Taiwan, Province of China",Taipei,1670029
 Sanxia,"Taiwan, Province of China",Taipei,1670106
 Sanzhi,"Taiwan, Province of China",Taipei,1670157
 Buzi,"Taiwan, Province of China",Taiwan,1670264
 Budai,"Taiwan, Province of China",Taiwan,1670295
 Puli,"Taiwan, Province of China",Taiwan,1670310
+Pitou,"Taiwan, Province of China",Taiwan,1670436
+Beidou,"Taiwan, Province of China",Taiwan,1670697
 Beigang,"Taiwan, Province of China",Taiwan,1670826
 Bade,"Taiwan, Province of China",Taiwan,1670909
 Neihu,"Taiwan, Province of China",Taiwan,1671467
 Nantou,"Taiwan, Province of China",Taiwan,1671566
 Magong,"Taiwan, Province of China",Taiwan,1672228
 Lugu,"Taiwan, Province of China",Taiwan,1672551
+Linnei,"Taiwan, Province of China",Taiwan,1672869
 Kaohsiung,"Taiwan, Province of China",Takao,1673820
 Yilan,"Taiwan, Province of China",Taiwan,1674199
 Hualien City,"Taiwan, Province of China",Taiwan,1674504
 Hsinchu,"Taiwan, Province of China",Taiwan,1675151
+Jinhu,"Taiwan, Province of China",Fukien,1675170
 Xiluo,"Taiwan, Province of China",Taiwan,1675232
 Xihu,"Taiwan, Province of China",Taiwan,1675281
 Xizhi,"Taiwan, Province of China",Taipei,1675393
 Hengchun,"Taiwan, Province of China",Taiwan,1676242
+Xizhou,"Taiwan, Province of China",Taiwan,1676682
 Erlin,"Taiwan, Province of China",Taiwan,1676914
+Zhushan,"Taiwan, Province of China",Taiwan,1677099
 Jincheng,"Taiwan, Province of China",Fukien,1678008
 Keelung,"Taiwan, Province of China",Taiwan,1678228
 Chiayi City,"Taiwan, Province of China",Taiwan,1678836
