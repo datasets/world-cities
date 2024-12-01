@@ -137,7 +137,6 @@ Fier-Çifçi,Albania,Fier County,3185670
 Fier,Albania,Fier County,3185672
 Durrës,Albania,Durres County,3185728
 Berat,Albania,Berat County,3186084
-Babru,Albania,Tirana,3186169
 Kapan,Armenia,Syunik,174875
 Goris,Armenia,Syunik,174895
 Hats’avan,Armenia,Syunik,174972
@@ -547,7 +546,6 @@ Neubau,Austria,Vienna,12214072
 Josefstadt,Austria,Vienna,12214073
 Alsergrund,Austria,Vienna,12214080
 Brigittenau,Austria,Vienna,12214081
-Fischamend-Dorf,Austria,Lower Austria,13100272
 Scarborough,Australia,Western Australia,2061840
 Rockingham,Australia,Western Australia,2062338
 Perth,Australia,Western Australia,2063523
@@ -839,6 +837,7 @@ West Pennant Hills,Australia,New South Wales,9972964
 Melbourne City Centre,Australia,Victoria,11523810
 Adelaide city centre,Australia,South Australia,11523825
 Wollongong city centre,Australia,New South Wales,11523847
+Glen Waverly,Australia,Victoria,13118725
 Tanki Leendert,Aruba,,3577072
 San Nicolas,Aruba,,3577089
 Oranjestad,Aruba,,3577154
@@ -913,6 +912,7 @@ Sarajevo,Bosnia and Herzegovina,Federation of B&H,3191281
 Prijedor,Bosnia and Herzegovina,Srpska,3192409
 Mostar,Bosnia and Herzegovina,Federation of B&H,3194828
 Lukavac,Bosnia and Herzegovina,Federation of B&H,3196079
+Ilidža,Bosnia and Herzegovina,Federation of B&H,3199145
 Gradačac,Bosnia and Herzegovina,Federation of B&H,3199744
 Gračanica,Bosnia and Herzegovina,Federation of B&H,3199779
 Goražde,Bosnia and Herzegovina,Federation of B&H,3200396
@@ -1237,7 +1237,6 @@ Colfontaine,Belgium,Wallonia,2800220
 Chaudfontaine,Belgium,Wallonia,2800438
 Châtelineau,Belgium,Wallonia,2800445
 Châtelet,Belgium,Wallonia,2800448
-Chasse Royale,Belgium,Wallonia,2800461
 Charleroi,Belgium,Wallonia,2800481
 Brussels,Belgium,Brussels Capital,2800866
 Brugge,Belgium,Flanders,2800931
@@ -2754,6 +2753,7 @@ Ji Paraná,Brazil,Rondonia,3925033
 Jaru,Brazil,Rondonia,3925040
 Guajará Mirim,Brazil,Rondonia,3925075
 Cacoal,Brazil,Rondonia,3925212
+Açailândia,Brazil,Maranhao,6316298
 Aparecida de Goiânia,Brazil,Goias,6316406
 Campinas,Brazil,Santa Catarina,6316729
 Ermelino Matarazzo,Brazil,Sao Paulo,6317077
@@ -2774,7 +2774,6 @@ Tangará da Serra,Brazil,Mato Grosso,6318738
 Tucumã,Brazil,Para,6318807
 Vargem Grande Paulista,Brazil,Sao Paulo,6318864
 Xinguara,Brazil,Para,6318968
-Cambebba,Brazil,Ceara,6693804
 Barra da Tijuca,Brazil,Rio de Janeiro,7290718
 Tatuapé,Brazil,Sao Paulo,7292560
 Consolação,Brazil,Sao Paulo,7521912
@@ -5862,7 +5861,6 @@ Qingnian,China,Chongqing,12489814
 Shihao,China,Chongqing,12489815
 Yongcheng,China,Chongqing,12489817
 Zhuantang,China,Chongqing,12489819
-"Guiyang, Guizhou",China,Guizhou,12492648
 Longling County,China,Yunnan,12492660
 "Mianzhu, Deyang, Sichuan",China,Sichuan,12492662
 Pingwu County,China,Sichuan,12492669
@@ -6735,7 +6733,7 @@ Salzgitter,Germany,Lower Saxony,2842150
 Saarlouis,Germany,Saarland,2842632
 Saarbrücken,Germany,Saarland,2842647
 Saalfeld,Germany,Thuringia,2842688
-Rüsselsheim,Germany,Hesse,2842884
+Rüsselsheim am Main,Germany,Hesse,2842884
 Rummelsburg,Germany,Berlin,2843106
 Rudow,Germany,Berlin,2843350
 Rudolstadt,Germany,Thuringia,2843355
@@ -7094,7 +7092,7 @@ Illingen,Germany,Saarland,2896538
 Illertissen,Germany,Bavaria,2896546
 Idstein,Germany,Hesse,2896736
 Idar-Oberstein,Germany,Rheinland-Pfalz,2896753
-Ibbenbüren,Germany,North Rhine-Westphalia,2896817
+Ibbenbueren,Germany,North Rhine-Westphalia,2896817
 Husum,Germany,Schleswig-Holstein,2897132
 Hürth,Germany,North Rhine-Westphalia,2897216
 Hünfeld,Germany,Hesse,2897436
@@ -7573,7 +7571,6 @@ Bergedorf,Germany,Hamburg,7290243
 Spandau,Germany,Berlin,7290252
 Treptow,Germany,Berlin,7290255
 Niederrad,Germany,Hesse,7290401
-Haselbachtal,Germany,Saxony,7302786
 Wittenberg,Germany,Saxony-Anhalt,7303020
 Äußere Neustadt,Germany,Saxony,7627288
 Barmbek-Nord,Germany,Hamburg,7932342
@@ -7584,7 +7581,6 @@ Neu-Hohenschönhausen,Germany,Berlin,8334622
 Alt-Hohenschönhausen,Germany,Berlin,8334624
 Fennpfuhl,Germany,Berlin,8334625
 Hamburg-Nord,Germany,Hamburg,8354626
-Burg Unter-Falkenstein,Germany,Bavaria,8378906
 Neustadt/Nord,Germany,North Rhine-Westphalia,8593855
 Neustadt/Süd,Germany,North Rhine-Westphalia,8593856
 Kalk,Germany,North Rhine-Westphalia,8593861
@@ -7602,7 +7598,6 @@ Sachsenheim,Germany,Baden-Wurttemberg,11951298
 Petershausen-West,Germany,Baden-Wurttemberg,11952858
 Kronberg Tal,Germany,Hesse,12035575
 Remseck am Neckar,Germany,Baden-Wurttemberg,12188617
-Altstadt,Germany,Rheinland-Pfalz,12492033
 Tadjoura,Djibouti,Tadjourah,220782
 Obock,Djibouti,Obock,221527
 Djibouti,Djibouti,Djibouti,223817
@@ -8318,6 +8313,7 @@ An-Najaylah,Egypt,Matruh,12640361
 Ar-Rawḍah,Egypt,Damietta,12640363
 Ash-Shaykh Zāyid,Egypt,Giza,12640364
 Yūsuf aṣ-Ṣiddīq,Egypt,Faiyum,12640381
+New Bani Sewif City,Egypt,Beni Suweif,13118928
 Laayoune,Western Sahara,,2462881
 Boujdour,Western Sahara,,2463029
 Dakhla,Western Sahara,,2463447
@@ -9301,6 +9297,7 @@ Tuusula,Finland,Uusimaa,633591
 Turku,Finland,Southwest Finland,633679
 Tornio,Finland,Lapland,634093
 Tampere,Finland,Pirkanmaa,634963
+Taka-Töölö,Finland,Uusimaa,635080
 Siilinjärvi,Finland,North Savo,636947
 Sibbo,Finland,Uusimaa,637067
 Seinäjoki,Finland,South Ostrobothnia,637219
@@ -9312,18 +9309,22 @@ Rauma,Finland,Satakunta,639734
 Raisio,Finland,Southwest Finland,640124
 Raahe,Finland,North Ostrobothnia,640276
 Pori,Finland,Satakunta,640999
+Pitäjänmäki,Finland,Uusimaa,641374
 Pirkkala,Finland,Pirkanmaa,641489
+Oulunkylä,Finland,Uusimaa,643487
 Oulu,Finland,North Ostrobothnia,643492
 Nurmijärvi,Finland,Uusimaa,644171
 Nokia,Finland,Pirkanmaa,644450
 Munkkiniemi,Finland,Uusimaa,645691
 Mikkeli,Finland,South Savo,646005
 Mellunkylä,Finland,Uusimaa,646218
+Matinkylä,Finland,Uusimaa,646421
 Mäntsälä,Finland,Uusimaa,646723
 Lovisa,Finland,Uusimaa,647571
 Loimaa,Finland,Southwest Finland,647731
 Lohja,Finland,Uusimaa,647751
 Lieto,Finland,Southwest Finland,648056
+Leppävaara,Finland,Uusimaa,648232
 Lempäälä,Finland,Pirkanmaa,648366
 Lauttasaari,Finland,Uusimaa,648635
 Laukaa,Finland,Central Finland,648738
@@ -9355,17 +9356,29 @@ Imatra,Finland,South Karelia,656688
 Iisalmi,Finland,North Savo,656820
 Hyvinge,Finland,Uusimaa,656913
 Hollola,Finland,Paijat-Hame,657530
+Hervanta,Finland,Pirkanmaa,658120
+Herttoniemi,Finland,Uusimaa,658132
 Helsinki,Finland,Uusimaa,658225
 Heinola,Finland,Paijat-Hame,658288
 Haukipudas,Finland,North Ostrobothnia,658629
 Hamina,Finland,Kymenlaakso,659169
 Hämeenlinna,Finland,Kanta-Haeme,659180
+Haaga,Finland,Uusimaa,659717
 Forssa,Finland,Kanta-Haeme,659935
 Espoo,Finland,Uusimaa,660158
+Laajasalo,Finland,Uusimaa,660407
 Porvoo,Finland,Uusimaa,660561
 Anjala,Finland,Kymenlaakso,661164
+Viikki,Finland,Uusimaa,798763
+Olari,Finland,Uusimaa,843404
+Myyrmäki,Finland,Uusimaa,847422
+Suutarila,Finland,Uusimaa,847506
+Suurmetsä,Finland,Uusimaa,847507
+Pohjois-Hervanta,Finland,Pirkanmaa,6940573
+Espoonlahti,Finland,Uusimaa,7521636
 Väståboland,Finland,Southwest Finland,7911309
 Sastamala,Finland,Pirkanmaa,8198723
+Vartiokylä,Finland,Uusimaa,11962456
 East Helsinki,Finland,Uusimaa,12747032
 Suva,Fiji,Central,2198148
 Sigatoka,Fiji,Western,2198365
@@ -11234,6 +11247,7 @@ Péfki,Greece,Attica,8358562
 Agios Ioannis Rentis,Greece,Attica,8478257
 Néa Ionía,Greece,Thessaly,9034728
 Neapoli,Greece,Central Macedonia,11747175
+European Doctoral School,Greece,Attica,13132137
 Grytviken,South Georgia and the South Sandwich Islands,,3426466
 Zaragoza,Guatemala,Chimaltenango,3587543
 Zacapa,Guatemala,Zacapa,3587587
@@ -11735,6 +11749,7 @@ Wedi,Indonesia,Central Java,1621678
 Watampone,Indonesia,South Sulawesi,1621884
 Wangon,Indonesia,Central Java,1622090
 Wanaraja,Indonesia,West Java,1622138
+Wamena,Indonesia,Highland Papua,1622167
 Waisai,Indonesia,Southwest Papua,1622293
 Waingapu,Indonesia,East Nusa Tenggara,1622318
 Utan,Indonesia,Jakarta,1622552
@@ -13833,7 +13848,7 @@ Guru Har Sahāi,India,Punjab,1270612
 Gursarāi,India,Uttar Pradesh,1270618
 Gursahāiganj,India,Uttar Pradesh,1270619
 Gurmatkāl,India,Karnataka,1270627
-Gurgaon,India,Haryana,1270642
+Gurugram,India,Haryana,1270642
 Gunupur,India,Odisha,1270667
 Guntur,India,Andhra Pradesh,1270668
 Guntakal Junction,India,Andhra Pradesh,1270670
@@ -13859,6 +13874,7 @@ Gosāba,India,West Bengal,1270896
 Gorantla,India,Andhra Pradesh,1270923
 Gorakhpur,India,Haryana,1270926
 Gorakhpur,India,Uttar Pradesh,1270927
+Gorai,India,Maharashtra,1270937
 Gobichettipalayam,India,Tamil Nadu,1270947
 Gopālganj,India,Bihar,1270965
 Gondiā,India,Maharashtra,1270990
@@ -14057,7 +14073,6 @@ Deogarh,India,Odisha,1273246
 Deoband,India,Uttar Pradesh,1273265
 Denkanikota,India,Tamil Nadu,1273272
 Delhi,India,Delhi,1273294
-Dehri,India,Bihar,1273309
 Dehra Dūn,India,Uttarakhand,1273313
 Davangere,India,Karnataka,1273368
 Dausa,India,Rajasthan,1273369
@@ -15605,7 +15620,6 @@ Paolo VI,Italy,Apulia,8948709
 Corigliano Scalo,Italy,Calabria,9003711
 Stella,Italy,Campania,10294260
 San Carlo All'Arena,Italy,Campania,10295350
-bishopric of Perugia,Italy,Umbria,12032166
 Chiaia,Italy,Campania,12070058
 Chiaiano,Italy,Campania,12070059
 Vicaria,Italy,Campania,12070060
@@ -15727,6 +15741,7 @@ Tsubata,Japan,Ishikawa,1849782
 Tsubame,Japan,Niigata,1849788
 Tsu,Japan,Mie,1849796
 Toyota,Japan,Aichi,1849814
+Toyosu,Japan,Tokyo,1849815
 Toyoshina,Japan,Nagano,1849817
 Toyooka,Japan,Hyogo,1849831
 Toyonaka,Japan,Osaka,1849837
@@ -16015,6 +16030,7 @@ Kodamachō-kodamaminami,Japan,Saitama,1859113
 Kochi,Japan,Kochi,1859146
 Kobe,Japan,Hyogo,1859171
 Kobayashi,Japan,Miyazaki,1859175
+Kiyosu,Japan,Aichi,1859210
 Kitsuki,Japan,Oita,1859234
 Kitakyushu,Japan,Fukuoka,1859307
 Kitakata,Japan,Fukushima,1859319
@@ -16043,6 +16059,7 @@ Kashihara,Japan,Osaka,1859952
 Kaseda-shirakame,Japan,Kagoshima,1859964
 Kasaoka,Japan,Okayama,1859990
 Kasamatsuchō,Japan,Gifu,1859998
+Karuizawa,Japan,Nagano,1860026
 Kariya,Japan,Aichi,1860034
 Karatsu,Japan,Saga,1860063
 Kanzakimachi-kanzaki,Japan,Saga,1860095
@@ -16360,6 +16377,7 @@ Ami,Japan,Ibaraki,2113115
 Akita,Japan,Akita,2113126
 Abiko,Japan,Chiba,2113164
 Motomachi,Japan,Hokkaido,2127383
+Yakumo,Japan,Hokkaido,2127478
 Wakkanai,Japan,Hokkaido,2127515
 Tomakomai,Japan,Hokkaido,2127733
 Tōbetsu,Japan,Hokkaido,2127802
@@ -16379,6 +16397,7 @@ Otaru,Japan,Hokkaido,2128574
 Ōdate,Japan,Akita,2128787
 Obihiro,Japan,Hokkaido,2128815
 Noshiro,Japan,Akita,2128867
+Noboribetsu,Japan,Hokkaido,2128894
 Nemuro,Japan,Hokkaido,2128975
 Nayoro,Japan,Hokkaido,2128983
 Honchō,Japan,Hokkaido,2129003
@@ -16446,6 +16465,7 @@ Miyakojima,Japan,Okinawa,6822158
 Fujimino,Japan,Saitama,6822159
 Hidaka,Japan,Saitama,6822161
 Iruma,Japan,Saitama,6822163
+Kitamoto,Japan,Saitama,6822164
 Sōsa,Japan,Chiba,6822167
 Sōma,Japan,Fukushima,6822169
 Kinokawa,Japan,Wakayama,6822171
@@ -16453,7 +16473,9 @@ Kumano,Japan,Mie,6822172
 Nasushiobara,Japan,Tochigi,6822174
 Shimotsuke,Japan,Tochigi,6822175
 Inzai,Japan,Chiba,6822179
+Rikuzen-Takata,Japan,Iwate,6822185
 Hachimantai,Japan,Iwate,6822186
+Ninohe,Japan,Iwate,6822187
 Ōsaki,Japan,Miyagi,6822188
 Higashimatsushima,Japan,Miyagi,6822189
 Kurihara,Japan,Miyagi,6822190
@@ -16484,6 +16506,7 @@ Tainai,Japan,Niigata,6825493
 Uonuma,Japan,Niigata,6825494
 Habikino,Japan,Osaka,6825496
 Hannan,Japan,Osaka,6825497
+Kawachi-Nagano,Japan,Osaka,6825498
 Hokuto,Japan,Hokkaido,6862586
 Saitama,Japan,Saitama,6940394
 Higashimurayama,Japan,Tokyo,7279570
@@ -16497,6 +16520,10 @@ Ikebukuro,Japan,Tokyo,7522199
 Kamigyō-ku,Japan,Kyoto,8125829
 Buzen,Japan,Fukuoka,8198709
 Washinomiya,Japan,Saitama,8572218
+Nukui,Japan,Tokyo,8572754
+Sakai,Japan,Tokyo,8572855
+Akatsuka,Japan,Tokyo,8572948
+Narimasu,Japan,Tokyo,8572949
 Ukima,Japan,Tokyo,8572992
 Nagasaki,Japan,Tokyo,8573184
 Sugamo,Japan,Tokyo,8573188
@@ -16504,21 +16531,26 @@ Kamiigusa,Japan,Tokyo,8573577
 Shimoigusa,Japan,Tokyo,8573717
 Eifuku,Japan,Tokyo,8573723
 Wakabayashi,Japan,Tokyo,8576449
+Nakanobu,Japan,Tokyo,8576480
+Ebara,Japan,Tokyo,8576482
 Nakano,Japan,Tokyo,8715035
 Kanmaki,Japan,Nara,9633110
 Sue,Japan,Fukuoka,10267168
 Fujiyoshida,Japan,Yamanashi,10629856
 Shonai,Japan,Yamagata,10630004
 Yomitan,Japan,Okinawa,10860988
+Togoshi,Japan,Tokyo,10865210
 Shimo’ochiai,Japan,Tokyo,10865987
 Yoyogi,Japan,Tokyo,10866689
 Ebisu,Japan,Tokyo,10866730
+Minaminagareyama,Japan,Chiba,10926134
 Ōjima,Japan,Tokyo,10963038
 Matsubushi,Japan,Saitama,10979195
 Eniwa,Japan,Hokkaido,11127679
 Minami-Alps,Japan,Yamanashi,11205269
 Arao,Japan,Kumamoto,11274040
 Miyota,Japan,Nagano,11350714
+Ukiha,Japan,Fukuoka,11397285
 Iga,Japan,Mie,11468270
 Kuwana,Japan,Mie,11468429
 Hokuto,Japan,Yamanashi,11524139
@@ -16529,6 +16561,7 @@ Yamato,Japan,Kanagawa,11611478
 Tachikawa,Japan,Tokyo,11611487
 Saito,Japan,Miyazaki,11611608
 Sagamihara,Japan,Kanagawa,11611609
+Nagakute,Japan,Aichi,11611613
 Mitoyo,Japan,Kagawa,11611615
 Kunitachi,Japan,Tokyo,11611617
 Hyūga,Japan,Miyazaki,11611625
@@ -16541,12 +16574,14 @@ Arida,Japan,Wakayama,11611643
 Aira,Japan,Kagoshima,11611646
 Kodaira,Japan,Tokyo,11611930
 Katō,Japan,Hyogo,11611935
+Mine,Japan,Yamaguchi,11611936
 Kiyose,Japan,Tokyo,11611938
 Tome,Japan,Miyagi,11611941
 Kamagaya,Japan,Chiba,11611942
 Bizen,Japan,Okayama,11611946
 Etajima,Japan,Hiroshima,11611950
 Iki,Japan,Nagasaki,11612327
+Nankoku,Japan,Kochi,11612330
 Aki-takata,Japan,Hiroshima,11612331
 Kai,Japan,Yamanashi,11612336
 Sakura,Japan,Tochigi,11612337
@@ -16575,10 +16610,12 @@ Shūnan,Japan,Yamaguchi,11612583
 Chūō,Japan,Yamanashi,11612585
 Fuefuki,Japan,Yamanashi,11612588
 Kōshū,Japan,Yamanashi,11612589
+Unnan,Japan,Shimane,11612633
 Ichikikushikino,Japan,Kagoshima,11612692
 Semboku,Japan,Akita,11612707
 Akihabara,Japan,Tokyo,11790367
 Agano,Japan,Niigata,11837950
+Ranzan,Japan,Saitama,13118912
 Wote,Kenya,Makueni County,178077
 Webuye,Kenya,Bungoma County,178202
 Watamu,Kenya,Kilifi County,178245
@@ -16975,6 +17012,7 @@ Naesŏ,"Korea, Republic of",Gyeongsangnam-do,1925936
 Hwawŏn,"Korea, Republic of",Daegu,1925943
 Gwangmyeong,"Korea, Republic of",Gyeonggi-do,1948005
 Sinan,"Korea, Republic of",Jeollanam-do,6395804
+Uiwang,"Korea, Republic of",Gyeonggi-do,6573901
 Seogwipo,"Korea, Republic of",Jeju-do,6621166
 Changnyeong,"Korea, Republic of",Gyeongsangnam-do,6903078
 Sejong,"Korea, Republic of",Sejong-si,11523293
@@ -17001,17 +17039,17 @@ Ar Rābiyah,Kuwait,Al Asimah,388065
 West Bay,Cayman Islands,West Bay,3580477
 George Town,Cayman Islands,George Town,3580661
 Zhanaozen,Kazakhstan,Mangghystau,607610
-Shalqar,Kazakhstan,Aqtobe,608359
+Shalqar,Kazakhstan,Aktyubinskaya Oblast',608359
 Shalkar,Kazakhstan,Atyrau Oblisi,608362
 Oral,Kazakhstan,Batys Qazaqstan,608668
-Kandyagash,Kazakhstan,Aqtobe,608679
+Kandyagash,Kazakhstan,Aktyubinskaya Oblast',608679
 Qulsary,Kazakhstan,Atyrau Oblisi,609123
-Khromtau,Kazakhstan,Aqtobe,609404
+Khromtau,Kazakhstan,Aktyubinskaya Oblast',609404
 Karagandy,Kazakhstan,Karaganda,609655
-Embi,Kazakhstan,Aqtobe,609924
+Embi,Kazakhstan,Aktyubinskaya Oblast',609924
 Balykshi,Kazakhstan,Atyrau Oblisi,610445
 Atyrau,Kazakhstan,Atyrau Oblisi,610529
-Aktobe,Kazakhstan,Aqtobe,610611
+Aktobe,Kazakhstan,Aktyubinskaya Oblast',610611
 Shevchenko,Kazakhstan,Mangghystau,610612
 Aqsay,Kazakhstan,Batys Qazaqstan,610613
 Altay,Kazakhstan,East Kazakhstan,1516438
@@ -17773,7 +17811,7 @@ Nay Pyi Taw,Myanmar,Nay Pyi Taw,6611854
 Kyain Seikgyi Township,Myanmar,Kayin State,11810635
 Uliastay,Mongolia,Dzabkhan,1515007
 Ulaangom,Mongolia,Uvs Province,1515029
-Ölgii,Mongolia,Bayan-Olgiy,1515436
+Ölgii,Mongolia,Bayan-OElgii Province,1515436
 Khovd,Mongolia,Hovd,1516048
 Altai,Mongolia,Govi-Altai Province,1516393
 Ulan Bator,Mongolia,Ulaanbaatar,2028462
@@ -17781,7 +17819,7 @@ Tsetserleg,Mongolia,Arkhangai Province,2028606
 Sühbaatar,Mongolia,Selenge Province,2029156
 Undurkhaan,Mongolia,Hentiy,2029656
 Mörön,Mongolia,Khoevsgoel Province,2029945
-Hovd,Mongolia,OEvoerhangay,2030474
+Bogd,Mongolia,OEvoerhangay,2030474
 Erdenet,Mongolia,Orhon,2031405
 Dzuunmod,Mongolia,Central Aimak,2031517
 Dzüünharaa,Mongolia,Selenge Province,2031533
@@ -18521,6 +18559,7 @@ Maran,Malaysia,Pahang,1732637
 Raub,Malaysia,Pahang,1732663
 Bentung,Malaysia,Pahang,1732667
 Tanjong Malim,Malaysia,Perak,1732672
+Kuala Kubu Baharu,Malaysia,Selangor,1732676
 Parit Sulung,Malaysia,Johor,1732680
 Batu Pahat,Malaysia,Johor,1732687
 Parit Raja,Malaysia,Johor,1732698
@@ -18744,6 +18783,7 @@ Kampung Sungai Ara,Malaysia,Penang,1764160
 Kampung Simpang Renggam,Malaysia,Johor,1764318
 Kampong Sidam,Malaysia,Kedah,1764375
 Kampung Selang,Malaysia,Johor,1764685
+Pendang,Malaysia,Kedah,1765769
 Kampong Pangkal Kalong,Malaysia,Kelantan,1766249
 Kampung Minyak Beku,Malaysia,Johor,1766795
 Kampong Masjid Tanah,Malaysia,Melaka,1767021
@@ -18806,6 +18846,7 @@ Iskandar Puteri,Malaysia,Johor,10063567
 Putra Heights,Malaysia,Selangor,10792382
 Kajang,Malaysia,Selangor,10941913
 Bukit Bintang,Malaysia,Kuala Lumpur,11054399
+Bandar Sunway,Malaysia,Selangor,11054411
 Bandar Puncak Alam,Malaysia,Selangor,11429145
 Kota Damansara,Malaysia,Selangor,12514556
 Damansara Damai,Malaysia,Selangor,12514620
@@ -19116,6 +19157,7 @@ Jalingo,Nigeria,Taraba State,2336589
 Iwo,Nigeria,Osun State,2336905
 Itu,Nigeria,Akwa Ibom State,2336985
 Isieke,Nigeria,Ebonyi State,2337148
+Iseyin,Nigeria,Oyo State,2337181
 Ise-Ekiti,Nigeria,Ekiti State,2337207
 Isanlu-Itedoijowa,Nigeria,Kogi State,2337235
 Irewe,Nigeria,Lagos,2337313
@@ -19656,7 +19698,6 @@ Rotorua,New Zealand,Bay of Plenty,6241325
 Blenheim,New Zealand,Marlborough,6243926
 Upper Hutt,New Zealand,Wellington Region,6244895
 Te Aro,New Zealand,Wellington Region,10173827
-Linton Military Camp,New Zealand,Manawatu-Wanganui,11903546
 Sur,Oman,Southeastern Governorate,286245
 Sohar,Oman,Al Batinah North,286282
 Sufālat Samā’il,Oman,Ad Dakhiliyah,286293
@@ -20661,6 +20702,8 @@ Setharja Old,Pakistan,Sindh,1412008
 Sook Kalan,Pakistan,Punjab,1412851
 Risalpur Cantonment,Pakistan,Khyber Pakhtunkhwa,1448637
 Malakwal City,Pakistan,Punjab,6457378
+Arif Wala,Pakistan,Balochistan,11250625
+Wah Cantt,Pakistan,Punjab,11785389
 Żyrardów,Poland,Mazovia,752967
 Żoliborz,Poland,Mazovia,753142
 Zielonka,Poland,Mazovia,753276
@@ -20800,6 +20843,7 @@ Zakopane,Poland,Lesser Poland,3080866
 Żagań,Poland,Lubusz,3080944
 Zabrze,Poland,Silesia,3080985
 Ząbkowice Śląskie,Poland,Lower Silesia,3081046
+Wrzeszcz,Poland,Pomerania,3081318
 Września,Poland,Greater Poland,3081324
 Wrocław,Poland,Lower Silesia,3081368
 Wodzisław Śląski,Poland,Silesia,3081677
@@ -20874,6 +20918,7 @@ Ozorków,Poland,Lodz Voivodeship,3089582
 Oświęcim,Poland,Lesser Poland,3089658
 Ostrów Wielkopolski,Poland,Greater Poland,3089684
 Ostróda,Poland,Warmia-Masuria,3089779
+Osowa,Poland,Pomerania,3089823
 Orzesze,Poland,Silesia,3089965
 Opole,Poland,Opole Voivodeship,3090048
 Olkusz,Poland,Lesser Poland,3090146
@@ -20990,6 +21035,13 @@ Ursynów,Poland,Mazovia,6545326
 Praga Północ,Poland,Mazovia,6545347
 Praga Południe,Poland,Mazovia,6545348
 Jelcz Laskowice,Poland,Lower Silesia,7303641
+Chełm,Poland,Pomerania,8426032
+Piecki-Migowo,Poland,Pomerania,8426039
+Przymorze Wielkie,Poland,Pomerania,8426041
+Środmieście,Poland,Pomerania,8426045
+Ujeścisko-Łostowice,Poland,Pomerania,8426046
+Wrzeszcz Dolny,Poland,Pomerania,8426048
+Wrzeszcz Górny,Poland,Pomerania,8426050
 Świerczewo,Poland,West Pomerania,8426094
 Osiedle Kosmonautów,Poland,Lower Silesia,12047617
 Rejon placu Grunwaldzkiego,Poland,Lower Silesia,12047623
@@ -21244,6 +21296,7 @@ Parque das Nações,Portugal,Lisbon,11886964
 Cidade Universitária,Portugal,Lisbon,12776117
 Campo De Ourique,Portugal,Lisbon,12777908
 Ngerulmud,Palau,Melekeok,8063361
+Yby Yaú,Paraguay,Concepcion,3436622
 Villarrica,Paraguay,Guaira,3436714
 Villa Hayes,Paraguay,Presidente Hayes,3436725
 Villa Elisa,Paraguay,Central Department,3436728
@@ -23368,6 +23421,7 @@ Ko Samui,Thailand,Surat Thani,1154689
 Ban Pong,Thailand,Ratchaburi,1155139
 Ban Na San,Thailand,Surat Thani,1156046
 Ban Na,Thailand,Sukhothai,1156257
+Ban Kamala,Thailand,Phuket,1157266
 Bang Saphan,Thailand,Prachuap Khiri Khan,1157662
 Bang Phae,Thailand,Ratchaburi,1157683
 Nong Kung Si,Thailand,Kalasin,1595679
@@ -23692,7 +23746,6 @@ Turgutlu,Türkiye,Manisa,298806
 Tunceli,Türkiye,Tunceli,298846
 Torbalı,Türkiye,Izmir Province,298935
 Tire,Türkiye,Izmir Province,299137
-Tekirova,Türkiye,Antalya,299445
 Tavşanlı,Türkiye,Kuetahya,299545
 Tatvan,Türkiye,Bitlis,299582
 Tarsus,Türkiye,Mersin,299817
@@ -23774,6 +23827,7 @@ Kırşehir,Türkiye,Kirsehir,307515
 Kırkağaç,Türkiye,Manisa,307623
 Kırıkkale,Türkiye,Kirikkale,307654
 Kırıkhan,Türkiye,Hatay,307657
+Kireçocağı,Türkiye,Adana,307677
 Kilis,Türkiye,Kilis,307864
 Keskin,Türkiye,Kirikkale,308024
 Kemer,Türkiye,Antalya,308220
@@ -23813,6 +23867,7 @@ Gaziantep,Türkiye,Gaziantep,314830
 Foça,Türkiye,Izmir Province,314903
 Fethiye,Türkiye,Mugla,314967
 Ezine,Türkiye,Canakkale,315061
+Etlik,Türkiye,Ankara,315153
 Eskişehir,Türkiye,Eskisehir,315202
 Erzurum,Türkiye,Erzurum,315368
 Erzincan,Türkiye,Erzincan,315373
@@ -24066,6 +24121,7 @@ Sultangazi,Türkiye,Istanbul,7628416
 Sultanbeyli,Türkiye,Istanbul,7628419
 Sancaktepe,Türkiye,Istanbul,7628420
 Karabağlar,Türkiye,Izmir Province,7701384
+İncirli,Türkiye,Ankara,7926667
 Oba,Türkiye,Antalya,8068982
 Cikcilli,Türkiye,Antalya,8069036
 Muratpaşa,Türkiye,Antalya,8074174
@@ -28078,6 +28134,7 @@ Quva,Uzbekistan,Fergana,1526979
 Sultonobod,Uzbekistan,Andijan Region,1538533
 Vatican City,Holy See (Vatican City State),,6691831
 Kingstown,Saint Vincent and the Grenadines,Saint George Parish,3577887
+Calliaqua,Saint Vincent and the Grenadines,Saint George Parish,3748746
 La Asunción,"Venezuela, Bolivarian Republic of",Nueva Esparta,3480908
 Anaco,"Venezuela, Bolivarian Republic of",Anzoategui,3486270
 Alto Barinas,"Venezuela, Bolivarian Republic of",Barinas,3487903
@@ -28305,6 +28362,7 @@ Thành Phố Uông Bí,Viet Nam,Quang Ninh,1563241
 Tuy Hòa,Viet Nam,Phu Yen Province,1563281
 Tuyên Quang,Viet Nam,Tuyen Quang Province,1563287
 Trà Vinh,Viet Nam,Tra Vinh Province,1563926
+Thủ Đức,Viet Nam,Ho Chi Minh,1565019
 Thủ Dầu Một,Viet Nam,Binh Duong Province,1565022
 Thốt Nốt,Viet Nam,Can Tho,1565136
 Thới Lai,Viet Nam,Can Tho,1565157
@@ -28359,6 +28417,7 @@ Hà Đông,Viet Nam,Hanoi,1581364
 Gò Công,Viet Nam,Tien Giang,1581529
 Gia Nghĩa,Viet Nam,GJak Nong Province,1581834
 Đưc Trọng,Viet Nam,Lam GJong Province,1582173
+Đố Sơn,Viet Nam,Haiphong,1582367
 Đồng Xoài,Viet Nam,Binh Phuoc Province,1582436
 Đồng Hới,Viet Nam,Quang Binh Province,1582886
 Ðông Hà,Viet Nam,Quang Tri Province,1582926
@@ -28395,10 +28454,18 @@ Bạc Liêu,Viet Nam,Bac Lieu Province,1591474
 Bắc Giang,Viet Nam,Bac Giang Province,1591527
 Bắc Kạn,Viet Nam,Bac Kan Province,1591538
 Cung Kiệm,Viet Nam,Bac Ninh Province,8340760
+Lai Châu,Viet Nam,Lai Chau Province,8456741
 Bình Minh,Viet Nam,Vinh Long Province,8539621
+Hoàn Kiếm,Viet Nam,Hanoi,8616124
 Ea Drăng,Viet Nam,GJak Lak,8724987
 Đinh Văn,Viet Nam,Lam GJong Province,8991407
 Vĩnh Thạnh,Viet Nam,Can Tho,9533392
+Quận Bốn,Viet Nam,Ho Chi Minh,9645071
+Quận Sáu,Viet Nam,Ho Chi Minh,9645072
+Quận Năm,Viet Nam,Ho Chi Minh,9645073
+Quận Mười Một,Viet Nam,Ho Chi Minh,9645084
+Quận Mười,Viet Nam,Ho Chi Minh,9645085
+Quận Ba,Viet Nam,Ho Chi Minh,9645086
 Thị Trấn Tân Thành,Viet Nam,GJong Thap Province,12061022
 Quận Đức Thịnh,Viet Nam,GJong Thap Province,12166273
 Quận Đức Thành,Viet Nam,GJong Thap Province,12166275
@@ -28487,6 +28554,7 @@ Ulundi,South Africa,KwaZulu-Natal,946257
 Kariega,South Africa,Eastern Cape,946877
 Ugie,South Africa,Eastern Cape,946932
 Tzaneen,South Africa,Limpopo,946973
+Tokoza,South Africa,Gauteng,948542
 Thohoyandou,South Africa,Limpopo,949224
 Theunissen,South Africa,Free State,949282
 Thaba Nchu,South Africa,Free State,949703
@@ -28622,6 +28690,7 @@ Balfour,South Africa,Mpumalanga,1021396
 Allanridge,South Africa,Free State,1023287
 Aliwal North,South Africa,Eastern Cape,1023309
 Alice,South Africa,Eastern Cape,1023332
+Alexandra,South Africa,Gauteng,1023374
 Alberton,South Africa,Gauteng,1023441
 Ekangala,South Africa,Gauteng,1105726
 Midrand,South Africa,Gauteng,1105776
@@ -28641,11 +28710,14 @@ Grabouw,South Africa,Western Cape,3367513
 Ceres,South Africa,Western Cape,3369129
 Cape Town,South Africa,Western Cape,3369157
 Atlantis,South Africa,Western Cape,3370352
+Athlone,South Africa,Western Cape,3370356
 Rondebosch,South Africa,Western Cape,7302802
 Midstream,South Africa,Gauteng,8030233
 Retreat,South Africa,Western Cape,8604596
 Diepsloot,South Africa,Gauteng,8764562
-Riverlea,South Africa,Gauteng,11205175
+Etwatwa,South Africa,Gauteng,11204106
+Ivory Park,South Africa,Gauteng,11204237
+Ntuzuma,South Africa,KwaZulu-Natal,11205667
 Lebohang,South Africa,Mpumalanga,11428880
 Ndevana,South Africa,Eastern Cape,12718754
 Tshiame,South Africa,Free State,12718756
