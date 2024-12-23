@@ -139,23 +139,33 @@ Durrës,Albania,Durres County,3185728
 Berat,Albania,Berat County,3186084
 Kapan,Armenia,Syunik,174875
 Goris,Armenia,Syunik,174895
-Hats’avan,Armenia,Syunik,174972
 Artashat,Armenia,Ararat,174979
 Ararat,Armenia,Ararat,174991
 Yerevan,Armenia,Yerevan,616052
 Vagharshapat,Armenia,Armavir,616062
-Stepanavan,Armenia,Lori,616194
-Spitak,Armenia,Lori,616199
 Sevan,Armenia,Gegharkunik,616250
 Masis,Armenia,Ararat,616435
 Vanadzor,Armenia,Lori,616530
 Gavar,Armenia,Gegharkunik,616599
+Ijevan,Armenia,Tavush,616627
 Hrazdan,Armenia,Kotayk,616629
 Armavir,Armenia,Armavir,616631
 Gyumri,Armenia,Shirak,616635
-Ch’arents’avan,Armenia,Kotayk,616785
+Dilijan,Armenia,Tavush,616752
+Davtashen,Armenia,Yerevan,616758
+Charentsavan,Armenia,Kotayk,616785
+Avan,Armenia,Yerevan,616864
 Ashtarak,Armenia,Aragatsotn,616877
+Artik,Armenia,Shirak,616887
 Abovyan,Armenia,Kotayk,617026
+Erebuni,Armenia,Yerevan,866152
+Nor Nork,Armenia,Yerevan,866153
+Ajapnyak,Armenia,Yerevan,866164
+Kanaker-Zeytun,Armenia,Yerevan,7647071
+Malatia-Sebastia,Armenia,Yerevan,7670934
+Kentron,Armenia,Yerevan,7670941
+Shengavit,Armenia,Yerevan,11111027
+Arabkir,Armenia,Yerevan,13156582
 Saurimo,Angola,Lunda Sul,145531
 Lucapa,Angola,Luanda Norte,145724
 Dundo,Angola,Luanda Norte,145757
@@ -4842,7 +4852,7 @@ Hezuo,China,Gansu,1808181
 Heze,China,Shandong,1808198
 Hechuan,China,Chongqing,1808212
 Hetoudian,China,Shandong,1808249
-Yiyang,China,Hunan,1808316
+Heshan,China,Hunan,1808316
 Hepo,China,Guangdong,1808336
 Hengyang,China,Hunan,1808370
 Hengshui,China,Hebei,1808392
@@ -6532,6 +6542,7 @@ Westerstede,Germany,Lower Saxony,2810188
 Westend,Germany,Berlin,2810538
 Wesseling,Germany,North Rhine-Westphalia,2810612
 Wesel,Germany,North Rhine-Westphalia,2810678
+Petersberg,Germany,Hesse,2810706
 Wertheim,Germany,Baden-Wurttemberg,2810716
 Wersten,Germany,North Rhine-Westphalia,2810730
 Wernigerode,Germany,Saxony-Anhalt,2810808
@@ -11247,7 +11258,6 @@ Péfki,Greece,Attica,8358562
 Agios Ioannis Rentis,Greece,Attica,8478257
 Néa Ionía,Greece,Thessaly,9034728
 Neapoli,Greece,Central Macedonia,11747175
-European Doctoral School,Greece,Attica,13132137
 Grytviken,South Georgia and the South Sandwich Islands,,3426466
 Zaragoza,Guatemala,Chimaltenango,3587543
 Zacapa,Guatemala,Zacapa,3587587
@@ -12488,7 +12498,7 @@ Sunel,India,Rajasthan,1255425
 Sundarnagar,India,Himachal Pradesh,1255434
 Sundargarh,India,Odisha,1255437
 Sunām,India,Punjab,1255449
-Sulya,India,Karnataka,1255482
+Sullia,India,Karnataka,1255482
 Sūlūru,India,Andhra Pradesh,1255483
 Sulur,India,Tamil Nadu,1255484
 Sultanpur,India,Punjab,1255488
@@ -13756,7 +13766,7 @@ Islāmnagar,India,Uttar Pradesh,1269670
 Irugūr,India,Tamil Nadu,1269690
 Irinjālakuda,India,Kerala,1269693
 Iringal,India,Kerala,1269694
-Ingrāj Bāzār,India,West Bengal,1269723
+English Bazar,India,West Bengal,1269723
 Indri,India,Haryana,1269731
 Indore,India,Madhya Pradesh,1269743
 Indi,India,Karnataka,1269751
@@ -13784,7 +13794,7 @@ Hoshiārpur,India,Punjab,1269937
 Narmadapuram,India,Madhya Pradesh,1269939
 Hosdurga,India,Karnataka,1269943
 Honnāli,India,Karnataka,1269970
-Honavar,India,Karnataka,1269976
+Honnavar,India,Karnataka,1269976
 Homnābād,India,Karnataka,1269979
 Hole Narsipur,India,Karnataka,1269985
 Holalkere,India,Karnataka,1269990
@@ -14111,7 +14121,7 @@ Cuncolim,India,Goa,1273793
 Cumbum,India,Andhra Pradesh,1273795
 Kadapa,India,Andhra Pradesh,1273800
 Cuddalore,India,Tamil Nadu,1273802
-Coondapoor,India,Karnataka,1273834
+Kundapura,India,Karnataka,1273834
 Colonelganj,India,Uttar Pradesh,1273850
 Colgong,India,Bihar,1273856
 Calangute,India,Goa,1273858
@@ -14777,7 +14787,7 @@ An Nu‘mānīyah,Iraq,Wasit,98846
 Nasiriyah,Iraq,Dhi Qar,98854
 Najaf,Iraq,An Najaf,98860
 ‘Anat al Qadīmah,Iraq,Al Anbar,98885
-Imam Qasim,Iraq,Babil,99010
+al-Qasim,Iraq,Babil,99010
 Al Musayyib,Iraq,Babil,99039
 Al Mishkhāb,Iraq,An Najaf,99060
 Al Miqdādīyah,Iraq,Diyala,99062
@@ -15710,8 +15720,11 @@ Yamaguchi,Japan,Yamaguchi,1848689
 Yamaga,Japan,Kumamoto,1848705
 Yaizu,Japan,Shizuoka,1848774
 Yaita,Japan,Tochigi,1848776
+Yae,Japan,Hiroshima,1848825
 Yabu,Japan,Hyogo,1848852
 Wakimachi,Japan,Tokushima,1848933
+Wadayama,Japan,Hyogo,1848991
+Uwa,Japan,Ehime,1849038
 Utsunomiya,Japan,Tochigi,1849053
 Uto,Japan,Kumamoto,1849069
 Utazu,Japan,Kagawa,1849073
@@ -15736,7 +15749,9 @@ Tsurugi-asahimachi,Japan,Ishikawa,1849584
 Tsuruga,Japan,Fukui,1849592
 Tsuma,Japan,Miyazaki,1849647
 Tsukumiura,Japan,Oita,1849661
+Tsukiyono,Japan,Gunma,1849675
 Tsukawaki,Japan,Oita,1849706
+Tsuiki,Japan,Fukuoka,1849729
 Tsubata,Japan,Ishikawa,1849782
 Tsubame,Japan,Niigata,1849788
 Tsu,Japan,Mie,1849796
@@ -15799,6 +15814,7 @@ Takamatsu,Japan,Kagawa,1851100
 Takaishi,Japan,Osaka,1851125
 Takahashi,Japan,Okayama,1851137
 Takahama,Japan,Aichi,1851155
+Takada,Japan,Gifu,1851169
 Bungo-Takada-shi,Japan,Oita,1851170
 Tajimi,Japan,Gifu,1851193
 Tahara,Japan,Aichi,1851259
@@ -15830,6 +15846,7 @@ Shiojiri,Japan,Nagano,1852003
 Shinshiro,Japan,Aichi,1852046
 Shin’ichi,Japan,Hiroshima,1852102
 Shingū,Japan,Fukuoka,1852109
+Shimo-tsuma,Japan,Ibaraki,1852163
 Shimosuwa,Japan,Nagano,1852192
 Shimonoseki,Japan,Yamaguchi,1852225
 Shimodate,Japan,Ibaraki,1852347
@@ -15847,6 +15864,8 @@ Shibata,Japan,Niigata,1852607
 Seto,Japan,Aichi,1852663
 Setakamachi-takayanagi,Japan,Fukuoka,1852673
 Satsumasendai,Japan,Kagoshima,1852736
+Sekimachi,Japan,Gifu,1852775
+Sayō,Japan,Hyogo,1852831
 Satte,Japan,Saitama,1852849
 Sasebo,Japan,Nagasaki,1852899
 Sasayama,Japan,Hyogo,1852901
@@ -15902,6 +15921,7 @@ Ojiya,Japan,Niigata,1854444
 Ogōri-shimogō,Japan,Yamaguchi,1854629
 Ogikubo,Japan,Tokyo,1854648
 Ogawa,Japan,Saitama,1854665
+Ogawa,Japan,Aichi,1854667
 Ōgaki,Japan,Gifu,1854703
 Odawara,Japan,Kanagawa,1854747
 Ōdachō-ōda,Japan,Shimane,1854774
@@ -15911,14 +15931,16 @@ Obama,Japan,Fukui,1854849
 Nyūzen,Japan,Toyama,1854868
 Numazu,Japan,Shizuoka,1854902
 Numata,Japan,Gunma,1854905
+Higashinozoe,Japan,Hyogo,1854923
 Nonoichi,Japan,Ishikawa,1854979
 Nōgata,Japan,Fukuoka,1855066
 Noda,Japan,Chiba,1855078
 Nobeoka,Japan,Miyazaki,1855095
 Nishiwaki,Japan,Hyogo,1855134
+Nishitawara,Japan,Hyogo,1855153
 Nishio,Japan,Aichi,1855189
 Nishinoomote,Japan,Kagoshima,1855203
-Nishinomiya-hama,Japan,Hyogo,1855207
+Nishinomiya,Japan,Hyogo,1855207
 Nirasaki,Japan,Yamanashi,1855363
 Ninomiya,Japan,Kanagawa,1855380
 Nikkō,Japan,Tochigi,1855395
@@ -15954,6 +15976,7 @@ Muramatsu,Japan,Niigata,1856426
 Murakami,Japan,Niigata,1856434
 Mukō,Japan,Kyoto,1856456
 Muikamachi,Japan,Niigata,1856476
+Morowa,Japan,Aichi,1856545
 Morohongō,Japan,Saitama,1856560
 Moriyama,Japan,Shiga,1856569
 Moriguchi,Japan,Osaka,1856584
@@ -16001,6 +16024,7 @@ Kushimoto,Japan,Wakayama,1858033
 Kushikino,Japan,Kagoshima,1858041
 Kusatsu,Japan,Shiga,1858067
 Kurume,Japan,Fukuoka,1858088
+Kurono,Japan,Gifu,1858187
 Kuroda,Japan,Aichi,1858249
 Kurihashi,Japan,Saitama,1858283
 Kurihama,Japan,Kanagawa,1858286
@@ -16011,6 +16035,7 @@ Kumamoto,Japan,Kumamoto,1858421
 Kumagaya,Japan,Saitama,1858428
 Kukichūō,Japan,Saitama,1858445
 Kudamatsu,Japan,Yamaguchi,1858498
+Kōzan,Japan,Hiroshima,1858579
 Kozakai-chō,Japan,Aichi,1858591
 Koshigaya,Japan,Saitama,1858729
 Kōnosu,Japan,Saitama,1858794
@@ -16049,6 +16074,7 @@ Kawaminami,Japan,Miyazaki,1859688
 Kawaguchi,Japan,Saitama,1859730
 Kawagoe,Japan,Saitama,1859740
 Katsuyama,Japan,Fukui,1859765
+Kasumi,Japan,Hyogo,1859882
 Kasukabe,Japan,Saitama,1859884
 Kasugai,Japan,Aichi,1859891
 Kashiwazaki,Japan,Niigata,1859908
@@ -16077,6 +16103,7 @@ Kamogatachō-kamogata,Japan,Okayama,1860335
 Kamo,Japan,Niigata,1860341
 Kamirenjaku,Japan,Tokyo,1860437
 Kaminokawa,Japan,Tochigi,1860458
+Kamikoizumi,Japan,Gunma,1860523
 Kamiichi,Japan,Toyama,1860563
 Kamigōri,Japan,Hyogo,1860588
 Kameyama,Japan,Mie,1860626
@@ -16086,9 +16113,11 @@ Kamakura,Japan,Kanagawa,1860672
 Kakogawachō-honmachi,Japan,Hyogo,1860704
 Kakegawa,Japan,Shizuoka,1860728
 Kakamigahara,Japan,Gifu,1860735
+Kajiya,Japan,Hyogo,1860742
 Kashima-shi,Japan,Ibaraki,1860748
 Kajiki,Japan,Kagoshima,1860750
 Kaizuka,Japan,Osaka,1860765
+Kaitaichi,Japan,Hiroshima,1860772
 Kainan,Japan,Wakayama,1860785
 Kagoshima,Japan,Kagoshima,1860827
 Kadoma,Japan,Osaka,1860871
@@ -16128,14 +16157,17 @@ Ina,Japan,Nagano,1861641
 Imarichō-kō,Japan,Saga,1861677
 Imaichi,Japan,Tochigi,1861699
 Ikoma,Japan,Nara,1861749
+Ikeno,Japan,Gifu,1861772
 Ikeda,Japan,Osaka,1861795
 Ikedachō,Japan,Tokushima,1861799
+Ikaruga,Japan,Hyogo,1861816
 Ijūin,Japan,Kagoshima,1861825
 Iizuka,Japan,Fukuoka,1861835
 Iiyama,Japan,Nagano,1861838
 Iida,Japan,Nagano,1861864
 Ichinomiya,Japan,Aichi,1861949
 Ibusuki,Japan,Kagoshima,1862010
+Ibi,Japan,Gifu,1862026
 Ibaraki,Japan,Osaka,1862033
 Ibara,Japan,Okayama,1862034
 Hotaka,Japan,Nagano,1862098
@@ -16191,7 +16223,7 @@ Gōdo,Japan,Gifu,1863611
 Gobō,Japan,Wakayama,1863614
 Gion,Japan,Hiroshima,1863620
 Ginowan,Japan,Okinawa,1863627
-Gifu-shi,Japan,Gifu,1863641
+Gifu,Japan,Gifu,1863641
 Gamagōri,Japan,Aichi,1863693
 Futtsu,Japan,Chiba,1863713
 Honchō,Japan,Chiba,1863905
@@ -16224,7 +16256,9 @@ Chigasaki,Japan,Kanagawa,1864624
 Chichibu,Japan,Saitama,1864637
 Chatan,Japan,Okinawa,1864652
 Beppu,Japan,Oita,1864750
+Bange,Japan,Fukushima,1864808
 Ayabe,Japan,Kyoto,1864873
+Awara,Japan,Fukui,1864894
 Atami,Japan,Shizuoka,1864945
 Ashiya,Japan,Hyogo,1864985
 Ashikaga,Japan,Tochigi,1865005
@@ -16243,6 +16277,7 @@ Akune,Japan,Kagoshima,1865401
 Kariya,Japan,Hyogo,1865412
 Aki,Japan,Kochi,1865449
 Akasaka,Japan,Tokyo,1865522
+Akaike,Japan,Fukuoka,1865570
 Aioi,Japan,Hyogo,1865661
 Ageoshimo,Japan,Saitama,1865714
 Okinawa,Japan,Okinawa,1894616
@@ -16268,10 +16303,13 @@ Masaki-chō,Japan,Ehime,1926101
 Kawanoechō,Japan,Ehime,1926116
 Imabari,Japan,Ehime,1926134
 Hōjō,Japan,Ehime,1926142
+Mishōhirajō,Japan,Ehime,1926143
+Haramachi,Japan,Ehime,1926150
 Yuzawa,Japan,Akita,2110460
 Yotsukaidō,Japan,Chiba,2110480
 Yonezawa,Japan,Yamagata,2110498
 Yokote,Japan,Akita,2110506
+Yokoshiba,Japan,Chiba,2110509
 Yōkaichiba,Japan,Chiba,2110518
 Yanagawamachi-saiwaichō,Japan,Fukushima,2110538
 Yamoto,Japan,Miyagi,2110541
@@ -16282,7 +16320,7 @@ Yabuki,Japan,Fukushima,2110583
 Watari,Japan,Miyagi,2110586
 Wakuya,Japan,Miyagi,2110596
 Ushiku,Japan,Ibaraki,2110629
-Tsukuba,Japan,Ibaraki,2110683
+Tsukuba,Japan,Ibaraki,2110681
 Toride,Japan,Ibaraki,2110729
 Tōno,Japan,Iwate,2110735
 Tomobe,Japan,Ibaraki,2110743
@@ -16303,6 +16341,8 @@ Sawara,Japan,Chiba,2111173
 Sakura,Japan,Chiba,2111220
 Sagae,Japan,Yamagata,2111248
 Ryūgasaki,Japan,Ibaraki,2111258
+Ryōgoku,Japan,Chiba,2111268
+Rokugō,Japan,Akita,2111272
 Rifu,Japan,Miyagi,2111277
 Ōtawara,Japan,Tochigi,2111325
 Ōmiya,Japan,Ibaraki,2111425
@@ -16335,6 +16375,7 @@ Mashiko,Japan,Tochigi,2111999
 Makuhari,Japan,Chiba,2112016
 Makabe,Japan,Ibaraki,2112019
 Kuroiso,Japan,Tochigi,2112077
+Kumakura,Japan,Fukushima,2112108
 Kōriyama,Japan,Fukushima,2112141
 Kogota,Japan,Miyagi,2112182
 Kitakami,Japan,Iwate,2112227
@@ -16353,11 +16394,14 @@ Iwase,Japan,Ibaraki,2112521
 Iwanuma,Japan,Miyagi,2112527
 Iwaki,Japan,Fukushima,2112539
 Itako,Japan,Ibaraki,2112555
+Ishitsuka,Japan,Ibaraki,2112570
 Ishioka,Japan,Ibaraki,2112571
 Ishinomaki,Japan,Miyagi,2112576
 Ishikawa,Japan,Fukushima,2112583
+Inada,Japan,Ibaraki,2112624
 Ichinoseki,Japan,Iwate,2112656
 Ichihara,Japan,Chiba,2112664
+Hokota,Japan,Ibaraki,2112688
 Hobaramachi,Japan,Fukushima,2112692
 Hitachi,Japan,Ibaraki,2112708
 Higashine,Japan,Yamagata,2112758
@@ -16367,14 +16411,17 @@ Furukawa,Japan,Miyagi,2112899
 Funehikimachi-funehiki,Japan,Fukushima,2112903
 Funaishikawa,Japan,Ibaraki,2112913
 Fukushima,Japan,Fukushima,2112923
+Fukawa,Japan,Ibaraki,2112932
 Fujishiro,Japan,Ibaraki,2112940
 Edosaki,Japan,Ibaraki,2112963
 Date,Japan,Fukushima,2112980
 Daigo,Japan,Ibaraki,2112989
+Choshi,Japan,Chiba,2112996
 Chiba,Japan,Chiba,2113015
 Asahi,Japan,Chiba,2113077
 Ami,Japan,Ibaraki,2113115
 Akita,Japan,Akita,2113126
+Ajiki,Japan,Chiba,2113149
 Abiko,Japan,Chiba,2113164
 Motomachi,Japan,Hokkaido,2127383
 Yakumo,Japan,Hokkaido,2127478
@@ -16390,6 +16437,7 @@ Shiraoi,Japan,Hokkaido,2128072
 Shimo-furano,Japan,Hokkaido,2128147
 Minamishibetsuchō,Japan,Hokkaido,2128205
 Shibetsu,Japan,Hokkaido,2128206
+Sarubetsu,Japan,Hokkaido,2128279
 Sapporo,Japan,Hokkaido,2128295
 Rumoi,Japan,Hokkaido,2128382
 Otofuke,Japan,Hokkaido,2128558
@@ -16404,9 +16452,11 @@ Honchō,Japan,Hokkaido,2129003
 Namioka,Japan,Aomori,2129005
 Nakashibetsu,Japan,Hokkaido,2129034
 Muroran,Japan,Hokkaido,2129101
+Moritake,Japan,Akita,2129138
 Mombetsu,Japan,Hokkaido,2129163
 Misawa,Japan,Aomori,2129211
 Yoichi,Japan,Hokkaido,2129218
+Memuro-minami,Japan,Hokkaido,2129262
 Makubetsu,Japan,Hokkaido,2129324
 Kutchan,Japan,Hokkaido,2129365
 Kushiro,Japan,Hokkaido,2129376
@@ -16417,12 +16467,15 @@ Kitami,Japan,Hokkaido,2129537
 Kamiiso,Japan,Hokkaido,2129766
 Iwamizawa,Japan,Hokkaido,2129870
 Ishikari,Japan,Hokkaido,2129909
+Hitokawame,Japan,Aomori,2130050
 Kitahiroshima,Japan,Hokkaido,2130054
 Hirosaki,Japan,Aomori,2130057
 Hanawa,Japan,Akita,2130146
 Hakodate,Japan,Hokkaido,2130188
 Hachinohe,Japan,Aomori,2130203
+Furano,Japan,Hokkaido,2130306
 Fukagawa,Japan,Hokkaido,2130332
+Engaru,Japan,Hokkaido,2130387
 Ebetsu,Japan,Hokkaido,2130404
 Date,Japan,Hokkaido,2130421
 Chitose,Japan,Hokkaido,2130452
@@ -16437,9 +16490,16 @@ Kachidoki,Japan,Tokyo,6419355
 Nanto-shi,Japan,Toyama,6694821
 Kawage,Japan,Mie,6696932
 Neyagawa,Japan,Osaka,6697563
+Owariasahi,Japan,Aichi,6698269
 Hitachi-Naka,Japan,Ibaraki,6822096
 Chikusei,Japan,Ibaraki,6822097
+Kasumigaura,Japan,Ibaraki,6822098
 Tsuchiura,Japan,Ibaraki,6822099
+Tsukubamirai,Japan,Ibaraki,6822100
+Omitama,Japan,Ibaraki,6822101
+Hitachiomiya,Japan,Ibaraki,6822102
+Kamisu,Japan,Ibaraki,6822103
+Namegata,Japan,Ibaraki,6822104
 Bandō,Japan,Ibaraki,6822106
 Hitachi-ota,Japan,Ibaraki,6822107
 Inashiki,Japan,Ibaraki,6822108
@@ -16458,8 +16518,10 @@ Tonami,Japan,Toyama,6822139
 Kaga,Japan,Ishikawa,6822141
 Matsuura,Japan,Nagasaki,6822144
 Ōnojō,Japan,Fukuoka,6822146
+Kasuga,Japan,Fukuoka,6822147
 Aizu-Wakamatsu,Japan,Fukushima,6822148
 Minami-Sōma,Japan,Fukushima,6822149
+Jōsō,Japan,Ibaraki,6822154
 Midori,Japan,Gunma,6822155
 Miyakojima,Japan,Okinawa,6822158
 Fujimino,Japan,Saitama,6822159
@@ -16467,12 +16529,16 @@ Hidaka,Japan,Saitama,6822161
 Iruma,Japan,Saitama,6822163
 Kitamoto,Japan,Saitama,6822164
 Sōsa,Japan,Chiba,6822167
+Sanmu,Japan,Chiba,6822168
 Sōma,Japan,Fukushima,6822169
+Tamura,Japan,Fukushima,6822170
 Kinokawa,Japan,Wakayama,6822171
 Kumano,Japan,Mie,6822172
 Nasushiobara,Japan,Tochigi,6822174
 Shimotsuke,Japan,Tochigi,6822175
 Inzai,Japan,Chiba,6822179
+Isumi,Japan,Chiba,6822180
+Yachiyo,Japan,Chiba,6822182
 Rikuzen-Takata,Japan,Iwate,6822185
 Hachimantai,Japan,Iwate,6822186
 Ninohe,Japan,Iwate,6822187
@@ -16484,19 +16550,26 @@ Izu,Japan,Shizuoka,6822192
 Kikugawa,Japan,Shizuoka,6822193
 Kosai,Japan,Shizuoka,6822194
 Susono,Japan,Shizuoka,6822195
+Nikaho,Japan,Akita,6822198
 Daisen,Japan,Akita,6822199
+Oga,Japan,Akita,6822201
 Yurihonjō,Japan,Akita,6822202
+Katagami,Japan,Akita,6822203
 Kita-Akita,Japan,Akita,6822204
+Tsugaru,Japan,Aomori,6822205
 Hirakawa,Japan,Aomori,6822206
 Towada,Japan,Aomori,6822207
 Kitanagoya,Japan,Aichi,6822208
 Nisshin,Japan,Aichi,6822209
+Toyoake,Japan,Aichi,6822210
 Chita,Japan,Aichi,6822211
+Aisai,Japan,Aichi,6822212
 Yamagata,Japan,Gifu,6822213
 Hashima,Japan,Gifu,6822214
 Kaizu,Japan,Gifu,6822215
 Kani,Japan,Gifu,6822216
 Minokamo,Japan,Gifu,6822217
+Motosu,Japan,Gifu,6822218
 Gujō,Japan,Gifu,6822219
 Ena,Japan,Gifu,6822220
 Jōetsu,Japan,Niigata,6825489
@@ -16516,9 +16589,14 @@ Kirishima,Japan,Kagoshima,7303138
 Arashiyama,Japan,Kyoto,7303471
 Dazaifu,Japan,Fukuoka,7422816
 Amakusa,Japan,Kumamoto,7424125
+Aizu-misato Machi,Japan,Fukushima,7451505
 Ikebukuro,Japan,Tokyo,7522199
 Kamigyō-ku,Japan,Kyoto,8125829
 Buzen,Japan,Fukuoka,8198709
+Miyako,Japan,Fukuoka,8224001
+Hakurōmachi,Japan,Aomori,8312260
+Toyota,Japan,Aomori,8395439
+Nanaku,Japan,Aomori,8561397
 Washinomiya,Japan,Saitama,8572218
 Nukui,Japan,Tokyo,8572754
 Sakai,Japan,Tokyo,8572855
@@ -16534,8 +16612,21 @@ Wakabayashi,Japan,Tokyo,8576449
 Nakanobu,Japan,Tokyo,8576480
 Ebara,Japan,Tokyo,8576482
 Nakano,Japan,Tokyo,8715035
+Yamaguma,Japan,Fukuoka,9017898
+Ōwa,Japan,Gunma,9188982
+Ogura,Japan,Gunma,9190392
+Kimokawa,Japan,Hyogo,9290061
 Kanmaki,Japan,Nara,9633110
+Iijima,Japan,Fukui,9865313
+Katanawa,Japan,Fukuoka,9888360
 Sue,Japan,Fukuoka,10267168
+Wakasugi,Japan,Fukuoka,10267209
+Minamichita,Japan,Aichi,10300676
+Yurigaoka,Japan,Fukuoka,10310759
+Koga,Japan,Fukuoka,10311179
+Miyaodai,Japan,Fukuoka,10311204
+Inokura,Japan,Fukuoka,10311513
+Kami,Japan,Fukuoka,10353044
 Fujiyoshida,Japan,Yamanashi,10629856
 Shonai,Japan,Yamagata,10630004
 Yomitan,Japan,Okinawa,10860988
@@ -16556,30 +16647,41 @@ Kuwana,Japan,Mie,11468429
 Hokuto,Japan,Yamanashi,11524139
 Himi,Japan,Toyama,11611221
 Takizawa,Japan,Iwate,11611224
+Tōon,Japan,Ehime,11611474
 Yasu,Japan,Shiga,11611475
+Yame,Japan,Fukuoka,11611476
 Yamato,Japan,Kanagawa,11611478
+Takasago,Japan,Hyogo,11611486
 Tachikawa,Japan,Tokyo,11611487
 Saito,Japan,Miyazaki,11611608
 Sagamihara,Japan,Kanagawa,11611609
+Ogōri,Japan,Fukuoka,11611610
 Nagakute,Japan,Aichi,11611613
+Munakata,Japan,Fukuoka,11611614
 Mitoyo,Japan,Kagawa,11611615
 Kunitachi,Japan,Tokyo,11611617
 Hyūga,Japan,Miyazaki,11611625
 Sakai,Japan,Fukui,11611626
+Higashihiroshima,Japan,Hiroshima,11611627
 Higashikurume,Japan,Tokyo,11611628
 Hamura,Japan,Tokyo,11611629
 Fuchū,Japan,Tokyo,11611632
+Chikugo,Japan,Fukuoka,11611638
 Ayase,Japan,Kanagawa,11611642
 Arida,Japan,Wakayama,11611643
 Aira,Japan,Kagoshima,11611646
+Ama,Japan,Aichi,11611659
 Kodaira,Japan,Tokyo,11611930
 Katō,Japan,Hyogo,11611935
 Mine,Japan,Yamaguchi,11611936
+Hida,Japan,Gifu,11611937
 Kiyose,Japan,Tokyo,11611938
+Yatomi,Japan,Aichi,11611940
 Tome,Japan,Miyagi,11611941
 Kamagaya,Japan,Chiba,11611942
 Bizen,Japan,Okayama,11611946
 Etajima,Japan,Hiroshima,11611950
+Tatsuno,Japan,Hyogo,11612326
 Iki,Japan,Nagasaki,11612327
 Nankoku,Japan,Kochi,11612330
 Aki-takata,Japan,Hiroshima,11612331
@@ -16587,16 +16689,25 @@ Kai,Japan,Yamanashi,11612336
 Sakura,Japan,Tochigi,11612337
 Awaji,Japan,Hyogo,11612338
 Warabi,Japan,Saitama,11612339
+Miyoshi,Japan,Aichi,11612340
+Itoshima,Japan,Fukuoka,11612341
 Akiruno,Japan,Tokyo,11612343
+Shikokuchūō,Japan,Ehime,11612345
 Narashino,Japan,Chiba,11612347
+Minamibōsō,Japan,Chiba,11612454
+Ōamishirasato,Japan,Chiba,11612455
 Sodegaura,Japan,Chiba,11612456
 Echizen,Japan,Fukui,11612457
+Miyama,Japan,Fukuoka,11612459
+Miyawaka,Japan,Fukuoka,11612460
 Shirakawa,Japan,Fukushima,11612472
 Mizuho,Japan,Gifu,11612473
+Shibetsu,Japan,Hokkaido,11612476
 Kasai,Japan,Hyogo,11612478
 Minamiawaji,Japan,Hyogo,11612479
 Shisō,Japan,Hyogo,11612481
 Tanba,Japan,Hyogo,11612482
+Tōkai,Japan,Aichi,11612537
 Higashikagawa,Japan,Kagawa,11612539
 Kōshi,Japan,Kumamoto,11612553
 Uki,Japan,Kumamoto,11612554
@@ -16612,10 +16723,32 @@ Fuefuki,Japan,Yamanashi,11612588
 Kōshū,Japan,Yamanashi,11612589
 Unnan,Japan,Shimane,11612633
 Ichikikushikino,Japan,Kagoshima,11612692
+Fukutsu,Japan,Fukuoka,11612700
+Asakura,Japan,Fukuoka,11612701
 Semboku,Japan,Akita,11612707
+Tokai,Japan,Ibaraki,11776897
+Haruta,Japan,Aichi,11777018
+Agui,Japan,Aichi,11777075
+Kaminoma,Japan,Aichi,11777085
+Uchiko,Japan,Ehime,11777417
 Akihabara,Japan,Tokyo,11790367
+Shime,Japan,Fukuoka,11809770
+Ichikawa,Japan,Chiba,11837657
 Agano,Japan,Niigata,11837950
 Ranzan,Japan,Saitama,13118912
+Toyoyama,Japan,Aichi,13132738
+Ōguchi,Japan,Aichi,13132739
+Fusō,Japan,Aichi,13132740
+Kōta,Japan,Aichi,13132741
+Ōharu,Japan,Aichi,13132743
+Hirokawa,Japan,Fukuoka,13132744
+Ginan,Japan,Gifu,13132762
+Kumano,Japan,Hiroshima,13132764
+Fuchū,Japan,Hiroshima,13132765
+Inami,Japan,Hyogo,13132797
+Tamba-Sasayama,Japan,Hyogo,13132798
+Tamba,Japan,Hyogo,13132799
+Yachiyo,Japan,Ibaraki,13132800
 Wote,Kenya,Makueni County,178077
 Webuye,Kenya,Bungoma County,178202
 Watamu,Kenya,Kilifi County,178245
@@ -22703,7 +22836,7 @@ Raḩīmah,Saudi Arabia,Eastern Province,102985
 Rābigh,Saudi Arabia,Mecca Region,103035
 Qal‘at Bīshah,Saudi Arabia,'Asir Region,103369
 Najrān,Saudi Arabia,Najran Region,103630
-Mecca,Saudi Arabia,Mecca Region,104515
+Makkah,Saudi Arabia,Mecca Region,104515
 Mahd adh Dhahab,Saudi Arabia,Medina Region,104578
 Khulayş,Saudi Arabia,Mecca Region,104923
 Khamis Mushait,Saudi Arabia,'Asir Region,105072
@@ -22762,32 +22895,48 @@ Bariq,Saudi Arabia,'Asir Region,12495725
 Sarāt ‘Abīdah,Saudi Arabia,'Asir Region,12500245
 Honiara,Solomon Islands,Honiara,2108502
 Victoria,Seychelles,La Riviere Anglaise,241131
-Zalingei,Sudan,Central Darfur,363533
+Dongola,Sudan,Northern State,363417
+Zalinguei,Sudan,Central Darfur,363533
 Wad Medani,Sudan,Al Jazirah,364103
+Umm Shawkah,Sudan,Sinnar,364621
 Umm Ruwaba,Sudan,North Kordofan,364706
 Omdurman,Sudan,Khartoum,365137
+Tullus,Sudan,Southern Darfur,365641
 Tokār,Sudan,Red Sea,366323
 Tandaltī,Sudan,White Nile,366426
+Sinkat,Sudan,Red Sea,366846
 Singa,Sudan,Sinnar,366847
 Shendi,Sudan,River Nile,367308
-Sawākin,Sudan,Red Sea,367544
+Suakin,Sudan,Red Sea,367544
 Sinnar,Sudan,Sinnar,367644
+Rufā‘a,Sudan,Al Jazirah,367972
+Rahad al Bardi,Sudan,Southern Darfur,368230
 Rabak,Sudan,White Nile,368277
 Nyala,Sudan,Southern Darfur,369004
+Mellit,Sudan,Northern Darfur,370181
 Maiurno,Sudan,Sinnar,370838
+Kutum,Sudan,Northern Darfur,371745
 Kosti,Sudan,White Nile,371760
 Kuraymah,Sudan,Northern State,371870
 Kināna,Sudan,Sinnar,372386
+Khashm al Qirbah,Sudan,Al Qadarif,372527
 Kassala,Sudan,Kassala,372753
+Kas,Sudan,Southern Darfur,372773
 Kadugli,Sudan,Southern Kordofan,373141
+Kabkābīyah,Sudan,Northern Darfur,373198
+Jubayt,Sudan,Red Sea,373296
+New Halfa,Sudan,Kassala,374272
+Ghubaysh,Sudan,West Kordofan State,374866
 Doka,Sudan,Al Qadarif,376332
 Dilling,Sudan,Southern Kordofan,376450
 Port Sudan,Sudan,Red Sea,377039
+Burām,Sudan,Southern Darfur,377108
 Berber,Sudan,River Nile,377690
 Bārah,Sudan,North Kordofan,377724
+Babanūsah,Sudan,West Kordofan State,377962
 Atbara,Sudan,River Nile,378231
 As Sūkī,Sudan,Sinnar,378271
-Ar Ruseris,Sudan,Blue Nile,378459
+Er Roseires,Sudan,Blue Nile,378459
 Ar Rahad,Sudan,North Kordofan,378493
 An Nuhūd,Sudan,West Kordofan State,378699
 El Obeid,Sudan,North Kordofan,379003
@@ -22795,11 +22944,14 @@ Al Qiţena,Sudan,White Nile,379014
 Al Qadarif,Sudan,Al Qadarif,379062
 Al Mijlad,Sudan,West Kordofan State,379102
 Al Manāqil,Sudan,Al Jazirah,379149
+Khartoum North,Sudan,Khartoum,379251
 Khartoum,Sudan,Khartoum,379252
+El Geneina Fort,Sudan,Western Darfur,379302
 Geneina,Sudan,Western Darfur,379303
 Al Hilāliyya,Sudan,Al Jazirah,379406
 Al Ḩawātah,Sudan,Al Qadarif,379416
 Al Hasaheisa,Sudan,Al Jazirah,379427
+Al Fūlah,Sudan,Southern Kordofan,379535
 El Fasher,Sudan,Northern Darfur,379555
 El Bauga,Sudan,River Nile,379630
 Ad Douiem,Sudan,White Nile,380129
@@ -22810,6 +22962,13 @@ Ad-Damazin,Sudan,Blue Nile,380174
 Abū Zabad,Sudan,West Kordofan State,380348
 Abu Jibeha,Sudan,Southern Kordofan,380757
 Gereida,Sudan,Southern Darfur,8504621
+Al Jazeera Aba,Sudan,White Nile,12493849
+Ad-Dindar,Sudan,Sinnar,13132448
+Al-Fashaqah,Sudan,Al Qadarif,13132449
+Al-Fāw,Sudan,Al Qadarif,13132450
+Al-Quṭaynah,Sudan,White Nile,13132451
+'Ārdamatā,Sudan,Western Darfur,13132452
+Sh'īarīah,Sudan,Eastern Darfur,13132453
 Umeå,Sweden,Vaesterbotten,602150
 Skellefteå,Sweden,Vaesterbotten,602913
 Piteå,Sweden,Norrbotten,603570
@@ -23347,6 +23506,7 @@ Port-aux-Français,French Southern Territories,Kerguelen,1546102
 Vogan,Togo,Maritime,2363490
 Tsévié,Togo,Maritime,2363534
 Tchamba,Togo,Centrale,2363908
+Tabligbo,Togo,Maritime,2364041
 Sotouboua,Togo,Centrale,2364079
 Sokodé,Togo,Centrale,2364104
 Notsé,Togo,Plateaux,2364752
@@ -23361,6 +23521,7 @@ Bassar,Togo,Kara,2367568
 Bafilo,Togo,Kara,2367656
 Badou,Togo,Plateaux,2367660
 Atakpamé,Togo,Plateaux,2367886
+Anié,Togo,Plateaux,2367981
 Aného,Togo,Maritime,2367990
 Ban Talat Yai,Thailand,Phuket,1117652
 Ban Talat Nua,Thailand,Phuket,1117656
@@ -23648,22 +23809,37 @@ Gowurdak,Turkmenistan,Lebap,1219392
 Türkmenabat,Turkmenistan,Lebap,1219649
 Bayramaly,Turkmenistan,Mary,1219762
 Gazojak,Turkmenistan,Lebap,1514792
+Zaouiet Sousse,Tunisia,Sousse Governorate,2463941
 Zaghouan,Tunisia,Zaghouan Governorate,2464041
 Oued Lill,Tunisia,Manouba,2464168
+Moularès,Tunisia,Gafsa,2464378
 Tunis,Tunisia,Tunis Governorate,2464470
+Tinja,Tunisia,Bizerte Governorate,2464522
 Tozeur,Tunisia,Tozeur Governorate,2464648
 Tataouine,Tunisia,Tataouine,2464701
 Thala,Tunisia,Kasserine Governorate,2464795
 Takelsa,Tunisia,Nabeul Governorate,2464804
 Tajerouine,Tunisia,Kef Governorate,2464809
+Tebourba,Tunisia,Manouba,2464858
+Teboulbou,Tunisia,Gabes Governorate,2464860
+Teboulba,Tunisia,Monastir Governorate,2464861
+Tabarka,Tunisia,Jendouba Governorate,2464871
 Sousse,Tunisia,Sousse Governorate,2464915
+Soliman,Tunisia,Nabeul Governorate,2464953
+Sukrah,Tunisia,Ariana Governorate,2464960
+Sbeitla,Tunisia,Kasserine Governorate,2464979
 Siliana,Tunisia,Siliana Governorate,2465030
 Sidi Bouzid,Tunisia,Sidi Bouzid Governorate,2465840
+Sidi Abid,Tunisia,Sfax Governorate,2466698
+Sakiet ez Zit,Tunisia,Sfax Governorate,2467242
+Sakiet ed Daier,Tunisia,Sfax Governorate,2467243
 Skanes,Tunisia,Monastir Governorate,2467246
 Sfax,Tunisia,Sfax Governorate,2467454
 La Sebala du Mornag,Tunisia,Ben Arous Governorate,2467521
+Rass el Djebel,Tunisia,Bizerte Governorate,2467732
 Radès,Tunisia,Ben Arous Governorate,2467815
 Ksour Essaf,Tunisia,Mahdia Governorate,2467856
+Grombalia,Tunisia,Nabeul Governorate,2467898
 Korba,Tunisia,Nabeul Governorate,2467920
 Kélibia,Tunisia,Nabeul Governorate,2467959
 Kebili,Tunisia,Kebili Governorate,2468018
@@ -23676,8 +23852,11 @@ Gabès,Tunisia,Gabes Governorate,2468369
 Nefta,Tunisia,Tozeur Governorate,2468561
 Nabeul,Tunisia,Nabeul Governorate,2468579
 Midoun,Tunisia,Medenine Governorate,2468925
+Maatmeur,Tunisia,Monastir Governorate,2469081
 Mateur,Tunisia,Bizerte Governorate,2469088
 Msaken,Tunisia,Sousse Governorate,2469140
+Mégrine,Tunisia,Tunis Governorate,2469230
+Menzel Temime,Tunisia,Nabeul Governorate,2469250
 Menzel Jemil,Tunisia,Bizerte Governorate,2469256
 Mennzel Bou Zelfa,Tunisia,Nabeul Governorate,2469262
 Menzel Bourguiba,Tunisia,Bizerte Governorate,2469264
@@ -23688,45 +23867,78 @@ Medenine,Tunisia,Medenine Governorate,2469473
 Jendouba,Tunisia,Jendouba Governorate,2470088
 Zarzis,Tunisia,Medenine Governorate,2470173
 Djemmal,Tunisia,Monastir Governorate,2470191
-Houmt El Souk,Tunisia,Medenine Governorate,2470384
+Houmt Souk,Tunisia,Medenine Governorate,2470384
 Hammam Sousse,Tunisia,Sousse Governorate,2470579
 Hammam-Lif,Tunisia,Ben Arous Governorate,2470588
 La Goulette,Tunisia,Tunis Governorate,2470656
 Ghardimaou,Tunisia,Jendouba Governorate,2471003
+Rhennouch,Tunisia,Gabes Governorate,2471012
+Fouchana,Tunisia,Ben Arous Governorate,2471055
+Feriana,Tunisia,Kasserine Governorate,2471059
 Douz,Tunisia,Kebili Governorate,2471287
 Douar Tindja,Tunisia,Bizerte Governorate,2471475
 Dar Chabanne,Tunisia,Nabeul Governorate,2471637
+Bou Salem,Tunisia,Jendouba Governorate,2471956
+Ben Gardane,Tunisia,Medenine Governorate,2472431
 Ben Arous,Tunisia,Ben Arous Governorate,2472479
+Le Bardo,Tunisia,Tunis Governorate,2472675
 Bizerte,Tunisia,Bizerte Governorate,2472706
 Beni Khiar,Tunisia,Nabeul Governorate,2472722
+Beni Khalled,Tunisia,Nabeul Governorate,2472724
 Béja,Tunisia,Beja Governorate,2472774
 Zouila,Tunisia,Mahdia Governorate,2472833
 Zeramedine,Tunisia,Monastir Governorate,2472838
+Sejoumi,Tunisia,Tunis Governorate,2473164
 Chebba,Tunisia,Mahdia Governorate,2473229
-Ariana,Tunisia,Ariana Governorate,2473247
+Aryanah,Tunisia,Ariana Governorate,2473247
 Ar Rudayyif,Tunisia,Gafsa,2473257
 Ouardenine,Tunisia,Monastir Governorate,2473420
 Kairouan,Tunisia,Kairouan,2473449
 Kasserine,Tunisia,Kasserine Governorate,2473457
+El Ksar,Tunisia,Gafsa,2473466
 Gremda,Tunisia,Sfax Governorate,2473470
+Kalaa Srira,Tunisia,Sousse Governorate,2473481
+Kelaa Kebira,Tunisia,Sousse Governorate,2473483
+La Mornaghia,Tunisia,Manouba,2473489
 Monastir,Tunisia,Monastir Governorate,2473493
+Moknine,Tunisia,Monastir Governorate,2473496
 La Mohammedia,Tunisia,Tunis Governorate,2473499
 Metlaoui,Tunisia,Gafsa,2473517
-Al Marsá,Tunisia,Tunis Governorate,2473540
+La Marsa,Tunisia,Tunis Governorate,2473540
+El Mgarsa,Tunisia,Medenine Governorate,2473551
+Mahires,Tunisia,Sfax Governorate,2473570
 Mahdia,Tunisia,Mahdia Governorate,2473572
+Le Kram,Tunisia,Tunis Governorate,2473626
+Kellabine,Tunisia,Sfax Governorate,2473633
 El Kef,Tunisia,Kef Governorate,2473634
+Jedeïda,Tunisia,Manouba,2473639
 El Jem,Tunisia,Mahdia Governorate,2473654
 Hammamet,Tunisia,Nabeul Governorate,2473744
 El Hamma,Tunisia,Gabes Governorate,2473747
 Bekalta,Tunisia,Monastir Governorate,2473826
+El Ain,Tunisia,Sfax Governorate,2473835
 El Alia,Tunisia,Bizerte Governorate,2473876
 Akouda,Tunisia,Sousse Governorate,2473913
 Ajim,Tunisia,Medenine Governorate,2473937
 Douane,Tunisia,Nabeul Governorate,2581754
+Dar el Haj Taïeb,Tunisia,Sfax Governorate,2584420
+Ez Zahra,Tunisia,Ben Arous Governorate,2586370
+Borj Cedria,Tunisia,Ben Arous Governorate,6692494
+Ouerdanine,Tunisia,Monastir Governorate,7870039
+La Gazelle,Tunisia,Ariana Governorate,7870240
+El Mourouj,Tunisia,Ben Arous Governorate,11204413
 Ezzouhour,Tunisia,Sousse Governorate,11204573
+Den Den,Tunisia,Manouba,12037388
+Boumhel El Bassatine,Tunisia,Ben Arous Governorate,12037507
+Bembla et Mnara,Tunisia,Monastir Governorate,13132708
+Chenini Nahal,Tunisia,Gabes Governorate,13132709
+Mnihla,Tunisia,Ariana Governorate,13132710
+Douar Hicher,Tunisia,Manouba,13132711
+Ettadhamen,Tunisia,Ariana Governorate,13132712
 Nuku‘alofa,Tonga,Tongatapu,4032402
 Yüksekova,Türkiye,Hakkari,296173
 Yozgat,Türkiye,Yozgat,296562
+Yeşilova,Türkiye,Adana,296829
 Yeşilli,Türkiye,Mardin,296832
 Erzin,Türkiye,Hatay,296852
 Yerköy,Türkiye,Yozgat,296895
@@ -23748,6 +23960,7 @@ Torbalı,Türkiye,Izmir Province,298935
 Tire,Türkiye,Izmir Province,299137
 Tavşanlı,Türkiye,Kuetahya,299545
 Tatvan,Türkiye,Bitlis,299582
+Taşucu,Türkiye,Mersin,299643
 Tarsus,Türkiye,Mersin,299817
 Talas,Türkiye,Kayseri,299900
 Susurluk,Türkiye,Balikesir,300058
@@ -24204,10 +24417,13 @@ Vwawa,"Tanzania, United Republic of",Songwe,148942
 Vikindu,"Tanzania, United Republic of",Pwani,148987
 Uyovu,"Tanzania, United Republic of",Geita,149027
 Uvinza,"Tanzania, United Republic of",Kigoma,149050
+Utengule,"Tanzania, United Republic of",Mbeya,149072
 Ushirombo,"Tanzania, United Republic of",Geita,149129
 Usevia,"Tanzania, United Republic of",Katavi,149132
+Usangi,"Tanzania, United Republic of",Kilimanjaro,149143
 Usagara,"Tanzania, United Republic of",Mwanza,149151
 Usa River,"Tanzania, United Republic of",Arusha,149155
+Urunda,"Tanzania, United Republic of",Mbeya,149158
 Urambo,"Tanzania, United Republic of",Tabora,149172
 Tunduma,"Tanzania, United Republic of",Songwe,149402
 Tumbi,"Tanzania, United Republic of",Tabora,149418
@@ -24223,9 +24439,12 @@ Sokoni,"Tanzania, United Republic of",Zanzibar Central/South,149812
 Sirari,"Tanzania, United Republic of",Mara,149854
 Singida,"Tanzania, United Republic of",Singida,149879
 Sikonge,"Tanzania, United Republic of",Tabora,149929
+Shirati,"Tanzania, United Republic of",Mara,149996
 Shinyanga,"Tanzania, United Republic of",Shinyanga,150006
 Shelui,"Tanzania, United Republic of",Singida,150037
+Shanwa,"Tanzania, United Republic of",Simiyu,150044
 Sepuka,"Tanzania, United Republic of",Singida,150099
+Sengerema,"Tanzania, United Republic of",Mwanza,150103
 Same,"Tanzania, United Republic of",Kilimanjaro,150276
 Rulenge,"Tanzania, United Republic of",Kagera,150436
 Rujewa,"Tanzania, United Republic of",Mbeya,150453
@@ -24242,6 +24461,7 @@ Nguruka,"Tanzania, United Republic of",Kigoma,151567
 Ngudu,"Tanzania, United Republic of",Mwanza,151599
 Ngerengere,"Tanzania, United Republic of",Morogoro,151678
 Ngara,"Tanzania, United Republic of",Kagera,151711
+Nansio,"Tanzania, United Republic of",Mara,151920
 Nangwa,"Tanzania, United Republic of",Manyara,151929
 Namanyere,"Tanzania, United Republic of",Rukwa,151986
 Mwanza,"Tanzania, United Republic of",Mwanza,152224
@@ -24266,23 +24486,30 @@ Mlangali,"Tanzania, United Republic of",Njombe,153408
 Mlandizi,"Tanzania, United Republic of",Pwani,153412
 Mlalo,"Tanzania, United Republic of",Tanga,153423
 Mkuranga,"Tanzania, United Republic of",Pwani,153482
+Mkoani,"Tanzania, United Republic of",Pemba South,153600
 Mwandiga,"Tanzania, United Republic of",Kigoma,153709
 Misungwi,"Tanzania, United Republic of",Mwanza,153759
 Mikumi,"Tanzania, United Republic of",Morogoro,153871
 Mhango,"Tanzania, United Republic of",Shinyanga,154002
 Mgandu,"Tanzania, United Republic of",Singida,154097
+Mbulu,"Tanzania, United Republic of",Manyara,154313
 Mbuguni,"Tanzania, United Republic of",Arusha,154321
 Mbeya,"Tanzania, United Republic of",Mbeya,154380
 Mazinde,"Tanzania, United Republic of",Tanga,154470
+Matundasi,"Tanzania, United Republic of",Mbeya,154551
 Matui,"Tanzania, United Republic of",Tanga,154566
 Matai,"Tanzania, United Republic of",Rukwa,154638
 Maswa,"Tanzania, United Republic of",Simiyu,154648
 Masumbwe,"Tanzania, United Republic of",Geita,154654
 Maramba,"Tanzania, United Republic of",Tanga,154780
+Mapinga,"Tanzania, United Republic of",Pwani,154805
+Manyoni,"Tanzania, United Republic of",Singida,154837
 Malinyi,"Tanzania, United Republic of",Morogoro,155016
 Malampaka,"Tanzania, United Republic of",Simiyu,155056
 Makuyuni,"Tanzania, United Republic of",Tanga,155076
+Makuyuni,"Tanzania, United Republic of",Arusha,155077
 Makumbako,"Tanzania, United Republic of",Njombe,155101
+Makongolosi,"Tanzania, United Republic of",Mbeya,155125
 Mahanje,"Tanzania, United Republic of",Ruvuma,155285
 Kihangara,"Tanzania, United Republic of",Mwanza,155307
 Magugu,"Tanzania, United Republic of",Manyara,155310
@@ -24292,19 +24519,24 @@ Mafinga,"Tanzania, United Republic of",Iringa,155405
 Mabama,"Tanzania, United Republic of",Tabora,155515
 Lushoto,"Tanzania, United Republic of",Tanga,155569
 Lugoba,"Tanzania, United Republic of",Pwani,155743
+Lubata,"Tanzania, United Republic of",Morogoro,155794
 Liwale,"Tanzania, United Republic of",Lindi,155921
 Lembeni,"Tanzania, United Republic of",Kilimanjaro,156025
 Lalago,"Tanzania, United Republic of",Simiyu,156080
 Laela,"Tanzania, United Republic of",Rukwa,156098
 Kyela,"Tanzania, United Republic of",Mbeya,156111
+Korogwe,"Tanzania, United Republic of",Tanga,156479
 Kondoa,"Tanzania, United Republic of",Dodoma,156510
 Kiwira,"Tanzania, United Republic of",Mbeya,156627
 Kishapu,"Tanzania, United Republic of",Shinyanga,156963
+Kisesa,"Tanzania, United Republic of",Mwanza,156973
 Kisesa,"Tanzania, United Republic of",Simiyu,156974
 Kirando,"Tanzania, United Republic of",Rukwa,157107
 Kiomboi,"Tanzania, United Republic of",Singida,157198
 Kingori,"Tanzania, United Republic of",Arusha,157268
+Kilwa Masoko,"Tanzania, United Republic of",Lindi,157377
 Kilosa,"Tanzania, United Republic of",Morogoro,157403
+Kilindoni,"Tanzania, United Republic of",Pwani,157429
 Kigoma,"Tanzania, United Republic of",Kigoma,157738
 Kidodi,"Tanzania, United Republic of",Morogoro,157826
 Kidatu,"Tanzania, United Republic of",Morogoro,157863
@@ -24315,6 +24547,7 @@ Kibakwe,"Tanzania, United Republic of",Dodoma,158024
 Kibaha,"Tanzania, United Republic of",Pwani,158027
 Katumba,"Tanzania, United Republic of",Mbeya,158151
 Katoro,"Tanzania, United Republic of",Geita,158160
+Katesh,"Tanzania, United Republic of",Manyara,158178
 Katerero,"Tanzania, United Republic of",Kagera,158179
 Kasulu,"Tanzania, United Republic of",Kigoma,158214
 Kasamwa,"Tanzania, United Republic of",Geita,158289
@@ -24331,12 +24564,14 @@ Ipinda,"Tanzania, United Republic of",Mbeya,159107
 Ilula,"Tanzania, United Republic of",Iringa,159179
 Ilongero,"Tanzania, United Republic of",Singida,159186
 Ilembula,"Tanzania, United Republic of",Njombe,159218
+Ikwiriri,"Tanzania, United Republic of",Pwani,159242
 Ikungi,"Tanzania, United Republic of",Singida,159267
 Igurusi,"Tanzania, United Republic of",Mbeya,159380
 Igunga,"Tanzania, United Republic of",Tabora,159386
 Igugunu,"Tanzania, United Republic of",Singida,159398
 Ifakara,"Tanzania, United Republic of",Morogoro,159492
 Hedaru,"Tanzania, United Republic of",Kilimanjaro,159647
+Handeni,"Tanzania, United Republic of",Tanga,159675
 Geita,"Tanzania, United Republic of",Geita,159908
 Geiro,"Tanzania, United Republic of",Morogoro,159909
 Galappo,"Tanzania, United Republic of",Manyara,159951
@@ -24356,6 +24591,7 @@ Bungu,"Tanzania, United Republic of",Pwani,160877
 Bunda,"Tanzania, United Republic of",Mara,160892
 Bukoba,"Tanzania, United Republic of",Kagera,160961
 Bugarama,"Tanzania, United Republic of",Kagera,161023
+Boma la Ngombe,"Tanzania, United Republic of",Kilimanjaro,161100
 Biharamulo,"Tanzania, United Republic of",Kagera,161154
 Basotu,"Tanzania, United Republic of",Manyara,161197
 Bashanet,"Tanzania, United Republic of",Manyara,161204
@@ -24363,11 +24599,14 @@ Bariadi,"Tanzania, United Republic of",Simiyu,161218
 Bagamoyo,"Tanzania, United Republic of",Pwani,161290
 Babati,"Tanzania, United Republic of",Manyara,161312
 Arusha,"Tanzania, United Republic of",Arusha,161325
+Tunduru,"Tanzania, United Republic of",Ruvuma,877378
 Tingi,"Tanzania, United Republic of",Ruvuma,877384
 Tandahimba,"Tanzania, United Republic of",Mtwara,877391
 Songea,"Tanzania, United Republic of",Ruvuma,877401
+Ruangwa,"Tanzania, United Republic of",Lindi,877433
 Nyangao,"Tanzania, United Republic of",Lindi,877471
 Newala Kisimani,"Tanzania, United Republic of",Mtwara,877532
+Newala,"Tanzania, United Republic of",Mtwara,877534
 Nanyamba,"Tanzania, United Republic of",Mtwara,877581
 Nangomba,"Tanzania, United Republic of",Mtwara,877597
 Nanganga,"Tanzania, United Republic of",Mtwara,877605
@@ -24383,6 +24622,19 @@ Lindi,"Tanzania, United Republic of",Lindi,878281
 Kitama,"Tanzania, United Republic of",Mtwara,878367
 Kigonsera,"Tanzania, United Republic of",Ruvuma,878400
 Merelani,"Tanzania, United Republic of",Arusha,6640202
+Nungwi,"Tanzania, United Republic of",Zanzibar North,7284275
+Magu,"Tanzania, United Republic of",Mwanza,8549456
+Mhalamba,"Tanzania, United Republic of",Geita,8549608
+Tarakea,"Tanzania, United Republic of",Kilimanjaro,11905975
+Diobahika,"Tanzania, United Republic of",Geita,13132454
+Dumila,"Tanzania, United Republic of",Morogoro,13132455
+Kibaigwa,"Tanzania, United Republic of",Dodoma,13132456
+Madizini,"Tanzania, United Republic of",Morogoro,13132457
+Mafinga,"Tanzania, United Republic of",Iringa,13132458
+Matongo,"Tanzania, United Republic of",Mara,13132459
+Mwandege,"Tanzania, United Republic of",Pwani,13132460
+Mwanhuzi,"Tanzania, United Republic of",Simiyu,13132461
+Ruaha,"Tanzania, United Republic of",Morogoro,13132462
 Lebedyn,Ukraine,Sumy,613273
 Druzhkivka,Ukraine,Donetsk,616743
 Zvenihorodka,Ukraine,Cherkasy,686803
@@ -24645,50 +24897,141 @@ Wobulenzi,Uganda,Central Region,225858
 Wakiso,Uganda,Central Region,225964
 Tororo,Uganda,Eastern Region,226110
 Soroti,Uganda,Eastern Region,226234
+Sironko,Uganda,Eastern Region,226267
+Rutoma,Uganda,Western Region,226554
+Rukungiri,Uganda,Western Region,226600
+Rubanda,Uganda,Western Region,226690
 Pallisa,Uganda,Eastern Region,226823
+Pakwach,Uganda,Northern Region,226835
 Paidha,Uganda,Northern Region,226853
+Nyahuka,Uganda,Western Region,227525
 Nyachera,Uganda,Western Region,227528
 Ntungamo,Uganda,Western Region,227592
 Ntungamo,Uganda,Western Region,227593
 Njeru,Uganda,Central Region,227812
+Ngora,Uganda,Eastern Region,227843
 Nebbi,Uganda,Northern Region,227904
+Namutumba,Uganda,Eastern Region,228094
+Namayumba,Uganda,Central Region,228214
 Namasuba,Uganda,Central Region,228227
+Nakaloke,Uganda,Eastern Region,228448
 Mukono,Uganda,Central Region,228853
 Mubende,Uganda,Central Region,228971
+Mpondwe,Uganda,Western Region,229006
+Mpigi,Uganda,Central Region,229024
 Moyo,Uganda,Northern Region,229059
+Moroto,Uganda,Northern Region,229112
 Mityana,Uganda,Central Region,229139
 Mbarara,Uganda,Western Region,229268
 Mbale,Uganda,Eastern Region,229278
+Mayuge,Uganda,Eastern Region,229292
 Masindi,Uganda,Western Region,229362
 Masaka,Uganda,Central Region,229380
+Magamaga,Uganda,Eastern Region,229530
+Mabare,Uganda,Western Region,229580
+Lyantonde,Uganda,Central Region,229599
+Lwengo,Uganda,Central Region,229630
+Lwakyomba,Uganda,Western Region,229708
 Luwero,Uganda,Central Region,229746
+Lukaya,Uganda,Central Region,229872
 Lugazi,Uganda,Central Region,229911
 Lira,Uganda,Northern Region,230166
 Kyenjojo,Uganda,Western Region,230299
+Kyegegwa,Uganda,Western Region,230331
+Kyazanga,Uganda,Central Region,230348
+Kyarusozi,Uganda,Western Region,230370
+Kyamahungu,Uganda,Western Region,230476
+Kumi,Uganda,Eastern Region,230584
 Kotido,Uganda,Northern Region,230617
+Koboko,Uganda,Northern Region,230725
+Kiziba,Uganda,Central Region,230753
 Kitgum,Uganda,Northern Region,230893
+Kisoro,Uganda,Western Region,230993
 Kireka,Uganda,Central Region,231139
+Kira,Uganda,Central Region,231165
+Kinoni,Uganda,Western Region,231197
+Kikube,Uganda,Western Region,231280
+Kihihi,Uganda,Western Region,231383
+Kigumba,Uganda,Western Region,231406
+Kiboga,Uganda,Central Region,231550
+Kazo,Uganda,Western Region,231670
 Kayunga,Uganda,Central Region,231696
+Katoke,Uganda,Western Region,231848
+Katabi,Uganda,Central Region,231954
+Kasozi,Uganda,Western Region,231990
 Kasese,Uganda,Western Region,232066
+Kasanje,Uganda,Central Region,232107
+Kasangati,Uganda,Central Region,232110
+Kasanda,Uganda,Central Region,232115
+Kasambya,Uganda,Central Region,232137
+Kasaali,Uganda,Central Region,232146
+Kapchorwa,Uganda,Eastern Region,232235
+Kanungu,Uganda,Western Region,232287
 Kamwenge,Uganda,Western Region,232371
+Kamuli,Uganda,Eastern Region,232397
 Kampala,Uganda,Central Region,232422
+Kalisizo,Uganda,Central Region,232522
+Kaliro,Uganda,Eastern Region,232526
+Kakumiro,Uganda,Western Region,232619
+Kakiri,Uganda,Central Region,232652
+Kakira,Uganda,Eastern Region,232661
+Kajansi,Uganda,Central Region,232713
+Kagadi,Uganda,Western Region,232834
 Kabale,Uganda,Western Region,233070
 Jinja,Uganda,Eastern Region,233114
+Iryango,Uganda,Western Region,233194
 Iganga,Uganda,Eastern Region,233275
 Ibanda,Uganda,Western Region,233299
 Hoima,Uganda,Western Region,233312
 Gulu,Uganda,Northern Region,233346
+Gombe,Uganda,Central Region,233382
 Fort Portal,Uganda,Western Region,233476
 Entebbe,Uganda,Central Region,233508
+Dokolo,Uganda,Northern Region,233563
 Bwizibwera,Uganda,Western Region,233730
+Buyende,Uganda,Eastern Region,233840
 Buwenge,Uganda,Eastern Region,233886
+Butemba,Uganda,Central Region,233975
+Butaleja,Uganda,Eastern Region,234004
+Busolwe,Uganda,Eastern Region,234043
 Busia,Uganda,Eastern Region,234077
+Busesa,Uganda,Eastern Region,234088
 Busembatia,Uganda,Eastern Region,234092
 Bundibugyo,Uganda,Western Region,234178
+Bunamwaya,Uganda,Central Region,234179
+Bukomero,Uganda,Central Region,234368
+Buikwe,Uganda,Central Region,234480
+Buhimba,Uganda,Western Region,234496
+Buhesi,Uganda,Western Region,234497
 Bugiri,Uganda,Eastern Region,234565
+Bugembe,Uganda,Eastern Region,234578
+Budaka,Uganda,Eastern Region,234658
+Budadiri,Uganda,Eastern Region,234660
+Bombo,Uganda,Central Region,234717
 Arua,Uganda,Northern Region,235039
 Apac,Uganda,Northern Region,235130
+Anaka,Uganda,Northern Region,235178
 Adjumani,Uganda,Northern Region,235489
+Abim,Uganda,Northern Region,235574
+Ishaka,Uganda,Western Region,448001
+Isingiro,Uganda,Western Region,7911405
+Manafwa,Uganda,Eastern Region,7911406
+Opit,Uganda,Northern Region,8198328
+Buyale,Uganda,Western Region,8261621
+Nakivale Refugee Camp,Uganda,Western Region,8581615
+Kisinga,Uganda,Western Region,8629023
+Malaba,Uganda,Eastern Region,8629414
+Rwiimi,Uganda,Western Region,8642874
+Kyengera,Uganda,Central Region,10858926
+Nansana,Uganda,Central Region,10943053
+Namavundu,Uganda,Eastern Region,11259341
+Muhorro,Uganda,Western Region,11496345
+Butunduzi,Uganda,Western Region,13132713
+Kiryandongo Refugee Camp,Uganda,Western Region,13132714
+Kyaka II Refugee Camp,Uganda,Western Region,13132715
+Kyangwali Refugee Camp,Uganda,Western Region,13132716
+Nyamunuka,Uganda,Western Region,13132717
+Rwamwanja Refugee Camp,Uganda,Western Region,13132719
 Fort Hunt,United States,Virginia,4046704
 Bessemer,United States,Alabama,4048023
 Paducah,United States,Kentucky,4048662
@@ -26181,7 +26524,6 @@ Highland,United States,Indiana,4921402
 Hobart,United States,Indiana,4921476
 Huntington,United States,Indiana,4921725
 Kokomo,United States,Indiana,4922388
-LaPorte,United States,Indiana,4922459
 Lafayette,United States,Indiana,4922462
 Lebanon,United States,Indiana,4922673
 Logansport,United States,Indiana,4922968
@@ -28531,47 +28873,65 @@ Mtsapéré,Mayotte,Mamoudzou,1090242
 Labattoir,Mayotte,Dzaoudzi,1090275
 Roodepoort,South Africa,Gauteng,936374
 Zeerust,South Africa,North West,937136
+Zastron,South Africa,Free State,937246
 Wolmaransstad,South Africa,North West,938457
 White River,South Africa,Mpumalanga,938694
 Emalahleni,South Africa,Mpumalanga,939270
+Winburg,South Africa,Free State,939608
 Whittlesea,South Africa,Eastern Cape,940186
 Westonaria,South Africa,Gauteng,940316
 Wesselsbron,South Africa,Free State,940424
+Wembesi,South Africa,KwaZulu-Natal,940509
 Welkom,South Africa,Free State,940909
 Warrenton,South Africa,Northern Cape,941931
 Bela Bela,South Africa,Limpopo,941966
 Vryheid,South Africa,KwaZulu-Natal,942470
 Vryburg,South Africa,North West,942511
+Vredefort,South Africa,Free State,942683
+Vrede,South Africa,Free State,942701
 Volksrust,South Africa,Mpumalanga,943032
 Virginia,South Africa,Free State,943882
+Villiers,South Africa,Free State,943937
 Viljoenskroon,South Africa,Free State,943960
+Verena,South Africa,Gauteng,944380
 Vereeniging,South Africa,Gauteng,944385
+Ventersdorp,South Africa,North West,944531
 Vanderbijlpark,South Africa,Gauteng,944986
+Vaalwater,South Africa,Limpopo,945141
 Upington,South Africa,Northern Cape,945945
+eMuziwezinto,South Africa,KwaZulu-Natal,946010
 Mthatha,South Africa,Eastern Cape,946058
 eMkhomazi,South Africa,KwaZulu-Natal,946128
 Ulundi,South Africa,KwaZulu-Natal,946257
 Kariega,South Africa,Eastern Cape,946877
 Ugie,South Africa,Eastern Cape,946932
 Tzaneen,South Africa,Limpopo,946973
+Trichardt,South Africa,Mpumalanga,948130
+Tongaat,South Africa,KwaZulu-Natal,948468
 Tokoza,South Africa,Gauteng,948542
+Thulamahashi,South Africa,Limpopo,949026
 Thohoyandou,South Africa,Limpopo,949224
 Theunissen,South Africa,Free State,949282
+Thabazimbi,South Africa,Limpopo,949683
 Thaba Nchu,South Africa,Free State,949703
 Thembisa,South Africa,Gauteng,949880
+Swellendam,South Africa,Western Cape,950709
 Stutterheim,South Africa,Eastern Cape,951650
 Stilfontein,South Africa,North West,952192
 KwaDukuza,South Africa,KwaZulu-Natal,952734
 Standerton,South Africa,Mpumalanga,952747
 Springs,South Africa,Gauteng,952865
 Soweto,South Africa,Gauteng,953781
+Soshanguve,South Africa,Gauteng,954013
 Somerset East,South Africa,Eastern Cape,954161
 Siyabuswa,South Africa,Mpumalanga,955313
+Shakaskraal,South Africa,KwaZulu-Natal,956232
 Senekal,South Africa,Free State,956507
 Secunda,South Africa,Mpumalanga,956767
 Scottburgh,South Africa,KwaZulu-Natal,956878
 Schweizer-Reneke,South Africa,North West,956907
 Sasolburg,South Africa,Free State,957487
+Sabie,South Africa,Mpumalanga,958441
 Rustenburg,South Africa,North West,958724
 Riversdale,South Africa,Western Cape,961152
 Richmond,South Africa,KwaZulu-Natal,962330
@@ -28595,37 +28955,55 @@ Polokwane,South Africa,Limpopo,965289
 Pietermaritzburg,South Africa,KwaZulu-Natal,965301
 Phuthaditjhaba,South Africa,Free State,965401
 Phalaborwa,South Africa,Limpopo,965528
+Mamafubedu,South Africa,Free State,965571
 Parys,South Africa,Free State,966166
 Pampierstad,South Africa,Northern Cape,966380
 Oudtshoorn,South Africa,Western Cape,967106
+Ottosdal,South Africa,North West,967238
+Orkney,South Africa,North West,967476
+Odendaalsrus,South Africa,Free State,968477
 Modimolle,South Africa,Limpopo,968665
+Northam,South Africa,Limpopo,969698
 Nkowakowa,South Africa,Limpopo,970341
 Nigel,South Africa,Gauteng,970566
 Newcastle,South Africa,KwaZulu-Natal,971421
 Mbombela,South Africa,Mpumalanga,971534
+Mookgophong,South Africa,Limpopo,972206
+Mtubatuba,South Africa,KwaZulu-Natal,972803
 Mpumalanga,South Africa,KwaZulu-Natal,973111
 Mpophomeni,South Africa,KwaZulu-Natal,973139
 Tlokoeng,South Africa,Eastern Cape,973527
 Mossel Bay,South Africa,Western Cape,973709
+Mooi River,South Africa,KwaZulu-Natal,974222
 Montagu,South Africa,Western Cape,974611
 Mondlo,South Africa,KwaZulu-Natal,974670
+Moloto South,South Africa,Mpumalanga,974738
 Mmabatho,South Africa,North West,975436
 Middelburg,South Africa,Eastern Cape,976358
 Middelburg,South Africa,Mpumalanga,976361
 Mdantsane,South Africa,Eastern Cape,977432
 Matsulu,South Africa,Mpumalanga,977975
+Marquard,South Africa,Free State,978677
 Margate,South Africa,KwaZulu-Natal,978895
+Makwassie,South Africa,North West,979910
+Mafikeng,South Africa,North West,980595
 Mabopane,South Africa,Gauteng,980921
 Lydenburg,South Africa,Mpumalanga,981158
 Louis Trichardt,South Africa,Limpopo,981827
 Lichtenburg,South Africa,North West,982899
+Leslie,South Africa,Mpumalanga,983065
+Leeudoringstad,South Africa,North West,984012
+Ladysmith,South Africa,KwaZulu-Natal,984998
 Lady Frere,South Africa,Eastern Cape,985011
 Ladybrand,South Africa,Free State,985015
+Kwaggafontein,South Africa,Mpumalanga,985885
 Kutloanong,South Africa,Free State,986083
 Kruisfontein,South Africa,Eastern Cape,986717
 Krugersdorp,South Africa,Gauteng,986822
 Kroonstad,South Africa,Free State,986846
 Kriel,South Africa,Mpumalanga,987202
+Koster,South Africa,North West,987648
+Koppies,South Africa,Free State,987875
 Komatipoort,South Africa,Mpumalanga,988290
 Kokstad,South Africa,KwaZulu-Natal,988356
 Knysna,South Africa,Western Cape,988698
@@ -28635,44 +29013,69 @@ Qonce,South Africa,Eastern Cape,990849
 Kimberley,South Africa,Northern Cape,990930
 Johannesburg,South Africa,Gauteng,993800
 Jeffreys Bay,South Africa,Eastern Cape,993910
+Itsoseng,South Africa,North West,994432
 Humansdorp,South Africa,Eastern Cape,995094
 Howick,South Africa,KwaZulu-Natal,995202
+Hoopstad,South Africa,Free State,995573
 Hennenman,South Africa,Free State,996918
 Hendrina,South Africa,Mpumalanga,996930
 Heilbron,South Africa,Free State,997140
 Heidelberg,South Africa,Gauteng,997151
+Hartbeespoort,South Africa,North West,997678
+Hartbeesfontein,South Africa,North West,997718
 Harrismith,South Africa,Free State,997751
+Hammanskraal,South Africa,North West,998082
+Groot-Brakrivier,South Africa,Western Cape,999602
+Greytown,South Africa,KwaZulu-Natal,1000006
 Grahamstown,South Africa,Eastern Cape,1000501
 Graaff Reinet,South Africa,Eastern Cape,1000543
 Gonubie,South Africa,Eastern Cape,1000937
+Glencoe,South Africa,KwaZulu-Natal,1001736
 Giyani,South Africa,Limpopo,1001860
 George,South Africa,Western Cape,1002145
 Ga-Rankuwa,South Africa,North West,1002851
+Frankfort,South Africa,Free State,1003763
+Fouriesburg,South Africa,Free State,1003843
 Fort Beaufort,South Africa,Eastern Cape,1003953
 Fochville,South Africa,North West,1004109
+Ficksburg,South Africa,Free State,1004303
+Evaton,South Africa,Gauteng,1004866
+Estcourt,South Africa,KwaZulu-Natal,1004962
 eSikhaleni,South Africa,KwaZulu-Natal,1005029
+Eshowe,South Africa,KwaZulu-Natal,1005040
 Ermelo,South Africa,Mpumalanga,1005125
 Empangeni,South Africa,KwaZulu-Natal,1005544
 eMbalenhle,South Africa,Mpumalanga,1005646
 Khowa,South Africa,Eastern Cape,1005781
 Edenvale,South Africa,Gauteng,1006834
 East London,South Africa,Eastern Cape,1006984
+Dysselsdorp,South Africa,Western Cape,1007061
+Dwarsloop,South Africa,Limpopo,1007140
 Durban,South Africa,KwaZulu-Natal,1007311
 Dundee,South Africa,KwaZulu-Natal,1007400
 Duiwelskloof,South Africa,Limpopo,1007514
 Driefontein,South Africa,Mpumalanga,1008261
 Dimbaza,South Africa,Eastern Cape,1009863
+Deneysville,South Africa,Free State,1010962
 Delmas,South Africa,Mpumalanga,1011031
 De Aar,South Africa,Northern Cape,1011632
 Cullinan,South Africa,Gauteng,1012413
 Cradock,South Africa,Eastern Cape,1012600
+Coligny,South Africa,North West,1013067
+Clydesdale,South Africa,Eastern Cape,1013199
+Hlohlolwane,South Africa,Free State,1013266
 Christiana,South Africa,North West,1013550
+Carolina,South Africa,Mpumalanga,1014012
 Carletonville,South Africa,Gauteng,1014073
 Cala,South Africa,Eastern Cape,1014322
 Butterworth,South Africa,Eastern Cape,1014489
 Burgersdorp,South Africa,Eastern Cape,1014653
+Bultfontein,South Africa,Free State,1014747
 Bronkhorstspruit,South Africa,Gauteng,1015504
 Brits,South Africa,North West,1015621
+Breyten,South Africa,Mpumalanga,1015694
+Bredasdorp,South Africa,Western Cape,1015776
+Winnie Mandela,South Africa,Free State,1015969
 Brakpan,South Africa,Gauteng,1016181
 Botshabelo,South Africa,Free State,1016670
 Bothaville,South Africa,Free State,1016698
@@ -28683,41 +29086,65 @@ Bhisho,South Africa,Eastern Cape,1019330
 Bethlehem,South Africa,Free State,1019704
 Bethal,South Africa,Mpumalanga,1019760
 Benoni,South Africa,Gauteng,1020098
+Belfast,South Africa,Mpumalanga,1020340
 Beaufort West,South Africa,Western Cape,1020641
 Barberton,South Africa,Mpumalanga,1021086
-Ballito,South Africa,KwaZulu-Natal,1021360
+Ballitoville,South Africa,KwaZulu-Natal,1021360
 Balfour,South Africa,Mpumalanga,1021396
+Ashton,South Africa,Western Cape,1022145
+Amandelbult,South Africa,Limpopo,1022982
 Allanridge,South Africa,Free State,1023287
 Aliwal North,South Africa,Eastern Cape,1023309
 Alice,South Africa,Eastern Cape,1023332
 Alexandra,South Africa,Gauteng,1023374
 Alberton,South Africa,Gauteng,1023441
 Ekangala,South Africa,Gauteng,1105726
+Somaroboro,South Africa,Mpumalanga,1105728
 Midrand,South Africa,Gauteng,1105776
 Centurion,South Africa,Gauteng,1105777
 Worcester,South Africa,Western Cape,3359041
 Wellington,South Africa,Western Cape,3359510
+Vredendal,South Africa,Western Cape,3359736
 Vredenburg,South Africa,Western Cape,3359741
 Stellenbosch,South Africa,Western Cape,3361025
 Saldanha,South Africa,Western Cape,3361934
 Robertson,South Africa,Western Cape,3362349
 Paarl,South Africa,Western Cape,3363094
+Moorreesburg,South Africa,Western Cape,3363957
 Malmesbury,South Africa,Western Cape,3364346
 Lansdowne,South Africa,Western Cape,3364682
 Kraaifontein,South Africa,Western Cape,3365083
 Hermanus,South Africa,Western Cape,3366880
 Grabouw,South Africa,Western Cape,3367513
+Gansbaai,South Africa,Western Cape,3367804
 Ceres,South Africa,Western Cape,3369129
 Cape Town,South Africa,Western Cape,3369157
+Caledon,South Africa,Western Cape,3369179
 Atlantis,South Africa,Western Cape,3370352
 Athlone,South Africa,Western Cape,3370356
+Somerset West,South Africa,Western Cape,6951112
 Rondebosch,South Africa,Western Cape,7302802
+Lephalale,South Africa,Limpopo,7730334
+Musina,South Africa,Limpopo,8030223
 Midstream,South Africa,Gauteng,8030233
+Mandeni,South Africa,KwaZulu-Natal,8063456
 Retreat,South Africa,Western Cape,8604596
+Hartbeestfontein-A,South Africa,North West,8604906
+Marapong,South Africa,Limpopo,8629684
 Diepsloot,South Africa,Gauteng,8764562
 Etwatwa,South Africa,Gauteng,11204106
+Marikana,South Africa,North West,11204123
+Ga-Malakhe,South Africa,KwaZulu-Natal,11204214
 Ivory Park,South Africa,Gauteng,11204237
+Lukwatini,South Africa,Mpumalanga,11204240
+Mankweng,South Africa,Limpopo,11204446
+Mkhuhlu,South Africa,Mpumalanga,11204552
+Kamaqhekeza,South Africa,Mpumalanga,11204695
+Phola,South Africa,Mpumalanga,11205133
 Ntuzuma,South Africa,KwaZulu-Natal,11205667
+Ncotshane,South Africa,KwaZulu-Natal,11205753
+Malamulele,South Africa,Limpopo,11282157
+Folweni,South Africa,KwaZulu-Natal,11288103
 Lebohang,South Africa,Mpumalanga,11428880
 Ndevana,South Africa,Eastern Cape,12718754
 Tshiame,South Africa,Free State,12718756
@@ -28738,35 +29165,82 @@ Le Roux,South Africa,Western Cape,12718868
 Nhlazatje,South Africa,Mpumalanga,12750584
 Fernie,South Africa,Mpumalanga,12750601
 Nchelenge,Zambia,Luapula Province,175499
+Nakonde,Zambia,Muchinga,175555
+Mpulungu,Zambia,Northern Province,175961
+Mporokoso,Zambia,Northern Province,175967
 Mbala,Zambia,Northern Province,176146
 Kawambwa,Zambia,Luapula Province,176555
+Kaputa,Zambia,Northern Province,176758
+Chiengi,Zambia,Luapula Province,177748
+Zambezi,Zambia,North-Western,895953
+Solwezi,Zambia,North-Western,897045
+Sinda,Zambia,Eastern Province,897454
+Sinazongwe,Zambia,Southern Province,897456
 Siavonga,Zambia,Southern Province,898188
 Sesheke,Zambia,Western Province,898905
+Serenje,Zambia,Central Province,898912
+Senanga,Zambia,Western Province,898947
 Samfya,Zambia,Luapula Province,899274
 Petauke,Zambia,Eastern Province,899825
+Nyimba,Zambia,Eastern Province,900056
 Ndola,Zambia,Copperbelt,901344
+Namwala,Zambia,Southern Province,901766
+Mwinilunga,Zambia,North-Western,902620
 Mumbwa,Zambia,Central Province,904422
 Mufulira,Zambia,Copperbelt,905395
+Mpongwe,Zambia,Copperbelt,905789
 Mpika,Zambia,Muchinga,905846
 Monze,Zambia,Southern Province,906044
 Mongu,Zambia,Western Province,906054
+Mkushi,Zambia,Central Province,906221
 Mazabuka,Zambia,Southern Province,907111
+Manyinga,Zambia,North-Western,907705
 Mansa,Zambia,Luapula Province,907770
+Maamba,Zambia,Southern Province,908718
+Luwingu,Zambia,Northern Province,908913
 Lusaka,Zambia,Lusaka Province,909137
+Lundazi,Zambia,Eastern Province,909299
+Lukulu,Zambia,Western Province,909488
 Luanshya,Zambia,Copperbelt,909863
 Livingstone,Zambia,Southern Province,910111
 Kitwe,Zambia,Copperbelt,911148
+Katete,Zambia,Eastern Province,912072
+Kasempa,Zambia,North-Western,912628
 Kasama,Zambia,Northern Province,912764
 Kapiri Mposhi,Zambia,Central Province,913029
+Kaoma,Zambia,Western Province,913323
 Kansanshi,Zambia,North-Western,913613
 Kalulushi,Zambia,Copperbelt,914959
 Kalomo,Zambia,Southern Province,915086
+Kalabo,Zambia,Western Province,915471
 Kafue,Zambia,Lusaka Province,915883
 Kabwe,Zambia,Central Province,916095
+Kabompo,Zambia,North-Western,916246
+Isoka,Zambia,Muchinga,916668
+Chongwe,Zambia,Lusaka Province,917688
 Choma,Zambia,Southern Province,917748
+Chisasa,Zambia,North-Western,918398
+Chirundu,Zambia,Southern Province,918488
 Chipata,Zambia,Eastern Province,918702
+Chinsali,Zambia,Muchinga,918905
 Chingola,Zambia,Copperbelt,919009
 Chililabombwe,Zambia,Copperbelt,919544
+Chavuma,Zambia,North-Western,920470
+Chambishi,Zambia,Copperbelt,920820
+Itezhi-Tezhi,Zambia,Southern Province,6695527
+Chilanga Township,Zambia,Lusaka Province,7932530
+Nampundwe,Zambia,Central Province,8298600
+Chisankane,Zambia,Lusaka Province,13132724
+Chunga,Zambia,Lusaka Province,13132725
+Lusaka West,Zambia,Lusaka Province,13132726
+Madido,Zambia,Lusaka Province,13132727
+Manyama,Zambia,North-Western,13132728
+Mapalo,Zambia,Copperbelt,13132729
+Mufumbwe,Zambia,North-Western,13132730
+Mwansabombwe,Zambia,Luapula Province,13132731
+Namalombwe,Zambia,Lusaka Province,13132732
+Ntandabale,Zambia,Lusaka Province,13132733
+Palabana,Zambia,Lusaka Province,13132734
 Zvishavane,Zimbabwe,Masvingo Province,878549
 Victoria Falls,Zimbabwe,Matabeleland North,879431
 Shurugwi,Zimbabwe,Midlands Province,881164
@@ -28774,6 +29248,7 @@ Ruwa,Zimbabwe,Mashonaland East Province,882009
 Rusape,Zimbabwe,Manicaland,882100
 Redcliff,Zimbabwe,Midlands Province,882599
 Norton,Zimbabwe,Mashonaland West,884141
+Mvurwi,Zimbabwe,Mashonaland Central,884798
 Mutare,Zimbabwe,Manicaland,884979
 Masvingo,Zimbabwe,Masvingo Province,886763
 Marondera,Zimbabwe,Mashonaland East Province,886990
@@ -28795,3 +29270,4 @@ Bindura,Zimbabwe,Mashonaland Central,895061
 Beitbridge,Zimbabwe,Matabeleland South Province,895269
 Epworth,Zimbabwe,Harare,1085510
 Chitungwiza,Zimbabwe,Harare,1106542
+Harare Western Suburbs,Zimbabwe,Mashonaland West,13132735
