@@ -96,5 +96,6 @@
       ]
     }
   ],
-  "collection": "logistics-data"
+  "collection": "logistics-data",
+  "has_premium" true
 }
