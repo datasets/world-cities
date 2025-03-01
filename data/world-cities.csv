@@ -3592,7 +3592,7 @@ Nambingué,Côte d'Ivoire,Savanes District,2284030
 Moussadougou,Côte d'Ivoire,Goh-Djiboua,2284159
 Mignouré,Côte d'Ivoire,Sassandra-Marahoue,2284314
 M’Bengué,Côte d'Ivoire,Savanes District,2284460
-M’Batto,Côte d'Ivoire,Lacs District,2284477
+M’Batto,Côte d'Ivoire,Comoe District,2284477
 M’Bahiakro,Côte d'Ivoire,Lacs District,2284489
 Mankono,Côte d'Ivoire,Woroba,2284589
 Man,Côte d'Ivoire,Montagnes,2284647
@@ -3626,7 +3626,6 @@ Guépaouo,Côte d'Ivoire,Goh-Djiboua,2288010
 Grand-Lahou,Côte d'Ivoire,Lagunes District,2288105
 Grand-Bassam,Côte d'Ivoire,Comoe District,2288115
 Affery,Côte d'Ivoire,Lagunes District,2288118
-Goya,Côte d'Ivoire,Montagnes,2288138
 Goya,Côte d'Ivoire,Montagnes,2288139
 Gonaté,Côte d'Ivoire,Sassandra-Marahoue,2288357
 Gohouo,Côte d'Ivoire,Montagnes,2288404
@@ -3661,7 +3660,7 @@ Bouaké,Côte d'Ivoire,Vallee du Bandama District,2290956
 Bouaflé,Côte d'Ivoire,Sassandra-Marahoue,2290964
 Bonoufla,Côte d'Ivoire,Sassandra-Marahoue,2291086
 Bonoua,Côte d'Ivoire,Comoe District,2291087
-Bongouanou,Côte d'Ivoire,Lacs District,2291113
+Bongouanou,Côte d'Ivoire,Comoe District,2291113
 Bondoukou,Côte d'Ivoire,Zanzan District,2291136
 Boboniessoko,Côte d'Ivoire,Sassandra-Marahoue,2291391
 Bloléquin,Côte d'Ivoire,Montagnes,2291451
@@ -3681,9 +3680,9 @@ Balakouya,Côte d'Ivoire,Bas-Sassandra District,2292324
 Baibli,Côte d'Ivoire,Montagnes,2292380
 Bahé-Blaon,Côte d'Ivoire,Montagnes,2292391
 Azaguié,Côte d'Ivoire,Lagunes District,2292531
-Arrah,Côte d'Ivoire,Lacs District,2292755
+Arrah,Côte d'Ivoire,Comoe District,2292755
 Anyama,Côte d'Ivoire,Abidjan Autonomous District,2292852
-Andé,Côte d'Ivoire,Lacs District,2292932
+Andé,Côte d'Ivoire,Comoe District,2292932
 Akoupé,Côte d'Ivoire,Lagunes District,2293107
 Agnibilékrou,Côte d'Ivoire,Comoe District,2293260
 Agboville,Côte d'Ivoire,Lagunes District,2293268
@@ -3974,8 +3973,8 @@ Turpan,China,Xinjiang,1529114
 Tacheng,China,Xinjiang,1529167
 Shihezi,China,Xinjiang,1529195
 Sandaohezi,China,Xinjiang,1529239
-Qapqal,China,Xinjiang,1529279
-Kuqa,China,Xinjiang,1529363
+Chapchal,China,Xinjiang,1529279
+Xincheng,China,Xinjiang,1529363
 Korla,China,Xinjiang,1529376
 Karamay,China,Xinjiang,1529401
 Jelilyüzi,China,Xinjiang,1529420
@@ -7329,6 +7328,7 @@ Emden,Germany,Lower Saxony,2930596
 Eltville,Germany,Hesse,2930646
 Elsdorf,Germany,North Rhine-Westphalia,2930778
 Elmshorn,Germany,Schleswig-Holstein,2930821
+Elmschenhagen,Germany,Schleswig-Holstein,2930826
 Ellwangen,Germany,Baden-Wurttemberg,2930889
 Eitorf,Germany,North Rhine-Westphalia,2931361
 Eißendorf,Germany,Hamburg,2931396
@@ -8500,7 +8500,7 @@ Inca,Spain,Balearic Islands,2516452
 Icod de los Vinos,Spain,Canary Islands,2516474
 Ibiza,Spain,Balearic Islands,2516479
 Ibi,Spain,Valencia,2516480
-Huércal-Overa,Spain,Andalusia,2516542
+Huercal-Overa,Spain,Andalusia,2516542
 Huelva,Spain,Andalusia,2516548
 Hellín,Spain,Castille-La Mancha,2516797
 Güimar,Spain,Canary Islands,2516852
@@ -10892,6 +10892,7 @@ Chapel Allerton,United Kingdom,England,6695247
 Blackheath,United Kingdom,England,6947041
 Kempston Hardwick,United Kingdom,England,6947168
 Mendip,United Kingdom,England,6947756
+Manchester City Centre,United Kingdom,England,7281603
 Lower Earley,United Kingdom,England,7290015
 Bartley Green,United Kingdom,England,7302130
 West Ealing,United Kingdom,England,7302137
@@ -16155,6 +16156,7 @@ Sueyoshichō-ninokata,Japan,Kagoshima,1851542
 Sōka,Japan,Saitama,1851604
 Sōja,Japan,Okayama,1851606
 Sobue,Japan,Aichi,1851622
+Shuzenji,Japan,Shizuoka,1851632
 Shōbu,Japan,Saitama,1851711
 Shōbara,Japan,Hiroshima,1851713
 Shizuoka,Japan,Shizuoka,1851717
@@ -16244,12 +16246,13 @@ Okayama,Japan,Okayama,1854383
 Okaya,Japan,Nagano,1854384
 Ōkawa,Japan,Fukuoka,1854405
 Ojiya,Japan,Niigata,1854444
+Ōji,Japan,Tokyo,1854460
 Ōita,Japan,Oita,1854487
 Ōiso,Japan,Kanagawa,1854492
 Ōi,Japan,Saitama,1854530
 Ogōri-shimogō,Japan,Yamaguchi,1854629
 Ogikubo,Japan,Tokyo,1854648
-Ogawa,Japan,Saitama,1854665
+Ogawamachi,Japan,Saitama,1854665
 Ogawa,Japan,Aichi,1854667
 Ōgaki,Japan,Gifu,1854703
 Odawara,Japan,Kanagawa,1854747
@@ -16591,6 +16594,7 @@ Fukuechō,Japan,Nagasaki,1863997
 Fukuchiyama,Japan,Kyoto,1864009
 Fukiage-fujimi,Japan,Saitama,1864025
 Fukayachō,Japan,Saitama,1864031
+Tōyō,Japan,Tokyo,1864055
 Fujisawa,Japan,Kanagawa,1864092
 Fujioka,Japan,Tochigi,1864098
 Fujioka,Japan,Gunma,1864099
@@ -16622,6 +16626,7 @@ Asagaya-minami,Japan,Tokyo,1865090
 Arita,Japan,Saga,1865103
 Arai,Japan,Niigata,1865207
 Arai,Japan,Shizuoka,1865209
+Aoto,Japan,Tokyo,1865232
 Annaka,Japan,Gunma,1865290
 Anjō,Japan,Aichi,1865294
 Anan,Japan,Tokushima,1865309
@@ -17006,11 +17011,14 @@ Washinomiya,Japan,Saitama,8572218
 Sashiōgi,Japan,Saitama,8572291
 Nukui,Japan,Tokyo,8572754
 Sakai,Japan,Tokyo,8572855
+Ōizumi-gakuenchō,Japan,Tokyo,8572879
 Ōizumimachi,Japan,Tokyo,8572880
 Hikarigaoka,Japan,Tokyo,8572883
 Sakuradai,Japan,Tokyo,8572886
 Akatsuka,Japan,Tokyo,8572948
 Narimasu,Japan,Tokyo,8572949
+Takashimadaira,Japan,Tokyo,8572984
+Hasune,Japan,Tokyo,8572985
 Ukima,Japan,Tokyo,8572992
 Nagasaki,Japan,Tokyo,8573184
 Sugamo,Japan,Tokyo,8573188
@@ -17071,16 +17079,23 @@ Togoshi,Japan,Tokyo,10865210
 Shimo’ochiai,Japan,Tokyo,10865987
 Ōtsuka,Japan,Tokyo,10866000
 Igusa,Japan,Tokyo,10866536
+Asagayakita,Japan,Tokyo,10866555
 Yoyogi,Japan,Tokyo,10866689
 Ebisu,Japan,Tokyo,10866730
 Funabori,Japan,Tokyo,10918003
+Ichinoe,Japan,Tokyo,10918009
 Hirai,Japan,Tokyo,10918027
 Minaminagareyama,Japan,Chiba,10926134
 Ōjima,Japan,Tokyo,10963038
 Machiya,Japan,Tokyo,10971146
 Sendagi,Japan,Tokyo,10971153
 Matsubushi,Japan,Saitama,10979195
+Toneri,Japan,Tokyo,10987573
+Ōgi,Japan,Tokyo,10987664
+Aoi,Japan,Tokyo,10987894
+Kamiya,Japan,Tokyo,11010185
 Miyoshidai,Japan,Saitama,11012851
+Sugita,Japan,Kanagawa,11059676
 Eniwa,Japan,Hokkaido,11127679
 Shimada,Japan,Kumamoto,11147658
 Okino,Japan,Kumamoto,11172649
@@ -17901,8 +17916,8 @@ Jūrmala,Latvia,Jurmala,459201
 Jelgava,Latvia,Jelgava,459279
 Jēkabpils,Latvia,Jekabpils Municipality,459283
 Daugavpils,Latvia,Daugavpils,460413
-Dārzciems,Latvia,Aluksne Municipality,460433
 Mārupe,Latvia,Marupe,864723
+Dārzciems,Latvia,Riga,13192644
 Tobruk,Libya,Al Butnan,81302
 Qaryat Sulūq,Libya,Banghazi,81604
 Darnah,Libya,Darnah,87205
@@ -18351,7 +18366,7 @@ Dougabougou,Mali,Segou,2458359
 Djenné,Mali,Mopti,2458589
 Diré,Mali,Tombouctou,2458623
 Diourou,Mali,Segou,2458634
-Dioila,Mali,Koulikoro,2458747
+Dioïla,Mali,Koulikoro,2458747
 Diéma,Mali,Kayes,2458881
 Bourem,Mali,Gao,2459657
 Bougouni,Mali,Sikasso,2459775
@@ -19387,6 +19402,7 @@ Serian,Malaysia,Sarawak,1744288
 Seputeh,Malaysia,Kuala Lumpur,1744508
 Sentul,Malaysia,Kuala Lumpur,1744763
 Relau,Malaysia,Penang,1748731
+Puchong,Malaysia,Selangor,1749822
 Permatang Kuching,Malaysia,Penang,1750500
 Peringat,Malaysia,Kelantan,1750582
 Ladang Seri Kundang,Malaysia,Selangor,1750974
@@ -19753,7 +19769,6 @@ Lagos,Nigeria,Lagos,2332459
 Lafiagi,Nigeria,Kwara State,2332504
 Lafia,Nigeria,Nasarawa State,2332515
 Kwale,Nigeria,Delta,2332871
-Kusheriki,Nigeria,Niger State,2333096
 Kumo,Nigeria,Gombe State,2333451
 Kumagunnam,Nigeria,Yobe State,2333490
 Kukawa,Nigeria,Borno State,2333563
@@ -20250,7 +20265,7 @@ Dhankutā,Nepal,Koshi,1283465
 Dhangaḍhi̇̄,Nepal,Sudurpashchim Pradesh,1283467
 Dārchulā,Nepal,Sudurpashchim Pradesh,1283484
 Dailekh,Nepal,Karnali Pradesh,1283496
-Dadeldhurā,Nepal,Sudurpashchim Pradesh,1283499
+Amargaḍhi̇̄,Nepal,Sudurpashchim Pradesh,1283499
 Butwāl,Nepal,Lumbini Province,1283562
 Birgañj,Nepal,Madhesh,1283581
 Biratnagar,Nepal,Koshi,1283582
@@ -20458,6 +20473,7 @@ Lima,Peru,Lima Province,3936456
 La Oroya,Peru,Junin,3936952
 Junín,Peru,Junin,3937486
 Juliaca,Peru,Puno,3937513
+Villa Poeta José Gálvez Barrenechea,Peru,Lima region,3937547
 Jauja,Peru,Junin,3937733
 Imperial,Peru,Lima region,3938396
 Ilo,Peru,Moquegua Department,3938415
@@ -21928,8 +21944,8 @@ Villa Elisa,Paraguay,Central Department,3436728
 San Lorenzo,Paraguay,Central Department,3437056
 San Juan Bautista,Paraguay,Misiones Department,3437063
 San Antonio,Paraguay,Central Department,3437127
-Presidente Franco,Paraguay,Alto Parana,3437444
-Pilar,Paraguay,Neembucu,3437526
+Presidente Franco,Paraguay,Alto Parana Department,3437444
+Pilar,Paraguay,Neembucu Department,3437526
 Pedro Juan Caballero,Paraguay,Amambay Department,3437547
 Nemby,Paraguay,Central Department,3437665
 Limpio,Paraguay,Central Department,3437842
@@ -21938,16 +21954,16 @@ Itauguá,Paraguay,Central Department,3437918
 Itá,Paraguay,Central Department,3437954
 Fernando de la Mora,Paraguay,Central Department,3438115
 Encarnación,Paraguay,Itapua,3438735
-Coronel Oviedo,Paraguay,Caaguazu,3438819
+Coronel Oviedo,Paraguay,Caaguazu Department,3438819
 Concepción,Paraguay,Concepcion,3438834
 Mariano Roque Alonso,Paraguay,Central Department,3438995
-Ciudad del Este,Paraguay,Alto Parana,3439101
+Ciudad del Este,Paraguay,Alto Parana Department,3439101
 Capiatá,Paraguay,Central Department,3439214
 Caazapá,Paraguay,Caazapa,3439297
-Caaguazú,Paraguay,Caaguazu,3439317
+Caaguazú,Paraguay,Caaguazu Department,3439317
 Caacupé,Paraguay,Cordillera Department,3439320
 Asunción,Paraguay,Asuncion,3439389
-Filadelfia,Paraguay,Boqueron,3867291
+Filadelfia,Paraguay,Boqueron Department,3867291
 Al ‘Unayzah,Qatar,Baladiyat ad Dawhah,289511
 Umm Şalāl Muḩammad,Qatar,Umm Salal,289523
 Umm Ghuwaylīnah,Qatar,Al-Shahaniya,289545
@@ -24560,6 +24576,7 @@ Iğdır,Türkiye,Igdir,311665
 Hizan,Türkiye,Bitlis,312024
 Hınıs,Türkiye,Erzurum,312114
 Hilvan,Türkiye,Sanliurfa,312134
+Hıdırbey,Türkiye,Hatay,312156
 Hadim,Türkiye,Konya,312899
 Hacılar,Türkiye,Kayseri,313013
 Güroymak,Türkiye,Bitlis,313331
@@ -24661,6 +24678,7 @@ Afşin,Türkiye,Kahramanmaras,325304
 Adıyaman,Türkiye,Adiyaman Province,325330
 Adilcevaz,Türkiye,Bitlis,325336
 Adana,Türkiye,Adana,325363
+Narlıca,Türkiye,Hatay,438055
 Denizciler,Türkiye,Hatay,438400
 Batikent,Türkiye,Ankara,442301
 Dalaman,Türkiye,Mugla,447273
@@ -24826,6 +24844,7 @@ Başakşehir,Türkiye,Istanbul,6947639
 Beylikdüzü,Türkiye,Istanbul,6947640
 Büyükçekmece,Türkiye,Istanbul,6947641
 Çankaya,Türkiye,Ankara,6955677
+Yakınca,Türkiye,Malatya,7458188
 Bahçelievler,Türkiye,Istanbul,7627067
 Sultangazi,Türkiye,Istanbul,7628416
 Sultanbeyli,Türkiye,Istanbul,7628419
@@ -25146,7 +25165,7 @@ Zhmerynka,Ukraine,Vinnytsia,687116
 Zhovti Vody,Ukraine,Dnipropetrovsk,687196
 Zdolbuniv,Ukraine,Rivne,687432
 Zaporizhzhya,Ukraine,Zaporizhzhia,687700
-Yuzhne,Ukraine,Odessa,687997
+Pivdenne,Ukraine,Odessa,687997
 Yevpatoriya,Ukraine,Crimea,688105
 Yenakiieve,Ukraine,Donetsk,688148
 Yasynuvata,Ukraine,Donetsk,688373
@@ -25222,10 +25241,10 @@ Poltava,Ukraine,Poltava,696643
 Polonne,Ukraine,Khmelnytskyi,696660
 Polohy,Ukraine,Zaporizhzhia,696677
 Pidhorodne,Ukraine,Dnipropetrovsk,696943
-Pervomaiskyi,Ukraine,Kharkivs'ka Oblast',697576
+Zlatopil,Ukraine,Kharkivs'ka Oblast',697576
 Pervomaisk,Ukraine,Luhansk,697592
 Pervomaysk,Ukraine,Mykolaiv,697593
-Pershotravensk,Ukraine,Dnipropetrovsk,697616
+Shakhtarske,Ukraine,Dnipropetrovsk,697616
 Pereiaslav,Ukraine,Kiev,697637
 Perevalsk,Ukraine,Luhansk,697650
 Pavlohrad,Ukraine,Dnipropetrovsk,697889
@@ -25236,7 +25255,7 @@ Odesa,Ukraine,Odessa,698740
 Obukhiv,Ukraine,Kiev,698782
 Novovolynsk,Ukraine,Volyn,699035
 Novoukrayinka,Ukraine,Kirovohrad,699078
-Novomoskovsk,Ukraine,Dnipropetrovsk,699445
+Samar,Ukraine,Dnipropetrovsk,699445
 Zviahel,Ukraine,Zhytomyr,699553
 Nova Kakhovka,Ukraine,Kherson,699839
 Nizhyn,Ukraine,Chernihiv,699942
@@ -25275,7 +25294,7 @@ Kremenchuk,Ukraine,Poltava,704147
 Khrustalnyi,Ukraine,Luhansk,704202
 Lyman,Ukraine,Donetsk,704204
 Yany Kapu,Ukraine,Crimea,704362
-Krasnohrad,Ukraine,Kharkivs'ka Oblast',704388
+Berestyn,Ukraine,Kharkivs'ka Oblast',704388
 Sorokyne,Ukraine,Luhansk,704403
 Pokrovsk,Ukraine,Donetsk,704422
 Krasyliv,Ukraine,Khmelnytskyi,704492
@@ -25387,7 +25406,7 @@ Alchevsk,Ukraine,Luhansk,713716
 Okhtyrka,Ukraine,Sumy,713749
 Horishni Plavni,Ukraine,Poltava,6559559
 Slavutych,Ukraine,Kiev,6930327
-Yuzhnoukrayinsk,Ukraine,Mykolaiv,7525990
+Pivdennoukrainsk,Ukraine,Mykolaiv,7525990
 Varash,Ukraine,Rivne,8341919
 Novoyavorivs'k,Ukraine,Lviv,8468760
 Reni,Ukraine,Odessa,12129128
@@ -28848,6 +28867,7 @@ Koolauloa,United States,Hawaii,13100438
 Makakilo / Kapolei / Honokai Hale,United States,Hawaii,13100439
 Vermont Square,United States,California,13157324
 Mid-City,United States,California,13157343
+Tigard,United States,Oregon,13192646
 Young,Uruguay,Rio Negro Department,3439525
 Trinidad,Uruguay,Flores Department,3439748
 Treinta y Tres,Uruguay,Treinta y Tres Department,3439781
