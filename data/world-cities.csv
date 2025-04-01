@@ -3955,7 +3955,7 @@ Jietou,China,Yunnan,1280951
 Jiayuguan,China,Gansu,1280957
 Huatugou,China,Qinghai,1281003
 Houqiao,China,Yunnan,1281015
-Hotan,China,Xinjiang,1281019
+Gujangbagh,China,Xinjiang,1281019
 Gudong,China,Yunnan,1281157
 Elixku,China,Xinjiang,1281278
 Dêqên,China,Tibet,1281368
@@ -6501,7 +6501,7 @@ Zittau,Germany,Saxony,2804008
 Zirndorf,Germany,Bavaria,2804034
 Zerbst,Germany,Saxony-Anhalt,2804748
 Zeitz,Germany,Saxony-Anhalt,2804922
-Zehlendorf,Germany,Berlin,2805059
+Zehlendorf,Germany,State of Berlin,2805059
 Xanten,Germany,North Rhine-Westphalia,2805385
 Wurzen,Germany,Saxony,2805597
 Würzburg,Germany,Bavaria,2805615
@@ -6520,7 +6520,7 @@ Wittstock,Germany,Brandenburg,2807201
 Wittmund,Germany,Lower Saxony,2807218
 Wittlich,Germany,Rheinland-Pfalz,2807240
 Wittenberge,Germany,Brandenburg,2807344
-Wittenau,Germany,Berlin,2807360
+Wittenau,Germany,State of Berlin,2807360
 Witten,Germany,North Rhine-Westphalia,2807363
 Wismar,Germany,Mecklenburg-Vorpommern,2807465
 Wipperfürth,Germany,North Rhine-Westphalia,2807594
@@ -6528,9 +6528,9 @@ Winterhude,Germany,Hamburg,2807748
 Winsen,Germany,Lower Saxony,2807845
 Winnenden,Germany,Baden-Wurttemberg,2807872
 Wilnsdorf,Germany,North Rhine-Westphalia,2808461
-Wilmersdorf,Germany,Berlin,2808473
+Wilmersdorf,Germany,State of Berlin,2808473
 Willich,Germany,North Rhine-Westphalia,2808559
-Wilhelmstadt,Germany,Berlin,2808662
+Wilhelmstadt,Germany,State of Berlin,2808662
 Wilhelmshaven,Germany,Lower Saxony,2808720
 Wilhelmsburg,Germany,Hamburg,2808747
 Wildeshausen,Germany,Lower Saxony,2808893
@@ -6540,7 +6540,7 @@ Wiehl,Germany,North Rhine-Westphalia,2809517
 Wetzlar,Germany,Hesse,2809889
 Wetter,Germany,North Rhine-Westphalia,2809984
 Westerstede,Germany,Lower Saxony,2810188
-Westend,Germany,Berlin,2810538
+Westend,Germany,State of Berlin,2810538
 Wesseling,Germany,North Rhine-Westphalia,2810612
 Wesel,Germany,North Rhine-Westphalia,2810678
 Petersberg,Germany,Hesse,2810706
@@ -6569,11 +6569,11 @@ Weilerswist,Germany,North Rhine-Westphalia,2812522
 Weil der Stadt,Germany,Baden-Wurttemberg,2812625
 Weil am Rhein,Germany,Baden-Wurttemberg,2812636
 Weiden,Germany,Bavaria,2813040
-Weißensee,Germany,Berlin,2813187
+Weißensee,Germany,State of Berlin,2813187
 Wegberg,Germany,North Rhine-Westphalia,2813390
 Weener,Germany,Lower Saxony,2813433
 Wedel,Germany,Schleswig-Holstein,2813464
-Wedding,Germany,Berlin,2813472
+Wedding,Germany,State of Berlin,2813472
 Wassenberg,Germany,North Rhine-Westphalia,2813786
 Warstein,Germany,North Rhine-Westphalia,2814005
 Warendorf,Germany,North Rhine-Westphalia,2814127
@@ -6607,7 +6607,7 @@ Versmold,Germany,North Rhine-Westphalia,2817537
 Verl,Germany,North Rhine-Westphalia,2817576
 Verden,Germany,Lower Saxony,2817599
 Velbert,Germany,North Rhine-Westphalia,2817724
-Vegesack,Germany,Bremen,2817783
+Vegesack,Germany,City state Bremen,2817783
 Vechta,Germany,Lower Saxony,2817812
 Vechelde,Germany,Lower Saxony,2817813
 Vaterstetten,Germany,Bavaria,2817818
@@ -6635,10 +6635,10 @@ Torgau,Germany,Saxony,2821807
 Tönisvorst,Germany,North Rhine-Westphalia,2821899
 Tettnang,Germany,Baden-Wurttemberg,2823368
 Templin,Germany,Brandenburg,2823533
-Tempelhof,Germany,Berlin,2823538
+Tempelhof,Germany,State of Berlin,2823538
 Teltow,Germany,Brandenburg,2823567
 Telgte,Germany,North Rhine-Westphalia,2823590
-Tegel,Germany,Berlin,2823708
+Tegel,Germany,State of Berlin,2823708
 Taunusstein,Germany,Hesse,2823799
 Taufkirchen,Germany,Bavaria,2823812
 Syke,Germany,Lower Saxony,2824461
@@ -6660,14 +6660,14 @@ Stellingen,Germany,Hamburg,2827552
 Steinhagen,Germany,North Rhine-Westphalia,2828050
 Steinfurt,Germany,North Rhine-Westphalia,2828105
 Steilshoop,Germany,Hamburg,2828994
-Steglitz,Germany,Berlin,2829109
+Steglitz,Germany,State of Berlin,2829109
 Staßfurt,Germany,Saxony-Anhalt,2829422
 Starnberg,Germany,Bavaria,2829457
 Stadtlohn,Germany,North Rhine-Westphalia,2829758
 Stadthagen,Germany,Lower Saxony,2829777
 Stadtallendorf,Germany,Hesse,2829804
 Stade,Germany,Lower Saxony,2829901
-Staaken,Germany,Berlin,2829962
+Staaken,Germany,State of Berlin,2829962
 Sprockhövel,Germany,North Rhine-Westphalia,2829998
 Springe,Germany,Lower Saxony,2830035
 Speyer,Germany,Rheinland-Pfalz,2830582
@@ -6718,13 +6718,13 @@ Schramberg,Germany,Baden-Wurttemberg,2836203
 Schortens,Germany,Lower Saxony,2836282
 Schorndorf,Germany,Baden-Wurttemberg,2836320
 Schopfheim,Germany,Baden-Wurttemberg,2836413
-Schöneberg,Germany,Berlin,2836788
+Schöneberg,Germany,State of Berlin,2836788
 Schönebeck,Germany,Saxony-Anhalt,2836809
 Schneverdingen,Germany,Lower Saxony,2837291
 Schnelsen,Germany,Hamburg,2837343
 Schneeberg,Germany,Saxony,2837470
 Schmelz,Germany,Saarland,2837954
-Schmargendorf,Germany,Berlin,2838009
+Schmargendorf,Germany,State of Berlin,2838009
 Schmallenberg,Germany,North Rhine-Westphalia,2838053
 Schmalkalden,Germany,Thuringia,2838059
 Schlüchtern,Germany,Hesse,2838201
@@ -6746,8 +6746,8 @@ Saarlouis,Germany,Saarland,2842632
 Saarbrücken,Germany,Saarland,2842647
 Saalfeld,Germany,Thuringia,2842688
 Rüsselsheim am Main,Germany,Hesse,2842884
-Rummelsburg,Germany,Berlin,2843106
-Rudow,Germany,Berlin,2843350
+Rummelsburg,Germany,State of Berlin,2843106
+Rudow,Germany,State of Berlin,2843350
 Rudolstadt,Germany,Thuringia,2843355
 Rottweil,Germany,Baden-Wurttemberg,2843636
 Rottenburg,Germany,Baden-Wurttemberg,2843729
@@ -6776,7 +6776,7 @@ Renningen,Germany,Baden-Wurttemberg,2848175
 Rendsburg,Germany,Schleswig-Holstein,2848245
 Remscheid,Germany,North Rhine-Westphalia,2848273
 Remagen,Germany,Rheinland-Pfalz,2848335
-Reinickendorf,Germany,Berlin,2848756
+Reinickendorf,Germany,State of Berlin,2848756
 Reinheim,Germany,Hesse,2848762
 Reinbek,Germany,Schleswig-Holstein,2848845
 Reichenbach/Vogtland,Germany,Saxony,2849156
@@ -6800,7 +6800,7 @@ Quedlinburg,Germany,Saxony-Anhalt,2851465
 Püttlingen,Germany,Saarland,2851584
 Pulheim,Germany,North Rhine-Westphalia,2851746
 Puchheim,Germany,Bavaria,2851782
-Prenzlauer Berg,Germany,Berlin,2852217
+Prenzlauer Berg,Germany,State of Berlin,2852217
 Prenzlau,Germany,Brandenburg,2852218
 Preetz,Germany,Schleswig-Holstein,2852280
 Potsdam,Germany,Brandenburg,2852458
@@ -6823,7 +6823,7 @@ Passau,Germany,Bavaria,2855328
 Pasing,Germany,Bavaria,2855334
 Parchim,Germany,Mecklenburg-Vorpommern,2855441
 Papenburg,Germany,Lower Saxony,2855525
-Pankow,Germany,Berlin,2855598
+Pankow,Germany,State of Berlin,2855598
 Paderborn,Germany,North Rhine-Westphalia,2855745
 Oyten,Germany,Lower Saxony,2855794
 Overath,Germany,North Rhine-Westphalia,2855859
@@ -6852,7 +6852,7 @@ Odenthal,Germany,North Rhine-Westphalia,2858103
 Ochtrup,Germany,North Rhine-Westphalia,2858245
 Oberursel,Germany,Hesse,2858738
 Obertshausen,Germany,Hesse,2858763
-Oberschöneweide,Germany,Berlin,2859103
+Oberschöneweide,Germany,State of Berlin,2859103
 Ober-Ramstadt,Germany,Hesse,2859380
 Oberkirch,Germany,Baden-Wurttemberg,2860080
 Oberhausen,Germany,North Rhine-Westphalia,2860410
@@ -6871,7 +6871,7 @@ Norden,Germany,Lower Saxony,2862118
 Nippes,Germany,North Rhine-Westphalia,2862375
 Niendorf,Germany,Hamburg,2862606
 Nienburg,Germany,Lower Saxony,2862620
-Niederschönhausen,Germany,Berlin,2862888
+Niederschönhausen,Germany,State of Berlin,2862888
 Niederkrüchten,Germany,North Rhine-Westphalia,2863199
 Niederkassel,Germany,North Rhine-Westphalia,2863223
 Nieder-Ingelheim,Germany,Rheinland-Pfalz,2863240
@@ -6891,7 +6891,7 @@ Neuruppin,Germany,Brandenburg,2864276
 Neunkirchen,Germany,Saarland,2864435
 Neumünster,Germany,Schleswig-Holstein,2864475
 Neumarkt in der Oberpfalz,Germany,Bavaria,2864549
-Neukölln,Germany,Berlin,2864695
+Neukölln,Germany,State of Berlin,2864695
 Neu-Isenburg,Germany,Hesse,2864820
 Neugraben-Fischbek,Germany,Hamburg,2865260
 Neufahrn bei Freising,Germany,Bavaria,2865376
@@ -6925,7 +6925,7 @@ Monheim am Rhein,Germany,North Rhine-Westphalia,2869791
 Mönchengladbach,Germany,North Rhine-Westphalia,2869894
 Mölln,Germany,Schleswig-Holstein,2869994
 Moers,Germany,North Rhine-Westphalia,2870221
-Moabit,Germany,Berlin,2870310
+Moabit,Germany,State of Berlin,2870310
 Mittweida,Germany,Saxony,2870318
 Minden,Germany,North Rhine-Westphalia,2871039
 Michelstadt,Germany,Hesse,2871284
@@ -6947,22 +6947,22 @@ Meerane,Germany,Saxony,2872519
 Meckenheim,Germany,North Rhine-Westphalia,2872582
 Mechernich,Germany,North Rhine-Westphalia,2872611
 Mayen,Germany,Rheinland-Pfalz,2872649
-Marzahn,Germany,Berlin,2873074
+Marzahn,Germany,State of Berlin,2873074
 Marsberg,Germany,North Rhine-Westphalia,2873211
 Marl,Germany,North Rhine-Westphalia,2873263
 Marktredwitz,Germany,Bavaria,2873289
 Marktoberdorf,Germany,Bavaria,2873291
 Markkleeberg,Germany,Saxony,2873352
-Märkisches Viertel,Germany,Berlin,2873356
-Marienfelde,Germany,Berlin,2873589
-Mariendorf,Germany,Berlin,2873606
+Märkisches Viertel,Germany,State of Berlin,2873356
+Marienfelde,Germany,State of Berlin,2873589
+Mariendorf,Germany,State of Berlin,2873606
 Marienberg,Germany,Saxony,2873632
 Marburg an der Lahn,Germany,Hesse,2873759
 Marbach am Neckar,Germany,Baden-Wurttemberg,2873776
 Mannheim,Germany,Baden-Wurttemberg,2873891
 Mainz,Germany,Rheinland-Pfalz,2874225
 Maintal,Germany,Hesse,2874230
-Mahlsdorf,Germany,Berlin,2874455
+Mahlsdorf,Germany,State of Berlin,2874455
 Magdeburg,Germany,Saxony-Anhalt,2874545
 Lurup,Germany,Hamburg,2875023
 Lünen,Germany,North Rhine-Westphalia,2875107
@@ -6993,10 +6993,10 @@ Lindau,Germany,Bavaria,2877550
 Limburg an der Lahn,Germany,Hesse,2877648
 Limbach-Oberfrohna,Germany,Saxony,2877673
 Lilienthal,Germany,Lower Saxony,2877709
-Lichterfelde,Germany,Berlin,2878018
-Lichtenrade,Germany,Berlin,2878044
+Lichterfelde,Germany,State of Berlin,2878018
+Lichtenrade,Germany,State of Berlin,2878044
 Lichtenfels,Germany,Bavaria,2878074
-Lichtenberg,Germany,Berlin,2878102
+Lichtenberg,Germany,State of Berlin,2878102
 Leverkusen,Germany,North Rhine-Westphalia,2878234
 Leutkirch,Germany,Baden-Wurttemberg,2878270
 Leuben,Germany,Saxony,2878396
@@ -7015,7 +7015,7 @@ Lebach,Germany,Saarland,2879832
 Laupheim,Germany,Baden-Wurttemberg,2880077
 Lauf an der Pegnitz,Germany,Bavaria,2880144
 Lauchhammer,Germany,Brandenburg,2880221
-Lankwitz,Germany,Berlin,2880498
+Lankwitz,Germany,State of Berlin,2880498
 Langenhagen,Germany,Lower Saxony,2881062
 Langenfeld,Germany,North Rhine-Westphalia,2881085
 Langen,Germany,Lower Saxony,2881276
@@ -7036,7 +7036,7 @@ Kulmbach,Germany,Bavaria,2882588
 Kronberg,Germany,Hesse,2883754
 Kronach,Germany,Bavaria,2883784
 Kreuztal,Germany,North Rhine-Westphalia,2884050
-Kreuzberg,Germany,Berlin,2884161
+Kreuzberg,Germany,State of Berlin,2884161
 Kreuzau,Germany,North Rhine-Westphalia,2884245
 Krefeld,Germany,North Rhine-Westphalia,2884509
 Köthen,Germany,Saxony-Anhalt,2885237
@@ -7044,8 +7044,8 @@ Korschenbroich,Germany,North Rhine-Westphalia,2885397
 Kornwestheim,Germany,Baden-Wurttemberg,2885408
 Korntal,Germany,Baden-Wurttemberg,2885412
 Korbach,Germany,Hesse,2885536
-Köpenick,Germany,Berlin,2885656
-Berlin Köpenick,Germany,Berlin,2885657
+Köpenick,Germany,State of Berlin,2885656
+Berlin Köpenick,Germany,State of Berlin,2885657
 Konz,Germany,Rheinland-Pfalz,2885672
 Konstanz,Germany,Baden-Wurttemberg,2885679
 Königs Wusterhausen,Germany,Brandenburg,2885732
@@ -7061,7 +7061,7 @@ Klingenstein,Germany,Baden-Wurttemberg,2887716
 Kleve,Germany,North Rhine-Westphalia,2887835
 Kleinzschocher,Germany,Saxony,2887933
 Kleinmachnow,Germany,Brandenburg,2888523
-Kladow,Germany,Berlin,2890136
+Kladow,Germany,State of Berlin,2890136
 Kitzingen,Germany,Bavaria,2890158
 Kirchlengern,Germany,North Rhine-Westphalia,2890425
 Kirchheim unter Teck,Germany,Baden-Wurttemberg,2890473
@@ -7075,13 +7075,13 @@ Kempen,Germany,North Rhine-Westphalia,2891643
 Kelkheim,Germany,Hesse,2891832
 Kelheim,Germany,Bavaria,2891834
 Kehl,Germany,Baden-Wurttemberg,2891951
-Kaulsdorf,Germany,Berlin,2892051
+Kaulsdorf,Germany,State of Berlin,2892051
 Kaufbeuren,Germany,Bavaria,2892080
 Kassel,Germany,Hesse,2892518
-Karow,Germany,Berlin,2892705
+Karow,Germany,State of Berlin,2892705
 Karlstadt,Germany,Bavaria,2892786
 Karlsruhe,Germany,Baden-Wurttemberg,2892794
-Karlshorst,Germany,Berlin,2892811
+Karlshorst,Germany,State of Berlin,2892811
 Karlsfeld,Germany,Bavaria,2892874
 Karben,Germany,Hesse,2892980
 Kamp-Lintfort,Germany,North Rhine-Westphalia,2893264
@@ -7092,7 +7092,7 @@ Kaiserslautern,Germany,Rheinland-Pfalz,2894003
 Kaarst,Germany,North Rhine-Westphalia,2894375
 Jülich,Germany,North Rhine-Westphalia,2894553
 Jüchen,Germany,North Rhine-Westphalia,2894637
-Johannisthal,Germany,Berlin,2894755
+Johannisthal,Germany,State of Berlin,2894755
 Jena,Germany,Thuringia,2895044
 Itzehoe,Germany,Schleswig-Holstein,2895569
 Isernhagen Farster Bauerschaft,Germany,Lower Saxony,2895664
@@ -7145,7 +7145,7 @@ Herzogenaurach,Germany,Bavaria,2905457
 Herten,Germany,North Rhine-Westphalia,2905560
 Herrenberg,Germany,Baden-Wurttemberg,2905826
 Herne,Germany,North Rhine-Westphalia,2905891
-Hermsdorf,Germany,Berlin,2905904
+Hermsdorf,Germany,State of Berlin,2905904
 Herford,Germany,North Rhine-Westphalia,2906121
 Herdecke,Germany,North Rhine-Westphalia,2906152
 Herborn,Germany,Hesse,2906199
@@ -7155,10 +7155,10 @@ Hennef (Sieg),Germany,North Rhine-Westphalia,2906376
 Hemmingen,Germany,Lower Saxony,2906530
 Hemer,Germany,North Rhine-Westphalia,2906595
 Helmstedt,Germany,Lower Saxony,2906676
-Hellersdorf,Germany,Berlin,2906809
+Hellersdorf,Germany,State of Berlin,2906809
 Heinsberg,Germany,North Rhine-Westphalia,2907201
 Heilbad Heiligenstadt,Germany,Thuringia,2907545
-Heiligensee,Germany,Berlin,2907551
+Heiligensee,Germany,State of Berlin,2907551
 Heiligenhaus,Germany,North Rhine-Westphalia,2907585
 Heilbronn,Germany,Baden-Wurttemberg,2907669
 Heidenheim an der Brenz,Germany,Baden-Wurttemberg,2907851
@@ -7170,7 +7170,7 @@ Hausbruch,Germany,Hamburg,2908942
 Hattingen,Germany,North Rhine-Westphalia,2909230
 Hattersheim,Germany,Hesse,2909240
 Haßloch,Germany,Rheinland-Pfalz,2909313
-Haselhorst,Germany,Berlin,2909794
+Haselhorst,Germany,State of Berlin,2909794
 Harvestehude,Germany,Hamburg,2909972
 Harsewinkel,Germany,North Rhine-Westphalia,2910278
 Haren,Germany,Lower Saxony,2910514
@@ -7194,7 +7194,7 @@ Halle,Germany,North Rhine-Westphalia,2911520
 Halle (Saale),Germany,Saxony-Anhalt,2911522
 Haldensleben I,Germany,Saxony-Anhalt,2911584
 Halberstadt,Germany,Saxony-Anhalt,2911665
-Hakenfelde,Germany,Berlin,2911710
+Hakenfelde,Germany,State of Berlin,2911710
 Haiger,Germany,Hesse,2911964
 Hagen,Germany,North Rhine-Westphalia,2912621
 Haar,Germany,Bavaria,2913192
@@ -7236,7 +7236,7 @@ Gifhorn,Germany,Lower Saxony,2920478
 Gießen,Germany,Hesse,2920512
 Giengen an der Brenz,Germany,Baden-Wurttemberg,2920620
 Gevelsberg,Germany,North Rhine-Westphalia,2920757
-Gesundbrunnen,Germany,Berlin,2920789
+Gesundbrunnen,Germany,State of Berlin,2920789
 Geseke,Germany,North Rhine-Westphalia,2920834
 Gescher,Germany,North Rhine-Westphalia,2920842
 Gersthofen,Germany,Bavaria,2920891
@@ -7264,14 +7264,14 @@ Fürstenwalde,Germany,Brandenburg,2923588
 Fürstenfeldbruck,Germany,Bavaria,2923625
 Fulda,Germany,Hesse,2923822
 Fröndenberg,Germany,North Rhine-Westphalia,2924206
-Frohnau,Germany,Berlin,2924302
+Frohnau,Germany,State of Berlin,2924302
 Friesoythe,Germany,Lower Saxony,2924360
-Friedrichshain,Germany,Berlin,2924573
-Friedrichshagen,Germany,Berlin,2924577
+Friedrichshain,Germany,State of Berlin,2924573
+Friedrichshagen,Germany,State of Berlin,2924577
 Friedrichshafen,Germany,Baden-Wurttemberg,2924585
-Friedrichsfelde,Germany,Berlin,2924599
+Friedrichsfelde,Germany,State of Berlin,2924599
 Friedrichsdorf,Germany,Hesse,2924625
-Friedenau,Germany,Berlin,2924770
+Friedenau,Germany,State of Berlin,2924770
 Friedberg,Germany,Hesse,2924802
 Friedberg,Germany,Bavaria,2924803
 Freudenstadt,Germany,Baden-Wurttemberg,2924894
@@ -7379,7 +7379,7 @@ Deggendorf,Germany,Bavaria,2938540
 Datteln,Germany,North Rhine-Westphalia,2938784
 Darmstadt,Germany,Hesse,2938913
 Damme,Germany,Lower Saxony,2939167
-Dahlem,Germany,Berlin,2939440
+Dahlem,Germany,State of Berlin,2939440
 Dachau,Germany,Bavaria,2939623
 Cuxhaven,Germany,Lower Saxony,2939658
 Crimmitschau,Germany,Saxony,2939747
@@ -7391,7 +7391,7 @@ Coburg,Germany,Bavaria,2939951
 Cloppenburg,Germany,Lower Saxony,2939969
 Clausthal-Zellerfeld,Germany,Lower Saxony,2939995
 Chemnitz,Germany,Saxony,2940132
-Charlottenburg,Germany,Berlin,2940187
+Charlottenburg,Germany,State of Berlin,2940187
 Cham,Germany,Bavaria,2940204
 Celle,Germany,Lower Saxony,2940213
 Castrop-Rauxel,Germany,North Rhine-Westphalia,2940231
@@ -7407,22 +7407,22 @@ Büren,Germany,North Rhine-Westphalia,2941570
 Bünde,Germany,North Rhine-Westphalia,2941694
 Bühl,Germany,Baden-Wurttemberg,2941976
 Büdingen,Germany,Hesse,2942073
-Buckow,Germany,Berlin,2942122
+Buckow,Germany,State of Berlin,2942122
 Bückeburg,Germany,Lower Saxony,2942159
 Buchholz in der Nordheide,Germany,Lower Saxony,2942323
-Französisch Buchholz,Germany,Berlin,2942341
+Französisch Buchholz,Germany,State of Berlin,2942341
 Buchen in Odenwald,Germany,Baden-Wurttemberg,2942634
 Brühl,Germany,North Rhine-Westphalia,2943320
 Brüggen,Germany,North Rhine-Westphalia,2943336
 Bruckmühl,Germany,Bavaria,2943408
 Bruchsal,Germany,Baden-Wurttemberg,2943560
 Bruchköbel,Germany,Hesse,2943573
-Britz,Germany,Berlin,2944027
+Britz,Germany,State of Berlin,2944027
 Brilon,Germany,North Rhine-Westphalia,2944079
 Bretten,Germany,Baden-Wurttemberg,2944200
 Bremervörde,Germany,Lower Saxony,2944354
-Bremerhaven,Germany,Bremen,2944368
-Bremen,Germany,Bremen,2944388
+Bremerhaven,Germany,City state Bremen,2944368
+Bremen,Germany,City state Bremen,2944388
 Braunschweig,Germany,Lower Saxony,2945024
 Brandenburg an der Havel,Germany,Brandenburg,2945358
 Bramsche,Germany,Lower Saxony,2945474
@@ -7450,7 +7450,7 @@ Bitterfeld-Wolfen,Germany,Saxony-Anhalt,2948164
 Bingen am Rhein,Germany,Rheinland-Pfalz,2948825
 Billstedt,Germany,Hamburg,2948917
 Bietigheim-Bissingen,Germany,Baden-Wurttemberg,2949012
-Biesdorf,Germany,Berlin,2949073
+Biesdorf,Germany,State of Berlin,2949073
 Bielefeld,Germany,North Rhine-Westphalia,2949186
 Biebrich,Germany,Hesse,2949235
 Biberach an der Riß,Germany,Baden-Wurttemberg,2949423
@@ -7458,7 +7458,7 @@ Bexbach,Germany,Saarland,2949470
 Beverungen,Germany,North Rhine-Westphalia,2949475
 Bernburg,Germany,Saxony-Anhalt,2950073
 Bernau bei Berlin,Germany,Brandenburg,2950096
-Berlin,Germany,Berlin,2950159
+Berlin,Germany,State of Berlin,2950159
 Bergneustadt,Germany,North Rhine-Westphalia,2950294
 Bergkamen,Germany,North Rhine-Westphalia,2950344
 Bergisch Gladbach,Germany,North Rhine-Westphalia,2950349
@@ -7471,7 +7471,7 @@ Beckingen,Germany,Saarland,2951679
 Bayreuth,Germany,Bavaria,2951825
 Bautzen,Germany,Saxony,2951881
 Baunatal,Germany,Hesse,2951923
-Baumschulenweg,Germany,Berlin,2951935
+Baumschulenweg,Germany,State of Berlin,2951935
 Bassum,Germany,Lower Saxony,2952252
 Bamberg,Germany,Bavaria,2952984
 Balingen,Germany,Baden-Wurttemberg,2953089
@@ -7536,7 +7536,7 @@ Andernach,Germany,Rheinland-Pfalz,2956206
 Amberg,Germany,Bavaria,2956656
 Alzey,Germany,Rheinland-Pfalz,2956710
 Alzenau in Unterfranken,Germany,Bavaria,2956715
-Altglienicke,Germany,Berlin,2957185
+Altglienicke,Germany,State of Berlin,2957185
 Altenburg,Germany,Thuringia,2957773
 Altena,Germany,North Rhine-Westphalia,2957886
 Altdorf bei Nürnberg,Germany,Bavaria,2958024
@@ -7550,7 +7550,7 @@ Aichach,Germany,Bavaria,2958975
 Ahrensburg,Germany,Schleswig-Holstein,2959083
 Ahlen,Germany,North Rhine-Westphalia,2959223
 Ahaus,Germany,North Rhine-Westphalia,2959279
-Adlershof,Germany,Berlin,2959441
+Adlershof,Germany,State of Berlin,2959441
 Achim,Germany,Lower Saxony,2959681
 Achern,Germany,Baden-Wurttemberg,2959686
 Aalen,Germany,Baden-Wurttemberg,2959927
@@ -7563,11 +7563,11 @@ Lauda-Königshofen,Germany,Baden-Wurttemberg,3274966
 Filderstadt,Germany,Baden-Wurttemberg,3336891
 Ostfildern,Germany,Baden-Wurttemberg,3336892
 Rodgau,Germany,Hesse,3336893
-Gropiusstadt,Germany,Berlin,3337408
+Gropiusstadt,Germany,State of Berlin,3337408
 Seeheim-Jugenheim,Germany,Hesse,3337504
 Bonn Hardtberg,Germany,North Rhine-Westphalia,6472198
-Charlottenburg-Nord,Germany,Berlin,6545288
-Mitte,Germany,Berlin,6545310
+Charlottenburg-Nord,Germany,State of Berlin,6545288
+Mitte,Germany,State of Berlin,6545310
 Rheinstetten,Germany,Baden-Wurttemberg,6558039
 Altstadt Sud,Germany,North Rhine-Westphalia,6691072
 Altstadt Nord,Germany,North Rhine-Westphalia,6691073
@@ -7581,18 +7581,18 @@ Eidelstedt,Germany,Hamburg,7274677
 Eisleben Lutherstadt,Germany,Saxony-Anhalt,7284571
 Halle-Neustadt,Germany,Saxony-Anhalt,7289614
 Bergedorf,Germany,Hamburg,7290243
-Spandau,Germany,Berlin,7290252
-Treptow,Germany,Berlin,7290255
+Spandau,Germany,State of Berlin,7290252
+Treptow,Germany,State of Berlin,7290255
 Niederrad,Germany,Hesse,7290401
 Wittenberg,Germany,Saxony-Anhalt,7303020
 Äußere Neustadt,Germany,Saxony,7627288
 Barmbek-Nord,Germany,Hamburg,7932342
 Barmbek-Süd,Germany,Hamburg,7932343
 Farmsen-Berne,Germany,Hamburg,7932386
-Falkenhagener Feld,Germany,Berlin,8334621
-Neu-Hohenschönhausen,Germany,Berlin,8334622
-Alt-Hohenschönhausen,Germany,Berlin,8334624
-Fennpfuhl,Germany,Berlin,8334625
+Falkenhagener Feld,Germany,State of Berlin,8334621
+Neu-Hohenschönhausen,Germany,State of Berlin,8334622
+Alt-Hohenschönhausen,Germany,State of Berlin,8334624
+Fennpfuhl,Germany,State of Berlin,8334625
 Hamburg-Nord,Germany,Hamburg,8354626
 Neustadt/Nord,Germany,North Rhine-Westphalia,8593855
 Neustadt/Süd,Germany,North Rhine-Westphalia,8593856
@@ -7602,7 +7602,7 @@ Mülheim,Germany,North Rhine-Westphalia,8593865
 Gartenstadt,Germany,Rheinland-Pfalz,8642860
 Kröpeliner-Tor-Vorstadt,Germany,Mecklenburg-Vorpommern,9238414
 Düsseldorf-Pempelfort,Germany,North Rhine-Westphalia,11258605
-Burglesum,Germany,Bremen,11594317
+Burglesum,Germany,City state Bremen,11594317
 Altona-Altstadt,Germany,Hamburg,11669492
 Altona-Nord,Germany,Hamburg,11669493
 Dulsberg,Germany,Hamburg,11669496
@@ -9884,7 +9884,7 @@ Cholet,France,Pays de la Loire,3025053
 Choisy-le-Roi,France,Ile-de-France,3025055
 Chilly-Mazarin,France,Ile-de-France,3025144
 Chevilly-Larue,France,Ile-de-France,3025314
-Cherbourg-Octeville,France,Normandy,3025466
+Cherbourg,France,Normandy,3025466
 Chenôve,France,Bourgogne-Franche-Comte,3025496
 Chennevières-sur-Marne,France,Ile-de-France,3025509
 Chelles,France,Ile-de-France,3025622
@@ -10844,7 +10844,6 @@ Aberystwyth,United Kingdom,Wales,2657782
 Abergele,United Kingdom,Wales,2657812
 Aberdeen,United Kingdom,Scotland,2657832
 Aberdare,United Kingdom,Wales,2657835
-Crosby,United Kingdom,England,3209584
 Tonypandy,United Kingdom,Wales,3345283
 Blackwood,United Kingdom,Wales,3345317
 Neston,United Kingdom,England,3345432
@@ -10951,7 +10950,7 @@ Senak’i,Georgia,Samegrelo and Zemo Svaneti,612053
 Samtredia,Georgia,Imereti,612126
 Rustavi,Georgia,Kvemo Kartli,612287
 P’ot’i,Georgia,Samegrelo and Zemo Svaneti,612366
-Och’amch’ire,Georgia,Abkhazia,612652
+Ochamchire,Georgia,Abkhazia,612652
 Marneuli,Georgia,Kvemo Kartli,613074
 Kutaisi,Georgia,Imereti,613607
 Kobuleti,Georgia,Adjara,613762
@@ -11064,6 +11063,7 @@ Sekondi,Ghana,Western,11808941
 Mandela,Ghana,Greater Accra,12640505
 Nkawkaw,Ghana,Eastern,12640506
 Taifa,Ghana,Greater Accra,12640508
+Ahwiaa,Ghana,Ashanti,13275281
 Gibraltar,Gibraltar,,2411585
 Nuuk,Greenland,Sermersooq,3421319
 Welingara,Gambia,Western,2411700
@@ -11366,7 +11366,6 @@ Amatitlán,Guatemala,Guatemala,3599735
 Alotenango,Guatemala,Sacatepequez,3599788
 Tamuning-Tumon-Harmon Village,Guam,Tamuning,4038659
 Yigo Village,Guam,Yigo,4038794
-Guam Government House,Guam,Hagatna,4043547
 Dededo Village,Guam,Dededo,4043909
 Hagåtña,Guam,Hagatna,4044012
 Mangilao Village,Guam,Mangilao,7268049
@@ -11451,7 +11450,6 @@ Cheung Chau,Hong Kong,Islands,1819968
 Chek Chue,Hong Kong,Southern,1819980
 Victoria,Hong Kong,Central and Western,1931681
 Fortress Hill,Hong Kong,Eastern,7778986
-Admiralty,Hong Kong,Central and Western,8223931
 Jordan,Hong Kong,Yau Tsim Mong,8224045
 Wong Chuk Hang,Hong Kong,Southern,9172583
 Tai Koo,Hong Kong,Eastern,10170102
@@ -12989,7 +12987,6 @@ Pārvatipuram,India,Andhra Pradesh,1260222
 Partūr,India,Maharashtra,1260228
 Parola,India,Maharashtra,1260274
 Parli Vaijnāth,India,Maharashtra,1260290
-Parlākimidi,India,Odisha,1260296
 Pariyāpuram,India,Kerala,1260304
 Parīchhatgarh,India,Uttar Pradesh,1260313
 Pārdi,India,Gujarat,1260335
@@ -12997,7 +12994,7 @@ Parbhani,India,Maharashtra,1260341
 Paravūr Tekkumbhāgam,India,Kerala,1260354
 Parāsia,India,Madhya Pradesh,1260368
 Paramagudi,India,Tamil Nadu,1260387
-Paralākhemundi,India,Odisha,1260390
+Paralakhemundi,India,Odisha,1260390
 Parādīp Garh,India,Odisha,1260393
 Pāppinisshēri,India,Kerala,1260406
 Papanasam,India,Tamil Nadu,1260417
@@ -13350,7 +13347,7 @@ Malīhābād,India,Uttar Pradesh,1264085
 Māler Kotla,India,Punjab,1264111
 Mālegaon,India,Maharashtra,1264115
 Malavalli,India,Karnataka,1264136
-Malaut,India,Punjab,1264138
+Malout,India,Punjab,1264138
 Malappuram,India,Kerala,1264154
 Mākum,India,Assam,1264196
 Maksi,India,Madhya Pradesh,1264198
@@ -13727,7 +13724,7 @@ Jhumri Telaiya,India,Jharkhand,1268775
 Jalandhar,India,Punjab,1268782
 Shādīpur Julāna,India,Haryana,1268785
 Jugsālai,India,Jharkhand,1268799
-Jorhāt,India,Assam,1268820
+Jorhat,India,Assam,1268820
 Jora,India,Madhya Pradesh,1268823
 Jalārpet,India,Tamil Nadu,1268834
 Jogbani,India,Bihar,1268855
@@ -14205,7 +14202,7 @@ Colonelganj,India,Uttar Pradesh,1273850
 Colgong,India,Bihar,1273856
 Calangute,India,Goa,1273858
 Coimbatore,India,Tamil Nadu,1273865
-Cochin,India,Kerala,1273874
+Kochi,India,Kerala,1273874
 Clement Town,India,Uttarakhand,1273880
 Chūru,India,Rajasthan,1273892
 Churāchāndpur,India,Manipur,1273909
@@ -15124,12 +15121,14 @@ Alvand,"Iran, Islamic Republic of",Qazvin Province,10570
 Āzādshahr,"Iran, Islamic Republic of",Hamadan Province,14256
 Kahrīz,"Iran, Islamic Republic of",Kermanshah Province,23814
 Nūrābād,"Iran, Islamic Republic of",Lorestan Province,24851
+Ferdows,"Iran, Islamic Republic of",Razavi Khorasan,31715
 Īstgāh-e Rāh Āhan-e Garmsār,"Iran, Islamic Republic of",Semnan,32723
 Qarchak,"Iran, Islamic Republic of",Tehran,32767
 Golestān,"Iran, Islamic Republic of",Tehran,32900
 Shahre Jadide Andisheh,"Iran, Islamic Republic of",Tehran,32909
 Khorramdarreh,"Iran, Islamic Republic of",Zanjan,41210
 Pādegān-e Manjīl,"Iran, Islamic Republic of",Gilan Province,41428
+Ābādeh,"Iran, Islamic Republic of",Fars,48918
 Yasuj,"Iran, Islamic Republic of",Kohgiluyeh and Boyer-Ahmad,66093
 Āzādshahr,"Iran, Islamic Republic of",Golestan,110831
 Zarand,"Iran, Islamic Republic of",Kerman,111421
@@ -15142,6 +15141,7 @@ Tehran,"Iran, Islamic Republic of",Tehran,112931
 Hashtpar,"Iran, Islamic Republic of",Gilan Province,113343
 Tākestān,"Iran, Islamic Republic of",Qazvin Province,113491
 Takāb,"Iran, Islamic Republic of",West Azerbaijan,113508
+Tajrīsh,"Iran, Islamic Republic of",Tehran,113514
 Taft,"Iran, Islamic Republic of",Yazd Province,113632
 Tabriz,"Iran, Islamic Republic of",East Azerbaijan,113646
 Tabas,"Iran, Islamic Republic of",Yazd Province,113659
@@ -15159,9 +15159,11 @@ Semnan,"Iran, Islamic Republic of",Semnan,116402
 Semīrom,"Iran, Islamic Republic of",Isfahan,116406
 Sāveh,"Iran, Islamic Republic of",Markazi,116667
 Sari,"Iran, Islamic Republic of",Mazandaran,116996
+Sarāb,"Iran, Islamic Republic of",East Azerbaijan,117368
 Saqqez,"Iran, Islamic Republic of",Kurdistan Province,117392
 Sanandaj,"Iran, Islamic Republic of",Kurdistan Province,117574
 Salmās,"Iran, Islamic Republic of",West Azerbaijan,117656
+Rāmsar,"Iran, Islamic Republic of",Mazandaran,117773
 Shāhīn Dezh,"Iran, Islamic Republic of",West Azerbaijan,117793
 Sabzevar,"Iran, Islamic Republic of",Razavi Khorasan,118063
 Rūdsar,"Iran, Islamic Republic of",Gilan Province,118191
@@ -15177,9 +15179,11 @@ Qom,"Iran, Islamic Republic of",Qom Province,119208
 Qeshm,"Iran, Islamic Republic of",Hormozgan,119374
 Qazvin,"Iran, Islamic Republic of",Qazvin Province,119505
 Qarah Ẕīā’ od Dīn,"Iran, Islamic Republic of",West Azerbaijan,119730
+Shahr-e Qods,"Iran, Islamic Republic of",Tehran,120292
 Farrokh Shahr,"Iran, Islamic Republic of",Chaharmahal and Bakhtiari,120678
 Qā’en,"Iran, Islamic Republic of",South Khorasan Province,120694
 Sarpol-e Z̄ahāb,"Iran, Islamic Republic of",Kermanshah Province,120931
+Poldasht,"Iran, Islamic Republic of",West Azerbaijan,120954
 Pīshvā,"Iran, Islamic Republic of",Tehran,120972
 Piranshahr,"Iran, Islamic Republic of",West Azerbaijan,121110
 Pāveh,"Iran, Islamic Republic of",Kermanshah Province,121240
@@ -15196,7 +15200,9 @@ Naz̧arābād,"Iran, Islamic Republic of",Alborz Province,122438
 Naqadeh,"Iran, Islamic Republic of",West Azerbaijan,122698
 Nahāvand,"Iran, Islamic Republic of",Hamadan Province,122915
 Mohr,"Iran, Islamic Republic of",Fars,123485
+Mīnūdasht,"Iran, Islamic Republic of",Golestan,123927
 Mīnāb,"Iran, Islamic Republic of",Hormozgan,123941
+Mīāneh,"Iran, Islamic Republic of",East Azerbaijan,124082
 Mīāndoāb,"Iran, Islamic Republic of",West Azerbaijan,124085
 Meybod,"Iran, Islamic Republic of",Yazd Province,124193
 Mahrīz,"Iran, Islamic Republic of",Yazd Province,124274
@@ -15206,11 +15212,14 @@ Mashhad,"Iran, Islamic Republic of",Razavi Khorasan,124665
 Marvdasht,"Iran, Islamic Republic of",Fars,124721
 Marīvān,"Iran, Islamic Republic of",Kurdistan Province,124778
 Marand,"Iran, Islamic Republic of",East Azerbaijan,124862
+Marāgheh,"Iran, Islamic Republic of",East Azerbaijan,124877
+Marāgheh,"Iran, Islamic Republic of",Razavi Khorasan,124878
 Manjīl,"Iran, Islamic Republic of",Gilan Province,124967
 Malāyer,"Iran, Islamic Republic of",Hamadan Province,125185
 Malārd,"Iran, Islamic Republic of",Tehran,125188
 Mahābād,"Iran, Islamic Republic of",West Azerbaijan,125446
 Langarūd,"Iran, Islamic Republic of",Gilan Province,125897
+Lāhījān,"Iran, Islamic Republic of",Gilan Province,126015
 Kūhdasht,"Iran, Islamic Republic of",Lorestan Province,126409
 Kīsh,"Iran, Islamic Republic of",Hormozgan,126914
 Khowy,"Iran, Islamic Republic of",West Azerbaijan,126972
@@ -15229,6 +15238,7 @@ Kāmyārān,"Iran, Islamic Republic of",Kurdistan Province,128905
 Kalāleh,"Iran, Islamic Republic of",Golestan,129512
 Jūybār,"Iran, Islamic Republic of",Mazandaran,129933
 Javānrūd,"Iran, Islamic Republic of",Kermanshah Province,130245
+Jahrom,"Iran, Islamic Republic of",Fars,130531
 Īz̄eh,"Iran, Islamic Republic of",Khuzestan,130697
 Īlām,"Iran, Islamic Republic of",Ilam Province,130802
 Harsīn,"Iran, Islamic Republic of",Kermanshah Province,131962
@@ -15245,6 +15255,7 @@ Fīrūzābād,"Iran, Islamic Republic of",Fars,134518
 Fereydūn Kenār,"Iran, Islamic Republic of",Mazandaran,134602
 Fasā,"Iran, Islamic Republic of",Fars,134721
 Fārsān,"Iran, Islamic Republic of",Chaharmahal and Bakhtiari,134762
+Eslāmābād-e Gharb,"Iran, Islamic Republic of",Kermanshah Province,135175
 Esfarāyen,"Iran, Islamic Republic of",North Khorasan,135298
 Shahrud,"Iran, Islamic Republic of",Semnan,135423
 Dogonbadan,"Iran, Islamic Republic of",Kohgiluyeh and Boyer-Ahmad,136014
@@ -15277,6 +15288,7 @@ Bandar-e Anzalī,"Iran, Islamic Republic of",Gilan Province,141679
 Bandar Abbas,"Iran, Islamic Republic of",Hormozgan,141681
 Bam,"Iran, Islamic Republic of",Kerman,141736
 Bahār,"Iran, Islamic Republic of",Hamadan Province,142000
+Bāft,"Iran, Islamic Republic of",Kerman,142247
 Bāfq,"Iran, Islamic Republic of",Yazd Province,142255
 Bābolsar,"Iran, Islamic Republic of",Mazandaran,142358
 Bābol,"Iran, Islamic Republic of",Mazandaran,142363
@@ -15289,6 +15301,9 @@ Ardestān,"Iran, Islamic Republic of",Isfahan,143052
 Ardakān,"Iran, Islamic Republic of",Yazd Province,143073
 Ardabīl,"Iran, Islamic Republic of",Ardabil Province,143083
 Arāk,"Iran, Islamic Republic of",Markazi,143127
+Andīmeshk,"Iran, Islamic Republic of",Khuzestan,143420
+‘Anbarābād,"Iran, Islamic Republic of",Kerman,143471
+Anār,"Iran, Islamic Republic of",Kerman,143499
 Āmol,"Iran, Islamic Republic of",Mazandaran,143534
 Alvand,"Iran, Islamic Republic of",Zanjan,143748
 Shahrīār,"Iran, Islamic Republic of",Tehran,143860
@@ -15304,10 +15319,12 @@ Abhar,"Iran, Islamic Republic of",Zanjan,145034
 Ābdānān,"Iran, Islamic Republic of",Ilam Province,145233
 Abadeh,"Iran, Islamic Republic of",Fars,145449
 Abadan,"Iran, Islamic Republic of",Khuzestan,145459
+Shahrak-e Qīāmdasht,"Iran, Islamic Republic of",Tehran,400833
 Showţ,"Iran, Islamic Republic of",West Azerbaijan,401118
 Pāsārgād,"Iran, Islamic Republic of",Fars,401202
 Eqbālīyeh,"Iran, Islamic Republic of",Tehran,406993
 Rehnān,"Iran, Islamic Republic of",Isfahan,418521
+Shahreẕā,"Iran, Islamic Republic of",Isfahan,418533
 Qahderījān,"Iran, Islamic Republic of",Isfahan,418571
 Najafābād,"Iran, Islamic Republic of",Isfahan,418606
 Khomeynī Shahr,"Iran, Islamic Republic of",Isfahan,418710
@@ -15322,12 +15339,16 @@ Zābol,"Iran, Islamic Republic of",Sistan and Baluchestan,1113217
 Zahedan,"Iran, Islamic Republic of",Sistan and Baluchestan,1159301
 Torbat-e Jām,"Iran, Islamic Republic of",Razavi Khorasan,1159362
 Tāybād,"Iran, Islamic Republic of",Razavi Khorasan,1159384
+Sarāvān,"Iran, Islamic Republic of",Sistan and Baluchestan,1159713
 Sarakhs,"Iran, Islamic Republic of",Razavi Khorasan,1159716
 Qaşr-e Qand,"Iran, Islamic Republic of",Sistan and Baluchestan,1159877
 Nīkshahr,"Iran, Islamic Republic of",Sistan and Baluchestan,1160110
+Konārak,"Iran, Islamic Republic of",Sistan and Baluchestan,1160500
 Khāsh,"Iran, Islamic Republic of",Sistan and Baluchestan,1160571
 Iranshahr,"Iran, Islamic Republic of",Sistan and Baluchestan,1160939
 Chabahar,"Iran, Islamic Republic of",Sistan and Baluchestan,1161724
+Sheybān,"Iran, Islamic Republic of",Khuzestan,6648621
+Jīroft,"Iran, Islamic Republic of",Kerman,6925362
 Mahdishahr,"Iran, Islamic Republic of",Semnan,7100777
 Boshrūyeh,"Iran, Islamic Republic of",South Khorasan Province,9480732
 Pasragad Branch,"Iran, Islamic Republic of",Hamadan Province,10630176
@@ -17015,6 +17036,7 @@ Sakai,Japan,Tokyo,8572855
 Ōizumimachi,Japan,Tokyo,8572880
 Hikarigaoka,Japan,Tokyo,8572883
 Sakuradai,Japan,Tokyo,8572886
+Sekimachi-minami,Japan,Tokyo,8572938
 Akatsuka,Japan,Tokyo,8572948
 Narimasu,Japan,Tokyo,8572949
 Takashimadaira,Japan,Tokyo,8572984
@@ -17092,6 +17114,7 @@ Sendagi,Japan,Tokyo,10971153
 Matsubushi,Japan,Saitama,10979195
 Toneri,Japan,Tokyo,10987573
 Ōgi,Japan,Tokyo,10987664
+Takenotsuka,Japan,Tokyo,10987752
 Aoi,Japan,Tokyo,10987894
 Kamiya,Japan,Tokyo,11010185
 Miyoshidai,Japan,Saitama,11012851
@@ -18287,7 +18310,6 @@ Ambanja,Madagascar,Diana,1083724
 Ambalavao,Madagascar,Upper Matsiatra,1083968
 Alarobia,Madagascar,Analamanga,1084740
 Majuro,Marshall Islands,Majuro Atoll,2113779
-RMI Capitol,Marshall Islands,Majuro Atoll,7874852
 Zelino,North Macedonia,Zhelino,783926
 Vinica,North Macedonia,Vinica,784424
 Veles,North Macedonia,Veles,785058
@@ -19062,7 +19084,7 @@ Heróica Zitácuaro,Mexico,Michoacan,4004885
 Nogales,Mexico,Sonora,4004886
 Heroica Caborca,Mexico,Sonora,4004887
 Hermosillo,Mexico,Sonora,4004898
-Heroica Guaymas,Mexico,Sonora,4005143
+Guaymas,Mexico,Sonora,4005143
 Guasave,Mexico,Sinaloa,4005219
 Guanajuato,Mexico,Guanajuato,4005270
 Guamúchil,Mexico,Sinaloa,4005297
@@ -22017,7 +22039,7 @@ Tulcea,Romania,Tulcea County,664518
 Târnăveni,Romania,Mures County,664963
 Târgu Secuiesc,Romania,Covasna County,665000
 Târgu Neamţ,Romania,Neamt County,665003
-Târgu-Mureş,Romania,Mures County,665004
+Târgu Mureş,Romania,Mures County,665004
 Târgu Jiu,Romania,Gorj County,665010
 Târgovişte,Romania,Dambovita County,665024
 Timişoara,Romania,Timis County,665087
@@ -23905,6 +23927,7 @@ Jāsim,Syrian Arab Republic,Daraa,165997
 Qārah,Syrian Arab Republic,Rif-dimashq,166111
 Kabbasin,Syrian Arab Republic,Aleppo,166285
 Nubl,Syrian Arab Republic,Aleppo,166331
+Maharda,Syrian Arab Republic,Hama,166742
 Maşyāf,Syrian Arab Republic,Hama,167046
 Manbij,Syrian Arab Republic,Aleppo,167357
 Ma‘arratmişrīn,Syrian Arab Republic,Idlib,167605
@@ -25183,7 +25206,7 @@ Vyshneve,Ukraine,Kiev,689487
 Vinnytsya,Ukraine,Vinnytsia,689558
 Vilnyansk,Ukraine,Zaporizhzhia,689584
 Verkhnodniprovsk,Ukraine,Dnipropetrovsk,689916
-Vatutine,Ukraine,Cherkasy,690312
+Bahacheve,Ukraine,Cherkasy,690312
 Vasylkiv,Ukraine,Kiev,690412
 Uzhhorod,Ukraine,Transcarpathia,690548
 Uman,Ukraine,Cherkasy,690688
@@ -28745,7 +28768,7 @@ Millburn,United States,New Jersey,6332745
 Briarwood,United States,New York,6640032
 Stevenson Ranch,United States,California,6690773
 Times Square,United States,New York,6930378
-Fort Liberty,United States,North Carolina,6941080
+Fort Bragg,United States,North Carolina,6941080
 North Brunswick,United States,New Jersey,6946944
 Kapolei,United States,Hawaii,6957263
 City of Milford (balance),United States,Connecticut,7160204
@@ -28867,7 +28890,6 @@ Koolauloa,United States,Hawaii,13100438
 Makakilo / Kapolei / Honokai Hale,United States,Hawaii,13100439
 Vermont Square,United States,California,13157324
 Mid-City,United States,California,13157343
-Tigard,United States,Oregon,13192646
 Young,Uruguay,Rio Negro Department,3439525
 Trinidad,Uruguay,Flores Department,3439748
 Treinta y Tres,Uruguay,Treinta y Tres Department,3439781
@@ -29334,6 +29356,7 @@ Bình Minh,Viet Nam,Vinh Long Province,8539621
 Hoàn Kiếm,Viet Nam,Hanoi,8616124
 Ea Drăng,Viet Nam,GJak Lak,8724987
 Đinh Văn,Viet Nam,Lam GJong Province,8991407
+Phú Quý,Viet Nam,Binh Thuan Province,9000266
 Vĩnh Thạnh,Viet Nam,Can Tho,9533392
 Quận Bốn,Viet Nam,Ho Chi Minh,9645071
 Quận Sáu,Viet Nam,Ho Chi Minh,9645072
