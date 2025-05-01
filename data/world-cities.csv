@@ -4,6 +4,7 @@ Andorra la Vella,Andorra,Andorra la Vella,3041563
 Warīsān,United Arab Emirates,Dubai,290503
 Umm Suqaym,United Arab Emirates,Dubai,290581
 Umm Al Quwain City,United Arab Emirates,Imarat Umm al Qaywayn,290594
+Ţarīf Kalbā,United Arab Emirates,Fujairah,290680
 Ar Rāshidīyah,United Arab Emirates,Dubai,291061
 Ras Al Khaimah City,United Arab Emirates,Imarat Ra's al Khaymah,291074
 Zayed City,United Arab Emirates,Abu Dhabi,291580
@@ -952,7 +953,7 @@ Narsingdi,Bangladesh,Dhaka Division,1185117
 Sandwīp,Bangladesh,Chittagong,1185120
 Shāhzādpur,Bangladesh,Rajshahi Division,1185121
 Rāmganj,Bangladesh,Chittagong,1185127
-Rājshāhi,Bangladesh,Rajshahi Division,1185128
+Rajshahi,Bangladesh,Rajshahi Division,1185128
 Pirojpur,Bangladesh,Barisal Division,1185138
 Panchagarh,Bangladesh,Rangpur Division,1185141
 Patiya,Bangladesh,Chittagong,1185148
@@ -1469,7 +1470,7 @@ Dogbo,Benin,Kouffo,2394545
 Djougou,Benin,Donga,2394560
 Djidja,Benin,Zou,2394576
 Djakotomé,Benin,Kouffo,2394597
-Dassa-Zoumé,Benin,Collines,2394711
+Dassa-Zoumè,Benin,Collines,2394711
 Cové,Benin,Zou,2394814
 Cotonou,Benin,Littoral,2394819
 Kopargo,Benin,Donga,2394822
@@ -1900,6 +1901,7 @@ Timbó,Brazil,Santa Catarina,3446465
 Tijucas,Brazil,Santa Catarina,3446500
 Tietê,Brazil,Sao Paulo,3446539
 Teutônia,Brazil,Rio Grande do Sul,3446556
+Terra Preta,Brazil,Sao Paulo,3446582
 Teresópolis,Brazil,Rio de Janeiro,3446606
 Teófilo Otoni,Brazil,Minas Gerais,3446621
 Teodoro Sampaio,Brazil,Sao Paulo,3446625
@@ -2953,7 +2955,6 @@ Bobruysk,Belarus,Mogilev,630468
 Oshmyany,Belarus,Grodnenskaya,630515
 Fanipol,Belarus,Minsk,6846555
 San Pedro,Belize,Belize District,3581164
-San Ignacio,Belize,Cayo District,3581194
 Orange Walk,Belize,Orange Walk District,3581514
 Belmopan,Belize,Cayo District,3582672
 Belize City,Belize,Belize District,3582677
@@ -3226,6 +3227,8 @@ Ladner,Canada,British Columbia,7602078
 Walnut Grove,Canada,British Columbia,7669012
 Moss Park,Canada,Ontario,7870782
 High Park North,Canada,Ontario,7870882
+Auburn Bay,Canada,Alberta,7870884
+Beltline,Canada,Alberta,7870890
 Little Portugal,Canada,Ontario,7870917
 Niagara,Canada,Ontario,7870919
 Trinity-Bellwoods,Canada,Ontario,7870920
@@ -3990,7 +3993,7 @@ Changji,China,Xinjiang,1529569
 Burqin,China,Xinjiang,1529574
 Baijiantan,China,Xinjiang,1529626
 Aral,China,Xinjiang,1529641
-Altay,China,Xinjiang,1529651
+Jinshanlu,China,Xinjiang,1529651
 Aqsu,China,Xinjiang,1529660
 Oymak,China,Xinjiang,1538338
 Kax,China,Xinjiang,1538369
@@ -4243,6 +4246,7 @@ Xincheng,China,Gansu,1789181
 Xinshi,China,Chongqing,1789198
 Xinyi,China,Jiangsu,1789262
 Sanshui,China,Guangdong,1789273
+Xin’an,China,Guangdong,1789275
 Ximeicun,China,Fujian,1789289
 Wacheng Neighborhood,China,Henan,1789427
 Xihe,China,Hubei,1789462
@@ -4442,6 +4446,7 @@ Shenzhen,China,Guangdong,1795565
 Yanta,China,Shandong,1795579
 Chentuan,China,Shandong,1795587
 Shenjiamen,China,Zhejiang,1795632
+Shekou,China,Guangdong,1795708
 Yunlong,China,Chongqing,1795751
 Shawan,China,Gansu,1795776
 Rensha,China,Chongqing,1795811
@@ -4462,6 +4467,7 @@ Shangluo,China,Shaanxi,1796068
 Shangkou,China,Shandong,1796186
 Shanghuang,China,Chongqing,1796209
 Shanghai,China,Shanghai,1796236
+Shajing,China,Guangdong,1796376
 Shaji,China,Jiangsu,1796385
 Shahecheng,China,Hebei,1796421
 Shahe,China,Chongqing,1796427
@@ -4545,6 +4551,7 @@ Pingdu,China,Shandong,1798821
 Pingdingshan,China,Henan,1798827
 Pianjiao,China,Yunnan,1798886
 Pengze,China,Jiangxi,1798900
+Pengpu,China,Shanghai,1798919
 Pengcheng,China,Hebei,1798946
 Peicheng,China,Jiangsu,1798972
 Picheng,China,Jiangsu,1798973
@@ -4565,6 +4572,7 @@ Nanzhou,China,Hunan,1799552
 Nanzhang Chengguanzhen,China,Hubei,1799574
 Nanyang,China,Henan,1799629
 Nanxi,China,Sichuan,1799686
+Nantou,China,Guangdong,1799714
 Nantong,China,Jiangsu,1799722
 Nanshu,China,Shandong,1799749
 Pucheng,China,Fujian,1799832
@@ -4746,6 +4754,7 @@ Jiyuan,China,Henan,1805012
 Jizhou,China,Hebei,1805029
 Jiuxian,China,Chongqing,1805093
 Jiushan,China,Shandong,1805117
+Xixiang,China,Guangdong,1805175
 Jiujiang,China,Jiangxi,1805179
 Jiudian,China,Shandong,1805220
 Jishui,China,Henan,1805267
@@ -4855,6 +4864,7 @@ Hechuan,China,Chongqing,1808212
 Hetoudian,China,Shandong,1808249
 Heshan,China,Hunan,1808316
 Hepo,China,Guangdong,1808336
+Heping,China,Guangdong,1808356
 Hengyang,China,Hunan,1808370
 Hengshui,China,Hebei,1808392
 Hengbei,China,Guangdong,1808517
@@ -5212,6 +5222,9 @@ Shima,China,Chongqing,1909053
 Banan,China,Chongqing,1909733
 Dianbu,China,Shandong,1912383
 Yunshan,China,Shandong,1912420
+Huangtian,China,Guangdong,1913180
+Shahe,China,Guangdong,1913189
+Baishizhou,China,Guangdong,1913193
 Xiasi,China,Sichuan,1914158
 Conglin,China,Chongqing,1914235
 Ciyun,China,Chongqing,1914237
@@ -5281,6 +5294,7 @@ Wangqing,China,Jilin,2034221
 Hepingjie,China,Jilin,2034226
 Wangkui,China,Heilongjiang,2034228
 Ulanhot,China,Inner Mongolia,2034312
+Tuqiang,China,Heilongjiang,2034325
 Tumen,China,Jilin,2034340
 Tongliao,China,Inner Mongolia,2034400
 Tonghua,China,Jilin,2034414
@@ -5448,8 +5462,25 @@ Shilin,China,Yunnan,6825277
 Bowangshan,China,Sichuan,6913329
 Shuanglong,China,Sichuan,6921777
 Panzhihua,China,Sichuan,6929460
+Xilinji,China,Heilongjiang,6958004
+Maozhou,China,Guangdong,6958502
+Gongheyong,China,Guangdong,6958503
+Tantou,China,Guangdong,6958518
+Sanjianzai,China,Guangdong,6958792
+Ma’anshan,China,Guangdong,6958793
+Zaoxia,China,Guangdong,6958795
+Tiegang,China,Guangdong,6958814
+Zhongwu,China,Guangdong,6958815
+Niulanwo,China,Guangdong,6958816
+Baimang,China,Guangdong,6958817
+Jiuxiangling,China,Guangdong,6958818
+Tanglang,China,Guangdong,6958819
+Zhuguang,China,Guangdong,6958820
+Longjing,China,Guangdong,6958822
+Tangbian,China,Guangdong,6958829
 Taifu,China,Sichuan,6963006
 Zhongshan,China,Guangdong,6986104
+Changlingpi,China,Guangdong,7031001
 Tongchuan,China,Shaanxi,7064006
 Changshu,China,Jiangsu,7283386
 Shixing,China,Guangdong,7290013
@@ -5490,7 +5521,10 @@ Yuanyang,China,Gansu,7517497
 Hualin,China,Gansu,7517557
 Hezhou,China,Guangxi,7576887
 Zhu Cheng City,China,Shandong,7602670
+Changzheng,China,Shanghai,7843638
 Shangri-La,China,Yunnan,7910932
+Xili,China,Guangdong,8334017
+Taoyuan,China,Guangdong,8334018
 Ulanqab,China,Inner Mongolia,8335361
 Ordos,China,Inner Mongolia,8347664
 Daocheng,China,Jiangsu,8395541
@@ -5713,6 +5747,7 @@ Tumxuk,China,Xinjiang,12022102
 Wulong,China,Chongqing,12110889
 Chongzuo,China,Guangxi,12159964
 Zhakou,China,Guangxi,12252444
+Kageleke,China,Xinjiang,12258245
 Fangchenggang,China,Guangxi,12269572
 Dali Old Town,China,Yunnan,12277235
 Haidong Zhen,China,Yunnan,12277236
@@ -7696,7 +7731,7 @@ San Fernando de Monte Cristi,Dominican Republic,Monte Cristi Province,3493174
 Puerto Plata,Dominican Republic,Puerto Plata,3493175
 Salvaleón de Higüey,Dominican Republic,La Altagracia Province,3493240
 Salcedo,Dominican Republic,Hermanas Mirabal,3493283
-Sabaneta,Dominican Republic,Santiago Rodriguez,3493383
+San Ignacio de Sabaneta,Dominican Republic,Santiago Rodriguez,3493383
 Sabana Grande de Boyá,Dominican Republic,Monte Plata Province,3493482
 Río Grande,Dominican Republic,Puerto Plata,3493769
 Quisqueya,Dominican Republic,San Pedro de Macoris,3494121
@@ -7716,7 +7751,7 @@ Dajabón,Dominican Republic,Dajabon,3508952
 Cristo Rey,Dominican Republic,Nacional,3509183
 Cotuí,Dominican Republic,Sanchez Ramirez,3509207
 Constanza,Dominican Republic,La Vega,3509363
-Concepción de La Vega,Dominican Republic,La Vega,3509382
+La Vega,Dominican Republic,La Vega,3509382
 Ciudad Nueva,Dominican Republic,Nacional,3509578
 Bonao,Dominican Republic,Monsenor Nouel,3511233
 Boca Chica,Dominican Republic,Santo Domingo Province,3511336
@@ -10260,6 +10295,7 @@ St Austell,United Kingdom,England,2638853
 Saint Andrews,United Kingdom,Scotland,2638864
 St Albans,United Kingdom,England,2638867
 Saffron Walden,United Kingdom,England,2638878
+Saddleworth,United Kingdom,England,2638879
 Ryton,United Kingdom,England,2638894
 Ryde,United Kingdom,England,2638911
 Rutherglen,United Kingdom,Scotland,2638926
@@ -10915,6 +10951,7 @@ Harringay,United Kingdom,England,8581595
 Canning Town,United Kingdom,England,11549407
 Manor Park,United Kingdom,England,11550772
 Allerton,United Kingdom,England,11550900
+Chadderton,United Kingdom,England,11551009
 Thamesmead,United Kingdom,England,11551039
 Brockley,United Kingdom,England,11551040
 Blantyre,United Kingdom,Scotland,11592111
@@ -12375,6 +12412,7 @@ Umarkhed,India,Maharashtra,1253861
 Umaria,India,Madhya Pradesh,1253863
 Umargām,India,Gujarat,1253869
 Umarga,India,Maharashtra,1253870
+Uluberiya,India,West Bengal,1253880
 Ullal,India,Karnataka,1253888
 Ulhasnagar,India,Maharashtra,1253894
 Ujjain,India,Madhya Pradesh,1253914
@@ -13290,7 +13328,7 @@ Margherita,India,Assam,1263532
 Marakkanam,India,Tamil Nadu,1263564
 Marayur,India,Kerala,1263566
 Mārahra,India,Uttar Pradesh,1263567
-Māpuca,India,Goa,1263580
+Mapusa,India,Goa,1263580
 Mānwat,India,Maharashtra,1263591
 Mānvi,India,Karnataka,1263594
 Manthani,India,Telangana,1263610
@@ -14828,6 +14866,7 @@ Ganaur,India,Haryana,8629543
 Thoothukudi,India,Tamil Nadu,8629640
 Shiraguppi,India,Maharashtra,8714565
 Gadag-Betageri,India,Karnataka,8740017
+Rudrapur,India,Uttarakhand,8740322
 Areraj,India,Bihar,8740819
 V.S.K.Valasai (Dindigul-Dist.),India,Tamil Nadu,8948694
 Barbigha,India,Bihar,9036524
@@ -15045,6 +15084,7 @@ Panipat Taraf Rajputan,India,Haryana,13157157
 Panipat Taraf Ansar,India,Haryana,13157158
 Panipat Taraf Makhdum Zadgan,India,Haryana,13157159
 Ambala Sadar,India,Haryana,13157160
+Raurkela Industrial Township,India,Odisha,13308246
 Zaxo,Iraq,Duhok,89570
 Umm Qaşr,Iraq,Basra,89824
 Ţūz Khūrmātū,Iraq,Salah ad Din,90026
@@ -15097,6 +15137,7 @@ Mosul,Iraq,Nineveh,99072
 Al Kūt,Iraq,Wasit,99131
 Kufa,Iraq,An Najaf,99135
 Khāliş,Iraq,Diyala,99169
+Nāḩiyat al Iskandarīyah,Iraq,Babil,99226
 ‘Alī al Gharbī,Iraq,Maysan,99306
 Al Hindīyah,Iraq,Muhafazat Karbala',99344
 Al Ḩillah,Iraq,Babil,99347
@@ -15121,7 +15162,6 @@ Alvand,"Iran, Islamic Republic of",Qazvin Province,10570
 Āzādshahr,"Iran, Islamic Republic of",Hamadan Province,14256
 Kahrīz,"Iran, Islamic Republic of",Kermanshah Province,23814
 Nūrābād,"Iran, Islamic Republic of",Lorestan Province,24851
-Ferdows,"Iran, Islamic Republic of",Razavi Khorasan,31715
 Īstgāh-e Rāh Āhan-e Garmsār,"Iran, Islamic Republic of",Semnan,32723
 Qarchak,"Iran, Islamic Republic of",Tehran,32767
 Golestān,"Iran, Islamic Republic of",Tehran,32900
@@ -15343,6 +15383,7 @@ Sarāvān,"Iran, Islamic Republic of",Sistan and Baluchestan,1159713
 Sarakhs,"Iran, Islamic Republic of",Razavi Khorasan,1159716
 Qaşr-e Qand,"Iran, Islamic Republic of",Sistan and Baluchestan,1159877
 Nīkshahr,"Iran, Islamic Republic of",Sistan and Baluchestan,1160110
+Nehbandān,"Iran, Islamic Republic of",South Khorasan Province,1160120
 Konārak,"Iran, Islamic Republic of",Sistan and Baluchestan,1160500
 Khāsh,"Iran, Islamic Republic of",Sistan and Baluchestan,1160571
 Iranshahr,"Iran, Islamic Republic of",Sistan and Baluchestan,1160939
@@ -15350,6 +15391,7 @@ Chabahar,"Iran, Islamic Republic of",Sistan and Baluchestan,1161724
 Sheybān,"Iran, Islamic Republic of",Khuzestan,6648621
 Jīroft,"Iran, Islamic Republic of",Kerman,6925362
 Mahdishahr,"Iran, Islamic Republic of",Semnan,7100777
+Āq Qalā,"Iran, Islamic Republic of",Golestan,7329809
 Boshrūyeh,"Iran, Islamic Republic of",South Khorasan Province,9480732
 Pasragad Branch,"Iran, Islamic Republic of",Hamadan Province,10630176
 Akureyri,Iceland,Northeast,2633274
@@ -16006,11 +16048,14 @@ Amman,Jordan,Amman,250441
 Mafraq,Jordan,Mafraq,250582
 Qīr Moāv,Jordan,Ma'an,250624
 Al Jubayhah,Jordan,Amman,250637
+Al Fuḩayş,Jordan,Balqa,250718
 Aqaba,Jordan,Aqaba,250774
 ‘Ajlūn,Jordan,Ajlun,250799
 Karak City,Jordan,Karak,6946409
 Russeifa,Jordan,Zarqa,7838895
 Rukban,Jordan,Mafraq,11428685
+Ṣuwayliḥ,Jordan,Balqa,13286467
+Marj Al Hamam,Jordan,Amman,13308287
 Shingū,Japan,Wakayama,1847947
 Atsugi,Japan,Kanagawa,1847963
 Akashi,Japan,Hyogo,1847966
@@ -16477,6 +16522,7 @@ Kamigōri,Japan,Hyogo,1860588
 Kameyama,Japan,Mie,1860626
 Kameoka,Japan,Kyoto,1860635
 Kameda-honchō,Japan,Niigata,1860648
+Kamata,Japan,Tokyo,1860659
 Kamakura,Japan,Kanagawa,1860672
 Kakogawachō-honmachi,Japan,Hyogo,1860704
 Kakegawa,Japan,Shizuoka,1860728
@@ -16508,6 +16554,7 @@ Itoigawa,Japan,Niigata,1861285
 Itō,Japan,Shizuoka,1861290
 Itami,Japan,Hyogo,1861310
 Itabashi,Japan,Tokyo,1861321
+Isogo,Japan,Kanagawa,1861341
 Ishiki,Japan,Aichi,1861383
 Ishikawa,Japan,Okinawa,1861393
 Ishii,Japan,Tokushima,1861400
@@ -17053,6 +17100,9 @@ Eifuku,Japan,Tokyo,8573723
 Wakabayashi,Japan,Tokyo,8576449
 Nakanobu,Japan,Tokyo,8576480
 Ebara,Japan,Tokyo,8576482
+Ikegami,Japan,Tokyo,8576507
+Noborito,Japan,Kanagawa,8576625
+Aobadai,Japan,Kanagawa,8576683
 Mochibaru,Japan,Miyazaki,8611025
 Maruobara,Japan,Shizuoka,8659953
 Nakano,Japan,Tokyo,8715035
@@ -17104,9 +17154,11 @@ Igusa,Japan,Tokyo,10866536
 Asagayakita,Japan,Tokyo,10866555
 Yoyogi,Japan,Tokyo,10866689
 Ebisu,Japan,Tokyo,10866730
+Inokashira,Japan,Tokyo,10867078
 Funabori,Japan,Tokyo,10918003
 Ichinoe,Japan,Tokyo,10918009
 Hirai,Japan,Tokyo,10918027
+Horikiri,Japan,Tokyo,10920829
 Minaminagareyama,Japan,Chiba,10926134
 Ōjima,Japan,Tokyo,10963038
 Machiya,Japan,Tokyo,10971146
@@ -18496,6 +18548,7 @@ Taipa,Macao,Nossa Senhora do Carmo,1821263
 Macau,Macao,,1821274
 Lai Chi Van,Macao,Sao Francisco Xavier,1821279
 Luhuan,Macao,Sao Francisco Xavier,1821292
+Zhuojiacun,Macao,Nossa Senhora do Carmo,1821294
 Saipan,Northern Mariana Islands,Saipan,7828758
 Saint-Joseph,Martinique,Martinique,3569915
 Sainte-Marie,Martinique,Martinique,3569926
@@ -19503,7 +19556,7 @@ Kawasan Perindustrian Cheng,Malaysia,Melaka,7797910
 Taman Pelangi,Malaysia,Johor,7798288
 Taman Universiti,Malaysia,Johor,7858022
 Kampung Jelutong Tengah,Malaysia,Johor,7858028
-Subang Jaya,Malaysia,Kuala Lumpur,8504423
+Subang Jaya,Malaysia,Selangor,8504423
 Iskandar Puteri,Malaysia,Johor,10063567
 Putra Heights,Malaysia,Selangor,10792382
 Kajang,Malaysia,Selangor,10941913
@@ -20271,7 +20324,7 @@ Panauti̇̄,Nepal,Bagmati Province,1282950
 Malaṅgawā,Nepal,Madhesh,1283082
 Bhimdatta,Nepal,Sudurpashchim Pradesh,1283095
 Lahān,Nepal,Madhesh,1283161
-Kirtipur,Nepal,Bagmati Province,1283190
+Ki̇̄rtipur,Nepal,Bagmati Province,1283190
 Khā̃dbāri̇̄,Nepal,Koshi,1283217
 Kathmandu,Nepal,Bagmati Province,1283240
 Janakpur,Nepal,Madhesh,1283318
@@ -20623,8 +20676,9 @@ Solana,Philippines,Cagayan Valley,1685880
 Sitangkai,Philippines,Autonomous Region in Muslim Mindanao,1686004
 Sipalay,Philippines,Western Visayas,1686102
 Silang,Philippines,Calabarzon,1686547
+Sigma,Philippines,Western Visayas,1686615
 Sibulan,Philippines,Central Visayas,1686728
-Sexmoan,Philippines,Central Luzon,1686933
+Sasmuan,Philippines,Central Luzon,1686933
 Lake Sebu,Philippines,Soccsksargen,1687029
 Sariaya,Philippines,Calabarzon,1687164
 San Vicente,Philippines,Central Luzon,1687409
@@ -20659,6 +20713,7 @@ San Juan,Philippines,Metro Manila,1689286
 San Jose del Monte,Philippines,Central Luzon,1689395
 San Jose,Philippines,Bicol Region,1689498
 San Jose,Philippines,Mimaropa,1689510
+San Jose,Philippines,Caraga,1689549
 San Ildefonso,Philippines,Central Luzon,1689832
 San Francisco,Philippines,Central Luzon,1689973
 Aurora,Philippines,Calabarzon,1689994
@@ -20835,6 +20890,7 @@ La Paz,Philippines,Central Luzon,1707324
 Laoang,Philippines,Eastern Visayas,1707398
 Laoag,Philippines,Ilocos,1707404
 Laguilayan,Philippines,Soccsksargen,1708056
+Lagawe,Philippines,Cordillera,1708130
 La Castellana,Philippines,Western Visayas,1708217
 La Carlota,Philippines,Western Visayas,1708226
 Labo,Philippines,Bicol Region,1708291
@@ -21038,6 +21094,7 @@ Malingao,Philippines,Soccsksargen,1978681
 Jose Rizal,Philippines,Mimaropa,7083355
 Bagong Silangan,Philippines,Metro Manila,7090987
 Pasig City,Philippines,Metro Manila,7290466
+Tabuk,Philippines,Cordillera,8031389
 Pandan,Philippines,Western Visayas,8299649
 Ayala Alabang,Philippines,Metro Manila,8335226
 Banco Filipino Homes,Philippines,Metro Manila,8534157
@@ -21047,7 +21104,7 @@ Bagong Silang,Philippines,Metro Manila,13060482
 Al-Barka,Philippines,Autonomous Region in Muslim Mindanao,13118057
 Mandaluyong,Philippines,Metro Manila,13118244
 Chuhar Jamali,Pakistan,Sindh,1108161
-Rawalakot,Pakistan,Azad Jammu and Kashmir(POK),1161983
+Rawalakot,Pakistan,Azad Kashmir,1161983
 Pir Jo Goth,Pakistan,Sindh,1161991
 Khairpur Mir’s,Pakistan,Sindh,1162004
 Zhob,Pakistan,Balochistan,1162105
@@ -21148,7 +21205,7 @@ Pad Idan,Pakistan,Sindh,1168652
 Pabbi,Pakistan,Khyber Pakhtunkhwa,1168680
 Okara,Pakistan,Punjab,1168718
 Nushki,Pakistan,Balochistan,1168749
-New Mirpur,Pakistan,Azad Jammu and Kashmir(POK),1169027
+New Mirpur,Pakistan,Azad Kashmir,1169027
 Nawabshah,Pakistan,Sindh,1169116
 Naushahro Firoz,Pakistan,Sindh,1169143
 Naushahra Virkan,Pakistan,Punjab,1169145
@@ -21159,7 +21216,7 @@ Narang Mandi,Pakistan,Punjab,1169334
 Naukot,Pakistan,Sindh,1169367
 Nankana Sahib,Pakistan,Punjab,1169372
 Muzaffargarh,Pakistan,Punjab,1169605
-Muzaffarābād,Pakistan,Azad Jammu and Kashmir(POK),1169607
+Muzaffarābād,Pakistan,Azad Kashmir,1169607
 Mustafabad,Pakistan,Punjab,1169620
 Murree,Pakistan,Punjab,1169684
 Muridke,Pakistan,Punjab,1169692
@@ -21209,7 +21266,7 @@ Kot Radha Kishan,Pakistan,Punjab,1172915
 Kot Mumin,Pakistan,Punjab,1172964
 Kot Malik Barkhurdar,Pakistan,Balochistan,1172993
 Kotli Loharan,Pakistan,Punjab,1173025
-Kotli,Pakistan,Azad Jammu and Kashmir(POK),1173055
+Kotli,Pakistan,Azad Kashmir,1173055
 Kot Ghulam Muhammad,Pakistan,Punjab,1173272
 Kot Diji,Pakistan,Sindh,1173302
 Kot Addu,Pakistan,Punjab,1173378
@@ -21333,7 +21390,7 @@ Chak Azam Sahu,Pakistan,Punjab,1181887
 Burewala,Pakistan,Punjab,1182092
 Bhopalwala,Pakistan,Punjab,1182577
 Bhit Shah,Pakistan,Sindh,1182607
-Bhimber,Pakistan,Azad Jammu and Kashmir(POK),1182637
+Bhimber,Pakistan,Azad Kashmir,1182637
 Bhera,Pakistan,Punjab,1182665
 Bhawana,Pakistan,Punjab,1182682
 Bhan,Pakistan,Sindh,1182775
@@ -21763,6 +21820,7 @@ Idhnā,"Palestine, State of",West Bank,283621
 Dūrā,"Palestine, State of",West Bank,284011
 Bethlehem,"Palestine, State of",West Bank,284315
 Bayt Jālā,"Palestine, State of",West Bank,284324
+Bayt Ḩanīnā,"Palestine, State of",West Bank,284335
 Battir,"Palestine, State of",West Bank,284375
 Banī Na‘īm,"Palestine, State of",West Bank,284431
 Balāţah,"Palestine, State of",West Bank,284446
@@ -23581,6 +23639,7 @@ Hudiksvall,Sweden,Gaevleborg,2704613
 Huddinge,Sweden,Stockholm,2704620
 Helsingborg,Sweden,Skane,2706767
 Hässleholm,Sweden,Skane,2707399
+Hässelby Villastad,Sweden,Stockholm,2707462
 Härnösand,Sweden,Vaesternorrland,2707684
 Haninge,Sweden,Stockholm,2707953
 Halmstad,Sweden,Halland,2708365
@@ -26412,11 +26471,23 @@ Tulsa,United States,Oklahoma,4553433
 Yukon,United States,Oklahoma,4556165
 Chambersburg,United States,Pennsylvania,4557109
 Chester,United States,Pennsylvania,4557137
+Cobbs Creek,United States,Pennsylvania,4557264
 Drexel Hill,United States,Pennsylvania,4557606
+Elmwood,United States,Pennsylvania,4557787
+Fishtown,United States,Pennsylvania,4557983
+Haddington,United States,Pennsylvania,4558442
 Hanover,United States,Pennsylvania,4558475
+Hartranft,United States,Pennsylvania,4558510
+Kingsessing,United States,Pennsylvania,4558980
+Overbrook,United States,Pennsylvania,4560179
 Pennsport,United States,Pennsylvania,4560303
 Philadelphia,United States,Pennsylvania,4560349
+Point Breeze,United States,Pennsylvania,4560490
+Port Richmond,United States,Pennsylvania,4560691
+Rittenhouse,United States,Pennsylvania,4560722
 Springfield,United States,Pennsylvania,4561407
+Strawberry Mansion,United States,Pennsylvania,4561553
+University City,United States,Pennsylvania,4561871
 West Chester,United States,Pennsylvania,4562144
 Wharton,United States,Pennsylvania,4562193
 Whitman,United States,Pennsylvania,4562237
@@ -27085,32 +27156,40 @@ Westfield,United States,Indiana,4928118
 Abington,United States,Massachusetts,4928662
 Acton,United States,Massachusetts,4928703
 Agawam,United States,Massachusetts,4928788
+Allston,United States,Massachusetts,4928934
 Amesbury,United States,Massachusetts,4929004
 Amherst,United States,Massachusetts,4929022
 Amherst Center,United States,Massachusetts,4929023
 Arlington,United States,Massachusetts,4929180
 Ashland,United States,Massachusetts,4929283
+Ashmont,United States,Massachusetts,4929314
 Attleboro,United States,Massachusetts,4929399
 Auburn,United States,Massachusetts,4929417
+Back Bay,United States,Massachusetts,4929532
 Barnstable,United States,Massachusetts,4929771
 Belmont,United States,Massachusetts,4930282
 Beverly,United States,Massachusetts,4930505
 Beverly Cove,United States,Massachusetts,4930511
 Billerica,United States,Massachusetts,4930577
 Boston,United States,Massachusetts,4930956
+Brighton,United States,Massachusetts,4931353
 Brockton,United States,Massachusetts,4931429
 Brookline,United States,Massachusetts,4931482
 Burlington,United States,Massachusetts,4931737
 Cambridge,United States,Massachusetts,4931972
 Canton,United States,Massachusetts,4932214
+Charlestown,United States,Massachusetts,4932819
 Chelmsford,United States,Massachusetts,4932869
 Chelsea,United States,Massachusetts,4932879
+Chestnut Hill,United States,Massachusetts,4932957
 Chicopee,United States,Massachusetts,4933002
 Concord,United States,Massachusetts,4933743
 Danvers,United States,Massachusetts,4934500
 Dedham,United States,Massachusetts,4934664
+Dorchester,United States,Massachusetts,4934964
 Dracut,United States,Massachusetts,4935038
 Duxbury,United States,Massachusetts,4935211
+East Boston,United States,Massachusetts,4935304
 East Longmeadow,United States,Massachusetts,4935434
 Easthampton,United States,Massachusetts,4935582
 Easton,United States,Massachusetts,4935623
@@ -27129,6 +27208,7 @@ Hanover,United States,Massachusetts,4938836
 Haverhill,United States,Massachusetts,4939085
 Holden,United States,Massachusetts,4939647
 Holyoke,United States,Massachusetts,4939783
+Hyde Park,United States,Massachusetts,4940202
 Jamaica Plain,United States,Massachusetts,4940764
 Lawrence,United States,Massachusetts,4941720
 Leominster,United States,Massachusetts,4941873
@@ -27141,6 +27221,7 @@ Malden,United States,Massachusetts,4942939
 Mansfield,United States,Massachusetts,4943021
 Marblehead,United States,Massachusetts,4943097
 Marlborough,United States,Massachusetts,4943170
+Mattapan,United States,Massachusetts,4943426
 Medford,United States,Massachusetts,4943629
 Melrose,United States,Massachusetts,4943677
 Methuen,United States,Massachusetts,4943828
@@ -27156,6 +27237,7 @@ North Chicopee,United States,Massachusetts,4945588
 Northampton,United States,Massachusetts,4945819
 Norton,United States,Massachusetts,4945911
 Norwood,United States,Massachusetts,4945952
+Orient Heights,United States,Massachusetts,4946402
 Palmer,United States,Massachusetts,4946620
 Peabody,United States,Massachusetts,4946863
 Pittsfield,United States,Massachusetts,4947459
@@ -27163,6 +27245,8 @@ Quincy,United States,Massachusetts,4948247
 Randolph,United States,Massachusetts,4948403
 Reading,United States,Massachusetts,4948462
 Rockland,United States,Massachusetts,4948924
+Roslindale,United States,Massachusetts,4949068
+Roxbury Crossing,United States,Massachusetts,4949152
 Salem,United States,Massachusetts,4950065
 Saugus,United States,Massachusetts,4950267
 Shrewsbury,United States,Massachusetts,4950898
@@ -27184,6 +27268,7 @@ Waltham,United States,Massachusetts,4954380
 Watertown,United States,Massachusetts,4954611
 Wellesley,United States,Massachusetts,4954738
 West Springfield,United States,Massachusetts,4955089
+West Roxbury,United States,Massachusetts,4955128
 Westfield,United States,Massachusetts,4955190
 Westford,United States,Massachusetts,4955219
 Weymouth,United States,Massachusetts,4955336
@@ -27690,6 +27775,7 @@ Troy,United States,New York,5141502
 Uniondale,United States,New York,5141927
 Unionport,United States,New York,5141930
 University Heights,United States,New York,5141963
+Upper West Side,United States,New York,5142036
 Utica,United States,New York,5142056
 Valley Stream,United States,New York,5142109
 Van Nest,United States,New York,5142182
@@ -27811,19 +27897,27 @@ Baldwin,United States,Pennsylvania,5178940
 Bensalem,United States,Pennsylvania,5179995
 Bethel Park,United States,Pennsylvania,5180199
 Bethlehem,United States,Pennsylvania,5180225
+Bustleton,United States,Pennsylvania,5182529
 Carlisle,United States,Pennsylvania,5183234
 Easton,United States,Pennsylvania,5188140
 Erie,United States,Pennsylvania,5188843
+Fox Chase,United States,Pennsylvania,5190219
+Frankford,United States,Pennsylvania,5190311
 Harrisburg,United States,Pennsylvania,5192726
 Hazleton,United States,Pennsylvania,5193011
 Hermitage,United States,Pennsylvania,5193309
+Holmesburg,United States,Pennsylvania,5193955
+Hunting Park,United States,Pennsylvania,5194584
 Johnstown,United States,Pennsylvania,5195561
+Juniata Park,United States,Pennsylvania,5195674
 King of Prussia,United States,Pennsylvania,5196220
 Lancaster,United States,Pennsylvania,5197079
 Lansdale,United States,Pennsylvania,5197159
+Lawndale,United States,Pennsylvania,5197430
 Lebanon,United States,Pennsylvania,5197517
 Levittown,United States,Pennsylvania,5197796
 Limerick,United States,Pennsylvania,5198034
+Logan,United States,Pennsylvania,5198748
 McKeesport,United States,Pennsylvania,5200499
 Monroeville,United States,Pennsylvania,5201734
 Mount Lebanon,United States,Pennsylvania,5202215
@@ -27831,6 +27925,9 @@ Murrysville,United States,Pennsylvania,5202765
 New Castle,United States,Pennsylvania,5203127
 Nicetown-Tioga,United States,Pennsylvania,5203393
 Norristown,United States,Pennsylvania,5203506
+Olney,United States,Pennsylvania,5204465
+Oxford Circle,United States,Pennsylvania,5204783
+Parkwood Manor,United States,Pennsylvania,5205163
 Penn Hills,United States,Pennsylvania,5205377
 Phoenixville,United States,Pennsylvania,5205849
 Pittsburgh,United States,Pennsylvania,5206379
@@ -27838,16 +27935,21 @@ Plum,United States,Pennsylvania,5206606
 Pottstown,United States,Pennsylvania,5207069
 Radnor,United States,Pennsylvania,5207490
 Reading,United States,Pennsylvania,5207728
+Rhawnhurst,United States,Pennsylvania,5208117
 Scranton,United States,Pennsylvania,5211303
+Somerton,United States,Pennsylvania,5212870
 State College,United States,Pennsylvania,5213681
+Tacony,United States,Pennsylvania,5215118
 Upper Saint Clair,United States,Pennsylvania,5216895
 Wayne,United States,Pennsylvania,5218270
 West Mifflin,United States,Pennsylvania,5218802
+West Oak Lane,United States,Pennsylvania,5218829
 Whitehall Township,United States,Pennsylvania,5219287
 Wilkes-Barre,United States,Pennsylvania,5219488
 Wilkinsburg,United States,Pennsylvania,5219501
 Williamsport,United States,Pennsylvania,5219585
 Willow Grove,United States,Pennsylvania,5219619
+Wissinoming,United States,Pennsylvania,5219843
 Barrington,United States,Rhode Island,5220798
 Bristol,United States,Rhode Island,5221077
 Central Falls,United States,Rhode Island,5221341
@@ -28760,6 +28862,7 @@ Badger,United States,Alaska,5879898
 Milton,United States,Georgia,6331908
 Johns Creek,United States,Georgia,6331909
 Cutler Bay,United States,Florida,6332309
+Manhattan Valley,United States,New York,6332419
 Morningside Heights,United States,New York,6332422
 East Harlem,United States,New York,6332428
 Alafaya,United States,Florida,6332439
@@ -28771,6 +28874,7 @@ Times Square,United States,New York,6930378
 Fort Bragg,United States,North Carolina,6941080
 North Brunswick,United States,New Jersey,6946944
 Kapolei,United States,Hawaii,6957263
+East Mount Airy,United States,Pennsylvania,7147568
 City of Milford (balance),United States,Connecticut,7160204
 City of Sammamish,United States,Washington,7174365
 Silver Firs,United States,Washington,7176035
@@ -28855,6 +28959,8 @@ Northdale,United States,Florida,8479411
 Waterford,United States,Connecticut,8480031
 Meadowbrook,United States,Virginia,8480062
 Lincoln,United States,Rhode Island,8531960
+Fenway/Kenmore,United States,Massachusetts,8532040
+Mission Hill,United States,Massachusetts,8532041
 Johnston,United States,Rhode Island,8604682
 Dixiana,United States,Alabama,8605041
 Cranberry Township,United States,Pennsylvania,8643098
@@ -28884,12 +28990,13 @@ El Camino Real,United States,California,12750403
 Stonegate,United States,California,12750405
 Northwood,United States,California,12750406
 Tustin Legacy,United States,California,12750416
-Aliamanu / Salt Lake / Foster Village,United States,Hawaii,13100433
+Aliamanu / Salt Lakes / Foster Village,United States,Hawaii,13100433
 Mililani Mauka / Launani Valley,United States,Hawaii,13100434
 Koolauloa,United States,Hawaii,13100438
 Makakilo / Kapolei / Honokai Hale,United States,Hawaii,13100439
 Vermont Square,United States,California,13157324
 Mid-City,United States,California,13157343
+Lower Moyamensing,United States,Pennsylvania,13308200
 Young,Uruguay,Rio Negro Department,3439525
 Trinidad,Uruguay,Flores Department,3439748
 Treinta y Tres,Uruguay,Treinta y Tres Department,3439781
@@ -29364,7 +29471,7 @@ Quận Năm,Viet Nam,Ho Chi Minh,9645073
 Quận Mười Một,Viet Nam,Ho Chi Minh,9645084
 Quận Mười,Viet Nam,Ho Chi Minh,9645085
 Quận Ba,Viet Nam,Ho Chi Minh,9645086
-Thị Trấn Tân Thành,Viet Nam,GJong Thap Province,12061022
+Xã Lai Vung,Viet Nam,GJong Thap Province,12061022
 Quận Đức Thịnh,Viet Nam,GJong Thap Province,12166273
 Quận Đức Thành,Viet Nam,GJong Thap Province,12166275
 Huyện Lâm Hà,Viet Nam,Lam GJong Province,12217184
