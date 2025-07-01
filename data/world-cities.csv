@@ -3,10 +3,10 @@ les Escaldes,Andorra,Escaldes-Engordany,3040051
 Andorra la Vella,Andorra,Andorra la Vella,3041563
 Warīsān,United Arab Emirates,Dubai,290503
 Umm Suqaym,United Arab Emirates,Dubai,290581
-Umm Al Quwain City,United Arab Emirates,Imarat Umm al Qaywayn,290594
+Umm Al Quwain City,United Arab Emirates,ImaratUmmalQaywayn,290594
 Ţarīf Kalbā,United Arab Emirates,Fujairah,290680
 Ar Rāshidīyah,United Arab Emirates,Dubai,291061
-Ras Al Khaimah City,United Arab Emirates,Imarat Ra's al Khaymah,291074
+Ras Al Khaimah City,United Arab Emirates,Ra's al Khaymah,291074
 Zayed City,United Arab Emirates,Abu Dhabi,291580
 Khawr Fakkān,United Arab Emirates,Sharjah,291696
 Kalbā,United Arab Emirates,Sharjah,291763
@@ -118,19 +118,21 @@ Saint John’s,Antigua and Barbuda,Saint John Parish,3576022
 The Valley,Anguilla,The Valley,3573374
 Sarandë,Albania,Vlore County,363243
 Pogradec,Albania,Korce County,781988
+Librazhd,Albania,Elbasan County,782519
 Kukës,Albania,Kukes County,782661
 Korçë,Albania,Korce County,782756
 Gjirokastër,Albania,Gjirokaster County,783148
 Elbasan,Albania,Elbasan County,783263
-Burrel,Albania,Diber County,783493
+Bulqizë,Albania,Diber County,783508
 Vlorë,Albania,Vlore County,3183719
 Tirana,Albania,Tirana,3183875
 Shkodër,Albania,Shkoder County,3184081
+Peqin,Albania,Elbasan County,3184497
 Patos Fshat,Albania,Fier County,3184517
 Patos,Albania,Fier County,3184518
 Lushnjë,Albania,Fier County,3184862
 Lezhë,Albania,Lezhe County,3184935
-Laç,Albania,Lezhe County,3185012
+Kuçovë,Albania,Berat County,3185060
 Krujë,Albania,Durres County,3185082
 Kavajë,Albania,Tirana,3185211
 Fier-Çifçi,Albania,Fier County,3185670
@@ -846,6 +848,7 @@ Altona Meadows,Australia,Victoria,9972579
 Taylors Hill,Australia,Victoria,9972586
 Hurstville,Australia,New South Wales,9972762
 West Pennant Hills,Australia,New South Wales,9972964
+Sunshine Coast,Australia,Queensland,10630449
 Melbourne City Centre,Australia,Victoria,11523810
 Adelaide city centre,Australia,South Australia,11523825
 Wollongong city centre,Australia,New South Wales,11523847
@@ -1544,6 +1547,7 @@ Achocalla,"Bolivia, Plurinational State of",La Paz Department,3924569
 Ascención de Guarayos,"Bolivia, Plurinational State of",Santa Cruz Department,9129422
 San Borja,"Bolivia, Plurinational State of",Beni Department,11467676
 Kralendijk,"Bonaire, Sint Eustatius and Saba",Bonaire,3513563
+Vitorino Freire,Brazil,Maranhao,3384983
 Vitória do Mearim,Brazil,Maranhao,3384986
 Vitória de Santo Antão,Brazil,Pernambuco,3384987
 Viseu,Brazil,Para,3385022
@@ -1556,14 +1560,22 @@ Viana,Brazil,Maranhao,3385122
 Vertentes,Brazil,Pernambuco,3385131
 Venturosa,Brazil,Pernambuco,3385230
 Várzea Alegre,Brazil,Ceara,3385467
+Várzea Alegre,Brazil,Ceara,3385469
 Varjota,Brazil,Ceara,3385504
 Vargem Grande,Brazil,Maranhao,3385538
 Valença do Piauí,Brazil,Piaui,3385592
 Urucurituba,Brazil,Amazonas,3385645
+Uruçuí,Brazil,Piaui,3385658
 Urucará,Brazil,Amazonas,3385670
+Uruburetama,Brazil,Ceara,3385674
+Urbano Santos,Brazil,Maranhao,3385726
 União dos Palmares,Brazil,Alagoas,3385742
 União,Brazil,Piaui,3385745
+Umirim,Brazil,Ceara,3385758
 Ubajara,Brazil,Ceara,3385873
+Tutóia,Brazil,Maranhao,3385899
+Turiaçu,Brazil,Maranhao,3385908
+Turaru,Brazil,Ceara,3385910
 Tupanatinga,Brazil,Pernambuco,3385920
 Tuntum,Brazil,Maranhao,3385922
 Tucuruí,Brazil,Para,3385935
@@ -1583,17 +1595,22 @@ Tibau do Sul,Brazil,Rio Grande do Norte,3386445
 Tianguá,Brazil,Ceara,3386449
 Terra Santa,Brazil,Para,3386467
 Teresina,Brazil,Piaui,3386496
+Tejuçuoca,Brazil,Ceara,3386528
+Tauá,Brazil,Ceara,3386551
 São João dos Inhamuns,Brazil,Ceara,3386567
 Taquaritinga do Norte,Brazil,Pernambuco,3386622
 Taquarana,Brazil,Alagoas,3386628
+Tamboril,Brazil,Ceara,3386874
 Itambé,Brazil,Pernambuco,3386889
 Tamandaré,Brazil,Pernambuco,3386931
 Tacaratu,Brazil,Pernambuco,3386966
 Tabuleiro do Norte,Brazil,Ceara,3386984
 Tabira,Brazil,Pernambuco,3387082
 Surubim,Brazil,Pernambuco,3387115
+Sumé,Brazil,Paraiba,3387130
 Sousa,Brazil,Paraiba,3387202
 Soure,Brazil,Para,3387204
+Solonópole,Brazil,Ceara,3387242
 Solânea,Brazil,Paraiba,3387266
 Sobral,Brazil,Ceara,3387296
 Sirinhaém,Brazil,Pernambuco,3387604
@@ -1603,10 +1620,13 @@ Serra Talhada,Brazil,Pernambuco,3387786
 Senador Pompeu,Brazil,Ceara,3387926
 Senador José Porfírio,Brazil,Para,3387928
 Satuba,Brazil,Alagoas,3387987
+Sapé,Brazil,Paraiba,3388046
 São Vicente Férrer,Brazil,Pernambuco,3388059
+São Vicente Ferrer,Brazil,Maranhao,3388060
 São Sebastião da Boa Vista,Brazil,Para,3388109
 São Sebastião,Brazil,Alagoas,3388112
 São Raimundo Nonato,Brazil,Piaui,3388145
+São Raimundo das Mangabeiras,Brazil,Maranhao,3388147
 São Paulo do Potengi,Brazil,Rio Grande do Norte,3388238
 São Miguel dos Campos,Brazil,Alagoas,3388269
 São Miguel do Guamá,Brazil,Para,3388270
@@ -1618,13 +1638,16 @@ São Lourenço da Mata,Brazil,Pernambuco,3388376
 São José do Egito,Brazil,Pernambuco,3388435
 São José do Belmonte,Brazil,Pernambuco,3388440
 São José de Ribamar,Brazil,Maranhao,3388441
+São José de Piranhas,Brazil,Paraiba,3388442
 São José de Mipibu,Brazil,Rio Grande do Norte,3388443
 São José da Tapera,Brazil,Alagoas,3388447
 São José da Laje,Brazil,Alagoas,3388454
 São José da Coroa Grande,Brazil,Pernambuco,3388456
 São Joaquim do Monte,Brazil,Pernambuco,3388567
 São João dos Patos,Brazil,Maranhao,3388615
+São João do Piauí,Brazil,Piaui,3388618
 São João de Pirabas,Brazil,Para,3388626
+São João Batista,Brazil,Maranhao,3388635
 São João,Brazil,Pernambuco,3388660
 São Gonçalo do Amarante,Brazil,Rio Grande do Norte,3388713
 São Gonçalo do Amarante,Brazil,Ceara,3388714
@@ -1634,9 +1657,11 @@ São Domingos do Maranhão,Brazil,Maranhao,3388868
 São Domingos do Capim,Brazil,Para,3388869
 São Caitano,Brazil,Pernambuco,3388925
 São Caetano de Odivelas,Brazil,Para,3388926
+São Bernardo,Brazil,Maranhao,3388949
 São Bento do Una,Brazil,Pernambuco,3388955
 São Bento,Brazil,Paraiba,3388991
 São Bento,Brazil,Maranhao,3389006
+São Benedito do Rio Preto,Brazil,Maranhao,3389012
 São Benedito,Brazil,Ceara,3389023
 Santo Antônio do Tauá,Brazil,Para,3389062
 Santo Antônio,Brazil,Rio Grande do Norte,3389134
@@ -1645,7 +1670,9 @@ Santarém,Brazil,Para,3389353
 Santa Quitéria do Maranhão,Brazil,Maranhao,3389358
 Santa Quitéria,Brazil,Ceara,3389361
 Santana do Ipanema,Brazil,Alagoas,3389384
+Santana do Cariri,Brazil,Ceara,3389386
 Santana do Acaraú,Brazil,Ceara,3389387
+Santa Rita,Brazil,Maranhao,3389445
 Santa Maria do Pará,Brazil,Para,3389459
 Santa Maria das Barreiras,Brazil,Para,3389461
 Santa Maria da Boa Vista,Brazil,Pernambuco,3389462
@@ -1661,19 +1688,29 @@ Salitre,Brazil,Ceara,3389819
 Salinópolis,Brazil,Para,3389822
 Salgueiro,Brazil,Pernambuco,3389860
 Russas,Brazil,Ceara,3390160
+Rosário,Brazil,Maranhao,3390188
+Rio Tinto,Brazil,Paraiba,3390280
 Rio Largo,Brazil,Alagoas,3390288
 Rio Formoso,Brazil,Pernambuco,3390295
 Ribeirão,Brazil,Pernambuco,3390326
 Riacho das Almas,Brazil,Pernambuco,3390490
+Riachão,Brazil,Maranhao,3390581
+Reriutaba,Brazil,Ceara,3390659
+Remígio,Brazil,Paraiba,3390674
+Redenção,Brazil,Ceara,3390732
 Recife,Brazil,Pernambuco,3390760
 Quixeré,Brazil,Ceara,3390896
 Quixeramobim,Brazil,Ceara,3390901
+Quixelô,Brazil,Ceara,3390902
 Quixadá,Brazil,Ceara,3390907
 Quipapá,Brazil,Pernambuco,3390965
+Queimadas,Brazil,Paraiba,3391040
+Princesa Isabel,Brazil,Paraiba,3391172
 Presidente Dutra,Brazil,Maranhao,3391220
 Prainha,Brazil,Para,3391287
 Santana,Brazil,Amapa,3391360
 Porto Grande,Brazil,Amapa,3391368
+Porto Franco,Brazil,Maranhao,3391371
 Porto de Moz,Brazil,Para,3391387
 Porto da Folha,Brazil,Sergipe,3391395
 Porto Calvo,Brazil,Alagoas,3391397
@@ -1683,35 +1720,55 @@ Ponta de Pedras,Brazil,Para,3391523
 Pombos,Brazil,Pernambuco,3391556
 Pombal,Brazil,Paraiba,3391571
 Poço Redondo,Brazil,Sergipe,3391609
+Pocinhos,Brazil,Paraiba,3391762
+Poção de Pedras,Brazil,Maranhao,3391774
+Pitimbu,Brazil,Paraiba,3391889
 Piripiri,Brazil,Piaui,3391908
+Pirapemas,Brazil,Maranhao,3391940
 Piranhas,Brazil,Alagoas,3391965
 Piracuruca,Brazil,Piaui,3391991
+Piquet Carneiro,Brazil,Ceara,3392010
+Pio XII,Brazil,Maranhao,3392018
+Pio IX,Brazil,Piaui,3392020
 Pinheiro,Brazil,Maranhao,3392054
 Pindoretama,Brazil,Ceara,3392075
-Pindaré Mirim,Brazil,Maranhao,3392088
+Pindaré-Mirim,Brazil,Maranhao,3392088
 Pilar,Brazil,Alagoas,3392126
+Picuí,Brazil,Paraiba,3392145
 Picos,Brazil,Piaui,3392167
+Piancó,Brazil,Paraiba,3392225
 Petrolina,Brazil,Pernambuco,3392242
 Pesqueira,Brazil,Pernambuco,3392251
+Peritoró,Brazil,Maranhao,3392272
 Pereiro,Brazil,Ceara,3392311
 Pentecoste,Brazil,Ceara,3392345
 Penalva,Brazil,Maranhao,3392368
 Pedro II,Brazil,Piaui,3392431
+Pedreiras,Brazil,Maranhao,3392456
+Pedras de Fogo,Brazil,Paraiba,3392478
 Pedra Branca,Brazil,Ceara,3392629
 Pedra,Brazil,Pernambuco,3392657
+Paulo Ramos,Brazil,Maranhao,3392731
 Paulo Afonso,Brazil,Bahia,3392734
+Paulistana,Brazil,Piaui,3392738
 Paulista,Brazil,Pernambuco,3392740
+Paulino Neves,Brazil,Maranhao,3392746
 Pau dos Ferros,Brazil,Rio Grande do Norte,3392775
 Paudalho,Brazil,Pernambuco,3392829
 Patos,Brazil,Paraiba,3392887
+Pastos Bons,Brazil,Maranhao,3392907
 Passira,Brazil,Pernambuco,3392916
+Passagem Franca,Brazil,Maranhao,3392942
+Parnarama,Brazil,Maranhao,3392996
 Parnamirim,Brazil,Pernambuco,3392997
 Parnamirim,Brazil,Rio Grande do Norte,3392998
 Parnaíba,Brazil,Piaui,3393001
 Parintins,Brazil,Amazonas,3393008
 Parelhas,Brazil,Rio Grande do Norte,3393017
+Estreito,Brazil,Maranhao,3393051
 Parambu,Brazil,Ceara,3393065
 Paraipaba,Brazil,Ceara,3393091
+Paraibano,Brazil,Maranhao,3393095
 Paragominas,Brazil,Para,3393106
 Paracuru,Brazil,Ceara,3393115
 Pão de Açúcar,Brazil,Alagoas,3393174
@@ -1729,10 +1786,12 @@ Olho d'Água das Flores,Brazil,Alagoas,3393599
 Oiapoque,Brazil,Amapa,3393758
 Oeiras do Pará,Brazil,Para,3393762
 Oeiras,Brazil,Piaui,3393764
+Ocara,Brazil,Ceara,3393766
 Óbidos,Brazil,Para,3393768
 Novo Oriente,Brazil,Ceara,3393783
 Nova Russas,Brazil,Ceara,3393832
 Nova Olinda do Norte,Brazil,Amazonas,3393838
+Nova Olinda,Brazil,Ceara,3393848
 Nova Cruz,Brazil,Rio Grande do Norte,3393876
 Nísia Floresta,Brazil,Rio Grande do Norte,3393922
 Nhamundá,Brazil,Amazonas,3393929
@@ -1740,17 +1799,22 @@ Nazaré da Mata,Brazil,Pernambuco,3393972
 Natal,Brazil,Rio Grande do Norte,3394023
 Murici,Brazil,Alagoas,3394116
 Muaná,Brazil,Para,3394326
+Morros,Brazil,Maranhao,3394380
 Morrinhos,Brazil,Ceara,3394432
 Moreno,Brazil,Pernambuco,3394453
 Morada Nova,Brazil,Ceara,3394500
 Monteiro,Brazil,Paraiba,3394549
 Monte Alegre,Brazil,Rio Grande do Norte,3394591
 Monte Alegre,Brazil,Para,3394605
+Monsenhor Tabosa,Brazil,Ceara,3394618
+Monção,Brazil,Maranhao,3394640
 Mombaça,Brazil,Ceara,3394649
 Moju,Brazil,Para,3394661
 Mossoró,Brazil,Rio Grande do Norte,3394682
 Mocajuba,Brazil,Para,3394745
 Missão Velha,Brazil,Ceara,3394755
+Miranda do Norte,Brazil,Maranhao,3394796
+Mirador,Brazil,Maranhao,3394813
 Miracema do Tocantins,Brazil,Tocantins,3394817
 Milagres,Brazil,Ceara,3394884
 Messias,Brazil,Alagoas,3394908
@@ -1760,24 +1824,30 @@ Mazagão,Brazil,Amapa,3395042
 Mauriti,Brazil,Ceara,3395058
 Maués,Brazil,Amazonas,3395062
 Matriz de Camaragibe,Brazil,Alagoas,3395077
+Matões,Brazil,Maranhao,3395100
+Matinha,Brazil,Maranhao,3395122
 Mata Grande,Brazil,Alagoas,3395162
 Massapê,Brazil,Ceara,3395239
 Mari,Brazil,Paraiba,3395380
 Marechal Deodoro,Brazil,Alagoas,3395395
 Marco,Brazil,Ceara,3395404
 Marapanim,Brazil,Para,3395440
+Maranguape,Brazil,Ceara,3395449
 Maragogi,Brazil,Alagoas,3395458
 Maracanaú,Brazil,Ceara,3395473
 Maracanã,Brazil,Para,3395483
+Maracaçumé,Brazil,Maranhao,3395497
 Marabá,Brazil,Para,3395503
 Manari,Brazil,Pernambuco,3395686
 Mamanguape,Brazil,Paraiba,3395717
 Major Isidoro,Brazil,Alagoas,3395880
+Madalena,Brazil,Ceara,3395949
 Maceió,Brazil,Alagoas,3395981
 Macau,Brazil,Rio Grande do Norte,3395998
 Macaparana,Brazil,Pernambuco,3396009
 Macapá,Brazil,Amapa,3396016
 Macaíba,Brazil,Rio Grande do Norte,3396048
+Luzilândia,Brazil,Piaui,3396101
 Luís Correia,Brazil,Piaui,3396121
 Limoeiro do Norte,Brazil,Ceara,3396266
 Limoeiro do Ajuru,Brazil,Para,3396268
@@ -1786,6 +1856,7 @@ Limoeiro,Brazil,Pernambuco,3396277
 Lavras da Mangabeira,Brazil,Ceara,3396364
 Lajedo,Brazil,Pernambuco,3396496
 Lago da Pedra,Brazil,Maranhao,3396601
+Lagoa Seca,Brazil,Paraiba,3396620
 Lagoa Nova,Brazil,Rio Grande do Norte,3396662
 Lagoa Grande,Brazil,Pernambuco,3396675
 Lagoa do Itaenga,Brazil,Pernambuco,3396769
@@ -1795,24 +1866,32 @@ Juruti,Brazil,Para,3396979
 Jupi,Brazil,Pernambuco,3397055
 Junqueiro,Brazil,Alagoas,3397063
 Jucurutu,Brazil,Rio Grande do Norte,3397108
+Jucás,Brazil,Ceara,3397119
 Juazeiro do Norte,Brazil,Ceara,3397147
+Juazeirinho,Brazil,Paraiba,3397175
 José de Freitas,Brazil,Piaui,3397230
 Joaquim Gomes,Brazil,Alagoas,3397263
 João Pessoa,Brazil,Paraiba,3397277
+João Lisboa,Brazil,Maranhao,3397292
 João Câmara,Brazil,Rio Grande do Norte,3397315
 João Alfredo,Brazil,Pernambuco,3397319
 Girau do Ponciano,Brazil,Alagoas,3397337
 Jataúba,Brazil,Pernambuco,3397546
 Jardim,Brazil,Ceara,3397577
+Jaicós,Brazil,Piaui,3397660
 Jaguaruana,Brazil,Ceara,3397665
 Jaguaribe,Brazil,Ceara,3397675
+Jaguaretama,Brazil,Ceara,3397680
 Jacareacanga,Brazil,Para,3397763
 Jaboatão,Brazil,Pernambuco,3397838
 Itupiranga,Brazil,Para,3397851
+Itatira,Brazil,Ceara,3397877
 Itarema,Brazil,Ceara,3397883
 Itaquitinga,Brazil,Pernambuco,3397886
 Itacoatiara,Brazil,Amazonas,3397893
+Itapororoca,Brazil,Paraiba,3397897
 Itaporanga,Brazil,Paraiba,3397898
+Itapiúna,Brazil,Ceara,3397903
 Itapissuma,Brazil,Pernambuco,3397904
 Itapipoca,Brazil,Ceara,3397909
 Itapecuru Mirim,Brazil,Maranhao,3397936
@@ -1823,12 +1902,15 @@ Itaitinga,Brazil,Ceara,3397969
 Itaíba,Brazil,Pernambuco,3397983
 Itabaiana,Brazil,Paraiba,3398003
 Irituia,Brazil,Para,3398014
+Irauçuba,Brazil,Ceara,3398028
 Ipueiras,Brazil,Piaui,3398076
 Ipueiras,Brazil,Ceara,3398077
 Ipubi,Brazil,Pernambuco,3398105
 Ipu,Brazil,Ceara,3398112
 Ipojuca,Brazil,Pernambuco,3398115
 Inhapi,Brazil,Alagoas,3398192
+Ingá,Brazil,Paraiba,3398224
+Independência,Brazil,Ceara,3398255
 Inajá,Brazil,Pernambuco,3398264
 Imperatriz,Brazil,Maranhao,3398269
 Iguatu,Brazil,Ceara,3398331
@@ -1837,11 +1919,14 @@ Igarapé-Açu,Brazil,Para,3398350
 Igarassu,Brazil,Pernambuco,3398352
 Igaci,Brazil,Alagoas,3398355
 Icó,Brazil,Ceara,3398379
+Icatu,Brazil,Maranhao,3398381
 Icapuí,Brazil,Ceara,3398384
 Ibimirim,Brazil,Pernambuco,3398401
 Ibiapina,Brazil,Ceara,3398408
 Iati,Brazil,Pernambuco,3398419
+Humberto de Campos,Brazil,Maranhao,3398428
 Horizonte,Brazil,Ceara,3398450
+Hidrolândia,Brazil,Ceara,3398457
 Gurupá,Brazil,Para,3398480
 Guaraciaba do Norte,Brazil,Ceara,3398569
 Guarabira,Brazil,Paraiba,3398570
@@ -1856,19 +1941,24 @@ Goiana,Brazil,Pernambuco,3398904
 Glória do Goitá,Brazil,Pernambuco,3398920
 Garanhuns,Brazil,Pernambuco,3399058
 Gameleira,Brazil,Pernambuco,3399132
+Frecheirinha,Brazil,Ceara,3399313
+Fortuna,Brazil,Maranhao,3399377
 Fortim,Brazil,Ceara,3399380
 Fortaleza,Brazil,Ceara,3399415
 Forquilha,Brazil,Ceara,3399445
+Formosa da Serra Negra,Brazil,Maranhao,3399464
 Floriano,Brazil,Piaui,3399506
 Floresta,Brazil,Pernambuco,3399518
 Flores,Brazil,Pernambuco,3399539
 Ferreiros,Brazil,Pernambuco,3399625
 Feira Nova,Brazil,Pernambuco,3399679
 Feira Grande,Brazil,Alagoas,3399684
+Farias Brito,Brazil,Ceara,3400497
 Exu,Brazil,Pernambuco,3400541
 Eusébio,Brazil,Ceara,3400558
 Extremoz,Brazil,Rio Grande do Norte,3400567
 Estreito,Brazil,Maranhao,3400617
+Esperantinópolis,Brazil,Maranhao,3400739
 Esperantina,Brazil,Piaui,3400740
 Esperança,Brazil,Paraiba,3400752
 Escada,Brazil,Pernambuco,3400804
@@ -1882,6 +1972,8 @@ Curralinho,Brazil,Para,3401263
 Currais Novos,Brazil,Rio Grande do Norte,3401283
 Cupira,Brazil,Pernambuco,3401340
 Cumaru,Brazil,Pernambuco,3401404
+Cuité,Brazil,Paraiba,3401419
+Cruz do Espírito Santo,Brazil,Paraiba,3401457
 Croatá,Brazil,Ceara,3401511
 Crato,Brazil,Ceara,3401545
 Crateús,Brazil,Ceara,3401548
@@ -1892,36 +1984,49 @@ Coroatá,Brazil,Maranhao,3401703
 Coreaú,Brazil,Ceara,3401729
 Condado,Brazil,Pernambuco,3401830
 Conceição do Araguaia,Brazil,Para,3401845
+Conceição,Brazil,Paraiba,3401876
 Colônia Leopoldina,Brazil,Pernambuco,3401944
 Colinas,Brazil,Maranhao,3401963
 Coelho Neto,Brazil,Maranhao,3401992
 Codó,Brazil,Maranhao,3402000
+Cocal,Brazil,Piaui,3402050
+Chorozinho,Brazil,Ceara,3402164
 Chaves,Brazil,Para,3402199
 Chapadinha,Brazil,Maranhao,3402229
 Chã Grande,Brazil,Pernambuco,3402271
+Cedro,Brazil,Ceara,3402340
 Ceará-Mirim,Brazil,Rio Grande do Norte,3402360
 Caxias,Brazil,Maranhao,3402383
 Caucaia,Brazil,Ceara,3402429
 Catolé do Rocha,Brazil,Paraiba,3402465
 Catende,Brazil,Pernambuco,3402528
+Castelo do Piauí,Brazil,Piaui,3402548
 Castanhal,Brazil,Para,3402591
 Cascavel,Brazil,Ceara,3402613
+Carutapera,Brazil,Maranhao,3402648
 Caruaru,Brazil,Pernambuco,3402655
 Carpina,Brazil,Pernambuco,3402721
 Carolina,Brazil,Maranhao,3402724
 Carnaubal,Brazil,Ceara,3402787
 Carnaíba,Brazil,Pernambuco,3402849
+Cariús,Brazil,Ceara,3402875
 Caririaçu,Brazil,Ceara,3402882
+Cariré,Brazil,Ceara,3402893
+Caridade,Brazil,Ceara,3402906
 Careiro da Várzea,Brazil,Amazonas,3402920
 Caraúbas,Brazil,Rio Grande do Norte,3402944
 Capoeiras,Brazil,Pernambuco,3403082
 Capitão Poço,Brazil,Para,3403127
+Capistrano,Brazil,Ceara,3403146
 Capela,Brazil,Alagoas,3403200
 Capanema,Brazil,Para,3403208
+Canto do Buriti,Brazil,Piaui,3403251
+Cantanhede,Brazil,Maranhao,3403309
 Canindé de São Francisco,Brazil,Sergipe,3403344
 Canindé,Brazil,Ceara,3403353
 Canhotinho,Brazil,Pernambuco,3403360
 Canguaretama,Brazil,Rio Grande do Norte,3403362
+Cândido Mendes,Brazil,Maranhao,3403395
 Canapi,Brazil,Alagoas,3403428
 Campos Sales,Brazil,Ceara,3403534
 Campo Maior,Brazil,Piaui,3403566
@@ -1934,28 +2039,37 @@ Camaragibe,Brazil,Pernambuco,3403741
 Cajueiro,Brazil,Alagoas,3403941
 Cajueiro,Brazil,Alagoas,3403943
 Cajazeiras,Brazil,Paraiba,3404020
+Cajari,Brazil,Maranhao,3404056
 Caicó,Brazil,Rio Grande do Norte,3404117
 Caetés,Brazil,Pernambuco,3404231
+Cacimba de Dentro,Brazil,Paraiba,3404306
 Cachoeirinha,Brazil,Pernambuco,3404355
 Cachoeira do Arari,Brazil,Para,3404394
 Cabrobó,Brazil,Pernambuco,3404513
 Cabo de Santo Agostinho,Brazil,Pernambuco,3404545
 Cabedelo,Brazil,Paraiba,3404558
+Caaporã,Brazil,Paraiba,3404656
+Buriti dos Lopes,Brazil,Piaui,3404713
 Buriti Bravo,Brazil,Maranhao,3404722
+Buriti,Brazil,Maranhao,3404740
 Bujaru,Brazil,Para,3404760
 Buíque,Brazil,Pernambuco,3404766
 Breves,Brazil,Para,3404817
 Brejo Santo,Brazil,Ceara,3404833
 Brejo da Madre de Deus,Brazil,Pernambuco,3404862
+Brejo,Brazil,Maranhao,3404889
 Bragança,Brazil,Para,3405006
 Borba,Brazil,Amazonas,3405051
+Boqueirão,Brazil,Paraiba,3405061
 Bonito,Brazil,Pernambuco,3405172
+Bom Jesus,Brazil,Piaui,3405304
 Bom Jardim,Brazil,Pernambuco,3405339
 Bom Conselho,Brazil,Pernambuco,3405380
 Bodocó,Brazil,Pernambuco,3405429
 Boca da Mata,Brazil,Alagoas,3405457
 Boa Viagem,Brazil,Ceara,3405616
 Bezerros,Brazil,Pernambuco,3405738
+Bequimão,Brazil,Maranhao,3405778
 Benevides,Brazil,Para,3405792
 Belterra,Brazil,Para,3405806
 Belo Jardim,Brazil,Pernambuco,3405812
@@ -1967,46 +2081,66 @@ Beberibe,Brazil,Ceara,3405924
 Bayeux,Brazil,Paraiba,3405940
 Baturité,Brazil,Ceara,3405954
 Batalha,Brazil,Alagoas,3405993
+Batalha,Brazil,Piaui,3406001
 Barro,Brazil,Ceara,3406085
 Barreiros,Brazil,Pernambuco,3406160
 Barreirinhas,Brazil,Maranhao,3406196
 Barreirinha,Brazil,Amazonas,3406202
+Barreira,Brazil,Ceara,3406233
 Barras,Brazil,Piaui,3406263
 Barra do Corda,Brazil,Maranhao,3406317
 Barra de Santo Antônio,Brazil,Alagoas,3406333
 Barcarena,Brazil,Para,3406429
 Barbalha,Brazil,Ceara,3406442
 Baraúna,Brazil,Rio Grande do Norte,3406457
+Barão de Grajaú,Brazil,Maranhao,3406459
+Bananeiras,Brazil,Paraiba,3406503
 Balsas,Brazil,Maranhao,3406545
 Baião,Brazil,Para,3406844
 Bagre,Brazil,Para,3406856
+Bacuri,Brazil,Maranhao,3406887
 Bacabal,Brazil,Maranhao,3406910
 Aveiro,Brazil,Para,3406946
 Autazes,Brazil,Amazonas,3406948
 Aurora,Brazil,Ceara,3406954
 Augusto Corrêa,Brazil,Para,3406961
 Atalaia,Brazil,Alagoas,3406996
+Assaré,Brazil,Ceara,3407010
+Aroeiras,Brazil,Paraiba,3407091
 Areia Branca,Brazil,Rio Grande do Norte,3407194
+Areia,Brazil,Paraiba,3407210
 Arcoverde,Brazil,Pernambuco,3407216
+Araruna,Brazil,Paraiba,3407239
 Araripina,Brazil,Pernambuco,3407243
+Araripe,Brazil,Ceara,3407248
 Arari,Brazil,Maranhao,3407258
 Arapiraca,Brazil,Alagoas,3407327
+Araioses,Brazil,Maranhao,3407351
 Araguatins,Brazil,Tocantins,3407353
 Araguaína,Brazil,Tocantins,3407357
 Araçoiaba,Brazil,Pernambuco,3407366
+Aracoiaba,Brazil,Ceara,3407367
 Aracati,Brazil,Ceara,3407378
+Araçagi,Brazil,Paraiba,3407387
 Aquiraz,Brazil,Ceara,3407407
 Apodi,Brazil,Rio Grande do Norte,3407440
+São João do Rio do Peixe,Brazil,Paraiba,3407486
 Ananindeua,Brazil,Para,3407669
+Anajatuba,Brazil,Maranhao,3407682
 Anajás,Brazil,Para,3407687
 Amontada,Brazil,Ceara,3407703
+Amarante do Maranhão,Brazil,Maranhao,3407755
+Amarante,Brazil,Piaui,3407756
 Amaraji,Brazil,Pernambuco,3407758
 Altos,Brazil,Piaui,3407797
 Altinho,Brazil,Pernambuco,3407871
 Altamira,Brazil,Para,3407882
 Almeirim,Brazil,Para,3407903
 Aliança,Brazil,Pernambuco,3407938
+Alhandra,Brazil,Paraiba,3407940
 Alenquer,Brazil,Para,3407980
+Alcântara,Brazil,Maranhao,3408073
+Alagoa Nova,Brazil,Paraiba,3408097
 Alagoa Grande,Brazil,Paraiba,3408100
 Águas Belas,Brazil,Pernambuco,3408166
 Água Preta,Brazil,Pernambuco,3408175
@@ -2021,6 +2155,7 @@ Acaraú,Brazil,Ceara,3408368
 Acará,Brazil,Para,3408386
 Abreu e Lima,Brazil,Pernambuco,3408404
 Abaetetuba,Brazil,Para,3408424
+Mata Roma,Brazil,Maranhao,3409559
 Colinas do Tocantins,Brazil,Tocantins,3411913
 Xique Xique,Brazil,Bahia,3444823
 Xaxim,Brazil,Santa Catarina,3444830
@@ -2058,6 +2193,7 @@ Valinhos,Brazil,Sao Paulo,3445578
 Valença,Brazil,Rio de Janeiro,3445596
 Valença,Brazil,Bahia,3445597
 Vacaria,Brazil,Rio Grande do Sul,3445630
+Urussanga,Brazil,Santa Catarina,3445667
 Uruguaiana,Brazil,Rio Grande do Sul,3445679
 Uruçuca,Brazil,Bahia,3445690
 Uruaçu,Brazil,Goias,3445713
@@ -2078,6 +2214,7 @@ Tupã,Brazil,Sao Paulo,3445942
 Tucuruvi,Brazil,Sao Paulo,3445968
 Tucano,Brazil,Bahia,3445983
 Tubarão,Brazil,Santa Catarina,3445993
+Triunfo,Brazil,Rio Grande do Sul,3446019
 Trindade,Brazil,Goias,3446038
 Três Rios,Brazil,Rio de Janeiro,3446065
 Três Pontas,Brazil,Minas Gerais,3446077
@@ -2086,6 +2223,7 @@ Três Lagoas,Brazil,Mato Grosso do Sul,3446098
 Três de Maio,Brazil,Rio Grande do Sul,3446130
 Três Coroas,Brazil,Rio Grande do Sul,3446137
 Três Corações,Brazil,Minas Gerais,3446138
+Três Barras,Brazil,Santa Catarina,3446171
 Tremembé,Brazil,Sao Paulo,3446194
 Tramandaí,Brazil,Rio Grande do Sul,3446232
 Torres,Brazil,Rio Grande do Sul,3446295
@@ -2098,6 +2236,7 @@ Tietê,Brazil,Sao Paulo,3446539
 Teutônia,Brazil,Rio Grande do Sul,3446556
 Terra Preta,Brazil,Sao Paulo,3446582
 Teresópolis,Brazil,Rio de Janeiro,3446606
+Vera Cruz,Brazil,Rio Grande do Sul,3446612
 Terenos,Brazil,Mato Grosso do Sul,3446619
 Teófilo Otoni,Brazil,Minas Gerais,3446621
 Teodoro Sampaio,Brazil,Sao Paulo,3446625
@@ -2109,20 +2248,23 @@ Taquaritinga,Brazil,Sao Paulo,3446753
 Taquari,Brazil,Rio Grande do Sul,3446783
 Taquara,Brazil,Rio Grande do Sul,3446847
 Tapiramutá,Brazil,Bahia,3446866
-Tapes,Brazil,Rio Grande do Sul,3446880
+Tapejara,Brazil,Rio Grande do Sul,3446922
 Tanguá,Brazil,Rio de Janeiro,3446974
 Tanabi,Brazil,Sao Paulo,3446979
 Tambaú,Brazil,Sao Paulo,3447005
 Taiobeiras,Brazil,Minas Gerais,3447059
+Taió,Brazil,Santa Catarina,3447063
 Taboão da Serra,Brazil,Sao Paulo,3447186
 Suzano,Brazil,Sao Paulo,3447212
 Sumidouro,Brazil,Rio de Janeiro,3447249
 Sumaré,Brazil,Sao Paulo,3447259
 Sorocaba,Brazil,Sao Paulo,3447399
+Sombrio,Brazil,Santa Catarina,3447409
 Soledade,Brazil,Rio Grande do Sul,3447423
 Socorro,Brazil,Sao Paulo,3447437
 Sobradinho,Brazil,Bahia,3447473
 Simão Dias,Brazil,Sergipe,3447562
+Silvânia,Brazil,Goias,3447588
 Silva Jardim,Brazil,Rio de Janeiro,3447591
 Sidrolândia,Brazil,Mato Grosso do Sul,3447597
 Sete Lagoas,Brazil,Minas Gerais,3447624
@@ -2132,8 +2274,10 @@ Serra Negra,Brazil,Sao Paulo,3447718
 Serrana,Brazil,Sao Paulo,3447720
 Serra,Brazil,Espirito Santo,3447779
 Seropédica,Brazil,Rio de Janeiro,3447785
+Serafina Corrêa,Brazil,Rio Grande do Sul,3447812
 Senhor do Bonfim,Brazil,Bahia,3447839
 Senador Canedo,Brazil,Goias,3447854
+Seara,Brazil,Santa Catarina,3447927
 Seabra,Brazil,Bahia,3447928
 Schroeder,Brazil,Santa Catarina,3447929
 Saubara,Brazil,Bahia,3447961
@@ -2145,17 +2289,20 @@ Sapucaia do Sul,Brazil,Rio Grande do Sul,3448031
 Sapucaia,Brazil,Rio de Janeiro,3448033
 Sapiranga,Brazil,Rio Grande do Sul,3448063
 São Vicente,Brazil,Sao Paulo,3448136
+São Simão,Brazil,Goias,3448200
 São Sepé,Brazil,Rio Grande do Sul,3448207
 São Sebastião do Passé,Brazil,Bahia,3448219
 São Sebastião do Paraíso,Brazil,Minas Gerais,3448221
 São Sebastião do Caí,Brazil,Rio Grande do Sul,3448227
 São Sebastião,Brazil,Sao Paulo,3448257
 São Roque,Brazil,Sao Paulo,3448300
+São Pedro do Sul,Brazil,Rio Grande do Sul,3448332
 São Pedro da Aldeia,Brazil,Rio de Janeiro,3448351
 São Pedro,Brazil,Sao Paulo,3448403
 São Paulo,Brazil,Sao Paulo,3448439
 São Miguel,Brazil,Sao Paulo,3448452
 São Miguel do Iguaçu,Brazil,Parana,3448453
+São Miguel d'Oeste,Brazil,Santa Catarina,3448454
 São Miguel do Araguaia,Brazil,Goias,3448455
 São Mateus do Sul,Brazil,Parana,3448502
 São Mateus,Brazil,Espirito Santo,3448519
@@ -2164,6 +2311,7 @@ São Manuel,Brazil,Sao Paulo,3448545
 São Luiz Gonzaga,Brazil,Rio Grande do Sul,3448552
 São Luís de Montes Belos,Brazil,Goias,3448558
 São Lourenço do Sul,Brazil,Rio Grande do Sul,3448596
+São Lourenço do Oeste,Brazil,Santa Catarina,3448597
 São Lourenço,Brazil,Minas Gerais,3448616
 São Leopoldo,Brazil,Rio Grande do Sul,3448622
 São José dos Pinhais,Brazil,Parana,3448632
@@ -2171,7 +2319,9 @@ São José dos Campos,Brazil,Sao Paulo,3448636
 São José do Vale do Rio Preto,Brazil,Rio de Janeiro,3448638
 São José do Rio Preto,Brazil,Sao Paulo,3448639
 São José do Rio Pardo,Brazil,Sao Paulo,3448640
+São José do Norte,Brazil,Rio Grande do Sul,3448652
 São José,Brazil,Santa Catarina,3448742
+São José,Brazil,Santa Catarina,3448744
 São Joaquim da Barra,Brazil,Sao Paulo,3448825
 São Joaquim,Brazil,Santa Catarina,3448828
 São João Nepomuceno,Brazil,Minas Gerais,3448846
@@ -2179,6 +2329,7 @@ São João de Meriti,Brazil,Rio de Janeiro,3448877
 São João del Rei,Brazil,Minas Gerais,3448879
 São João da Boa Vista,Brazil,Sao Paulo,3448902
 São João da Barra,Brazil,Rio de Janeiro,3448903
+São João Batista,Brazil,Santa Catarina,3448906
 São Jerônimo,Brazil,Rio Grande do Sul,3449045
 São Gotardo,Brazil,Minas Gerais,3449053
 São Gonçalo do Sapucaí,Brazil,Minas Gerais,3449056
@@ -2186,6 +2337,8 @@ São Gabriel,Brazil,Rio Grande do Sul,3449099
 São Gabriel da Palha,Brazil,Espirito Santo,3449102
 São Francisco do Sul,Brazil,Santa Catarina,3449112
 São Francisco do Conde,Brazil,Bahia,3449116
+São Francisco de Paula,Brazil,Rio Grande do Sul,3449121
+São Francisco de Assis,Brazil,Rio Grande do Sul,3449124
 São Francisco,Brazil,Minas Gerais,3449176
 São Fidélis,Brazil,Rio de Janeiro,3449195
 São Cristóvão,Brazil,Sergipe,3449310
@@ -2197,6 +2350,7 @@ São Bento do Sul,Brazil,Santa Catarina,3449350
 Santos Dumont,Brazil,Minas Gerais,3449427
 Santos,Brazil,Sao Paulo,3449433
 Santo Estêvão,Brazil,Bahia,3449467
+Santo Cristo,Brazil,Rio Grande do Sul,3449475
 Santo Antônio do Monte,Brazil,Minas Gerais,3449500
 Santo Antônio do Leverger,Brazil,Mato Grosso,3449502
 Santo Antônio do Amparo,Brazil,Minas Gerais,3449516
@@ -2204,6 +2358,7 @@ Santo Antônio de Posse,Brazil,Sao Paulo,3449518
 Santo Antônio de Pádua,Brazil,Rio de Janeiro,3449519
 Santo Antônio de Jesus,Brazil,Bahia,3449521
 Santo Antônio da Platina,Brazil,Parana,3449529
+Santo Antônio da Patrulha,Brazil,Rio Grande do Sul,3449614
 Santo Ângelo,Brazil,Rio Grande do Sul,3449696
 Santo André,Brazil,Sao Paulo,3449701
 Santo Anastácio,Brazil,Sao Paulo,3449707
@@ -2217,6 +2372,7 @@ Santa Rosa de Viterbo,Brazil,Sao Paulo,3449793
 Santa Rosa,Brazil,Rio Grande do Sul,3449822
 Santa Rita do Sapucaí,Brazil,Minas Gerais,3449847
 Santa Rita do Passa Quatro,Brazil,Sao Paulo,3449851
+Nova Santa Rita,Brazil,Rio Grande do Sul,3449884
 Santana do Paraíso,Brazil,Minas Gerais,3449933
 Sant'Ana do Livramento,Brazil,Rio Grande do Sul,3449936
 Santana de Parnaíba,Brazil,Sao Paulo,3449948
@@ -2235,6 +2391,7 @@ Santa Cruz das Palmeiras,Brazil,Sao Paulo,3450283
 Santa Cruz Cabrália,Brazil,Bahia,3450288
 Santa Cecília,Brazil,Santa Catarina,3450376
 Santa Bárbara d'Oeste,Brazil,Sao Paulo,3450404
+Sananduva,Brazil,Rio Grande do Sul,3450496
 Salvador,Brazil,Bahia,3450554
 Salto de Pirapora,Brazil,Sao Paulo,3450563
 Salto,Brazil,Sao Paulo,3450594
@@ -2290,11 +2447,13 @@ Propriá,Brazil,Sergipe,3452233
 Promissão,Brazil,Sao Paulo,3452237
 Presidente Venceslau,Brazil,Sao Paulo,3452320
 Presidente Prudente,Brazil,Sao Paulo,3452324
+Presidente Getúlio,Brazil,Santa Catarina,3452330
 Presidente Epitácio,Brazil,Sao Paulo,3452331
 Prata,Brazil,Minas Gerais,3452440
 Praia Grande,Brazil,Sao Paulo,3452465
 Prado,Brazil,Bahia,3452483
 Poxoréu,Brazil,Mato Grosso,3452490
+Pouso Redondo,Brazil,Santa Catarina,3452502
 Pouso Alegre,Brazil,Minas Gerais,3452525
 Posse,Brazil,Goias,3452599
 Porto União,Brazil,Santa Catarina,3452623
@@ -2304,6 +2463,7 @@ Porto Real,Brazil,Rio de Janeiro,3452672
 Porto Nacional,Brazil,Tocantins,3452711
 Porto Ferreira,Brazil,Sao Paulo,3452775
 Porto Feliz,Brazil,Sao Paulo,3452779
+Porto Belo,Brazil,Santa Catarina,3452900
 Porto Alegre,Brazil,Rio Grande do Sul,3452925
 Portão,Brazil,Rio Grande do Sul,3452982
 Porciúncula,Brazil,Rio de Janeiro,3453010
@@ -2311,6 +2471,7 @@ Porangatu,Brazil,Goias,3453014
 Pontes e Lacerda,Brazil,Mato Grosso,3453060
 Ponte Nova,Brazil,Minas Gerais,3453078
 Ponta Porã,Brazil,Mato Grosso do Sul,3453150
+Pontalina,Brazil,Goias,3453158
 Pontal,Brazil,Sao Paulo,3453171
 Ponta Grossa,Brazil,Parana,3453186
 Pompéu,Brazil,Minas Gerais,3453240
@@ -2329,6 +2490,8 @@ Pitangueiras,Brazil,Sao Paulo,3453467
 Pitanga,Brazil,Parana,3453478
 Piritiba,Brazil,Bahia,3453494
 Pires do Rio,Brazil,Goias,3453503
+Pirenópolis,Brazil,Goias,3453512
+Piratini,Brazil,Rio Grande do Sul,3453524
 Piraquara,Brazil,Parana,3453535
 Pirapozinho,Brazil,Sao Paulo,3453542
 Pirapora,Brazil,Minas Gerais,3453546
@@ -2343,11 +2506,14 @@ Piracaia,Brazil,Sao Paulo,3453661
 Pinheiros,Brazil,Sao Paulo,3453732
 Pinheiral,Brazil,Rio de Janeiro,3453767
 Pinhão,Brazil,Parana,3453777
+Pinhalzinho,Brazil,Santa Catarina,3453782
 Espírito Santo do Pinhal,Brazil,Sao Paulo,3453807
 Pindobaçu,Brazil,Bahia,3453827
 Pindamonhangaba,Brazil,Sao Paulo,3453837
 Pilar do Sul,Brazil,Sao Paulo,3453896
 Piedade,Brazil,Sao Paulo,3453926
+Balneário Piçarras,Brazil,Santa Catarina,3453943
+Nova Hartz,Brazil,Rio Grande do Sul,3453956
 Piaçabuçu,Brazil,Alagoas,3454005
 Petrópolis,Brazil,Rio de Janeiro,3454031
 Perus,Brazil,Sao Paulo,3454054
@@ -2370,43 +2536,57 @@ Paty do Alferes,Brazil,Rio de Janeiro,3454827
 Posto da Mata,Brazil,Bahia,3454839
 Passos,Brazil,Minas Gerais,3454847
 Passo Fundo,Brazil,Rio Grande do Sul,3454857
+Alvorada,Brazil,Rio Grande do Sul,3454865
 Parobé,Brazil,Rio Grande do Sul,3454954
+Pariquera-Açu,Brazil,Sao Paulo,3454967
 Parelheiros,Brazil,Sao Paulo,3454982
 Paraty,Brazil,Rio de Janeiro,3455036
+Paraopeba,Brazil,Minas Gerais,3455045
 Paranavaí,Brazil,Parana,3455051
 Paranapanema,Brazil,Sao Paulo,3455061
 Paranaíba,Brazil,Mato Grosso do Sul,3455065
 Paranaguá,Brazil,Parana,3455070
+Paraisópolis,Brazil,Minas Gerais,3455089
 Paraíba do Sul,Brazil,Rio de Janeiro,3455141
 Paraguaçu Paulista,Brazil,Sao Paulo,3455152
 Paraguaçu,Brazil,Minas Gerais,3455155
 Pará de Minas,Brazil,Minas Gerais,3455161
 Paracatu,Brazil,Minas Gerais,3455168
 Paracambi,Brazil,Rio de Janeiro,3455170
+Papanduva,Brazil,Santa Catarina,3455189
 Pancas,Brazil,Espirito Santo,3455277
 Panambi,Brazil,Rio Grande do Sul,3455281
 Palotina,Brazil,Parana,3455298
+Palmitos,Brazil,Santa Catarina,3455304
 Palmital,Brazil,Sao Paulo,3455342
+Palmeiras de Goiás,Brazil,Goias,3455362
 Palmeira das Missões,Brazil,Rio Grande do Sul,3455416
 Palmeira,Brazil,Parana,3455425
 Palmas,Brazil,Parana,3455459
 Palhoça,Brazil,Santa Catarina,3455478
 Paiçandu,Brazil,Parana,3455553
+Padre Paraíso,Brazil,Minas Gerais,3455568
 Padre Bernardo,Brazil,Goias,3455580
 Ouro Preto,Brazil,Minas Gerais,3455671
+Ouro Fino,Brazil,Minas Gerais,3455682
 Ouro Branco,Brazil,Minas Gerais,3455689
 Ourinhos,Brazil,Sao Paulo,3455729
+Otacílio Costa,Brazil,Santa Catarina,3455750
 Osvaldo Cruz,Brazil,Sao Paulo,3455756
 Osório,Brazil,Rio Grande do Sul,3455769
 Osasco,Brazil,Sao Paulo,3455775
 Orleans,Brazil,Santa Catarina,3455784
 Orlândia,Brazil,Sao Paulo,3455785
+Orizona,Brazil,Goias,3455786
 Oliveira,Brazil,Minas Gerais,3455908
 Olímpia,Brazil,Sao Paulo,3455923
 Novo Horizonte,Brazil,Sao Paulo,3456060
 Novo Hamburgo,Brazil,Rio Grande do Sul,3456068
+Novo Cruzeiro,Brazil,Minas Gerais,3456070
 Nova Viçosa,Brazil,Bahia,3456102
 Nova Venécia,Brazil,Espirito Santo,3456110
+Nova Serrana,Brazil,Minas Gerais,3456117
+Nova Resende,Brazil,Minas Gerais,3456124
 Nova Prata,Brazil,Rio Grande do Sul,3456125
 Nova Petrópolis,Brazil,Rio Grande do Sul,3456127
 Nova Olímpia,Brazil,Mato Grosso,3456137
@@ -2431,47 +2611,58 @@ Nazaré,Brazil,Bahia,3456366
 Naviraí,Brazil,Mato Grosso do Sul,3456368
 Navegantes,Brazil,Santa Catarina,3456370
 Natividade,Brazil,Rio de Janeiro,3456377
+Não-Me-Toque,Brazil,Rio Grande do Sul,3456397
 Nanuque,Brazil,Minas Gerais,3456398
 Muzambinho,Brazil,Minas Gerais,3456412
+Mutum,Brazil,Minas Gerais,3456445
 Muritiba,Brazil,Bahia,3456483
 Muriaé,Brazil,Minas Gerais,3456500
 Muniz Freire,Brazil,Espirito Santo,3456530
 Mucuri,Brazil,Bahia,3456593
 Morro do Chapéu,Brazil,Bahia,3456696
+Morro da Fumaça,Brazil,Santa Catarina,3456707
 Morro Agudo,Brazil,Sao Paulo,3456724
 Morrinhos,Brazil,Goias,3456735
+Monte Sião,Brazil,Minas Gerais,3456806
 Montes Claros,Brazil,Minas Gerais,3456814
 Monte Santo de Minas,Brazil,Minas Gerais,3456816
 Montenegro,Brazil,Rio Grande do Sul,3456826
 Monte Mor,Brazil,Sao Paulo,3456827
 Monte Carmelo,Brazil,Minas Gerais,3456848
 Monte Azul Paulista,Brazil,Sao Paulo,3456863
+Monte Azul,Brazil,Minas Gerais,3456864
 Monte Aprazível,Brazil,Sao Paulo,3456866
 Monte Alto,Brazil,Sao Paulo,3456873
+Monte Alegre de Minas,Brazil,Minas Gerais,3456880
 Montanha,Brazil,Espirito Santo,3456905
 Mongaguá,Brazil,Sao Paulo,3456944
 Mogi Mirim,Brazil,Sao Paulo,3456998
 Mogi Guaçu,Brazil,Sao Paulo,3457000
 Mogi das Cruzes,Brazil,Sao Paulo,3457001
 Mococa,Brazil,Sao Paulo,3457025
+Mirassol,Brazil,Sao Paulo,3457095
 Mirandópolis,Brazil,Sao Paulo,3457107
 Miranda,Brazil,Mato Grosso do Sul,3457113
 Miracema,Brazil,Rio de Janeiro,3457133
 Miracatu,Brazil,Sao Paulo,3457135
 Mineiros,Brazil,Goias,3457147
+Minas Novas,Brazil,Minas Gerais,3457152
 Mimoso do Sul,Brazil,Espirito Santo,3457161
 Miguel Pereira,Brazil,Rio de Janeiro,3457191
 Miguelópolis,Brazil,Sao Paulo,3457192
 Mendes,Brazil,Rio de Janeiro,3457247
+Medina,Brazil,Minas Gerais,3457358
 Medianeira,Brazil,Parana,3457359
 Medeiros Neto,Brazil,Bahia,3457360
 Mauá,Brazil,Sao Paulo,3457381
 Matozinhos,Brazil,Minas Gerais,3457393
 Vila Bela da Santíssima Trindade,Brazil,Mato Grosso,3457426
+Matipó,Brazil,Minas Gerais,3457454
 Matinhos,Brazil,Parana,3457455
 Mateus Leme,Brazil,Minas Gerais,3457484
 Matão,Brazil,Sao Paulo,3457509
 Mata de São João,Brazil,Bahia,3457528
+Massaranduba,Brazil,Santa Catarina,3457561
 Mascote,Brazil,Bahia,3457566
 Maruim,Brazil,Sergipe,3457582
 Martinópolis,Brazil,Sao Paulo,3457595
@@ -2482,15 +2673,19 @@ Mariana,Brazil,Minas Gerais,3457736
 Marialva,Brazil,Parana,3457741
 Marechal Floriano,Brazil,Espirito Santo,3457770
 Marechal Cândido Rondon,Brazil,Parana,3457772
+Maravilha,Brazil,Santa Catarina,3457809
 Marau,Brazil,Rio Grande do Sul,3457817
 Marataizes,Brazil,Espirito Santo,3457819
 Maragogipe,Brazil,Bahia,3457850
 Maracás,Brazil,Bahia,3457854
 Maracaju,Brazil,Mato Grosso do Sul,3457859
+Mantena,Brazil,Minas Gerais,3457933
 Manhumirim,Brazil,Minas Gerais,3457950
 Manhuaçu,Brazil,Minas Gerais,3457952
 Mangaratiba,Brazil,Rio de Janeiro,3457991
+Manga,Brazil,Minas Gerais,3458020
 Mandaguari,Brazil,Parana,3458049
+Malacacheta,Brazil,Minas Gerais,3458121
 Mairiporã,Brazil,Sao Paulo,3458131
 Mairinque,Brazil,Sao Paulo,3458132
 Magé,Brazil,Rio de Janeiro,3458142
@@ -2499,6 +2694,8 @@ Machado,Brazil,Minas Gerais,3458211
 Macatuba,Brazil,Sao Paulo,3458245
 Macaé,Brazil,Rio de Janeiro,3458266
 Luziânia,Brazil,Goias,3458329
+Luz,Brazil,Minas Gerais,3458333
+Lucélia,Brazil,Sao Paulo,3458390
 Lucas,Brazil,Mato Grosso,3458397
 Louveira,Brazil,Sao Paulo,3458406
 Lorena,Brazil,Sao Paulo,3458425
@@ -2508,6 +2705,7 @@ Livramento do Brumado,Brazil,Bahia,3458481
 Lins,Brazil,Sao Paulo,3458494
 Linhares,Brazil,Espirito Santo,3458498
 Limeira,Brazil,Sao Paulo,3458575
+Lima Duarte,Brazil,Minas Gerais,3458591
 Liberdade,Brazil,Sao Paulo,3458611
 Leopoldina,Brazil,Minas Gerais,3458632
 Lençóis Paulista,Brazil,Sao Paulo,3458645
@@ -2518,18 +2716,24 @@ Laranjeiras,Brazil,Sergipe,3458778
 Laranjal Paulista,Brazil,Sao Paulo,3458786
 Lapa,Brazil,Sao Paulo,3458825
 Lapa,Brazil,Parana,3458826
+Lambari,Brazil,Minas Gerais,3458881
 Lajinha,Brazil,Minas Gerais,3458902
 Lages,Brazil,Santa Catarina,3458930
 Lajeado,Brazil,Rio Grande do Sul,3459035
 Laguna,Brazil,Santa Catarina,3459094
 Lagoa Vermelha,Brazil,Rio Grande do Sul,3459126
 Lagoa Santa,Brazil,Minas Gerais,3459138
+Lagoa Formosa,Brazil,Minas Gerais,3459181
 Lagoa da Prata,Brazil,Minas Gerais,3459251
 Lagarto,Brazil,Sergipe,3459342
 Ladário,Brazil,Mato Grosso do Sul,3459352
+Juquitiba,Brazil,Sao Paulo,3459435
+Juquiá,Brazil,Sao Paulo,3459440
+Junqueirópolis,Brazil,Sao Paulo,3459452
 Jundiaí,Brazil,Sao Paulo,3459462
 Júlio de Castilhos,Brazil,Rio Grande do Sul,3459495
 Juiz de Fora,Brazil,Minas Gerais,3459505
+Jussara,Brazil,Goias,3459531
 Juatuba,Brazil,Minas Gerais,3459550
 José Bonifácio,Brazil,Sao Paulo,3459667
 Joinville,Brazil,Santa Catarina,3459712
@@ -2554,12 +2758,14 @@ Jandira,Brazil,Sao Paulo,3460170
 Jandaia do Sul,Brazil,Parana,3460172
 Janaúba,Brazil,Minas Gerais,3460174
 Jales,Brazil,Sao Paulo,3460186
+Jaguaruna,Brazil,Santa Catarina,3460197
 Jaguariúna,Brazil,Sao Paulo,3460200
 Jaguariaíva,Brazil,Parana,3460214
 Jaguarari,Brazil,Bahia,3460225
 Jaguarão,Brazil,Rio Grande do Sul,3460232
 Jaguaquara,Brazil,Bahia,3460242
 Jacutinga,Brazil,Minas Gerais,3460267
+Jacupiranga,Brazil,Sao Paulo,3460281
 Jacobina,Brazil,Bahia,3460344
 Jaciara,Brazil,Mato Grosso,3460355
 Jacarezinho,Brazil,Parana,3460362
@@ -2570,16 +2776,19 @@ Ivoti,Brazil,Rio Grande do Sul,3460484
 Iúna,Brazil,Espirito Santo,3460505
 Ituverava,Brazil,Sao Paulo,3460511
 Iturama,Brazil,Minas Gerais,3460513
+Ituporanga,Brazil,Santa Catarina,3460514
 Itupeva,Brazil,Sao Paulo,3460516
 Itumbiara,Brazil,Goias,3460522
 Ituiutaba,Brazil,Minas Gerais,3460523
 Ituberá,Brazil,Bahia,3460530
 Itu,Brazil,Sao Paulo,3460535
 Itororó,Brazil,Bahia,3460542
+Itirapina,Brazil,Sao Paulo,3460553
 Itaúna,Brazil,Minas Gerais,3460584
 Itatinga,Brazil,Sao Paulo,3460594
 Itatiba,Brazil,Sao Paulo,3460598
 Itatiaia,Brazil,Rio de Janeiro,3460602
+Itariri,Brazil,Sao Paulo,3460615
 Itararé,Brazil,Sao Paulo,3460620
 Itaqui,Brazil,Rio Grande do Sul,3460629
 Itaquera,Brazil,Sao Paulo,3460634
@@ -2588,6 +2797,7 @@ Itapuranga,Brazil,Goias,3460648
 Itaporanga d'Ajuda,Brazil,Sergipe,3460665
 Itaporã,Brazil,Mato Grosso do Sul,3460669
 Itápolis,Brazil,Sao Paulo,3460671
+Itapiranga,Brazil,Santa Catarina,3460698
 Itapira,Brazil,Sao Paulo,3460699
 Itapevi,Brazil,Sao Paulo,3460718
 Itapeva,Brazil,Sao Paulo,3460723
@@ -2597,6 +2807,7 @@ Itaperuna,Brazil,Rio de Janeiro,3460733
 Itaperuçu,Brazil,Parana,3460734
 Itapemirim,Brazil,Espirito Santo,3460738
 Itapema,Brazil,Santa Catarina,3460740
+Itapoá,Brazil,Santa Catarina,3460741
 Itapecerica da Serra,Brazil,Sao Paulo,3460748
 Itapecerica,Brazil,Minas Gerais,3460752
 Itaparica,Brazil,Bahia,3460764
@@ -2608,7 +2819,9 @@ Itamarandiba,Brazil,Minas Gerais,3460825
 Itamaraju,Brazil,Bahia,3460826
 Itajuípe,Brazil,Bahia,3460831
 Itajubá,Brazil,Minas Gerais,3460834
+Itajobi,Brazil,Sao Paulo,3460836
 Itajaí,Brazil,Santa Catarina,3460845
+Itaiópolis,Brazil,Santa Catarina,3460869
 Itaí,Brazil,Sao Paulo,3460887
 Itaguaí,Brazil,Rio de Janeiro,3460899
 Itabuna,Brazil,Bahia,3460949
@@ -2617,6 +2830,7 @@ Itabirito,Brazil,Minas Gerais,3460954
 Itabira,Brazil,Minas Gerais,3460960
 Itaberaí,Brazil,Goias,3460963
 Itaberaba,Brazil,Bahia,3460966
+Itaberá,Brazil,Sao Paulo,3460967
 Itabaianinha,Brazil,Sergipe,3460971
 Itabaiana,Brazil,Sergipe,3460974
 Irecê,Brazil,Bahia,3461013
@@ -2636,6 +2850,7 @@ Indaiatuba,Brazil,Sao Paulo,3461311
 Indaial,Brazil,Santa Catarina,3461316
 Imbituva,Brazil,Parana,3461368
 Imbituba,Brazil,Santa Catarina,3461370
+Ilhota,Brazil,Santa Catarina,3461406
 Ilhéus,Brazil,Bahia,3461408
 Ilha Solteira,Brazil,Sao Paulo,3461411
 Ilhabela,Brazil,Sao Paulo,3461425
@@ -2651,6 +2866,7 @@ Içara,Brazil,Santa Catarina,3461519
 Ibotirama,Brazil,Bahia,3461525
 Ibiúna,Brazil,Sao Paulo,3461528
 Ibitinga,Brazil,Sao Paulo,3461550
+Ibirubá,Brazil,Rio Grande do Sul,3461559
 Ibirité,Brazil,Minas Gerais,3461563
 Ibirataia,Brazil,Bahia,3461565
 Ibirama,Brazil,Santa Catarina,3461576
@@ -2662,12 +2878,14 @@ Ibaté,Brazil,Sao Paulo,3461625
 Ibaiti,Brazil,Parana,3461628
 Iaçu,Brazil,Bahia,3461638
 Hortolândia,Brazil,Sao Paulo,3461655
-Herval,Brazil,Rio Grande do Sul,3461680
+Horizontina,Brazil,Rio Grande do Sul,3461659
+Hidrolândia,Brazil,Goias,3461677
 Gurupi,Brazil,Tocantins,3461724
 Guaxupé,Brazil,Minas Gerais,3461763
 Guarulhos,Brazil,Sao Paulo,3461786
 Guarujá,Brazil,Sao Paulo,3461789
 Guariba,Brazil,Sao Paulo,3461824
+Guareí,Brazil,Sao Paulo,3461830
 Guaratuba,Brazil,Parana,3461857
 Guaratinguetá,Brazil,Sao Paulo,3461859
 Guararema,Brazil,Sao Paulo,3461871
@@ -2678,7 +2896,10 @@ Guaranésia,Brazil,Minas Gerais,3461910
 Guaramirim,Brazil,Santa Catarina,3461914
 Guará,Brazil,Sao Paulo,3461935
 Guaporé,Brazil,Rio Grande do Sul,3461941
+Guapó,Brazil,Goias,3461943
 Guapimirim,Brazil,Rio de Janeiro,3461949
+Guapiara,Brazil,Sao Paulo,3461951
+Guapiaçu,Brazil,Sao Paulo,3461954
 Guanhães,Brazil,Minas Gerais,3461958
 Guanambi,Brazil,Bahia,3461973
 Guaíra,Brazil,Sao Paulo,3461995
@@ -2691,7 +2912,11 @@ Goiás,Brazil,Goias,3462374
 Goianira,Brazil,Goias,3462376
 Goiânia,Brazil,Goias,3462377
 Goianésia,Brazil,Goias,3462378
+Giruá,Brazil,Rio Grande do Sul,3462419
+Getúlio Vargas,Brazil,Rio Grande do Sul,3462439
 Gaspar,Brazil,Santa Catarina,3462535
+Garuva,Brazil,Santa Catarina,3462536
+Garopaba,Brazil,Santa Catarina,3462549
 Garibaldi,Brazil,Rio Grande do Sul,3462557
 Garça,Brazil,Sao Paulo,3462580
 Gandu,Brazil,Bahia,3462601
@@ -2713,13 +2938,16 @@ Flores da Cunha,Brazil,Rio Grande do Sul,3463271
 Ferraz de Vasconcelos,Brazil,Sao Paulo,3463422
 Fernandópolis,Brazil,Sao Paulo,3463432
 Feira de Santana,Brazil,Bahia,3463478
+Fartura,Brazil,Sao Paulo,3463604
 Farroupilha,Brazil,Rio Grande do Sul,3463605
 Eunápolis,Brazil,Bahia,3463690
 Euclides da Cunha,Brazil,Bahia,3463698
+Estrela,Brazil,Rio Grande do Sul,3463761
 Estrela,Brazil,Rio Grande do Sul,3463762
 Esteio,Brazil,Rio Grande do Sul,3463859
 Estância Velha,Brazil,Rio Grande do Sul,3463865
 Estância,Brazil,Sergipe,3463900
+Espumoso,Brazil,Rio Grande do Sul,3463916
 Esplanada,Brazil,Bahia,3463920
 Espinosa,Brazil,Minas Gerais,3463939
 Esmeraldas,Brazil,Minas Gerais,3464008
@@ -2727,17 +2955,21 @@ Erechim,Brazil,Rio Grande do Sul,3464073
 Entre Rios,Brazil,Bahia,3464100
 Encruzilhada do Sul,Brazil,Rio Grande do Sul,3464255
 Encantado,Brazil,Rio Grande do Sul,3464274
-Embu Guaçu,Brazil,Sao Paulo,3464304
+Embu-Guaçu,Brazil,Sao Paulo,3464304
 Embu das Artes,Brazil,Sao Paulo,3464305
 Elói Mendes,Brazil,Minas Gerais,3464329
+Elias Fausto,Brazil,Sao Paulo,3464335
 Ecoporanga,Brazil,Espirito Santo,3464364
 Duque de Caxias,Brazil,Rio de Janeiro,3464374
+Dracena,Brazil,Sao Paulo,3464426
 Dourados,Brazil,Mato Grosso do Sul,3464460
 Dom Pedrito,Brazil,Rio Grande do Sul,3464547
 Domingos Martins,Brazil,Espirito Santo,3464556
 Dois Vizinhos,Brazil,Parana,3464579
+Dois Irmãos,Brazil,Rio Grande do Sul,3464598
 Dois Córregos,Brazil,Sao Paulo,3464618
 Divinópolis,Brazil,Minas Gerais,3464688
+Dionísio Cerqueira,Brazil,Santa Catarina,3464705
 Dianópolis,Brazil,Tocantins,3464720
 Diamantino,Brazil,Mato Grosso,3464724
 Diamantina,Brazil,Minas Gerais,3464728
@@ -2753,6 +2985,7 @@ Cruzeiro do Oeste,Brazil,Parana,3465083
 Cruzeiro,Brazil,Sao Paulo,3465090
 Cruz das Almas,Brazil,Bahia,3465105
 Cruz Alta,Brazil,Rio Grande do Sul,3465108
+Crixás,Brazil,Goias,3465145
 Cristinápolis,Brazil,Sergipe,3465154
 Cristalina,Brazil,Goias,3465164
 Criciúma,Brazil,Santa Catarina,3465196
@@ -2761,7 +2994,10 @@ Coxim,Brazil,Mato Grosso do Sul,3465228
 Cotia,Brazil,Sao Paulo,3465284
 Cosmópolis,Brazil,Sao Paulo,3465320
 Coruripe,Brazil,Alagoas,3465329
+Corupá,Brazil,Santa Catarina,3465330
 Corumbá,Brazil,Mato Grosso do Sul,3465342
+Corrente,Brazil,Piaui,3465405
+Correia Pinto,Brazil,Santa Catarina,3465409
 Coronel Vivida,Brazil,Parana,3465459
 Coronel Fabriciano,Brazil,Minas Gerais,3465476
 Coromandel,Brazil,Minas Gerais,3465487
@@ -2774,6 +3010,7 @@ Conselheiro Lafaiete,Brazil,Minas Gerais,3465644
 Congonhas,Brazil,Minas Gerais,3465671
 Conde,Brazil,Bahia,3465713
 Concórdia,Brazil,Santa Catarina,3465721
+Conchas,Brazil,Sao Paulo,3465729
 Conchal,Brazil,Sao Paulo,3465731
 Conceição do Coité,Brazil,Bahia,3465748
 Conceição de Macabu,Brazil,Rio de Janeiro,3465757
@@ -2783,18 +3020,23 @@ Conceição da Feira,Brazil,Bahia,3465767
 Conceição da Barra,Brazil,Espirito Santo,3465769
 Colorado,Brazil,Parana,3465881
 Colombo,Brazil,Parana,3465927
+Colina,Brazil,Sao Paulo,3465935
 Colatina,Brazil,Espirito Santo,3465944
+Cocal do Sul,Brazil,Santa Catarina,3466005
 Coaraci,Brazil,Bahia,3466041
 Cláudio,Brazil,Minas Gerais,3466062
+Cidreira,Brazil,Rio Grande do Sul,3466165
 Cícero Dantas,Brazil,Bahia,3466171
 Cianorte,Brazil,Parana,3466174
 Nova Xavantina,Brazil,Mato Grosso,3466255
 Charqueadas,Brazil,Rio Grande do Sul,3466261
+Charqueada,Brazil,Sao Paulo,3466267
 Chapecó,Brazil,Santa Catarina,3466296
 Chapada dos Guimarães,Brazil,Mato Grosso,3466307
+Cesário Lange,Brazil,Sao Paulo,3466351
 Cerquilho,Brazil,Sao Paulo,3466429
+Cerqueira César,Brazil,Sao Paulo,3466430
 Ceres,Brazil,Goias,3466436
-Celso Ramos,Brazil,Santa Catarina,3466481
 Caxias do Sul,Brazil,Rio Grande do Sul,3466537
 Caxambu,Brazil,Minas Gerais,3466547
 Catu,Brazil,Bahia,3466641
@@ -2802,6 +3044,7 @@ Catanduva,Brazil,Sao Paulo,3466692
 Catalão,Brazil,Goias,3466696
 Cataguases,Brazil,Minas Gerais,3466698
 Castro,Brazil,Parana,3466704
+Castilho,Brazil,Sao Paulo,3466708
 Castelo,Brazil,Espirito Santo,3466723
 Cassilândia,Brazil,Mato Grosso do Sul,3466750
 Casimiro de Abreu,Brazil,Rio de Janeiro,3466763
@@ -2824,9 +3067,11 @@ Capivari,Brazil,Sao Paulo,3467197
 Capinzal,Brazil,Santa Catarina,3467261
 Capim Grosso,Brazil,Bahia,3467272
 Capelinha,Brazil,Minas Gerais,3467305
+Capela do Alto,Brazil,Sao Paulo,3467314
 Capela,Brazil,Sergipe,3467319
+Capão do Leão,Brazil,Rio Grande do Sul,3467353
 Capão da Canoa,Brazil,Rio Grande do Sul,3467362
-Capâo Bonito,Brazil,Sao Paulo,3467371
+Capão Bonito,Brazil,Sao Paulo,3467371
 Cantagalo,Brazil,Rio de Janeiro,3467445
 Canoinhas,Brazil,Santa Catarina,3467452
 Canoas,Brazil,Rio Grande do Sul,3467467
@@ -2843,11 +3088,12 @@ Campos Belos,Brazil,Goias,3467687
 Campos dos Goytacazes,Brazil,Rio de Janeiro,3467693
 Campo Mourão,Brazil,Parana,3467717
 Campo Limpo,Brazil,Sao Paulo,3467722
-Campo Limpo de Goiás,Brazil,Goias,3467727
+Campo Limpo Paulista,Brazil,Sao Paulo,3467723
 Campo Largo,Brazil,Parana,3467736
 Campo Grande,Brazil,Mato Grosso do Sul,3467747
 Campo Formoso,Brazil,Bahia,3467760
 Campo do Brito,Brazil,Sergipe,3467780
+Campo Bom,Brazil,Rio Grande do Sul,3467791
 Campo Belo,Brazil,Minas Gerais,3467796
 Campinas,Brazil,Sao Paulo,3467865
 Campina Grande do Sul,Brazil,Parana,3467877
@@ -2864,11 +3110,15 @@ Cajuru,Brazil,Sao Paulo,3468121
 Cajati,Brazil,Sao Paulo,3468157
 Cajamar,Brazil,Sao Paulo,3468158
 Caieiras,Brazil,Sao Paulo,3468215
+Caiapônia,Brazil,Goias,3468234
+Cafelândia,Brazil,Sao Paulo,3468296
 Caetité,Brazil,Bahia,3468317
 Caeté,Brazil,Minas Gerais,3468327
+Caconde,Brazil,Sao Paulo,3468353
 Cachoeiro de Itapemirim,Brazil,Espirito Santo,3468376
 Cachoeirinha,Brazil,Rio Grande do Sul,3468403
 Cachoeiras de Macacu,Brazil,Rio de Janeiro,3468425
+Cachoeira Paulista,Brazil,Sao Paulo,3468428
 Cachoeira do Sul,Brazil,Rio Grande do Sul,3468436
 Cachoeira,Brazil,Bahia,3468535
 Cáceres,Brazil,Mato Grosso,3468551
@@ -2880,6 +3130,7 @@ Cabo Frio,Brazil,Rio de Janeiro,3468615
 Butiá,Brazil,Rio Grande do Sul,3468704
 Buritizeiro,Brazil,Minas Gerais,3468720
 Buritis,Brazil,Minas Gerais,3468732
+Buritama,Brazil,Sao Paulo,3468789
 Buri,Brazil,Sao Paulo,3468802
 Boquim,Brazil,Sergipe,3468823
 Buerarema,Brazil,Bahia,3468858
@@ -2887,7 +3138,7 @@ Brusque,Brazil,Santa Catarina,3468879
 Brumado,Brazil,Bahia,3468893
 Brumadinho,Brazil,Minas Gerais,3468894
 Brotas,Brazil,Sao Paulo,3468899
-Brodósqui,Brazil,Sao Paulo,3468902
+Brodowski,Brazil,Sao Paulo,3468902
 Brasília,Brazil,Federal District,3469058
 Brás,Brazil,Sao Paulo,3469066
 Bragança Paulista,Brazil,Sao Paulo,3469092
@@ -2896,8 +3147,10 @@ Botucatu,Brazil,Sao Paulo,3469136
 Holambra,Brazil,Sao Paulo,3469168
 Bonito,Brazil,Mato Grosso do Sul,3469294
 Bom Retiro,Brazil,Sao Paulo,3469399
+Bom Jesus dos Perdões,Brazil,Sao Paulo,3469421
 Bom Jesus do Itabapoana,Brazil,Rio de Janeiro,3469425
 Bom Jesus da Lapa,Brazil,Bahia,3469437
+Bom Jesus de Goiás,Brazil,Goias,3469451
 Bom Jardim,Brazil,Rio de Janeiro,3469481
 Bom Despacho,Brazil,Minas Gerais,3469516
 Boituva,Brazil,Sao Paulo,3469540
@@ -2913,6 +3166,7 @@ Bento Gonçalves,Brazil,Rio Grande do Sul,3470073
 Belo Oriente,Brazil,Minas Gerais,3470117
 Belo Horizonte,Brazil,Minas Gerais,3470127
 Belford Roxo,Brazil,Rio de Janeiro,3470142
+Bela Vista de Goiás,Brazil,Goias,3470164
 Bela Vista,Brazil,Mato Grosso do Sul,3470177
 Bebedouro,Brazil,Sao Paulo,3470264
 Bauru,Brazil,Sao Paulo,3470279
@@ -2939,9 +3193,11 @@ Barbacena,Brazil,Minas Gerais,3470858
 Barão de Cocais,Brazil,Minas Gerais,3470878
 Bandeirantes,Brazil,Parana,3470912
 Bambuí,Brazil,Minas Gerais,3471005
+Balneário Rincão,Brazil,Santa Catarina,3471038
 Balneário Camboriú,Brazil,Santa Catarina,3471039
 Baixo Guandu,Brazil,Espirito Santo,3471061
 Bagé,Brazil,Rio Grande do Sul,3471196
+Bady Bassitt,Brazil,Sao Paulo,3471210
 Avaré,Brazil,Sao Paulo,3471291
 Atibaia,Brazil,Sao Paulo,3471335
 Astorga,Brazil,Parana,3471368
@@ -2949,6 +3205,7 @@ Assis,Brazil,Sao Paulo,3471374
 Arujá,Brazil,Sao Paulo,3471393
 Artur Nogueira,Brazil,Sao Paulo,3471395
 Arroio Grande,Brazil,Rio Grande do Sul,3471422
+Balneário Arroio do Silva,Brazil,Santa Catarina,3471427
 Arroio do Meio,Brazil,Rio Grande do Sul,3471428
 Arraial do Cabo,Brazil,Rio de Janeiro,3471451
 Armação dos Búzios,Brazil,Rio de Janeiro,3471487
@@ -2960,6 +3217,7 @@ Araruama,Brazil,Rio de Janeiro,3471715
 Araras,Brazil,Sao Paulo,3471758
 Araraquara,Brazil,Sao Paulo,3471766
 Araranguá,Brazil,Santa Catarina,3471772
+Araquari,Brazil,Santa Catarina,3471783
 Arapongas,Brazil,Parana,3471798
 Araguari,Brazil,Minas Gerais,3471830
 Aragarças,Brazil,Goias,3471840
@@ -3002,6 +3260,7 @@ Alegre,Brazil,Espirito Santo,3472666
 Alagoinhas,Brazil,Bahia,3472766
 Aimorés,Brazil,Minas Gerais,3472808
 Agudos,Brazil,Sao Paulo,3472825
+Agudo,Brazil,Rio Grande do Sul,3472831
 Águas Vermelhas,Brazil,Minas Gerais,3472848
 Águas de Lindóia,Brazil,Sao Paulo,3472869
 Água Rasa,Brazil,Minas Gerais,3472898
@@ -3009,10 +3268,12 @@ Aguaí,Brazil,Sao Paulo,3472969
 Água Clara,Brazil,Mato Grosso do Sul,3473042
 Afonso Cláudio,Brazil,Espirito Santo,3473129
 Adamantina,Brazil,Sao Paulo,3473157
+Abelardo Luz,Brazil,Santa Catarina,3473252
 Abaeté,Brazil,Minas Gerais,3473267
 Guaíba,Brazil,Rio Grande do Sul,3473964
 Comodoro,Brazil,Mato Grosso,3474501
 Palmas,Brazil,Tocantins,3474574
+Bombinhas,Brazil,Santa Catarina,3477430
 Pontal do Paraná,Brazil,Parana,3478424
 Lagoa da Confusão,Brazil,Tocantins,3479302
 Paraíso do Tocantins,Brazil,Tocantins,3479329
@@ -3077,20 +3338,31 @@ Guajará Mirim,Brazil,Rondonia,3925075
 Espigão dOeste,Brazil,Rondonia,3925118
 Cacoal,Brazil,Rondonia,3925212
 Brasiléia,Brazil,Acre,3925227
+Abadia de Goiás,Brazil,Goias,6316295
 Açailândia,Brazil,Maranhao,6316298
+Acreúna,Brazil,Goias,6316300
 Água Azul do Norte,Brazil,Para,6316312
 Água Boa,Brazil,Mato Grosso,6316314
+Águas Lindas de Goiás,Brazil,Goias,6316328
+Aldeias Altas,Brazil,Maranhao,6316335
+Alexânia,Brazil,Goias,6316340
 Alta Floresta d'Oeste,Brazil,Rondonia,6316344
 Alto Alegre,Brazil,Roraima,6316346
+Alto Alegre do Maranhão,Brazil,Maranhao,6316349
+Alto Alegre do Pindaré,Brazil,Maranhao,6316350
 Alto Paraíso,Brazil,Rondonia,6316364
 Alumínio,Brazil,Sao Paulo,6316372
 Anapu,Brazil,Para,6316389
 Aparecida de Goiânia,Brazil,Goias,6316406
 Apuí,Brazil,Amazonas,6316415
+Arame,Brazil,Maranhao,6316424
 Aripuanã,Brazil,Mato Grosso,6316432
-Augustinópolis,Brazil,Tocantins,6316460
+Assis Chateaubriand,Brazil,Parana,6316450
 Aurora do Pará,Brazil,Para,6316465
-Boa Vista do Ramos,Brazil,Amazonas,6316587
+Bacabeira,Brazil,Maranhao,6316471
+Balneário Gaivota,Brazil,Santa Catarina,6316487
+Banabuiú,Brazil,Ceara,6316490
+Bom Jesus das Selvas,Brazil,Maranhao,6316600
 Bom Jesus do Tocantins,Brazil,Para,6316607
 Breu Branco,Brazil,Para,6316653
 Buritis,Brazil,Rondonia,6316666
@@ -3102,8 +3374,10 @@ Canaã dos Carajás,Brazil,Para,6316757
 Canarana,Brazil,Mato Grosso,6316760
 Candeias do Jamari,Brazil,Rondonia,6316763
 Cantá,Brazil,Roraima,6316774
+Capivari de Baixo,Brazil,Santa Catarina,6316793
 Cerejeiras,Brazil,Rondonia,6316847
 Chapadão do Sul,Brazil,Mato Grosso do Sul,6316864
+Cocalzinho de Goiás,Brazil,Goias,6316880
 Colíder,Brazil,Mato Grosso,6316881
 Colniza,Brazil,Mato Grosso,6316885
 Colorado do Oeste,Brazil,Rondonia,6316897
@@ -3113,33 +3387,41 @@ Costa Rica,Brazil,Mato Grosso do Sul,6316937
 Curionópolis,Brazil,Para,6316976
 Dom Eliseu,Brazil,Para,6317029
 Dormentes,Brazil,Pernambuco,6317039
+Eldorado do Sul,Brazil,Rio Grande do Sul,6317055
 Eldorado dos Carajás,Brazil,Para,6317056
-Engenheiro Coelho,Brazil,Sao Paulo,6317063
-Envira,Brazil,Amazonas,6317074
 Epitaciolândia,Brazil,Acre,6317075
 Ermelino Matarazzo,Brazil,Sao Paulo,6317077
 Estrela de Alagoas,Brazil,Alagoas,6317102
 Fátima do Sul,Brazil,Mato Grosso do Sul,6317114
 Floresta do Araguaia,Brazil,Para,6317151
+Fraiburgo,Brazil,Santa Catarina,6317166
 Garrafão do Norte,Brazil,Para,6317188
 Goianésia do Pará,Brazil,Para,6317207
+Gonçalves Dias,Brazil,Maranhao,6317209
+Governador Celso Ramos,Brazil,Santa Catarina,6317211
+Governador Nunes Freire,Brazil,Maranhao,6317220
+Guabiruba,Brazil,Santa Catarina,6317226
+Herval dOeste,Brazil,Santa Catarina,6317245
+Imbé,Brazil,Rio Grande do Sul,6317277
+Indiara,Brazil,Goias,6317286
 Ipixuna do Pará,Brazil,Para,6317294
 Itaim Paulista,Brazil,Sao Paulo,6317317
 Itaquiraí,Brazil,Mato Grosso do Sul,6317333
-Ivinhema,Brazil,Mato Grosso do Sul,6317342
+Itinga do Maranhão,Brazil,Maranhao,6317339
 Jaboatão dos Guararapes,Brazil,Pernambuco,6317344
-Jacundá,Brazil,Para,6317351
+Jenipapo dos Vieiras,Brazil,Maranhao,6317380
 Jijoca de Jericoacoara,Brazil,Ceara,6317383
 Juara,Brazil,Mato Grosso,6317397
 Juína,Brazil,Mato Grosso,6317400
-Jutaí,Brazil,Amazonas,6317412
 Lambari d'Oeste,Brazil,Mato Grosso,6317459
 Laranjal do Jari,Brazil,Amapa,6317461
 Lauro de Freitas,Brazil,Bahia,6317464
 Machadinho d'Oeste,Brazil,Rondonia,6317499
 Mãe do Rio,Brazil,Para,6317503
 Maraã,Brazil,Amazonas,6317525
+Mário Campos,Brazil,Minas Gerais,6317546
 Marituba,Brazil,Para,6317548
+Matões do Norte,Brazil,Maranhao,6317571
 Matupá,Brazil,Mato Grosso,6317574
 Medicilândia,Brazil,Para,6317580
 Minaçu,Brazil,Goias,6317592
@@ -3150,22 +3432,25 @@ Nova Andradina,Brazil,Mato Grosso do Sul,6317707
 Nova Esperança do Piriá,Brazil,Para,6317734
 Nova Mamoré,Brazil,Rondonia,6317748
 Nova Mutum,Brazil,Mato Grosso,6317755
+Novo Gama,Brazil,Goias,6317781
 Novo Progresso,Brazil,Para,6317800
 Novo Repartimento,Brazil,Para,6317801
 Ourilândia do Norte,Brazil,Para,6317824
 Pacajá,Brazil,Para,6317834
 Pacaraima,Brazil,Roraima,6317835
 Paço do Lumiar,Brazil,Maranhao,6317837
+Palmeirândia,Brazil,Maranhao,6317857
 Paranatinga,Brazil,Mato Grosso,6317871
 Parauapebas,Brazil,Para,6317872
 Pedra Preta,Brazil,Mato Grosso,6317910
 Pedro Canário,Brazil,Espirito Santo,6317915
+Pedro do Rosário,Brazil,Maranhao,6317916
 Peixoto de Azevedo,Brazil,Mato Grosso,6317924
 Petrolândia,Brazil,Pernambuco,6317937
 Pinhais,Brazil,Parana,6317953
 Pinheiros,Brazil,Espirito Santo,6317970
 Placas,Brazil,Para,6317986
-Primavera do Leste,Brazil,Mato Grosso,6318074
+Presidente Sarney,Brazil,Maranhao,6318068
 Querência,Brazil,Mato Grosso,6318091
 Raposa,Brazil,Maranhao,6318104
 Redenção,Brazil,Para,6318107
@@ -3176,32 +3461,40 @@ Rondon do Pará,Brazil,Para,6318184
 Rorainópolis,Brazil,Roraima,6318186
 Rurópolis,Brazil,Para,6318194
 Santa Bárbara do Pará,Brazil,Para,6318219
+Santa Luzia,Brazil,Maranhao,6318263
 Santa Luzia do Pará,Brazil,Para,6318271
 Santa Maria de Jetibá,Brazil,Espirito Santo,6318278
 Santana do Araguaia,Brazil,Para,6318324
+Santo Antônio do Descoberto,Brazil,Goias,6318357
 São Domingos do Araguaia,Brazil,Para,6318408
 São Francisco de Itabapoana,Brazil,Rio de Janeiro,6318423
 São Francisco do Guaporé,Brazil,Rondonia,6318426
 São Gabriel do Oeste,Brazil,Mato Grosso do Sul,6318433
+São João do Soter,Brazil,Maranhao,6318466
 São José dos Quatro Marcos,Brazil,Mato Grosso,6318522
+São Luís Gonzaga do Maranhão,Brazil,Maranhao,6318532
 São Mateus,Brazil,Sao Paulo,6318546
 São Miguel do Guaporé,Brazil,Rondonia,6318556
 Sapopemba,Brazil,Sao Paulo,6318632
 Simões Filho,Brazil,Bahia,6318694
 Sinop,Brazil,Mato Grosso,6318696
+Sítio Novo,Brazil,Maranhao,6318703
 Sooretama,Brazil,Espirito Santo,6318712
 Sorriso,Brazil,Mato Grosso,6318714
 Tailândia,Brazil,Para,6318732
 Tangará da Serra,Brazil,Mato Grosso,6318738
 Trairão,Brazil,Para,6318785
+Trizidela do Vale,Brazil,Maranhao,6318804
 Tucumã,Brazil,Para,6318807
 Ulianópolis,Brazil,Para,6318826
 Uruará,Brazil,Para,6318838
+Valparaíso de Goiás,Brazil,Goias,6318856
 Vargem Grande Paulista,Brazil,Sao Paulo,6318864
-Venda Nova do Imigrante,Brazil,Espirito Santo,6318874
 Vila Rica,Brazil,Mato Grosso,6318931
 Vitória do Xingu,Brazil,Para,6318953
+Xangri-lá,Brazil,Rio Grande do Sul,6318964
 Xinguara,Brazil,Para,6318968
+Zé Doca,Brazil,Maranhao,6318970
 Barra da Tijuca,Brazil,Rio de Janeiro,7290718
 Tatuapé,Brazil,Sao Paulo,7292560
 Consolação,Brazil,Sao Paulo,7521912
@@ -3212,8 +3505,10 @@ Vila Galvão,Brazil,Sao Paulo,7615192
 Jardim Paulista,Brazil,Sao Paulo,7615262
 Trindade,Brazil,Santa Catarina,7874479
 Freguesia do Ribeirao da Ilha,Brazil,Santa Catarina,7874492
+Olho d’Água das Cunhãs,Brazil,Maranhao,8430419
 Teotônio Vilela,Brazil,Alagoas,8437474
 Mirassol d'Oeste,Brazil,Mato Grosso,8456884
+Governador Edison Lobão,Brazil,Maranhao,8543780
 Brasil Novo,Brazil,Para,8550580
 Itaim Bibi,Brazil,Sao Paulo,10173001
 Moema,Brazil,Sao Paulo,10227137
@@ -3283,10 +3578,17 @@ São Pedro,Brazil,Rio de Janeiro,11980142
 Bosque Saúde,Brazil,Sao Paulo,12377091
 Bairro da Penha,Brazil,Sao Paulo,12426999
 Bairro Parque Nossa Senhora do Carmo,Brazil,Sao Paulo,12427005
+Apicum-Açu,Brazil,Maranhao,12958551
+Centro Novo do Maranhão,Brazil,Maranhao,12958623
+Turilândia,Brazil,Maranhao,12958671
+Bom Jardim,Brazil,Maranhao,12958682
+Santa Luzia do Paruá,Brazil,Maranhao,12958725
+Buriticupu,Brazil,Maranhao,12959044
 Tapurah,Brazil,Mato Grosso,12969866
 Guarantã do Norte,Brazil,Mato Grosso,12969893
 Campinápolis,Brazil,Mato Grosso,12972572
 Brasnorte,Brazil,Mato Grosso,12978005
+Cidade Ocidental,Brazil,Goias,12991858
 Nassau,Bahamas,New Providence,3571824
 Lucaya,Bahamas,Freeport,3571971
 Killarney,Bahamas,New Providence,3572106
@@ -3618,7 +3920,6 @@ Victoriaville,Canada,Quebec,6174151
 Wasaga Beach,Canada,Ontario,6176421
 Waterloo,Canada,Ontario,6176823
 Welland,Canada,Ontario,6177869
-West End,Canada,British Columbia,6178582
 West Hill,Canada,Ontario,6178999
 Westmount,Canada,Quebec,6179226
 Weston,Canada,Ontario,6179268
@@ -3644,7 +3945,6 @@ Saint-Georges,Canada,Quebec,6620953
 Buckingham,Canada,Quebec,6942645
 Thetford-Mines,Canada,Quebec,6943827
 Cole Harbour,Canada,Nova Scotia,7280414
-Okanagan,Canada,British Columbia,7281931
 West Kelowna,Canada,British Columbia,7281936
 Jonquière,Canada,Quebec,7303786
 Saint-Augustin-de-Desmaures,Canada,Quebec,7535681
@@ -3909,9 +4209,11 @@ Vernier,Switzerland,Geneva,2658154
 Uster,Switzerland,Zurich,2658216
 Thun,Switzerland,Bern,2658377
 Steffisburg,Switzerland,Bern,2658494
+Solothurn,Switzerland,Solothurn,2658564
 Sitten,Switzerland,Valais,2658576
 Sierre,Switzerland,Valais,2658606
 Zürich (Kreis 11) / Seebach,Switzerland,Zurich,2658656
+Schwyz,Switzerland,Schwyz,2658665
 Schaffhausen,Switzerland,Schaffhausen,2658761
 Sankt Gallen,Switzerland,Saint Gallen,2658822
 Renens,Switzerland,Vaud,2659070
@@ -3923,11 +4225,14 @@ Zürich (Kreis 11) / Oerlikon,Switzerland,Zurich,2659310
 Nyon,Switzerland,Vaud,2659422
 Neuchâtel,Switzerland,Neuchatel,2659496
 Muttenz,Switzerland,Basel-Landschaft,2659522
+Morges,Switzerland,Vaud,2659587
 Montreux,Switzerland,Vaud,2659601
 Monthey,Switzerland,Valais,2659613
 Meyrin,Switzerland,Geneva,2659667
+Martigny-Ville,Switzerland,Valais,2659748
 Luzern,Switzerland,Lucerne,2659811
 Lugano,Switzerland,Ticino,2659836
+Locarno,Switzerland,Ticino,2659869
 Littau,Switzerland,Lucerne,2659873
 Lausanne,Switzerland,Vaud,2659994
 La Chaux-de-Fonds,Switzerland,Neuchatel,2660076
@@ -3945,6 +4250,7 @@ Genève,Switzerland,Geneva,2660646
 Fribourg,Switzerland,Fribourg,2660718
 Frauenfeld,Switzerland,Thurgau,2660727
 Emmen,Switzerland,Lucerne,2660911
+Einsiedeln,Switzerland,Schwyz,2660925
 Dübendorf,Switzerland,Zurich,2660971
 Dietikon,Switzerland,Zurich,2661015
 Chur,Switzerland,Grisons,2661169
@@ -3952,6 +4258,7 @@ Cham,Switzerland,Zug,2661228
 Carouge,Switzerland,Geneva,2661265
 Burgdorf,Switzerland,Bern,2661321
 Bulle,Switzerland,Fribourg,2661337
+Bülach,Switzerland,Zurich,2661338
 Biel/Bienne,Switzerland,Bern,2661513
 Bern,Switzerland,Bern,2661552
 Bellinzona,Switzerland,Ticino,2661567
@@ -5717,6 +6024,7 @@ Xuanhua,China,Hebei,2033574
 Xiuyan,China,Liaoning,2033602
 Xinqing,China,Heilongjiang,2033667
 Xinmin,China,Liaoning,2033675
+Xinlin,China,Heilongjiang,2033685
 Xinglongshan,China,Jilin,2033739
 Xingcheng,China,Liaoning,2033766
 Xilin Hot,China,Inner Mongolia,2033824
@@ -7686,7 +7994,7 @@ Griesheim,Germany,Hesse,2917412
 Grevenbroich,Germany,North Rhine-Westphalia,2917540
 Greven,Germany,North Rhine-Westphalia,2917544
 Greiz,Germany,Thuringia,2917737
-Greifswald,Germany,Mecklenburg-Vorpommern,2917788
+Universitäts- und Hansestadt Greifswald,Germany,Mecklenburg-Vorpommern,2917788
 Grefrath,Germany,North Rhine-Westphalia,2917816
 Göttingen,Germany,Lower Saxony,2918632
 Gotha,Germany,Thuringia,2918752
@@ -8482,7 +8790,7 @@ Ahmed Bel Hadj,Algeria,Annaba,2508455
 Aflou,Algeria,Laghouat,2508737
 Adrar,Algeria,Adrar,2508813
 Abou el Hassan,Algeria,Chlef,2509031
-BABOR - VILLE,Algeria,Setif,6698360
+Babor,Algeria,Setif,6698360
 In Salah,Algeria,In Salah,6930641
 Ali Mendjeli,Algeria,Constantine,11204500
 District of Taher,Algeria,Jijel,12326384
@@ -12123,7 +12431,6 @@ Salgótarján,Hungary,Nograd,3045643
 Rákoskeresztúr,Hungary,Pest County,3045971
 Pesterzsébet,Hungary,Budapest,3046445
 Pécs,Hungary,Baranya,3046526
-Parádsasvár,Hungary,Heves County,3046619
 Pápa,Hungary,Veszprem,3046686
 Paks,Hungary,Tolna County,3046768
 Oroszlány,Hungary,Komarom-Esztergom,3046888
@@ -12385,7 +12692,7 @@ Pakisaji,Indonesia,East Java,1633182
 Pagar Alam,Indonesia,South Sumatra,1633308
 Padang,Indonesia,West Sumatra,1633419
 Paciran,Indonesia,East Java,1633442
-Nunukan,Indonesia,East Kalimantan,1633811
+Nunukan,Indonesia,North Kalimantan,1633811
 Ngunut,Indonesia,East Java,1633986
 Ngoro,Indonesia,East Java,1634010
 Ngawi,Indonesia,East Java,1634098
@@ -13123,7 +13430,7 @@ Siddipet,India,Telangana,1256377
 Siddhapur,India,Gujarat,1256382
 Sibsāgar,India,Assam,1256388
 Shyamnagar,India,West Bengal,1256409
-Shupīyan,India,Jammu and Kashmir,1256414
+Shopian,India,Jammu and Kashmir,1256414
 Shujālpur,India,Madhya Pradesh,1256418
 Shrīrangapattana,India,Karnataka,1256421
 Shrīrāmpur,India,West Bengal,1256422
@@ -13736,6 +14043,7 @@ Nagari,India,Andhra Pradesh,1262240
 Nagar,India,Rajasthan,1262253
 Negapatam,India,Tamil Nadu,1262260
 Nāgamangala,India,Karnataka,1262266
+Nagalapuram,India,Andhra Pradesh,1262270
 Naduvannūr,India,Kerala,1262285
 Nadiād,India,Gujarat,1262292
 Nādbai,India,Rajasthan,1262296
@@ -14808,7 +15116,7 @@ Colonelganj,India,Uttar Pradesh,1273850
 Colgong,India,Bihar,1273856
 Calangute,India,Goa,1273858
 Coimbatore,India,Tamil Nadu,1273865
-Ernakulam,India,Kerala,1273874
+Kochi,India,Kerala,1273874
 Clement Town,India,Uttarakhand,1273880
 Chūru,India,Rajasthan,1273892
 Churāchāndpur,India,Manipur,1273909
@@ -16090,7 +16398,6 @@ Soran,Iraq,Erbil,96961
 Dihok,Iraq,Duhok,96994
 Jamjamāl,Iraq,Sulaymaniyah,97417
 Bayjī,Iraq,Salah ad Din,97783
-Batifa District,Iraq,Duhok,97825
 Baqubah,Iraq,Diyala,97990
 Baynjiwayn,Iraq,Sulaymaniyah,98012
 Balad,Iraq,Salah ad Din,98112
@@ -16231,6 +16538,7 @@ Neyshābūr,"Iran, Islamic Republic of",Razavi Khorasan,122285
 Neyrīz,"Iran, Islamic Republic of",Fars,122289
 Nekā,"Iran, Islamic Republic of",Mazandaran,122397
 Naz̧arābād,"Iran, Islamic Republic of",Alborz Province,122438
+Naţanz,"Iran, Islamic Republic of",Isfahan,122491
 Naqadeh,"Iran, Islamic Republic of",West Azerbaijan,122698
 Nahāvand,"Iran, Islamic Republic of",Hamadan Province,122915
 Meshkīn Dasht,"Iran, Islamic Republic of",Tehran,123205
@@ -16405,6 +16713,7 @@ Chabahar,"Iran, Islamic Republic of",Sistan and Baluchestan,1161724
 Shahrak-e Shahīd Chamrān,"Iran, Islamic Republic of",Khuzestan,6648117
 Sheybān,"Iran, Islamic Republic of",Khuzestan,6648621
 Nasīm Shahr,"Iran, Islamic Republic of",Tehran,6672634
+Mahājerān,"Iran, Islamic Republic of",Markazi,6746932
 Jīroft,"Iran, Islamic Republic of",Kerman,6925362
 Mahdishahr,"Iran, Islamic Republic of",Semnan,7100777
 Āq Qalā,"Iran, Islamic Republic of",Golestan,7329809
@@ -17060,10 +17369,12 @@ Half Way Tree,Jamaica,Saint Andrew Parish,3490165
 Wādī as Sīr,Jordan,Amman,246013
 Umm as Summāq,Jordan,Amman,246314
 Saḩāb,Jordan,Amman,247105
+Māḩiş,Jordan,Balqa,248299
 Mādabā,Jordan,Madaba,248370
 Ma'an,Jordan,Ma'an,248382
 Kurayyimah,Jordan,Irbid,248414
 Khuraybat as Sūq,Jordan,Amman,248460
+Ḩayy Khildā,Jordan,Amman,248583
 Judita,Jordan,Irbid,248803
 Jarash,Jordan,Jerash,248875
 ‘Izrā,Jordan,Karak,248923
@@ -17085,6 +17396,7 @@ Aqaba,Jordan,Aqaba,250774
 ‘Ajlūn,Jordan,Ajlun,250799
 Karak City,Jordan,Karak,6946409
 Russeifa,Jordan,Zarqa,7838895
+Az̧ Z̧ulayl,Jordan,Zarqa,10861986
 Rukban,Jordan,Mafraq,11428685
 Ṣuwayliḥ,Jordan,Balqa,13286467
 Marj Al Hamam,Jordan,Amman,13308287
@@ -17246,6 +17558,7 @@ Suwa,Japan,Nagano,1851368
 Susaki,Japan,Kochi,1851390
 Sumoto,Japan,Hyogo,1851426
 Sumiyoshi,Japan,Shizuoka,1851440
+Sumida,Japan,Tokyo,1851454
 Sukumo,Japan,Kochi,1851462
 Suita,Japan,Osaka,1851483
 Suibara,Japan,Niigata,1851494
@@ -17267,6 +17580,7 @@ Shiojiri,Japan,Nagano,1852003
 Shinshiro,Japan,Aichi,1852046
 Shin’ichi,Japan,Hiroshima,1852102
 Shingū,Japan,Fukuoka,1852109
+Shinagawa,Japan,Ehime,1852139
 Shimo-tsuma,Japan,Ibaraki,1852163
 Shimosuwa,Japan,Nagano,1852192
 Shimonoseki,Japan,Yamaguchi,1852225
@@ -18105,6 +18419,9 @@ Buzen,Japan,Fukuoka,8198709
 Miyako,Japan,Fukuoka,8224001
 Hakurōmachi,Japan,Aomori,8312260
 Toyota,Japan,Aomori,8395439
+Katsushika,Japan,Tokyo,8469284
+Kita,Japan,Tokyo,8469285
+Ōta,Japan,Tokyo,8469289
 Nanaku,Japan,Aomori,8561397
 Shinden,Japan,Saitama,8570265
 Washinomiya,Japan,Saitama,8572218
@@ -18121,6 +18438,7 @@ Narimasu,Japan,Tokyo,8572949
 Takashimadaira,Japan,Tokyo,8572984
 Hasune,Japan,Tokyo,8572985
 Ukima,Japan,Tokyo,8572992
+Toshima,Japan,Tokyo,8572994
 Nagasaki,Japan,Tokyo,8573184
 Sugamo,Japan,Tokyo,8573188
 Yotsuya,Japan,Tokyo,8573477
@@ -18193,6 +18511,7 @@ Hirai,Japan,Tokyo,10918027
 Horikiri,Japan,Tokyo,10920829
 Minaminagareyama,Japan,Chiba,10926134
 Ōjima,Japan,Tokyo,10963038
+Arakawa,Japan,Tokyo,10968247
 Machiya,Japan,Tokyo,10971146
 Sendagi,Japan,Tokyo,10971153
 Matsubushi,Japan,Saitama,10979195
@@ -18200,13 +18519,16 @@ Toneri,Japan,Tokyo,10987573
 Ōgi,Japan,Tokyo,10987664
 Takenotsuka,Japan,Tokyo,10987752
 Aoi,Japan,Tokyo,10987894
+Adachi,Japan,Tokyo,10987897
 Kamiya,Japan,Tokyo,11010185
 Miyoshidai,Japan,Saitama,11012851
 Sugita,Japan,Kanagawa,11059676
+Edogawe,Japan,Tokyo,11071717
 Eniwa,Japan,Hokkaido,11127679
 Shimada,Japan,Kumamoto,11147658
 Okino,Japan,Kumamoto,11172649
 Minami-Alps,Japan,Yamanashi,11205269
+Kotō,Japan,Kumamoto,11209896
 Arao,Japan,Kumamoto,11274040
 Miyota,Japan,Nagano,11350714
 Ukiha,Japan,Fukuoka,11397285
@@ -18325,6 +18647,7 @@ Asakuchi,Japan,Okayama,11612694
 Fukutsu,Japan,Fukuoka,11612700
 Asakura,Japan,Fukuoka,11612701
 Semboku,Japan,Akita,11612707
+Chiyoda,Japan,Tokyo,11749713
 Tokai,Japan,Ibaraki,11776897
 Nogi,Japan,Tochigi,11776907
 Haruta,Japan,Aichi,11777018
@@ -18336,9 +18659,16 @@ Oji,Japan,Nara,11777262
 Nakaiburi,Japan,Wakayama,11777281
 Shioiri,Japan,Kagawa,11777400
 Uchiko,Japan,Ehime,11777417
+Setagaya,Japan,Tokyo,11790342
+Shinjuku,Japan,Tokyo,11790353
 Akihabara,Japan,Tokyo,11790367
+Taito,Japan,Tokyo,11790369
+Meguro,Japan,Tokyo,11790374
+Bunkyo,Japan,Kanagawa,11790632
+Shibuya,Japan,Tokyo,11808021
 Miyashiro,Japan,Saitama,11809254
 Shime,Japan,Fukuoka,11809770
+Suginami,Japan,Ibaraki,11836117
 Ichikawa,Japan,Chiba,11837657
 Agano,Japan,Niigata,11837950
 Ranzan,Japan,Saitama,13118912
@@ -18361,28 +18691,8 @@ Minamiminowa,Japan,Nagano,13156705
 Shōwa,Japan,Yamanashi,13156738
 Minamiarupusu,Japan,Yamanashi,13156739
 Akitsu,Japan,Tokyo,13192008
-Chiyoda City,Japan,Tokyo,13353694
 Chūō,Japan,Tokyo,13353695
 Minato City,Japan,Tokyo,13353696
-Shinjuku City,Japan,Tokyo,13353697
-Bunkyō City,Japan,Tokyo,13353698
-Taitō City,Japan,Tokyo,13353699
-Sumida City,Japan,Tokyo,13353700
-Kōtō,Japan,Tokyo,13353701
-Shinagawa City,Japan,Tokyo,13353702
-Meguro City,Japan,Tokyo,13353703
-Ōta City,Japan,Tokyo,13353704
-Setagaya City,Japan,Tokyo,13353705
-Shibuya City,Japan,Tokyo,13353706
-Suginami City,Japan,Tokyo,13353708
-Toshima City,Japan,Tokyo,13353709
-Kita City,Japan,Tokyo,13353710
-Arakawa City,Japan,Tokyo,13353711
-Itabashi City,Japan,Tokyo,13353712
-Nerima City,Japan,Tokyo,13353713
-Adachi City,Japan,Tokyo,13353714
-Katsushika City,Japan,Tokyo,13353715
-Edogawa City,Japan,Tokyo,13353716
 Wote,Kenya,Makueni County,178077
 Webuye,Kenya,Bungoma County,178202
 Watamu,Kenya,Kilifi County,178245
@@ -18665,6 +18975,7 @@ Yeongdong,"Korea, Republic of",North Chungcheong,1832566
 Eisen,"Korea, Republic of",Gyeongsangbuk-do,1832617
 Yeoju,"Korea, Republic of",Gyeonggi-do,1832743
 Yesan,"Korea, Republic of",Chungcheongnam-do,1832771
+Yecheon,"Korea, Republic of",Gyeongsangbuk-do,1832798
 Yangsan,"Korea, Republic of",Gyeongsangnam-do,1832828
 Yangp'yŏng,"Korea, Republic of",Gyeonggi-do,1832830
 Yangju,"Korea, Republic of",Gyeonggi-do,1832847
@@ -18675,6 +18986,7 @@ Waegwan,"Korea, Republic of",Gyeongsangbuk-do,1833514
 Ulsan,"Korea, Republic of",Ulsan,1833747
 Uijeongbu-si,"Korea, Republic of",Gyeonggi-do,1833788
 Tangjin,"Korea, Republic of",Chungcheongnam-do,1834885
+Damyang,"Korea, Republic of",Jeollanam-do,1834946
 Taesal-li,"Korea, Republic of",Chungcheongnam-do,1835096
 Daejeon,"Korea, Republic of",Daejeon,1835235
 Daegu,"Korea, Republic of",Daegu,1835329
@@ -18759,6 +19071,8 @@ Jinan-gun,"Korea, Republic of",Jeollabuk-do,1846114
 Jeju City,"Korea, Republic of",Jeju-do,1846266
 Changwon,"Korea, Republic of",Gyeongsangnam-do,1846326
 Changsu,"Korea, Republic of",Jeollabuk-do,1846355
+Jangseong,"Korea, Republic of",Jeollanam-do,1846371
+Jangheung,"Korea, Republic of",Jeollanam-do,1846544
 Anyang-si,"Korea, Republic of",Gyeonggi-do,1846898
 Anseong,"Korea, Republic of",Gyeonggi-do,1846912
 Ansan-si,"Korea, Republic of",Gyeonggi-do,1846918
@@ -18766,6 +19080,7 @@ Andong,"Korea, Republic of",Gyeongsangbuk-do,1846986
 Gaigeturi,"Korea, Republic of",Jeju-do,1847050
 Sinhyeon,"Korea, Republic of",Gyeongsangnam-do,1882056
 Yeosu,"Korea, Republic of",Jeollanam-do,1884138
+Gwangyang,"Korea, Republic of",Jeollanam-do,1884178
 Yŏnmu,"Korea, Republic of",Chungcheongnam-do,1886598
 Donghae City,"Korea, Republic of",Gangwon-do,1892823
 Pubal,"Korea, Republic of",Gyeonggi-do,1896953
@@ -18783,6 +19098,7 @@ Uiwang,"Korea, Republic of",Gyeonggi-do,6573901
 Seogwipo,"Korea, Republic of",Jeju-do,6621166
 Changnyeong,"Korea, Republic of",Gyeongsangnam-do,6903078
 Sejong,"Korea, Republic of",Sejong-si,11523293
+Boseong,"Korea, Republic of",Jeollanam-do,11674727
 Jeongeup,"Korea, Republic of",Jeollabuk-do,11695689
 Yeongam,"Korea, Republic of",Jeollanam-do,11762608
 Janūb as Surrah,Kuwait,Al Farwaniyah,285603
@@ -18834,7 +19150,7 @@ Turkestan,Kazakhstan,Turkistan,1517945
 Temirtau,Kazakhstan,Karaganda,1518262
 Tekeli,Kazakhstan,Jetisu Region,1518296
 Tasbuget,Kazakhstan,Qyzylorda,1518431
-Talghar,Kazakhstan,Almaty Oblysy,1518518
+Talghar,Kazakhstan,Almaty,1518518
 Taldykorgan,Kazakhstan,Jetisu Region,1518542
 Shymkent,Kazakhstan,Shymkent,1518980
 Shu,Kazakhstan,Zhambyl,1519030
@@ -18849,7 +19165,7 @@ Rudnyy,Kazakhstan,Qostanay,1519843
 Kyzylorda,Kazakhstan,Qyzylorda,1519922
 Kostanay,Kazakhstan,Qostanay,1519928
 Karatau,Kazakhstan,Zhambyl,1519938
-Konayev,Kazakhstan,Almaty Oblysy,1519948
+Konayev,Kazakhstan,Almaty,1519948
 Petropavl,Kazakhstan,North Kazakhstan,1520172
 Pavlodar,Kazakhstan,Pavlodar Region,1520240
 Zharkent,Kazakhstan,Jetisu Region,1520253
@@ -18863,15 +19179,15 @@ Ridder,Kazakhstan,East Kazakhstan,1521370
 Lenger,Kazakhstan,Turkistan,1521379
 Kokshetau,Kazakhstan,Aqmola,1522203
 Kentau,Kazakhstan,Turkistan,1522751
-Esik,Kazakhstan,Almaty Oblysy,1523741
+Esik,Kazakhstan,Almaty,1523741
 Kalbatau,Kazakhstan,Abai Region,1524245
 Aksu,Kazakhstan,Pavlodar Region,1524298
-Otegen Batyra,Kazakhstan,Almaty Oblysy,1524308
+Otegen Batyra,Kazakhstan,Almaty,1524308
 Ekibastuz,Kazakhstan,Pavlodar Region,1524325
 Zhetysay,Kazakhstan,Turkistan,1524385
 Shiyeli,Kazakhstan,Qyzylorda,1524801
 Shardara,Kazakhstan,Turkistan,1524889
-Burunday,Kazakhstan,Almaty Oblysy,1524958
+Burunday,Kazakhstan,Almaty,1524958
 Aksu,Kazakhstan,Turkistan,1525462
 Balqash,Kazakhstan,Karaganda,1525798
 Ayagoz,Kazakhstan,Abai Region,1525988
@@ -18896,7 +19212,6 @@ Pakxan,Lao People's Democratic Republic,Bolikhamsai,1655140
 Thakhèk,Lao People's Democratic Republic,Khammouane Province,1655199
 Luang Prabang,Lao People's Democratic Republic,Luang Prabang Province,1655559
 Ban Xénô,Lao People's Democratic Republic,Savannakhet Province,1658073
-Ban Napè,Lao People's Democratic Republic,Bolikhamsai,1661283
 Ban Houakhoua,Lao People's Democratic Republic,Bokeo,1904391
 Sekong,Lao People's Democratic Republic,Xekong,9948272
 Zahlé,Lebanon,Beqaa,266045
@@ -19573,6 +19888,7 @@ Kayan,Myanmar,Yangon,1319533
 Kawthoung,Myanmar,Tanintharyi Region,1319573
 Kanbe,Myanmar,Yangon,1320944
 Hinthada,Myanmar,Ayeyarwady,1325211
+Heho,Myanmar,Shan State,1325259
 Hakha,Myanmar,Chin State,1325443
 Gwa,Myanmar,Rakhine,1325814
 Chauk,Myanmar,Magway,1327659
@@ -19622,7 +19938,7 @@ La Trinité,Martinique,Martinique,3570446
 Fort-de-France,Martinique,Martinique,3570675
 Ducos,Martinique,Martinique,3570785
 Zouérat,Mauritania,Tiris Zemmour,2375558
-Timbedgha,Mauritania,Hodh Ech Chargi,2376115
+Tembedgha,Mauritania,Hodh Ech Chargi,2376115
 Tékane,Mauritania,Trarza,2376189
 Sélibaby,Mauritania,Guidimaka,2376719
 Rosso,Mauritania,Trarza,2376898
@@ -20042,7 +20358,7 @@ Zapotlanejo,Mexico,Jalisco,3979717
 Zapotiltic,Mexico,Jalisco,3979727
 Zapopan,Mexico,Jalisco,3979770
 Zamora,Mexico,Michoacan,3979802
-Zacoalco,Mexico,Jalisco,3979822
+Zacoalco de Torres,Mexico,Jalisco,3979822
 Zacatecas,Mexico,Zacatecas,3979844
 Zacapú,Mexico,Michoacan,3979846
 Yuriria,Mexico,Guanajuato,3979855
@@ -20065,7 +20381,7 @@ Tonalá,Mexico,Jalisco,3981369
 Tlaquepaque,Mexico,Jalisco,3981461
 Tlajomulco de Zúñiga,Mexico,Jalisco,3981467
 Tijuana,Mexico,Baja California,3981609
-Tesistán,Mexico,Jalisco,3981791
+San Francisco Tesistán,Mexico,Jalisco,3981791
 Tequila,Mexico,Jalisco,3981885
 Tepic,Mexico,Nayarit,3981941
 Tepatitlán de Morelos,Mexico,Jalisco,3981984
@@ -20109,7 +20425,7 @@ San Felipe,Mexico,Baja California,3987224
 San Felipe,Mexico,Guanajuato,3987246
 Tlaltenango de Sánchez Román,Mexico,Zacatecas,3987402
 San Buenaventura,Mexico,Coahuila,3987500
-Nicolás R Casillas,Mexico,Jalisco,3988025
+San Agustín,Mexico,Jalisco,3988025
 Salvatierra,Mexico,Guanajuato,3988050
 Saltillo,Mexico,Coahuila,3988086
 Salinas de Hidalgo,Mexico,San Luis Potosi,3988169
@@ -20223,7 +20539,7 @@ El Salto,Mexico,Durango,4007673
 Pueblo Nuevo,Mexico,Durango,4007676
 El Salto,Mexico,Jalisco,4007682
 El Salto,Mexico,Jalisco,4007684
-El Quince,Mexico,Jalisco,4008224
+San José del Quince,Mexico,Jalisco,4008224
 El Grullo,Mexico,Jalisco,4009697
 Puebla,Mexico,Baja California,4011469
 Esperanza,Mexico,Sonora,4011668
@@ -21605,6 +21921,7 @@ Nuevo Imperial,Peru,Lima region,3934239
 Nazca,Peru,Ica,3934356
 Moquegua,Peru,Moquegua Department,3934608
 Mollendo,Peru,Arequipa,3934707
+Miraflores,Peru,Lima region,3934876
 Minas de Marcona,Peru,Ica,3935288
 Mala,Peru,Lima region,3935572
 Lima,Peru,Lima Province,3936456
@@ -21633,6 +21950,7 @@ Chancay,Peru,Lima region,3944399
 Cerro de Pasco,Peru,Pasco,3944797
 Camaná,Peru,Arequipa,3945985
 Callao,Peru,Callao,3946083
+Barranco,Peru,Lima region,3946818
 Barranca,Peru,Lima region,3946820
 Ayaviri,Peru,Puno,3946985
 Ayacucho,Peru,Ayacucho,3947019
@@ -22027,6 +22345,7 @@ Danao,Philippines,Central Visayas,1715804
 Danao,Philippines,Central Visayas,1715812
 Dagupan,Philippines,Ilocos,1716198
 Daet,Philippines,Bicol Region,1716287
+Culion,Philippines,Mimaropa,1716526
 Cuenca,Philippines,Calabarzon,1716618
 Cotabato,Philippines,Autonomous Region in Muslim Mindanao,1716771
 Cordova,Philippines,Central Visayas,1716858
@@ -22064,6 +22383,7 @@ Calamba,Philippines,Calabarzon,1720681
 Calaca,Philippines,Calabarzon,1720751
 Calabanga,Philippines,Bicol Region,1720793
 Cainta,Philippines,Calabarzon,1720840
+Mapun,Philippines,Mimaropa,1721077
 Cagayan de Oro,Philippines,Northern Mindanao,1721080
 Cadiz,Philippines,Western Visayas,1721168
 Cabuyao,Philippines,Calabarzon,1721281
@@ -24485,22 +24805,27 @@ Turabah,Saudi Arabia,Mecca Region,101322
 Tārūt,Saudi Arabia,Eastern Province,101554
 Tabuk,Saudi Arabia,Tabuk Region,101628
 Ţubarjal,Saudi Arabia,Al Jawf Region,101631
+Unaizah,Saudi Arabia,Al-Qassim Region,101732
 Sulţānah,Saudi Arabia,Medina Region,101760
+Shaqrā’,Saudi Arabia,Riyadh Region,102170
 Sayhāt,Saudi Arabia,Eastern Province,102318
 Şāmitah,Saudi Arabia,Jazan Region,102451
 Sakakah,Saudi Arabia,Al Jawf Region,102527
 Şafwá,Saudi Arabia,Eastern Province,102585
 Şabyā,Saudi Arabia,Jazan Region,102651
+Rumāḩ,Saudi Arabia,Riyadh Region,102744
 Raḩīmah,Saudi Arabia,Eastern Province,102985
 Rābigh,Saudi Arabia,Mecca Region,103035
 Qal‘at Bīshah,Saudi Arabia,'Asir Region,103369
 Najrān,Saudi Arabia,Najran Region,103630
 Makkah,Saudi Arabia,Mecca Region,104515
 Mahd adh Dhahab,Saudi Arabia,Medina Region,104578
+Laylá,Saudi Arabia,Riyadh Region,104716
 Khulayş,Saudi Arabia,Mecca Region,104923
 Khamis Mushait,Saudi Arabia,'Asir Region,105072
 Jizan,Saudi Arabia,Jazan Region,105299
 Jeddah,Saudi Arabia,Mecca Region,105343
+‘Irqah,Saudi Arabia,Riyadh Region,105586
 Ha'il,Saudi Arabia,Ha'il Region,106281
 Hafar Al-Batin,Saudi Arabia,Eastern Province,106297
 Fayfā’,Saudi Arabia,Jazan Region,106667
@@ -24522,6 +24847,7 @@ An Nimas,Saudi Arabia,'Asir Region,108617
 Qurayyat,Saudi Arabia,Al Jawf Region,108648
 ‘Inak,Saudi Arabia,Eastern Province,108655
 Al Wajh,Saudi Arabia,Tabuk Region,108773
+‘Uyūn al Jiwā’,Saudi Arabia,Al-Qassim Region,108782
 Al-`Ula,Saudi Arabia,Medina Region,108841
 Qaisumah,Saudi Arabia,Eastern Province,108918
 Al Qaţīf,Saudi Arabia,Eastern Province,108927
@@ -24533,6 +24859,7 @@ Al Līth,Saudi Arabia,Mecca Region,109253
 Khobar,Saudi Arabia,Eastern Province,109323
 Al Kharj,Saudi Arabia,Riyadh Region,109353
 Al Khafjī,Saudi Arabia,Eastern Province,109380
+Al Khabrā’,Saudi Arabia,Al-Qassim Region,109391
 Al Jumūm,Saudi Arabia,Mecca Region,109417
 Al Jubayl,Saudi Arabia,Eastern Province,109435
 Al Hufūf,Saudi Arabia,Eastern Province,109571
@@ -24542,15 +24869,18 @@ Al Bahah,Saudi Arabia,Al Bahah Region,109953
 Al ‘Awwāmīyah,Saudi Arabia,Eastern Province,109998
 Al ‘Aqīq,Saudi Arabia,Al Bahah Region,110059
 Afif,Saudi Arabia,Riyadh Region,110250
+Ad Dir‘īyah,Saudi Arabia,Riyadh Region,110312
 Ad Dilam,Saudi Arabia,Riyadh Region,110314
 Ad Dawādimī,Saudi Arabia,Riyadh Region,110325
 Dammam,Saudi Arabia,Eastern Province,110336
 Abū ‘Arīsh,Saudi Arabia,Jazan Region,110619
 Abha,Saudi Arabia,'Asir Region,110690
 Turubah,Saudi Arabia,Ha'il Region,393275
+Al Badā’i‘ al Wusţá,Saudi Arabia,Al-Qassim Region,397833
 Thuwal,Saudi Arabia,Mecca Region,409682
 Ash Shafā,Saudi Arabia,Mecca Region,410096
 Sabt Alalayah,Saudi Arabia,'Asir Region,11670045
+Riyāḑ al Khabrā’,Saudi Arabia,Al-Qassim Region,11835536
 Bariq,Saudi Arabia,'Asir Region,12495725
 Sarāt ‘Abīdah,Saudi Arabia,'Asir Region,12500245
 Honiara,Solomon Islands,Honiara,2108502
@@ -24762,7 +25092,7 @@ Kembangan,Singapore,,1880594
 Kallang,Singapore,,1880628
 Hong Kah,Singapore,,1880650
 Geylang,Singapore,,1880668
-Bukit Timah Estate,Singapore,,1880744
+Bukit Timah,Singapore,,1880744
 Bukit Merah Estate,Singapore,,1880750
 Brickworks Estate,Singapore,,1880756
 Boon Lay,Singapore,,1880761
@@ -24834,7 +25164,6 @@ Zlaté Moravce,Slovakia,Nitra Region,3056495
 Vrakuňa,Slovakia,Bratislava Region,3056708
 Trnava,Slovakia,Trnava Region,3057124
 Trenčín,Slovakia,Trencin Region,3057140
-Stupava,Slovakia,Bratislava Region,3057384
 Staré Mesto,Slovakia,Bratislava Region,3057478
 Skalica,Slovakia,Trnava Region,3057630
 Senica,Slovakia,Trnava Region,3057691
@@ -24846,6 +25175,7 @@ Považská Bystrica,Slovakia,Trencin Region,3058060
 Podunajské Biskupice,Slovakia,Bratislava Region,3058117
 Piešťany,Slovakia,Trnava Region,3058202
 Pezinok,Slovakia,Bratislava Region,3058210
+Petržalka,Slovakia,Bratislava Region,3058213
 Partizánske,Slovakia,Trencin Region,3058268
 Nové Zámky,Slovakia,Nitra Region,3058472
 Nové Mesto nad Váhom,Slovakia,Trencin Region,3058477
@@ -26051,10 +26381,12 @@ Caotun,"Taiwan, Province of China",Taiwan,1666855
 Toufen,"Taiwan, Province of China",Taiwan,1667027
 Tianwei,"Taiwan, Province of China",Taiwan,1667121
 Tianzhong,"Taiwan, Province of China",Taiwan,1667471
+Taoyuan,"Taiwan, Province of China",Taiwan,1667905
 Danshui,"Taiwan, Province of China",Taipei,1667982
 Taitung,"Taiwan, Province of China",Taiwan,1668295
 Taipei,"Taiwan, Province of China",Taiwan,1668341
 Taibao,"Taiwan, Province of China",Taiwan,1668347
+Xinying,"Taiwan, Province of China",Taiwan,1668353
 Tainan,"Taiwan, Province of China",Taiwan,1668355
 Taichung,"Taiwan, Province of China",Taiwan,1668399
 Daxi,"Taiwan, Province of China",Taiwan,1668467
@@ -26073,9 +26405,11 @@ Bade,"Taiwan, Province of China",Taiwan,1670909
 Neili,"Taiwan, Province of China",Taiwan,1671444
 Neihu,"Taiwan, Province of China",Taiwan,1671467
 Nantou,"Taiwan, Province of China",Taiwan,1671566
+Miaoli,"Taiwan, Province of China",Taiwan,1671971
 Magong,"Taiwan, Province of China",Taiwan,1672228
 Lugu,"Taiwan, Province of China",Taiwan,1672551
 Linnei,"Taiwan, Province of China",Taiwan,1672869
+Fengshan,"Taiwan, Province of China",Takao,1673816
 Kaohsiung,"Taiwan, Province of China",Takao,1673820
 Yilan,"Taiwan, Province of China",Taiwan,1674199
 Hualien City,"Taiwan, Province of China",Taiwan,1674504
@@ -26087,11 +26421,14 @@ Xizhi,"Taiwan, Province of China",Taipei,1675393
 Hengchun,"Taiwan, Province of China",Taiwan,1676242
 Xizhou,"Taiwan, Province of China",Taiwan,1676682
 Erlin,"Taiwan, Province of China",Taiwan,1676914
+Zhudong,"Taiwan, Province of China",Taiwan,1677053
 Zhushan,"Taiwan, Province of China",Taiwan,1677099
+Zhubei,"Taiwan, Province of China",Taiwan,1677112
 Jincheng,"Taiwan, Province of China",Fukien,1678008
 Keelung,"Taiwan, Province of China",Taiwan,1678228
 Chiayi City,"Taiwan, Province of China",Taiwan,1678836
 Chaozhou,"Taiwan, Province of China",Taiwan,1679047
+Chang-hua,"Taiwan, Province of China",Taiwan,1679136
 Changhua,"Taiwan, Province of China",Taiwan,1993459
 Taoyuan City,"Taiwan, Province of China",Taiwan,6696918
 Zhongxing New Village,"Taiwan, Province of China",Taiwan,7601921
@@ -26348,6 +26685,7 @@ Vovchansk,Ukraine,Kharkivs'ka Oblast',689304
 Volodymyr-Volynskyi,Ukraine,Volyn,689378
 Vyshneve,Ukraine,Kiev,689487
 Vinnytsya,Ukraine,Vinnytsia,689558
+Vynnyky,Ukraine,Lviv,689564
 Vilnyansk,Ukraine,Zaporizhzhia,689584
 Verkhnodniprovsk,Ukraine,Dnipropetrovsk,689916
 Bahacheve,Ukraine,Cherkasy,690312
@@ -26374,6 +26712,7 @@ Stryi,Ukraine,Lviv,692372
 Stebnyk,Ukraine,Lviv,692632
 Starokostyantyniv,Ukraine,Khmelnytskyi,692818
 Starobilsk,Ukraine,Luhansk,692832
+Stara Darnytsya,Ukraine,Kyiv City,692909
 Kadiyivka,Ukraine,Luhansk,692975
 Sokal,Ukraine,Lviv,693301
 Snizhne,Ukraine,Donetsk,693381
@@ -26576,6 +26915,7 @@ Slavutych,Ukraine,Kiev,6930327
 Pivdennoukrainsk,Ukraine,Mykolaiv,7525990
 Varash,Ukraine,Rivne,8341919
 Novoyavorivs'k,Ukraine,Lviv,8468760
+Revivka,Ukraine,Poltava,11139610
 Reni,Ukraine,Odessa,12129128
 Yumbe,Uganda,Northern Region,225835
 Wobulenzi,Uganda,Central Region,225858
@@ -30133,7 +30473,6 @@ Koson,Uzbekistan,Qashqadaryo,1217007
 Karakul’,Uzbekistan,Bukhara,1217084
 Kogon Shahri,Uzbekistan,Bukhara,1217180
 G‘uzor,Uzbekistan,Qashqadaryo,1217262
-Galaosiyo Shahri,Uzbekistan,Bukhara,1217340
 Juma Shahri,Uzbekistan,Samarqand Region,1217362
 Denov,Uzbekistan,Surxondaryo Region,1217474
 Chiroqchi,Uzbekistan,Qashqadaryo,1217540
@@ -30144,6 +30483,7 @@ Beshkent,Uzbekistan,Qashqadaryo,1217703
 Boysun,Uzbekistan,Surxondaryo Region,1217734
 Oqtosh,Uzbekistan,Samarqand Region,1217926
 Zafar,Uzbekistan,Tashkent Region,1512287
+Yunusobod,Uzbekistan,Tashkent,1512296
 Yaypan,Uzbekistan,Fergana,1512320
 Yangiyŭl,Uzbekistan,Tashkent Region,1512339
 Yangiyer,Uzbekistan,Sirdaryo Region,1512342
@@ -30163,8 +30503,10 @@ Tashkent,Uzbekistan,Tashkent,1512569
 Toshbuloq,Uzbekistan,Namangan,1512658
 Sirdaryo,Uzbekistan,Sirdaryo Region,1512770
 Shovot,Uzbekistan,Xorazm Region,1512790
+Shahrixon,Uzbekistan,Andijan Region,1512832
 Shofirkon Shahri,Uzbekistan,Bukhara,1512838
 Salor,Uzbekistan,Tashkent Region,1512934
+Rishton,Uzbekistan,Fergana,1512955
 Qo’shko’pir,Uzbekistan,Xorazm Region,1512978
 Qo‘qon,Uzbekistan,Fergana,1512979
 Piskent,Uzbekistan,Tashkent Region,1512986
@@ -30207,6 +30549,8 @@ Dardoq,Uzbekistan,Andijan Region,1514174
 Chust,Uzbekistan,Namangan,1514192
 Chirchiq,Uzbekistan,Tashkent Region,1514210
 Chinoz,Uzbekistan,Tashkent Region,1514215
+Chilanzar,Uzbekistan,Tashkent,1514230
+Sergeli,Uzbekistan,Tashkent,1514257
 Chortoq,Uzbekistan,Namangan,1514258
 Bo‘ka,Uzbekistan,Tashkent Region,1514330
 Beshariq,Uzbekistan,Fergana,1514382
@@ -30514,6 +30858,7 @@ Lạng Sơn,Viet Nam,Lang Son Province,1576633
 La Gi,Viet Nam,Binh Thuan Province,1577995
 Kỳ Anh,Viet Nam,Ha Tinh Province,1578163
 Kon Tum,Viet Nam,Kon Tum,1578500
+Hương Trà,Viet Nam,Thua Thien Hue Province,1580092
 Hương Thủy,Viet Nam,Thua Thien Hue Province,1580093
 Hưng Yên,Viet Nam,Hung Yen Province,1580142
 Huế,Viet Nam,Thua Thien Hue Province,1580240
@@ -30536,6 +30881,7 @@ Gia Nghĩa,Viet Nam,GJak Nong Province,1581834
 Đồng Xoài,Viet Nam,Binh Phuoc Province,1582436
 Đồng Hới,Viet Nam,Quang Binh Province,1582886
 Ðông Hà,Viet Nam,Quang Tri Province,1582926
+Diễn Thành,Viet Nam,Nghe An Province,1583475
 Dien Bien Phu,Viet Nam,GJien Bien Province,1583477
 Điện Bàn,Viet Nam,Quang Nam Province,1583478
 Dĩ An,Viet Nam,Binh Duong Province,1583518
@@ -30578,6 +30924,8 @@ Bắc Kạn,Viet Nam,Bac Kan Province,1591538
 Ấp Phước Tĩnh,Viet Nam,Ba Ria-Vung Tau Province,1592500
 An Nhơn,Viet Nam,Binh GJinh Province,1594308
 An Khê,Viet Nam,Gia Lai Province,1594402
+Ba Dinh,Viet Nam,Hanoi,7289846
+Núi Sập,Viet Nam,An Giang Province,8336885
 Cung Kiệm,Viet Nam,Bac Ninh Province,8340760
 Lai Châu,Viet Nam,Lai Chau Province,8456741
 Thị Trấn Việt Quang,Viet Nam,Ha Giang Province,8473997
@@ -30601,7 +30949,6 @@ Quận Năm,Viet Nam,Ho Chi Minh,9645073
 Quận Mười Một,Viet Nam,Ho Chi Minh,9645084
 Quận Mười,Viet Nam,Ho Chi Minh,9645085
 Quận Ba,Viet Nam,Ho Chi Minh,9645086
-Xã Lai Vung,Viet Nam,GJong Thap Province,12061022
 Quận Đức Thịnh,Viet Nam,GJong Thap Province,12166273
 Quận Đức Thành,Viet Nam,GJong Thap Province,12166275
 Huyện Lâm Hà,Viet Nam,Lam GJong Province,12217184
