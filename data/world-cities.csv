@@ -400,6 +400,7 @@ San Jorge,Argentina,Santa Fe,3837441
 San Francisco,Argentina,Cordoba,3837675
 Catamarca,Argentina,Catamarca,3837702
 San Antonio Oeste,Argentina,Rio Negro,3837980
+Salto,Argentina,Buenos Aires,3838227
 Salta,Argentina,Salta,3838233
 Rufino,Argentina,Santa Fe,3838506
 Rosario,Argentina,Santa Fe,3838583
@@ -863,7 +864,6 @@ San Nicolas,Aruba,,3577089
 Oranjestad,Aruba,,3577154
 Noord,Aruba,,3577159
 Mariehamn,Åland Islands,Mariehamns stad,3041732
-Xankandi,Azerbaijan,Xankandi Sahari,146970
 Əhmədbəyli,Azerbaijan,Saatli,147059
 Şuşa,Azerbaijan,Shusha,147105
 Salyan,Azerbaijan,Salyan District,147271
@@ -1586,6 +1586,7 @@ União dos Palmares,Brazil,Alagoas,3385742
 União,Brazil,Piaui,3385745
 Umirim,Brazil,Ceara,3385758
 Ubajara,Brazil,Ceara,3385873
+Uauá,Brazil,Bahia,3385883
 Tutóia,Brazil,Maranhao,3385899
 Turiaçu,Brazil,Maranhao,3385908
 Turaru,Brazil,Ceara,3385910
@@ -1626,6 +1627,7 @@ Soure,Brazil,Para,3387204
 Solonópole,Brazil,Ceara,3387242
 Solânea,Brazil,Paraiba,3387266
 Sobral,Brazil,Ceara,3387296
+Sobradinho,Brazil,Bahia,3387305
 Sirinhaém,Brazil,Pernambuco,3387604
 Sertânia,Brazil,Pernambuco,3387663
 Serrita,Brazil,Pernambuco,3387727
@@ -1711,6 +1713,7 @@ Riacho das Almas,Brazil,Pernambuco,3390490
 Riachão,Brazil,Maranhao,3390581
 Reriutaba,Brazil,Ceara,3390659
 Remígio,Brazil,Paraiba,3390674
+Remanso,Brazil,Bahia,3390682
 Regeneração,Brazil,Piaui,3390700
 Redenção,Brazil,Ceara,3390732
 Recife,Brazil,Pernambuco,3390760
@@ -1884,6 +1887,7 @@ Junqueiro,Brazil,Alagoas,3397063
 Jucurutu,Brazil,Rio Grande do Norte,3397108
 Jucás,Brazil,Ceara,3397119
 Juazeiro do Norte,Brazil,Ceara,3397147
+Juazeiro,Brazil,Bahia,3397154
 José de Freitas,Brazil,Piaui,3397230
 Joaquim Gomes,Brazil,Alagoas,3397263
 João Pessoa,Brazil,Paraiba,3397277
@@ -1954,6 +1958,7 @@ Grajaú,Brazil,Maranhao,3398856
 Goianinha,Brazil,Rio Grande do Norte,3398902
 Goiana,Brazil,Pernambuco,3398904
 Glória do Goitá,Brazil,Pernambuco,3398920
+Glória,Brazil,Bahia,3398923
 Garanhuns,Brazil,Pernambuco,3399058
 Gameleira,Brazil,Pernambuco,3399132
 Frecheirinha,Brazil,Ceara,3399313
@@ -1985,6 +1990,7 @@ Cururupu,Brazil,Maranhao,3401148
 Curuçá,Brazil,Para,3401188
 Curralinho,Brazil,Para,3401263
 Currais Novos,Brazil,Rio Grande do Norte,3401283
+Curaçá,Brazil,Bahia,3401331
 Cupira,Brazil,Pernambuco,3401340
 Cumaru,Brazil,Pernambuco,3401404
 Cuité,Brazil,Paraiba,3401419
@@ -2014,10 +2020,12 @@ Ceará-Mirim,Brazil,Rio Grande do Norte,3402360
 Caxias,Brazil,Maranhao,3402383
 Caucaia,Brazil,Ceara,3402429
 Catolé do Rocha,Brazil,Paraiba,3402465
+Campo Alegre de Lourdes,Brazil,Bahia,3402496
 Catende,Brazil,Pernambuco,3402528
 Castelo do Piauí,Brazil,Piaui,3402548
 Castanhal,Brazil,Para,3402591
 Cascavel,Brazil,Ceara,3402613
+Casa Nova,Brazil,Bahia,3402621
 Carutapera,Brazil,Maranhao,3402648
 Caruaru,Brazil,Pernambuco,3402655
 Carpina,Brazil,Pernambuco,3402721
@@ -2035,6 +2043,7 @@ Capitão Poço,Brazil,Para,3403127
 Capistrano,Brazil,Ceara,3403146
 Capela,Brazil,Alagoas,3403200
 Capanema,Brazil,Para,3403208
+Canudos,Brazil,Bahia,3403214
 Canto do Buriti,Brazil,Piaui,3403251
 Cantanhede,Brazil,Maranhao,3403309
 Canindé de São Francisco,Brazil,Sergipe,3403344
@@ -2170,10 +2179,11 @@ Acopiara,Brazil,Ceara,3408343
 Acaraú,Brazil,Ceara,3408368
 Acará,Brazil,Para,3408386
 Abreu e Lima,Brazil,Pernambuco,3408404
+Abaré,Brazil,Bahia,3408421
 Abaetetuba,Brazil,Para,3408424
 Mata Roma,Brazil,Maranhao,3409559
 Colinas do Tocantins,Brazil,Tocantins,3411913
-Xique Xique,Brazil,Bahia,3444823
+Xique-Xique,Brazil,Bahia,3444823
 Xaxim,Brazil,Santa Catarina,3444830
 Xanxerê,Brazil,Santa Catarina,3444848
 Votuporanga,Brazil,Sao Paulo,3444864
@@ -2215,6 +2225,7 @@ Uruguaiana,Brazil,Rio Grande do Sul,3445679
 Urucuia,Brazil,Minas Gerais,3445689
 Uruçuca,Brazil,Bahia,3445690
 Uruaçu,Brazil,Goias,3445713
+Urandi,Brazil,Bahia,3445728
 União da Vitória,Brazil,Parana,3445746
 Unaí,Brazil,Minas Gerais,3445764
 Una,Brazil,Bahia,3445781
@@ -2225,6 +2236,7 @@ Uberaba,Brazil,Minas Gerais,3445839
 Ubatuba,Brazil,Sao Paulo,3445847
 Ubatã,Brazil,Bahia,3445849
 Ubaitaba,Brazil,Bahia,3445853
+Ubaíra,Brazil,Bahia,3445854
 Ubá,Brazil,Minas Gerais,3445859
 Turmalina,Brazil,Minas Gerais,3445912
 Tupi Paulista,Brazil,Sao Paulo,3445922
@@ -2271,7 +2283,9 @@ Taquaritinga,Brazil,Sao Paulo,3446753
 Taquari,Brazil,Rio Grande do Sul,3446783
 Taquara,Brazil,Rio Grande do Sul,3446847
 Tapiramutá,Brazil,Bahia,3446866
+Taperoá,Brazil,Bahia,3446881
 Tapejara,Brazil,Rio Grande do Sul,3446922
+Tanque Novo,Brazil,Bahia,3446947
 Tanguá,Brazil,Rio de Janeiro,3446974
 Tanabi,Brazil,Sao Paulo,3446979
 Tambaú,Brazil,Sao Paulo,3447005
@@ -2285,6 +2299,7 @@ Sorocaba,Brazil,Sao Paulo,3447399
 Sombrio,Brazil,Santa Catarina,3447409
 Soledade,Brazil,Rio Grande do Sul,3447423
 Socorro,Brazil,Sao Paulo,3447437
+Sobradinho,Brazil,Federal District,3447472
 Sobradinho,Brazil,Bahia,3447473
 Simonésia,Brazil,Minas Gerais,3447556
 Simão Dias,Brazil,Sergipe,3447562
@@ -2306,7 +2321,7 @@ Senador Canedo,Brazil,Goias,3447854
 Seara,Brazil,Santa Catarina,3447927
 Seabra,Brazil,Bahia,3447928
 Schroeder,Brazil,Santa Catarina,3447929
-Saubara,Brazil,Bahia,3447961
+Sátiro Dias,Brazil,Bahia,3447965
 Sarzedo,Brazil,Minas Gerais,3447969
 Sarandi,Brazil,Rio Grande do Sul,3447997
 Sarandi,Brazil,Parana,3447998
@@ -2314,6 +2329,7 @@ Saquarema,Brazil,Rio de Janeiro,3448011
 Sapucaia do Sul,Brazil,Rio Grande do Sul,3448031
 Sapucaia,Brazil,Rio de Janeiro,3448033
 Sapiranga,Brazil,Rio Grande do Sul,3448063
+Sapeaçu,Brazil,Bahia,3448075
 São Vicente,Brazil,Sao Paulo,3448136
 São Simão,Brazil,Goias,3448200
 São Sepé,Brazil,Rio Grande do Sul,3448207
@@ -2372,8 +2388,10 @@ São Francisco do Conde,Brazil,Bahia,3449116
 São Francisco de Paula,Brazil,Rio Grande do Sul,3449121
 São Francisco de Assis,Brazil,Rio Grande do Sul,3449124
 São Francisco,Brazil,Minas Gerais,3449176
+São Felipe,Brazil,Bahia,3449194
 São Fidélis,Brazil,Rio de Janeiro,3449195
 São Domingos do Prata,Brazil,Minas Gerais,3449219
+São Desidério,Brazil,Bahia,3449304
 São Cristóvão,Brazil,Sergipe,3449310
 São Carlos,Brazil,Sao Paulo,3449319
 São Caetano do Sul,Brazil,Sao Paulo,3449324
@@ -2394,7 +2412,6 @@ Santo Antônio da Platina,Brazil,Parana,3449529
 Santo Antônio da Patrulha,Brazil,Rio Grande do Sul,3449614
 Santo Ângelo,Brazil,Rio Grande do Sul,3449696
 Santo André,Brazil,Sao Paulo,3449701
-Santo Anastácio,Brazil,Sao Paulo,3449707
 Santo Amaro da Imperatriz,Brazil,Santa Catarina,3449711
 Santo Amaro,Brazil,Sao Paulo,3449715
 Santo Amaro,Brazil,Bahia,3449720
@@ -2410,7 +2427,7 @@ Nova Santa Rita,Brazil,Rio Grande do Sul,3449884
 Santana do Paraíso,Brazil,Minas Gerais,3449933
 Sant'Ana do Livramento,Brazil,Rio Grande do Sul,3449936
 Santana de Parnaíba,Brazil,Sao Paulo,3449948
-Santana,Brazil,Sao Paulo,3450011
+Santana,Brazil,Bahia,3450036
 Santa Maria da Vitória,Brazil,Bahia,3450063
 Santa Maria,Brazil,Rio Grande do Sul,3450083
 Santa Margarida,Brazil,Minas Gerais,3450116
@@ -2472,8 +2489,10 @@ Ribeirão da Ilha,Brazil,Santa Catarina,3451357
 Ribeirão Branco,Brazil,Sao Paulo,3451362
 Ribeira do Pombal,Brazil,Bahia,3451383
 Ribas do Rio Pardo,Brazil,Mato Grosso do Sul,3451399
+Riacho de Santana,Brazil,Bahia,3451448
 Riachão do Jacuípe,Brazil,Bahia,3451474
 Riachão do Dantas,Brazil,Sergipe,3451476
+Riachão das Neves,Brazil,Bahia,3451478
 Resplendor,Brazil,Minas Gerais,3451650
 Reserva,Brazil,Parana,3451663
 Resende,Brazil,Rio de Janeiro,3451668
@@ -2484,6 +2503,7 @@ Raposos,Brazil,Minas Gerais,3451812
 Rancharia,Brazil,Sao Paulo,3451856
 Quissamã,Brazil,Rio de Janeiro,3451927
 Quirinópolis,Brazil,Goias,3451931
+Quijingue,Brazil,Bahia,3452029
 Queimados,Brazil,Rio de Janeiro,3452073
 Quatro Barras,Brazil,Parana,3452141
 Quaraí,Brazil,Rio Grande do Sul,3452179
@@ -2517,6 +2537,7 @@ Porteirinha,Brazil,Minas Gerais,3452956
 Portão,Brazil,Rio Grande do Sul,3452982
 Porciúncula,Brazil,Rio de Janeiro,3453010
 Porangatu,Brazil,Goias,3453014
+Ponto Novo,Brazil,Bahia,3453025
 Pontes e Lacerda,Brazil,Mato Grosso,3453060
 Ponte Nova,Brazil,Minas Gerais,3453078
 Ponta Porã,Brazil,Mato Grosso do Sul,3453150
@@ -2526,6 +2547,7 @@ Ponta Grossa,Brazil,Parana,3453186
 Pompéu,Brazil,Minas Gerais,3453240
 Pompéia,Brazil,Sao Paulo,3453242
 Pomerode,Brazil,Santa Catarina,3453245
+Pojuca,Brazil,Bahia,3453286
 Poço Verde,Brazil,Sergipe,3453300
 Poços de Caldas,Brazil,Minas Gerais,3453303
 Poconé,Brazil,Mato Grosso,3453315
@@ -2578,6 +2600,7 @@ Perdizes,Brazil,Minas Gerais,3454157
 Penha,Brazil,Santa Catarina,3454213
 Penedo,Brazil,Alagoas,3454231
 Penápolis,Brazil,Sao Paulo,3454235
+Serra Dourada,Brazil,Bahia,3454236
 Pelotas,Brazil,Rio Grande do Sul,3454244
 Pedro Leopoldo,Brazil,Minas Gerais,3454358
 Pedreira,Brazil,Sao Paulo,3454407
@@ -2597,9 +2620,12 @@ Alvorada,Brazil,Rio Grande do Sul,3454865
 Passa Quatro,Brazil,Minas Gerais,3454901
 Parobé,Brazil,Rio Grande do Sul,3454954
 Pariquera-Açu,Brazil,Sao Paulo,3454967
+Paripiranga,Brazil,Bahia,3454968
 Parelheiros,Brazil,Sao Paulo,3454982
+Paratinga,Brazil,Bahia,3455029
 Paraty,Brazil,Rio de Janeiro,3455036
 Paraopeba,Brazil,Minas Gerais,3455045
+Paranoá,Brazil,Federal District,3455047
 Paranavaí,Brazil,Parana,3455051
 Paranapanema,Brazil,Sao Paulo,3455061
 Paranaíba,Brazil,Mato Grosso do Sul,3455065
@@ -2621,6 +2647,7 @@ Palmital,Brazil,Sao Paulo,3455342
 Palmeiras de Goiás,Brazil,Goias,3455362
 Palmeira das Missões,Brazil,Rio Grande do Sul,3455416
 Palmeira,Brazil,Parana,3455425
+Palmas de Monte Alto,Brazil,Bahia,3455447
 Palmas,Brazil,Parana,3455459
 Palhoça,Brazil,Santa Catarina,3455478
 Paiçandu,Brazil,Parana,3455553
@@ -2638,13 +2665,17 @@ Ortigueira,Brazil,Parana,3455777
 Orleans,Brazil,Santa Catarina,3455784
 Orlândia,Brazil,Sao Paulo,3455785
 Orizona,Brazil,Goias,3455786
+Oliveira dos Brejinhos,Brazil,Bahia,3455903
 Oliveira,Brazil,Minas Gerais,3455908
+Olindina,Brazil,Bahia,3455913
 Olímpia,Brazil,Sao Paulo,3455923
+Núcleo Bandeirante,Brazil,Federal District,3456049
 Novo Horizonte,Brazil,Sao Paulo,3456060
 Novo Hamburgo,Brazil,Rio Grande do Sul,3456068
 Novo Cruzeiro,Brazil,Minas Gerais,3456070
 Nova Viçosa,Brazil,Bahia,3456102
 Nova Venécia,Brazil,Espirito Santo,3456110
+Nova Soure,Brazil,Bahia,3456115
 Nova Serrana,Brazil,Minas Gerais,3456117
 Nova Resende,Brazil,Minas Gerais,3456124
 Nova Prata,Brazil,Rio Grande do Sul,3456125
@@ -2676,7 +2707,9 @@ Não-Me-Toque,Brazil,Rio Grande do Sul,3456397
 Nanuque,Brazil,Minas Gerais,3456398
 Muzambinho,Brazil,Minas Gerais,3456412
 Mutum,Brazil,Minas Gerais,3456445
+Mutuípe,Brazil,Bahia,3456450
 Muritiba,Brazil,Bahia,3456483
+Muritiba,Brazil,Bahia,3456485
 Muriaé,Brazil,Minas Gerais,3456500
 Muniz Freire,Brazil,Espirito Santo,3456530
 Mucuri,Brazil,Bahia,3456593
@@ -2688,6 +2721,7 @@ Morretes,Brazil,Parana,3456750
 Monte Sião,Brazil,Minas Gerais,3456806
 Montes Claros,Brazil,Minas Gerais,3456814
 Monte Santo de Minas,Brazil,Minas Gerais,3456816
+Monte Santo,Brazil,Bahia,3456820
 Montenegro,Brazil,Rio Grande do Sul,3456826
 Monte Mor,Brazil,Sao Paulo,3456827
 Monte Carmelo,Brazil,Minas Gerais,3456848
@@ -2726,7 +2760,6 @@ Mateus Leme,Brazil,Minas Gerais,3457484
 Matão,Brazil,Sao Paulo,3457509
 Mata de São João,Brazil,Bahia,3457528
 Massaranduba,Brazil,Santa Catarina,3457561
-Mascote,Brazil,Bahia,3457566
 Maruim,Brazil,Sergipe,3457582
 Martinópolis,Brazil,Sao Paulo,3457595
 Maringá,Brazil,Parana,3457671
@@ -2738,6 +2771,7 @@ Marechal Floriano,Brazil,Espirito Santo,3457770
 Marechal Cândido Rondon,Brazil,Parana,3457772
 Maravilha,Brazil,Santa Catarina,3457809
 Marau,Brazil,Rio Grande do Sul,3457817
+Maraú,Brazil,Bahia,3457818
 Marataizes,Brazil,Espirito Santo,3457819
 Maragogipe,Brazil,Bahia,3457850
 Maracás,Brazil,Bahia,3457854
@@ -2749,13 +2783,17 @@ Mangaratiba,Brazil,Rio de Janeiro,3457991
 Manga,Brazil,Minas Gerais,3458020
 Mandirituba,Brazil,Parana,3458036
 Mandaguari,Brazil,Parana,3458049
+Malhada,Brazil,Bahia,3458112
 Malacacheta,Brazil,Minas Gerais,3458121
 Mairiporã,Brazil,Sao Paulo,3458131
 Mairinque,Brazil,Sao Paulo,3458132
 Magé,Brazil,Rio de Janeiro,3458142
 Mafra,Brazil,Santa Catarina,3458147
+Madre de Deus,Brazil,Bahia,3458161
 Machado,Brazil,Minas Gerais,3458211
+Macaúbas,Brazil,Bahia,3458237
 Macatuba,Brazil,Sao Paulo,3458245
+Macarani,Brazil,Bahia,3458249
 Macaé,Brazil,Rio de Janeiro,3458266
 Luziânia,Brazil,Goias,3458329
 Luz,Brazil,Minas Gerais,3458333
@@ -2778,17 +2816,20 @@ Lavras,Brazil,Minas Gerais,3458696
 Laranjeiras do Sul,Brazil,Parana,3458746
 Laranjeiras,Brazil,Sergipe,3458778
 Laranjal Paulista,Brazil,Sao Paulo,3458786
+Lapão,Brazil,Bahia,3458817
 Lapa,Brazil,Sao Paulo,3458825
 Lapa,Brazil,Parana,3458826
 Lambari,Brazil,Minas Gerais,3458881
 Lajinha,Brazil,Minas Gerais,3458902
 Lages,Brazil,Santa Catarina,3458930
 Lajeado,Brazil,Rio Grande do Sul,3459035
+Laje,Brazil,Bahia,3459084
 Laguna,Brazil,Santa Catarina,3459094
 Lagoa Vermelha,Brazil,Rio Grande do Sul,3459126
 Lagoa Santa,Brazil,Minas Gerais,3459138
 Lagoa Formosa,Brazil,Minas Gerais,3459181
 Lagoa da Prata,Brazil,Minas Gerais,3459251
+Presidente Dutra,Brazil,Bahia,3459261
 Lagarto,Brazil,Sergipe,3459342
 Ladário,Brazil,Mato Grosso do Sul,3459352
 Juquitiba,Brazil,Sao Paulo,3459435
@@ -2824,6 +2865,7 @@ Janaúba,Brazil,Minas Gerais,3460174
 Jales,Brazil,Sao Paulo,3460186
 Jaguaruna,Brazil,Santa Catarina,3460197
 Jaguariúna,Brazil,Sao Paulo,3460200
+Jaguaripe,Brazil,Bahia,3460204
 Jaguariaíva,Brazil,Parana,3460214
 Jaguarari,Brazil,Bahia,3460225
 Jaguarão,Brazil,Rio Grande do Sul,3460232
@@ -2836,7 +2878,9 @@ Jacarezinho,Brazil,Parana,3460362
 Jacareí,Brazil,Sao Paulo,3460370
 Jaguaré,Brazil,Espirito Santo,3460412
 Jaboticabal,Brazil,Sao Paulo,3460441
+Jaboticatubas,Brazil,Minas Gerais,3460450
 Ivoti,Brazil,Rio Grande do Sul,3460484
+Ivaiporã,Brazil,Parana,3460495
 Iúna,Brazil,Espirito Santo,3460505
 Ituverava,Brazil,Sao Paulo,3460511
 Iturama,Brazil,Minas Gerais,3460513
@@ -2847,6 +2891,7 @@ Ituiutaba,Brazil,Minas Gerais,3460523
 Ituberá,Brazil,Bahia,3460530
 Itu,Brazil,Sao Paulo,3460535
 Itororó,Brazil,Bahia,3460542
+Itiúba,Brazil,Bahia,3460548
 Itirapina,Brazil,Sao Paulo,3460553
 Itaúna,Brazil,Minas Gerais,3460584
 Itatinga,Brazil,Sao Paulo,3460594
@@ -2854,6 +2899,7 @@ Itatiba,Brazil,Sao Paulo,3460598
 Itatiaia,Brazil,Rio de Janeiro,3460602
 Itariri,Brazil,Sao Paulo,3460615
 Itararé,Brazil,Sao Paulo,3460620
+Itarantim,Brazil,Bahia,3460622
 Itaqui,Brazil,Rio Grande do Sul,3460629
 Itaquera,Brazil,Sao Paulo,3460634
 Itaquaquecetuba,Brazil,Sao Paulo,3460644
@@ -2863,6 +2909,7 @@ Itaporã,Brazil,Mato Grosso do Sul,3460669
 Itápolis,Brazil,Sao Paulo,3460671
 Itapiranga,Brazil,Santa Catarina,3460698
 Itapira,Brazil,Sao Paulo,3460699
+Itapicuru,Brazil,Bahia,3460707
 Itapevi,Brazil,Sao Paulo,3460718
 Itapeva,Brazil,Sao Paulo,3460723
 Itapetininga,Brazil,Sao Paulo,3460728
@@ -2877,8 +2924,11 @@ Itapecerica,Brazil,Minas Gerais,3460752
 Itaparica,Brazil,Bahia,3460764
 Itapaci,Brazil,Goias,3460773
 Itaocara,Brazil,Rio de Janeiro,3460774
+Itanhém,Brazil,Bahia,3460785
+Itanhandu,Brazil,Minas Gerais,3460788
 Itanhaém,Brazil,Sao Paulo,3460791
 Itambé,Brazil,Bahia,3460813
+Itambacuri,Brazil,Minas Gerais,3460817
 Itamarandiba,Brazil,Minas Gerais,3460825
 Itamaraju,Brazil,Bahia,3460826
 Itajuípe,Brazil,Bahia,3460831
@@ -2888,6 +2938,8 @@ Itajaí,Brazil,Santa Catarina,3460845
 Itaiópolis,Brazil,Santa Catarina,3460869
 Itaí,Brazil,Sao Paulo,3460887
 Itaguaí,Brazil,Rio de Janeiro,3460899
+Itacaré,Brazil,Bahia,3460940
+Itacarambi,Brazil,Minas Gerais,3460942
 Itabuna,Brazil,Bahia,3460949
 Itaboraí,Brazil,Rio de Janeiro,3460950
 Itabirito,Brazil,Minas Gerais,3460954
@@ -2906,10 +2958,13 @@ Ipirá,Brazil,Bahia,3461124
 Ipiaú,Brazil,Bahia,3461129
 Iperó,Brazil,Sao Paulo,3461134
 Ipatinga,Brazil,Minas Gerais,3461144
+Ipanema,Brazil,Rio de Janeiro,3461147
+Ipanema,Brazil,Minas Gerais,3461148
 Ipameri,Brazil,Goias,3461151
 Ipaba,Brazil,Minas Gerais,3461153
 Inhumas,Brazil,Goias,3461194
 Inhapim,Brazil,Minas Gerais,3461214
+Inhambupe,Brazil,Bahia,3461224
 Indiaroba,Brazil,Sergipe,3461289
 Indaiatuba,Brazil,Sao Paulo,3461311
 Indaial,Brazil,Santa Catarina,3461316
@@ -2927,15 +2982,21 @@ Igreja Nova,Brazil,Alagoas,3461484
 Igarapé,Brazil,Minas Gerais,3461498
 Igarapava,Brazil,Sao Paulo,3461499
 Igaraçu do Tietê,Brazil,Sao Paulo,3461501
+Igaporã,Brazil,Bahia,3461503
+Pilão Arcado,Brazil,Bahia,3461511
 Içara,Brazil,Santa Catarina,3461519
 Ibotirama,Brazil,Bahia,3461525
 Ibiúna,Brazil,Sao Paulo,3461528
+Ibititá,Brazil,Bahia,3461539
 Ibitinga,Brazil,Sao Paulo,3461550
 Ibirubá,Brazil,Rio Grande do Sul,3461559
 Ibirité,Brazil,Minas Gerais,3461563
 Ibirataia,Brazil,Bahia,3461565
+Ibirapitanga,Brazil,Bahia,3461572
 Ibirama,Brazil,Santa Catarina,3461576
 Ibiporã,Brazil,Parana,3461588
+Santa Rita de Cássia,Brazil,Bahia,3461591
+Ibipeba,Brazil,Bahia,3461592
 Ibicaraí,Brazil,Bahia,3461606
 Ibiá,Brazil,Minas Gerais,3461620
 Ibatiba,Brazil,Espirito Santo,3461624
@@ -2953,6 +3014,7 @@ Guariba,Brazil,Sao Paulo,3461824
 Guareí,Brazil,Sao Paulo,3461830
 Guaratuba,Brazil,Parana,3461857
 Guaratinguetá,Brazil,Sao Paulo,3461859
+Guaratinga,Brazil,Bahia,3461860
 Guararema,Brazil,Sao Paulo,3461871
 Guararapes,Brazil,Sao Paulo,3461874
 Guarapuava,Brazil,Parana,3461879
@@ -2960,6 +3022,7 @@ Guarapari,Brazil,Espirito Santo,3461888
 Guaranésia,Brazil,Minas Gerais,3461910
 Guaramirim,Brazil,Santa Catarina,3461914
 Guará,Brazil,Sao Paulo,3461935
+Guará,Brazil,Federal District,3461936
 Guaporé,Brazil,Rio Grande do Sul,3461941
 Guapó,Brazil,Goias,3461943
 Guapimirim,Brazil,Rio de Janeiro,3461949
@@ -2985,10 +3048,13 @@ Garopaba,Brazil,Santa Catarina,3462549
 Garibaldi,Brazil,Rio Grande do Sul,3462557
 Garça,Brazil,Sao Paulo,3462580
 Gandu,Brazil,Bahia,3462601
+Gama,Brazil,Federal District,3462672
+São Gabriel,Brazil,Bahia,3462759
 Fundão,Brazil,Espirito Santo,3462882
 Frutal,Brazil,Minas Gerais,3462916
 Frederico Westphalen,Brazil,Rio Grande do Sul,3462956
 Franco da Rocha,Brazil,Sao Paulo,3462964
+Francisco Sá,Brazil,Minas Gerais,3462975
 Francisco Morato,Brazil,Sao Paulo,3462980
 Lucas do Rio Verde,Brazil,Mato Grosso,3462986
 Francisco Beltrão,Brazil,Parana,3462996
@@ -2996,15 +3062,20 @@ Franca,Brazil,Sao Paulo,3463011
 Foz do Iguaçu,Brazil,Parana,3463030
 Forquilhinha,Brazil,Santa Catarina,3463066
 Formoso do Araguaia,Brazil,Tocantins,3463122
+Formosa do Rio Preto,Brazil,Bahia,3463124
 Formosa,Brazil,Goias,3463140
 Formiga,Brazil,Minas Gerais,3463174
 Florianópolis,Brazil,Santa Catarina,3463237
 Flores da Cunha,Brazil,Rio Grande do Sul,3463271
+Filadélfia,Brazil,Bahia,3463350
 Ferraz de Vasconcelos,Brazil,Sao Paulo,3463422
 Fernandópolis,Brazil,Sao Paulo,3463432
 Feira de Santana,Brazil,Bahia,3463478
+Faxinal,Brazil,Parana,3463573
+Fátima,Brazil,Bahia,3463590
 Fartura,Brazil,Sao Paulo,3463604
 Farroupilha,Brazil,Rio Grande do Sul,3463605
+Extrema,Brazil,Minas Gerais,3463668
 Eunápolis,Brazil,Bahia,3463690
 Euclides da Cunha,Brazil,Bahia,3463698
 Estrela,Brazil,Rio Grande do Sul,3463761
@@ -3015,7 +3086,9 @@ Estância,Brazil,Sergipe,3463900
 Espumoso,Brazil,Rio Grande do Sul,3463916
 Esplanada,Brazil,Bahia,3463920
 Espinosa,Brazil,Minas Gerais,3463939
+Espera Feliz,Brazil,Minas Gerais,3463993
 Esmeraldas,Brazil,Minas Gerais,3464008
+Ervália,Brazil,Minas Gerais,3464044
 Erechim,Brazil,Rio Grande do Sul,3464073
 Entre Rios,Brazil,Bahia,3464100
 Encruzilhada do Sul,Brazil,Rio Grande do Sul,3464255
@@ -3034,7 +3107,9 @@ Dois Vizinhos,Brazil,Parana,3464579
 Dois Irmãos,Brazil,Rio Grande do Sul,3464598
 Dois Córregos,Brazil,Sao Paulo,3464618
 Divinópolis,Brazil,Minas Gerais,3464688
+Divino,Brazil,Minas Gerais,3464694
 Dionísio Cerqueira,Brazil,Santa Catarina,3464705
+Dias d'Ávila,Brazil,Bahia,3464713
 Dianópolis,Brazil,Tocantins,3464720
 Diamantino,Brazil,Mato Grosso,3464724
 Diamantina,Brazil,Minas Gerais,3464728
@@ -3047,6 +3122,7 @@ Cunha,Brazil,Sao Paulo,3465010
 Cuiabá,Brazil,Mato Grosso,3465038
 Cubatão,Brazil,Sao Paulo,3465059
 Cruz Machado,Brazil,Parana,3465067
+Cruzília,Brazil,Minas Gerais,3465071
 Cruzeiro do Oeste,Brazil,Parana,3465083
 Cruzeiro,Brazil,Sao Paulo,3465090
 Cruz das Almas,Brazil,Bahia,3465105
@@ -3054,6 +3130,7 @@ Cruz Alta,Brazil,Rio Grande do Sul,3465108
 Crixás,Brazil,Goias,3465145
 Cristinápolis,Brazil,Sergipe,3465154
 Cristalina,Brazil,Goias,3465164
+Crisópolis,Brazil,Bahia,3465184
 Criciúma,Brazil,Santa Catarina,3465196
 Cravinhos,Brazil,Sao Paulo,3465209
 Coxim,Brazil,Mato Grosso do Sul,3465228
@@ -3062,6 +3139,7 @@ Cosmópolis,Brazil,Sao Paulo,3465320
 Coruripe,Brazil,Alagoas,3465329
 Corupá,Brazil,Santa Catarina,3465330
 Corumbá,Brazil,Mato Grosso do Sul,3465342
+Correntina,Brazil,Bahia,3465373
 Corrente,Brazil,Piaui,3465405
 Correia Pinto,Brazil,Santa Catarina,3465409
 Coronel Vivida,Brazil,Parana,3465459
@@ -3071,6 +3149,7 @@ Cornélio Procópio,Brazil,Parana,3465508
 Corinto,Brazil,Minas Gerais,3465512
 Cordeirópolis,Brazil,Sao Paulo,3465524
 Cordeiro,Brazil,Rio de Janeiro,3465527
+Coração de Jesus,Brazil,Minas Gerais,3465542
 Contenda,Brazil,Parana,3465616
 Contagem,Brazil,Minas Gerais,3465624
 Conselheiro Pena,Brazil,Minas Gerais,3465639
@@ -3080,19 +3159,24 @@ Conde,Brazil,Bahia,3465713
 Concórdia,Brazil,Santa Catarina,3465721
 Conchas,Brazil,Sao Paulo,3465729
 Conchal,Brazil,Sao Paulo,3465731
+Conceição do Mato Dentro,Brazil,Minas Gerais,3465745
 Conceição do Coité,Brazil,Bahia,3465748
+Conceição do Almeida,Brazil,Bahia,3465752
 Conceição de Macabu,Brazil,Rio de Janeiro,3465757
 Conceição do Jacuípe,Brazil,Bahia,3465758
 Conceição das Alagoas,Brazil,Minas Gerais,3465764
 Conceição da Feira,Brazil,Bahia,3465767
 Conceição da Barra,Brazil,Espirito Santo,3465769
+Vera Cruz,Brazil,Bahia,3465813
 Colorado,Brazil,Parana,3465881
 Colombo,Brazil,Parana,3465927
 Colina,Brazil,Sao Paulo,3465935
 Colatina,Brazil,Espirito Santo,3465944
+Cocos,Brazil,Bahia,3465982
 Cocal do Sul,Brazil,Santa Catarina,3466005
 Coaraci,Brazil,Bahia,3466041
 Cláudio,Brazil,Minas Gerais,3466062
+Cipó,Brazil,Bahia,3466134
 Cidreira,Brazil,Rio Grande do Sul,3466165
 Cícero Dantas,Brazil,Bahia,3466171
 Cianorte,Brazil,Parana,3466174
@@ -3101,30 +3185,38 @@ Charqueadas,Brazil,Rio Grande do Sul,3466261
 Charqueada,Brazil,Sao Paulo,3466267
 Chapecó,Brazil,Santa Catarina,3466296
 Chapada dos Guimarães,Brazil,Mato Grosso,3466307
+Jussara,Brazil,Bahia,3466325
 Cesário Lange,Brazil,Sao Paulo,3466351
 Cerro Azul,Brazil,Parana,3466405
 Cerquilho,Brazil,Sao Paulo,3466429
 Cerqueira César,Brazil,Sao Paulo,3466430
 Ceres,Brazil,Goias,3466436
+Central,Brazil,Bahia,3466469
+Ceilândia,Brazil,Federal District,3466489
 Caxias do Sul,Brazil,Rio Grande do Sul,3466537
 Caxambu,Brazil,Minas Gerais,3466547
 Catu,Brazil,Bahia,3466641
 Catanduva,Brazil,Sao Paulo,3466692
 Catalão,Brazil,Goias,3466696
 Cataguases,Brazil,Minas Gerais,3466698
+Castro Alves,Brazil,Bahia,3466703
 Castro,Brazil,Parana,3466704
 Castilho,Brazil,Sao Paulo,3466708
 Castelo,Brazil,Espirito Santo,3466723
 Cassilândia,Brazil,Mato Grosso do Sul,3466750
+Cássia,Brazil,Minas Gerais,3466752
 Casimiro de Abreu,Brazil,Rio de Janeiro,3466763
 Cascavel,Brazil,Parana,3466779
 Casa Branca,Brazil,Sao Paulo,3466824
 Carmópolis de Minas,Brazil,Minas Gerais,3466897
+Carmo do Rio Claro,Brazil,Minas Gerais,3466901
 Carmo do Paranaíba,Brazil,Minas Gerais,3466902
 Carmo do Cajuru,Brazil,Minas Gerais,3466903
 Carmo,Brazil,Rio de Janeiro,3466913
+Carlos Chagas,Brazil,Minas Gerais,3466931
 Carlos Barbosa,Brazil,Rio Grande do Sul,3466933
 Carira,Brazil,Sergipe,3466941
+Carinhanha,Brazil,Bahia,3466950
 Cariacica,Brazil,Espirito Santo,3466954
 Carazinho,Brazil,Rio Grande do Sul,3466978
 Caratinga,Brazil,Minas Gerais,3466988
@@ -3132,6 +3224,7 @@ Caarapó,Brazil,Mato Grosso do Sul,3466993
 Carapicuíba,Brazil,Sao Paulo,3466998
 Carangola,Brazil,Minas Gerais,3467012
 Carandaí,Brazil,Minas Gerais,3467026
+Caraí,Brazil,Minas Gerais,3467078
 Caraguatatuba,Brazil,Sao Paulo,3467081
 Capivari,Brazil,Sao Paulo,3467197
 Capinzal,Brazil,Santa Catarina,3467261
@@ -3143,13 +3236,18 @@ Capão do Leão,Brazil,Rio Grande do Sul,3467353
 Capão da Canoa,Brazil,Rio Grande do Sul,3467362
 Capão Bonito,Brazil,Sao Paulo,3467371
 Cantagalo,Brazil,Rio de Janeiro,3467445
+Cansanção,Brazil,Bahia,3467450
 Canoinhas,Brazil,Santa Catarina,3467452
 Canoas,Brazil,Rio Grande do Sul,3467467
 Canguçu,Brazil,Rio Grande do Sul,3467512
 Canela,Brazil,Rio Grande do Sul,3467530
 Cândido Mota,Brazil,Sao Paulo,3467542
+Cândido de Abreu,Brazil,Parana,3467545
 Candelária,Brazil,Rio Grande do Sul,3467550
+Candeias,Brazil,Bahia,3467555
 Canavieiras,Brazil,Bahia,3467577
+Canarana,Brazil,Bahia,3467604
+João Dourado,Brazil,Bahia,3467612
 Campo Verde,Brazil,Mato Grosso do Sul,3467673
 Campos Novos,Brazil,Santa Catarina,3467677
 Campos Gerais,Brazil,Minas Gerais,3467680
@@ -3169,6 +3267,8 @@ Campo Belo,Brazil,Minas Gerais,3467796
 Campina Verde,Brazil,Minas Gerais,3467860
 Campinas,Brazil,Sao Paulo,3467865
 Campina Grande do Sul,Brazil,Parana,3467877
+Campestre,Brazil,Minas Gerais,3467908
+Campanha,Brazil,Minas Gerais,3467928
 Cambuí,Brazil,Minas Gerais,3467956
 Cambuci,Brazil,Rio de Janeiro,3467962
 Camboriú,Brazil,Santa Catarina,3467968
@@ -3176,16 +3276,21 @@ Cambé,Brazil,Parana,3467978
 Cambará,Brazil,Parana,3467985
 Camaquã,Brazil,Rio Grande do Sul,3468014
 Camanducaia,Brazil,Minas Gerais,3468023
+Camamu,Brazil,Bahia,3468025
 Camaçari,Brazil,Bahia,3468031
+Camacan,Brazil,Bahia,3468038
 Caldas Novas,Brazil,Goias,3468100
 Cajuru,Brazil,Sao Paulo,3468121
 Cajati,Brazil,Sao Paulo,3468157
 Cajamar,Brazil,Sao Paulo,3468158
+Cairu,Brazil,Bahia,3468195
 Caieiras,Brazil,Sao Paulo,3468215
 Caiapônia,Brazil,Goias,3468234
 Cafelândia,Brazil,Sao Paulo,3468296
+Cafarnaum,Brazil,Bahia,3468314
 Caetité,Brazil,Bahia,3468317
 Caeté,Brazil,Minas Gerais,3468327
+Caculé,Brazil,Bahia,3468349
 Caconde,Brazil,Sao Paulo,3468353
 Cachoeiro de Itapemirim,Brazil,Espirito Santo,3468376
 Cachoeirinha,Brazil,Rio Grande do Sul,3468403
@@ -3199,25 +3304,33 @@ Caçapava,Brazil,Sao Paulo,3468562
 Caçador,Brazil,Santa Catarina,3468570
 Cabreúva,Brazil,Sao Paulo,3468592
 Cabo Frio,Brazil,Rio de Janeiro,3468615
+Governador Mangabeira,Brazil,Bahia,3468657
+Cabaceiras do Paraguaçu,Brazil,Bahia,3468669
 Butiá,Brazil,Rio Grande do Sul,3468704
 Buritizeiro,Brazil,Minas Gerais,3468720
 Buritis,Brazil,Minas Gerais,3468732
+Buritirama,Brazil,Bahia,3468734
 Buritama,Brazil,Sao Paulo,3468789
 Buri,Brazil,Sao Paulo,3468802
 Boquim,Brazil,Sergipe,3468823
-Buerarema,Brazil,Bahia,3468858
 Brusque,Brazil,Santa Catarina,3468879
 Brumado,Brazil,Bahia,3468893
 Brumadinho,Brazil,Minas Gerais,3468894
 Brotas,Brazil,Sao Paulo,3468899
 Brodowski,Brazil,Sao Paulo,3468902
+Brazlândia,Brazil,Federal District,3469049
+Brasília de Minas,Brazil,Minas Gerais,3469057
 Brasília,Brazil,Federal District,3469058
 Brás,Brazil,Sao Paulo,3469066
 Bragança Paulista,Brazil,Sao Paulo,3469092
 Braço do Norte,Brazil,Santa Catarina,3469115
 Botucatu,Brazil,Sao Paulo,3469136
 Holambra,Brazil,Sao Paulo,3469168
+Borda da Mata,Brazil,Minas Gerais,3469169
+Boquira,Brazil,Bahia,3469190
 Bonito,Brazil,Mato Grosso do Sul,3469294
+Bonito,Brazil,Bahia,3469298
+Bom Sucesso,Brazil,Minas Gerais,3469374
 Bom Retiro,Brazil,Sao Paulo,3469399
 Bom Jesus dos Perdões,Brazil,Sao Paulo,3469421
 Bom Jesus do Itabapoana,Brazil,Rio de Janeiro,3469425
@@ -3238,6 +3351,7 @@ Bertioga,Brazil,Sao Paulo,3470052
 Bento Gonçalves,Brazil,Rio Grande do Sul,3470073
 Belo Oriente,Brazil,Minas Gerais,3470117
 Belo Horizonte,Brazil,Minas Gerais,3470127
+Belmonte,Brazil,Bahia,3470137
 Belford Roxo,Brazil,Rio de Janeiro,3470142
 Bela Vista de Goiás,Brazil,Goias,3470164
 Bela Vista,Brazil,Mato Grosso do Sul,3470177
@@ -3270,6 +3384,7 @@ Balneário Rincão,Brazil,Santa Catarina,3471038
 Balneário Camboriú,Brazil,Santa Catarina,3471039
 Baixo Guandu,Brazil,Espirito Santo,3471061
 Bagé,Brazil,Rio Grande do Sul,3471196
+Baependi,Brazil,Minas Gerais,3471208
 Bady Bassitt,Brazil,Sao Paulo,3471210
 Avaré,Brazil,Sao Paulo,3471291
 Atibaia,Brazil,Sao Paulo,3471335
@@ -3306,6 +3421,7 @@ Aracaju,Brazil,Sergipe,3471872
 Aquidauana,Brazil,Mato Grosso do Sul,3471896
 Aquidabã,Brazil,Sergipe,3471902
 Apucarana,Brazil,Parana,3471910
+Aporá,Brazil,Bahia,3471917
 Apiaí,Brazil,Sao Paulo,3471927
 Aparecida do Taboado,Brazil,Mato Grosso do Sul,3471940
 Aparecida,Brazil,Sao Paulo,3471949
@@ -3315,28 +3431,34 @@ Angra dos Reis,Brazil,Rio de Janeiro,3472177
 Angatuba,Brazil,Sao Paulo,3472234
 Andradina,Brazil,Sao Paulo,3472248
 Andradas,Brazil,Minas Gerais,3472254
+Andorinha,Brazil,Bahia,3472263
 Anchieta,Brazil,Espirito Santo,3472277
 Anastácio,Brazil,Mato Grosso do Sul,3472284
 Anápolis,Brazil,Goias,3472287
 Amparo,Brazil,Sao Paulo,3472311
 Américo Brasiliense,Brazil,Sao Paulo,3472338
 Americana,Brazil,Sao Paulo,3472343
+América Dourada,Brazil,Bahia,3472344
 Amargosa,Brazil,Bahia,3472370
 Amambai,Brazil,Mato Grosso do Sul,3472391
+Alvinópolis,Brazil,Minas Gerais,3472406
 Álvares Machado,Brazil,Sao Paulo,3472417
 Alto Araguaia,Brazil,Mato Grosso,3472473
 Altinópolis,Brazil,Sao Paulo,3472485
+Alpinópolis,Brazil,Minas Gerais,3472507
 Almirante Tamandaré,Brazil,Parana,3472518
 Almenara,Brazil,Minas Gerais,3472520
+Presidente Tancredo Neves,Brazil,Bahia,3472528
 Alfenas,Brazil,Minas Gerais,3472603
 Além Paraíba,Brazil,Minas Gerais,3472609
 Alegrete,Brazil,Rio Grande do Sul,3472638
 Alegre,Brazil,Espirito Santo,3472666
+Alcobaça,Brazil,Bahia,3472728
 Alagoinhas,Brazil,Bahia,3472766
 Aimorés,Brazil,Minas Gerais,3472808
 Agudos,Brazil,Sao Paulo,3472825
 Agudo,Brazil,Rio Grande do Sul,3472831
-Águas Vermelhas,Brazil,Minas Gerais,3472848
+Águas Formosas,Brazil,Minas Gerais,3472864
 Águas de Lindóia,Brazil,Sao Paulo,3472869
 Água Rasa,Brazil,Minas Gerais,3472898
 Aguaí,Brazil,Sao Paulo,3472969
@@ -3345,6 +3467,7 @@ Afonso Cláudio,Brazil,Espirito Santo,3473129
 Adamantina,Brazil,Sao Paulo,3473157
 Abelardo Luz,Brazil,Santa Catarina,3473252
 Abaeté,Brazil,Minas Gerais,3473267
+Leblon,Brazil,Rio de Janeiro,3473654
 Guaíba,Brazil,Rio Grande do Sul,3473964
 Comodoro,Brazil,Mato Grosso,3474501
 Palmas,Brazil,Tocantins,3474574
@@ -3458,6 +3581,7 @@ Colniza,Brazil,Mato Grosso,6316885
 Colorado do Oeste,Brazil,Rondonia,6316897
 Concórdia do Pará,Brazil,Para,6316906
 Confresa,Brazil,Mato Grosso,6316908
+Coronel João Sá,Brazil,Bahia,6316924
 Costa Rica,Brazil,Mato Grosso do Sul,6316937
 Curionópolis,Brazil,Para,6316976
 Dom Eliseu,Brazil,Para,6317029
@@ -3480,10 +3604,14 @@ Herval dOeste,Brazil,Santa Catarina,6317245
 Imbé,Brazil,Rio Grande do Sul,6317277
 Indiara,Brazil,Goias,6317286
 Ipixuna do Pará,Brazil,Para,6317294
+Itabela,Brazil,Bahia,6317308
 Itaim Paulista,Brazil,Sao Paulo,6317317
+Itaobim,Brazil,Minas Gerais,6317328
 Itaquiraí,Brazil,Mato Grosso do Sul,6317333
+Itatim,Brazil,Bahia,6317335
 Itinga do Maranhão,Brazil,Maranhao,6317339
 Jaboatão dos Guararapes,Brazil,Pernambuco,6317344
+Jaíba,Brazil,Minas Gerais,6317358
 Jenipapo dos Vieiras,Brazil,Maranhao,6317380
 Jijoca de Jericoacoara,Brazil,Ceara,6317383
 Juara,Brazil,Mato Grosso,6317397
@@ -3546,6 +3674,7 @@ Santa Maria de Jetibá,Brazil,Espirito Santo,6318278
 Santana do Araguaia,Brazil,Para,6318324
 Santo Antônio do Descoberto,Brazil,Goias,6318357
 São Domingos do Araguaia,Brazil,Para,6318408
+São Félix do Coribe,Brazil,Bahia,6318415
 São Francisco de Itabapoana,Brazil,Rio de Janeiro,6318423
 São Francisco do Guaporé,Brazil,Rondonia,6318426
 São Gabriel do Oeste,Brazil,Mato Grosso do Sul,6318433
@@ -3555,6 +3684,7 @@ São Luís Gonzaga do Maranhão,Brazil,Maranhao,6318532
 São Mateus,Brazil,Sao Paulo,6318546
 São Miguel do Guaporé,Brazil,Rondonia,6318556
 Sapopemba,Brazil,Sao Paulo,6318632
+Sento Sé,Brazil,Bahia,6318662
 Simões Filho,Brazil,Bahia,6318694
 Sinop,Brazil,Mato Grosso,6318696
 Sítio Novo,Brazil,Maranhao,6318703
@@ -3575,25 +3705,34 @@ Vitória do Xingu,Brazil,Para,6318953
 Xangri-lá,Brazil,Rio Grande do Sul,6318964
 Xinguara,Brazil,Para,6318968
 Zé Doca,Brazil,Maranhao,6318970
+Taguatinga,Brazil,Federal District,6698121
 Barra da Tijuca,Brazil,Rio de Janeiro,7290718
 Tatuapé,Brazil,Sao Paulo,7292560
 Consolação,Brazil,Sao Paulo,7521912
 Rocinha,Brazil,Rio de Janeiro,7538520
+Vidigal,Brazil,Rio de Janeiro,7538522
+Estácio,Brazil,Rio de Janeiro,7538677
+Catete,Brazil,Rio de Janeiro,7538835
 Pirituba,Brazil,Sao Paulo,7614932
 Limão,Brazil,Sao Paulo,7614952
 Vila Galvão,Brazil,Sao Paulo,7615192
 Jardim Paulista,Brazil,Sao Paulo,7615262
+Santa Teresa,Brazil,Rio de Janeiro,7874216
 Trindade,Brazil,Santa Catarina,7874479
 Freguesia do Ribeirao da Ilha,Brazil,Santa Catarina,7874492
 Olho d’Água das Cunhãs,Brazil,Maranhao,8430419
 Teotônio Vilela,Brazil,Alagoas,8437474
 Mirassol d'Oeste,Brazil,Mato Grosso,8456884
 Brasilândia de Minas,Brazil,Minas Gerais,8465210
+Santana,Brazil,Sao Paulo,8535094
 Governador Edison Lobão,Brazil,Maranhao,8543780
 Brasil Novo,Brazil,Para,8550580
+Pôr do Sol,Brazil,Federal District,8603563
 Itaim Bibi,Brazil,Sao Paulo,10173001
+Vicente Pires,Brazil,Federal District,10226875
 Moema,Brazil,Sao Paulo,10227137
 Planaltina,Brazil,Federal District,11184422
+Luis Eduardo Magalhães,Brazil,Bahia,11427402
 Sapezal,Brazil,Mato Grosso,11669527
 Grajaú,Brazil,Sao Paulo,11962371
 Artur Alvim,Brazil,Sao Paulo,11962373
@@ -3610,7 +3749,7 @@ Agua Rasa,Brazil,Sao Paulo,11962383
 Alto De Pinheiros,Brazil,Sao Paulo,11962384
 Cidade Lider,Brazil,Sao Paulo,11962385
 Aricanduva,Brazil,Sao Paulo,11962386
-Jacana,Brazil,Sao Paulo,11962387
+Jaçanã,Brazil,Sao Paulo,11962387
 Jaguara,Brazil,Sao Paulo,11962388
 Lajeado,Brazil,Sao Paulo,11962389
 Jabaquara,Brazil,Sao Paulo,11962390
@@ -3620,6 +3759,7 @@ Barra Funda,Brazil,Sao Paulo,11962393
 Belem,Brazil,Sao Paulo,11962394
 Brasilandia,Brazil,Sao Paulo,11962395
 Butanta,Brazil,Sao Paulo,11962396
+Campo Grande,Brazil,Sao Paulo,11962397
 Cangaiba,Brazil,Sao Paulo,11962398
 Cambuci,Brazil,Sao Paulo,11962399
 Campo Belo,Brazil,Sao Paulo,11962400
@@ -3651,7 +3791,7 @@ Bela Vista,Brazil,Sao Paulo,11962425
 Jardim Helena,Brazil,Sao Paulo,11962426
 Jardim Sao Luis,Brazil,Sao Paulo,11962427
 Republica,Brazil,Sao Paulo,11962428
-Sacoma,Brazil,Sao Paulo,11962429
+Sacomã,Brazil,Sao Paulo,11962429
 Sao Rafael,Brazil,Sao Paulo,11962430
 Vila Andrade,Brazil,Sao Paulo,11962431
 Vila Curuca,Brazil,Sao Paulo,11962432
@@ -3659,6 +3799,20 @@ São Pedro,Brazil,Rio de Janeiro,11980142
 Bosque Saúde,Brazil,Sao Paulo,12377091
 Bairro da Penha,Brazil,Sao Paulo,12426999
 Bairro Parque Nossa Senhora do Carmo,Brazil,Sao Paulo,12427005
+Sudoeste/Octagonal,Brazil,Federal District,12432229
+Lago Sul,Brazil,Federal District,12432232
+Itapoã,Brazil,Federal District,12432866
+Lago Norte,Brazil,Federal District,12432908
+Jardim Botânico,Brazil,Federal District,12432956
+Sobradinho II,Brazil,Federal District,12432965
+Santa Maria,Brazil,Federal District,12432973
+Riacho Fundo II,Brazil,Federal District,12432977
+Riacho Fundo,Brazil,Federal District,12432978
+Samambaia,Brazil,Federal District,12432979
+Águas Claras,Brazil,Federal District,12432982
+Setor Complementar de Indústria e Abastecimento,Brazil,Federal District,12432990
+Park Way,Brazil,Federal District,12434382
+Cruziero,Brazil,Federal District,12434388
 Apicum-Açu,Brazil,Maranhao,12958551
 Centro Novo do Maranhão,Brazil,Maranhao,12958623
 Turilândia,Brazil,Maranhao,12958671
@@ -3671,6 +3825,10 @@ Campinápolis,Brazil,Mato Grosso,12972572
 Brasnorte,Brazil,Mato Grosso,12978005
 Cidade Ocidental,Brazil,Goias,12991858
 São José da Lapa,Brazil,Minas Gerais,13005706
+São Sebastião,Brazil,Federal District,13450915
+Recanto das Emas,Brazil,Federal District,13450916
+Serra do Ramalho,Brazil,Bahia,13454596
+Plano Piloto,Brazil,Federal District,13512576
 Nassau,Bahamas,New Providence,3571824
 Lucaya,Bahamas,Freeport,3571971
 Killarney,Bahamas,New Providence,3572106
@@ -3773,6 +3931,7 @@ Ajax,Canada,Ontario,5882873
 Alliston,Canada,Ontario,5884051
 Alma,Canada,Quebec,5884083
 Amos,Canada,Quebec,5884588
+Arbutus Ridge,Canada,British Columbia,5886586
 Aurora,Canada,Ontario,5888377
 Baie-Comeau,Canada,Quebec,5889745
 Barrie,Canada,Ontario,5894171
@@ -3790,6 +3949,9 @@ Brampton,Canada,Ontario,5907364
 Brandon,Canada,Manitoba,5907896
 Brant,Canada,Ontario,5907983
 Brantford,Canada,Ontario,5907990
+Brighouse-City Centre,Canada,British Columbia,5908809
+Broadmoor,Canada,British Columbia,5909204
+Brocklehurst,Canada,British Columbia,5909278
 Brockville,Canada,Ontario,5909294
 Brossard,Canada,Quebec,5909629
 Burlington,Canada,Ontario,5911592
@@ -3800,6 +3962,7 @@ Cambridge,Canada,Ontario,5913695
 Campbell River,Canada,British Columbia,5914132
 Camrose,Canada,Alberta,5914653
 Candiac,Canada,Quebec,5914826
+Central Saanich,Canada,British Columbia,5919137
 Chambly,Canada,Quebec,5919566
 Charlottetown,Canada,Prince Edward Island,5920288
 Châteauguay,Canada,Quebec,5920433
@@ -3807,6 +3970,7 @@ Chatham,Canada,Ontario,5920457
 Chilliwack,Canada,British Columbia,5921356
 Clarence-Rockland,Canada,Ontario,5923101
 Cliffcrest,Canada,Ontario,5923921
+Cloverdale,Canada,British Columbia,5924204
 Cobourg,Canada,Ontario,5924579
 Cochrane,Canada,Alberta,5924618
 Collingwood,Canada,Ontario,5925975
@@ -3832,21 +3996,28 @@ Edmonton,Canada,Alberta,5946768
 Humbermede,Canada,Ontario,5948587
 Esquimalt,Canada,British Columbia,5949512
 Etobicoke,Canada,Ontario,5950268
+Fleetwood,Canada,British Columbia,5954556
 Flemingdon Park,Canada,Ontario,5954579
 Fort Erie,Canada,Ontario,5955815
 Fort McMurray,Canada,Alberta,5955895
 Fort St. John,Canada,British Columbia,5955960
+Fraser Heights,Canada,British Columbia,5957564
 Fredericton,Canada,New Brunswick,5957776
 Gatineau,Canada,Quebec,5959974
 Glace Bay,Canada,Nova Scotia,5961564
+Gordon Head,Canada,British Columbia,5963453
 Granby,Canada,Quebec,5964215
 Grande Prairie,Canada,Alberta,5964347
 Greater Sudbury,Canada,Ontario,5964700
+Grandview-Woodlands,Canada,British Columbia,5964731
 Greater Napanee,Canada,Ontario,5965812
 Grimsby,Canada,Ontario,5967149
 Guelph,Canada,Ontario,5967629
+Guildford,Canada,British Columbia,5967687
 Halton Hills,Canada,Ontario,5969721
 Hamilton,Canada,Ontario,5969782
+Haney,Canada,British Columbia,5970149
+Hastings-Sunrise,Canada,British Columbia,5971859
 Henry Farm,Canada,Ontario,5973973
 Hillcrest Village,Canada,Ontario,5975182
 Huntsville,Canada,Ontario,5978765
@@ -3857,11 +4028,14 @@ Kanata,Canada,Ontario,5989117
 Kelowna,Canada,British Columbia,5990579
 Kennedy Park,Canada,Ontario,5990916
 Kenora,Canada,Ontario,5991055
+Kensington-Cedar Cottage,Canada,British Columbia,5991085
 Keswick,Canada,Ontario,5991370
+Killarney,Canada,British Columbia,5991909
 Kingston,Canada,Ontario,5992500
 Kingsville,Canada,Ontario,5992526
 Kirkland,Canada,Quebec,5992830
 Kitchener,Canada,Ontario,5992996
+Kitsilano,Canada,British Columbia,5993123
 Langford,Canada,British Columbia,6049388
 Langley,Canada,British Columbia,6049429
 La Prairie,Canada,Quebec,6049863
@@ -3876,13 +4050,16 @@ Lindsay,Canada,Ontario,6054350
 Lloydminster,Canada,Alberta,6058024
 London,Canada,Ontario,6058560
 Longueuil,Canada,Quebec,6059891
+Lower Lonsdale,Canada,British Columbia,6061334
 Lutes Mountain,Canada,New Brunswick,6062163
 Magog,Canada,Quebec,6064180
+Maillardville,Canada,British Columbia,6064365
 Malvern,Canada,Ontario,6064969
 Maple Ridge,Canada,British Columbia,6065686
 Markham,Canada,Ontario,6066513
 Mascouche,Canada,Quebec,6067494
 Medicine Hat,Canada,Alberta,6071618
+Central Park-Metrotown,Canada,British Columbia,6072539
 Midland,Canada,Ontario,6073363
 Milliken,Canada,Ontario,6074143
 Milton,Canada,Ontario,6074377
@@ -3897,10 +4074,12 @@ Mont-Royal,Canada,Quebec,6077315
 Mont-Saint-Hilaire,Canada,Quebec,6077340
 Moose Jaw,Canada,Saskatchewan,6078112
 Mount Pearl,Canada,Newfoundland and Labrador,6082231
+Mount Pleasant,Canada,British Columbia,6082322
 Nanaimo,Canada,British Columbia,6085772
 Nepean,Canada,Ontario,6087029
 New Glasgow,Canada,Nova Scotia,6087579
 Newmarket,Canada,Ontario,6087701
+Newton,Canada,British Columbia,6087790
 New Westminster,Canada,British Columbia,6087844
 Niagara Falls,Canada,Ontario,6087892
 Niagara-on-the-Lake,Canada,Ontario,6087905
@@ -3908,11 +4087,13 @@ Norfolk County,Canada,Ontario,6089125
 North Battleford,Canada,Saskatchewan,6089404
 North Bay,Canada,Ontario,6089426
 North Cowichan,Canada,British Columbia,6089661
+North Delta,Canada,British Columbia,6089692
 North Vancouver,Canada,British Columbia,6090785
 Notre-Dame-de-Grâce,Canada,Quebec,6091314
 Oak Bay,Canada,British Columbia,6091919
 Oakville,Canada,Ontario,6092122
 Oakwood Village,Canada,Ontario,6092125
+Okanagan Mission,Canada,British Columbia,6092896
 Orangeville,Canada,Ontario,6094201
 Orillia,Canada,Ontario,6094325
 Oshawa,Canada,Ontario,6094578
@@ -3936,6 +4117,7 @@ Quinte West,Canada,Ontario,6115355
 Quispamsis,Canada,New Brunswick,6115383
 Red Deer,Canada,Alberta,6118158
 Regina,Canada,Saskatchewan,6119109
+Renfrew-Collingwood,Canada,British Columbia,6119451
 Repentigny,Canada,Quebec,6119518
 Richmond,Canada,British Columbia,6122085
 Richmond Hill,Canada,Ontario,6122091
@@ -3943,6 +4125,8 @@ Riverview,Canada,New Brunswick,6122758
 Rock Forest,Canada,Quebec,6126305
 Rouge,Canada,Ontario,6128081
 Rouyn-Noranda,Canada,Quebec,6128577
+Rutland,Canada,British Columbia,6136777
+Saanich,Canada,British Columbia,6136944
 Saguenay,Canada,Quebec,6137270
 Saint-Basile-le-Grand,Canada,Quebec,6137489
 Saint-Bruno-de-Montarville,Canada,Quebec,6137540
@@ -3968,11 +4152,13 @@ Sarnia,Canada,Ontario,6141190
 Saskatoon,Canada,Saskatchewan,6141256
 Sault Ste. Marie,Canada,Ontario,6141439
 Scarborough Village,Canada,Ontario,6141900
+Seafair,Canada,British Columbia,6142912
 Sept-Îles,Canada,Quebec,6144312
 Shawinigan,Canada,Quebec,6145489
 Sherbrooke,Canada,Quebec,6146143
 Sherwood Park,Canada,Alberta,6146279
 Sorel-Tracy,Canada,Quebec,6151350
+South Surrey,Canada,British Columbia,6152674
 Spruce Grove,Canada,Alberta,6154383
 Squamish,Canada,British Columbia,6154636
 St. Albert,Canada,Alberta,6155033
@@ -4005,16 +4191,20 @@ Vanier,Canada,Ontario,6173404
 Varennes,Canada,Quebec,6173508
 Vaudreuil-Dorion,Canada,Quebec,6173570
 Vaughan,Canada,Ontario,6173577
+Vedder Crossing,Canada,British Columbia,6173614
 Verdun,Canada,Quebec,6173767
 Vernon,Canada,British Columbia,6173864
 Victoria,Canada,British Columbia,6174041
+Victoria-Fraserview,Canada,British Columbia,6174068
 Victoriaville,Canada,Quebec,6174151
 Wasaga Beach,Canada,Ontario,6176421
 Waterloo,Canada,Ontario,6176823
 Welland,Canada,Ontario,6177869
+West End,Canada,British Columbia,6178582
 West Hill,Canada,Ontario,6178999
 Westmount,Canada,Quebec,6179226
 Weston,Canada,Ontario,6179268
+Whalley,Canada,British Columbia,6179830
 Whitby,Canada,Ontario,6180170
 Whitchurch-Stouffville,Canada,Ontario,6180176
 Whitehorse,Canada,Yukon,6180550
@@ -4043,7 +4233,9 @@ West Kelowna,Canada,British Columbia,7281936
 Jonquière,Canada,Quebec,7303786
 Saint-Augustin-de-Desmaures,Canada,Quebec,7535681
 Ladner,Canada,British Columbia,7602078
+Steveston,Canada,British Columbia,7602285
 Walnut Grove,Canada,British Columbia,7669012
+Willoughby,Canada,British Columbia,7669020
 Moss Park,Canada,Ontario,7870782
 High Park North,Canada,Ontario,7870882
 Auburn Bay,Canada,Alberta,7870884
@@ -4060,6 +4252,8 @@ West Vancouver,Canada,British Columbia,8533869
 Willowdale,Canada,Ontario,8558534
 Lower Sackville,Canada,Nova Scotia,10287505
 La Haute-Saint-Charles,Canada,Quebec,11838435
+Downtown,Canada,British Columbia,12022702
+Chinatown,Canada,British Columbia,12032531
 Fallingbrook,Canada,Ontario,12070742
 Valley East,Canada,Ontario,12070764
 York University Heights,Canada,Ontario,12156817
@@ -4124,6 +4318,27 @@ Parc-Extension,Canada,Quebec,12626157
 Outremont,Canada,Quebec,12626165
 Desmarchais-Crawford,Canada,Quebec,12626175
 Ile-des-Soeurs,Canada,Quebec,12626176
+Fairview,Canada,British Columbia,13495376
+Dunbar-Southlands,Canada,British Columbia,13495377
+Marpole,Canada,British Columbia,13495378
+Sunset,Canada,British Columbia,13495379
+Riley Park,Canada,British Columbia,13495380
+Edmonds,Canada,British Columbia,13495388
+Blundell,Canada,British Columbia,13495394
+Surrey City Centre,Canada,British Columbia,13512353
+Westwood Plateau,Canada,British Columbia,13512355
+Victoria-Downtown,Canada,British Columbia,13512358
+Carey,Canada,British Columbia,13512367
+Lougheed,Canada,British Columbia,13512377
+Harewood,Canada,British Columbia,13512378
+Central Lonsdale,Canada,British Columbia,13512383
+Townline,Canada,British Columbia,13512416
+Chilliwack-Downtown,Canada,British Columbia,13512426
+South Granville,Canada,British Columbia,13512545
+Downtown Eastside,Canada,British Columbia,13512546
+University Endowment Lands,Canada,British Columbia,13512547
+Maywood,Canada,British Columbia,13512548
+East Hastings,Canada,British Columbia,13512549
 West Island,Cocos (Keeling) Islands,,7304591
 Yangambi,"Congo, The Democratic Republic of the",Tshopo,203717
 Watsa,"Congo, The Democratic Republic of the",Haut-Uele,204283
@@ -4762,6 +4977,7 @@ Yingpan,China,Yunnan,1279575
 Rikaze,China,Tibet,1279715
 Tengyue,China,Yunnan,1279891
 Jiuquan,China,Gansu,1279945
+Gar,China,Tibet,1280003
 Shigu,China,Yunnan,1280006
 Shangyun,China,Yunnan,1280023
 Shangpa,China,Yunnan,1280031
@@ -4796,12 +5012,14 @@ Jiayuguan,China,Gansu,1280957
 Huatugou,China,Qinghai,1281003
 Houqiao,China,Yunnan,1281015
 Gujangbagh,China,Xinjiang,1281019
+Yushu,China,Qinghai,1281105
 Gudong,China,Yunnan,1281157
 Elixku,China,Xinjiang,1281278
 Dêqên,China,Tibet,1281368
 Langgar,China,Xinjiang,1281622
+Bayi,China,Tibet,1281650
 Baoshan,China,Yunnan,1281673
-Guangminglu,China,Xinjiang,1281743
+Artux,China,Xinjiang,1281743
 Layka,China,Xinjiang,1346629
 Saybag,China,Xinjiang,1346630
 Arix,China,Xinjiang,1346644
@@ -5041,7 +5259,7 @@ Xunchang,China,Sichuan,1787901
 Xujiang,China,Jiangxi,1787925
 Xuchang,China,Henan,1788046
 Xuantan,China,Sichuan,1788061
-Xuanzhou,China,Anhui,1788081
+Xuancheng,China,Anhui,1788081
 Xixiang,China,Henan,1788206
 Xixiang,China,Shaanxi,1788207
 Xiuying,China,Hainan,1788245
@@ -5253,7 +5471,7 @@ Shuanghe,China,Chongqing,1794700
 Shuanggou,China,Jiangsu,1794725
 Shouxian,China,Jiangsu,1794782
 Shouguang,China,Shandong,1794794
-Shizuishan,China,Ningxia,1794806
+Huinong,China,Ningxia,1794806
 Shizilu,China,Shandong,1794825
 Shiyan,China,Hubei,1794903
 Shiwan,China,Guangdong,1794947
@@ -5322,6 +5540,7 @@ Sangzhe,China,Chongqing,1796841
 Changsha,China,Guangdong,1796989
 Runing,China,Henan,1797038
 Rui’an,China,Zhejiang,1797063
+Tongren,China,Qinghai,1797091
 Ronglong,China,Chongqing,1797100
 Rongjiang,China,Yunnan,1797106
 Fuqing,China,Fujian,1797120
@@ -5364,6 +5583,7 @@ Qiaotou,China,Qinghai,1798131
 Qiaotou,China,Gansu,1798134
 Qiaoguan,China,Shandong,1798182
 Qianliu,China,Yunnan,1798290
+Qabqa,China,Qinghai,1798403
 Puzi,China,Chongqing,1798408
 Puyang Chengguanzhen,China,Henan,1798422
 Puyang,China,Zhejiang,1798425
@@ -5595,7 +5815,7 @@ Xixiang,China,Guangdong,1805175
 Jiujiang,China,Jiangxi,1805179
 Jiudian,China,Shandong,1805220
 Jishui,China,Henan,1805267
-Qianzhou,China,Hunan,1805270
+Jishou,China,Hunan,1805270
 Jinzhou,China,Liaoning,1805298
 Jinxiang,China,Zhejiang,1805334
 Jinshi,China,Hunan,1805379
@@ -5884,6 +6104,7 @@ Da’an,China,Chongqing,1814646
 Cuijiaji,China,Shandong,1814693
 Cizhu,China,Chongqing,1814712
 Chuzhou,China,Anhui,1814757
+Chuxiong,China,Yunnan,1814760
 Yangchun,China,Guangdong,1814786
 Yiwu,China,Zhejiang,1814870
 Chongxing,China,Ningxia,1814882
@@ -6351,6 +6572,9 @@ Hezhou,China,Guangxi,7576887
 Zhu Cheng City,China,Shandong,7602670
 Changzheng,China,Shanghai,7843638
 Shangri-La,China,Yunnan,7910932
+Maqin County,China,Qinghai,7931312
+Xilinhot,China,Inner Mongolia,8054802
+Lhoka,China,Tibet,8067345
 Xili,China,Guangdong,8334017
 Ulanqab,China,Inner Mongolia,8335361
 Ordos,China,Inner Mongolia,8347664
@@ -6754,6 +6978,10 @@ Shawei,China,Guangdong,13308740
 Zhuzilin,China,Guangdong,13308748
 Wushipai,China,Guangdong,13308755
 Luohu District,China,Guangdong,13405906
+Mengzi,China,Yunnan,13512502
+Lushui,China,Yunnan,13512503
+Lüliang,China,Shanxi,13512505
+Nyingchi,China,Tibet,13512708
 Zipaquirá,Colombia,Cundinamarca,3665542
 Zarzal,Colombia,Valle del Cauca Department,3665559
 Zaragoza,Colombia,Antioquia,3665566
@@ -6954,7 +7182,7 @@ Girón,Colombia,Santander Department,3682018
 Girardot City,Colombia,Cundinamarca,3682028
 Gigante,Colombia,Huila Department,3682047
 Garzón,Colombia,Huila Department,3682108
-Nueva Granada,Colombia,Sucre Department,3682232
+Galeras,Colombia,Sucre Department,3682232
 Galapa,Colombia,Atlantico,3682238
 Fusagasugá,Colombia,Cundinamarca,3682274
 Funza,Colombia,Cundinamarca,3682281
@@ -8969,6 +9197,7 @@ Huaquillas,Ecuador,El Oro,3655720
 Guayaquil,Ecuador,Guayas,3657509
 Guaranda,Ecuador,Bolivar,3657571
 Gualaceo,Ecuador,Azuay,3657670
+Guabo,Ecuador,El Oro,3657722
 Esmeraldas,Ecuador,Esmeraldas,3657990
 El Triunfo,Ecuador,Guayas,3658053
 Eloy Alfaro,Ecuador,Guayas,3658192
@@ -10304,7 +10533,7 @@ Lautoka,Fiji,Western,2204506
 Labasa,Fiji,Northern,2204582
 Nasinu,Fiji,Central,8740209
 Stanley,Falkland Islands (Malvinas),,3426691
-Palikir - National Government Center,"Micronesia, Federated States of",Pohnpei State,2081986
+Palikir,"Micronesia, Federated States of",Pohnpei State,2081986
 Tórshavn,Faroe Islands,Streymoy,2611396
 Yerres,France,Ile-de-France,2967245
 Wittenheim,France,Grand Est,2967318
@@ -11248,6 +11477,7 @@ Omagh,United Kingdom,Northern Ireland,2640967
 Oldham,United Kingdom,England,2641022
 Oadby,United Kingdom,England,2641134
 Nuneaton,United Kingdom,England,2641157
+Notting Hill,United Kingdom,England,2641168
 Nottingham,United Kingdom,England,2641170
 Norwich,United Kingdom,England,2641181
 Northwich,United Kingdom,England,2641224
@@ -11844,21 +12074,17 @@ Furzedown,United Kingdom,England,12048252
 Seven Sisters,United Kingdom,England,12048325
 Tottenham Hale,United Kingdom,England,12048327
 Washwood Heath,United Kingdom,England,12076699
-Dhekelia,United Kingdom,,12196125
 Primrose Place,United Kingdom,England,13353776
 Saint George's,Grenada,Saint George Parish,3579925
 Zugdidi,Georgia,Samegrelo and Zemo Svaneti,610824
-Zest’aponi,Georgia,Imereti,610864
+Zestaponi,Georgia,Imereti,610864
 Ts’khinvali,Georgia,Shida Kartli,611403
-Tqvarch'eli,Georgia,Abkhazia,611583
 Telavi,Georgia,Kakheti,611694
 Tbilisi,Georgia,Tbilisi,611717
 Sokhumi,Georgia,Abkhazia,611847
-Senak’i,Georgia,Samegrelo and Zemo Svaneti,612053
 Samtredia,Georgia,Imereti,612126
 Rustavi,Georgia,Kvemo Kartli,612287
-P’ot’i,Georgia,Samegrelo and Zemo Svaneti,612366
-Ochamchire,Georgia,Abkhazia,612652
+Poti,Georgia,Samegrelo and Zemo Svaneti,612366
 Marneuli,Georgia,Kvemo Kartli,613074
 Kutaisi,Georgia,Imereti,613607
 Kobuleti,Georgia,Adjara,613762
@@ -11867,7 +12093,6 @@ Gori,Georgia,Shida Kartli,614455
 Batumi,Georgia,Adjara,615532
 Akhaltsikhe,Georgia,Samtskhe-Javakheti,615860
 Stantsiya Novyy Afon,Georgia,Abkhazia,615912
-Ts’q’alt’ubo,Georgia,Imereti,824288
 Saint-Laurent-du-Maroni,French Guiana,Guyane,3380387
 Rémire-Montjoly,French Guiana,Guyane,3380892
 Matoury,French Guiana,Guyane,3380965
@@ -12528,6 +12753,7 @@ Hajdúböszörmény,Hungary,Hajdu-Bihar,720292
 Gyula,Hungary,Bekes County,720334
 Gyomaendrőd,Hungary,Bekes County,720364
 Eger,Hungary,Heves County,721239
+Diósgyőr,Hungary,Borsod-Abauj-Zemplen,721378
 Debrecen,Hungary,Hajdu-Bihar,721472
 Csongrád,Hungary,Csongrad,721592
 Békéscsaba,Hungary,Bekes County,722437
@@ -13198,7 +13424,7 @@ Kiryat Ono,Israel,Tel Aviv,12031840
 Binyamina-Giv'at Ada,Israel,Haifa,12156557
 Douglas,Isle of Man,Douglas,3042237
 Pūnch,India,Jammu and Kashmir,1167718
-Keelakarai,India,Tamil Nadu,1252646
+Kilakarai,India,Tamil Nadu,1252646
 Zunheboto,India,Nagaland,1252653
 Zamānia,India,Uttar Pradesh,1252692
 Zaidpur,India,Uttar Pradesh,1252698
@@ -13240,6 +13466,7 @@ Vizianagaram,India,Andhra Pradesh,1253084
 Vittal,India,Karnataka,1253087
 Vite,India,Maharashtra,1253091
 Visnagar,India,Gujarat,1253095
+Vishāram,India,Tamil Nadu,1253098
 Visakhapatnam,India,Andhra Pradesh,1253102
 Vīsāvadar,India,Gujarat,1253105
 Virudunagar,India,Tamil Nadu,1253113
@@ -13249,11 +13476,15 @@ Virār,India,Maharashtra,1253133
 Viramgām,India,Gujarat,1253143
 Vinukonda,India,Andhra Pradesh,1253150
 Villupuram,India,Tamil Nadu,1253166
+Villianur,India,Puducherry,1253169
+Vilattikulam,India,Tamil Nadu,1253175
+Vikramasingapuram,India,Tamil Nadu,1253180
 Vikārābād,India,Telangana,1253182
 Vijayawada,India,Andhra Pradesh,1253184
 Vijāpur,India,Gujarat,1253193
 Vidisha,India,Madhya Pradesh,1253200
 Vettūr,India,Kerala,1253216
+Vettavalam,India,Tamil Nadu,1253217
 Vettaikkaranpudur,India,Tamil Nadu,1253219
 Vetapālem,India,Andhra Pradesh,1253220
 Verāval,India,Gujarat,1253237
@@ -13262,6 +13493,7 @@ Venkatagiri,India,Andhra Pradesh,1253251
 Vemalwāda,India,Telangana,1253275
 Velur,India,Tamil Nadu,1253278
 Vellore,India,Tamil Nadu,1253286
+Vellakkovil,India,Tamil Nadu,1253296
 Vejalpur,India,Gujarat,1253315
 Vedaraniyam,India,Tamil Nadu,1253330
 Vayalār,India,Kerala,1253340
@@ -13275,9 +13507,12 @@ Varangaon,India,Maharashtra,1253403
 Varanasi,India,Uttar Pradesh,1253405
 Vaniyambadi,India,Tamil Nadu,1253437
 Vandavāsi,India,Tamil Nadu,1253452
+Vandalūr,India,Tamil Nadu,1253454
 Valsād,India,Gujarat,1253468
 Valparai,India,Tamil Nadu,1253472
+Vallam,India,Tamil Nadu,1253481
 Vallabh Vidyanagar,India,Gujarat,1253482
+Valavanur,India,Tamil Nadu,1253490
 Valabhīpur,India,Gujarat,1253512
 Vaikam,India,Kerala,1253544
 Vaijāpur,India,Maharashtra,1253545
@@ -13286,7 +13521,7 @@ Vāghodia,India,Gujarat,1253559
 Vadodara,India,Gujarat,1253573
 Vadnagar,India,Gujarat,1253577
 Vadlapūdi,India,Andhra Pradesh,1253578
-Vādippatti,India,Tamil Nadu,1253579
+Vadipatti,India,Tamil Nadu,1253579
 Vādāsinor,India,Gujarat,1253591
 Vadamadurai,India,Tamil Nadu,1253595
 Vadāli,India,Gujarat,1253599
@@ -13295,11 +13530,14 @@ Vadakāncheri,India,Kerala,1253606
 Vāda,India,Maharashtra,1253610
 Uttiramerūr,India,Tamil Nadu,1253623
 Uttarkāshi,India,Uttarakhand,1253628
+Ūttangarai,India,Tamil Nadu,1253634
 Uttamapālaiyam,India,Tamil Nadu,1253635
 Utraula,India,Uttar Pradesh,1253638
+Utnūr,India,Telangana,1253644
 Usilampatti,India,Tamil Nadu,1253671
 Usehat,India,Uttar Pradesh,1253673
 Urun-Islāmpur,India,Maharashtra,1253676
+Urmar,India,Punjab,1253685
 Uravakonda,India,Andhra Pradesh,1253698
 Uran,India,Maharashtra,1253702
 Upleta,India,Gujarat,1253736
@@ -13323,6 +13561,7 @@ Umarga,India,Maharashtra,1253870
 Uluberiya,India,West Bengal,1253880
 Ullal,India,Karnataka,1253888
 Ulhasnagar,India,Maharashtra,1253894
+Ukhrul,India,Manipur,1253904
 Ujjain,India,Madhya Pradesh,1253914
 Ujhāni,India,Uttar Pradesh,1253918
 Udumalaippettai,India,Tamil Nadu,1253944
@@ -13338,6 +13577,7 @@ Udaipur,India,Tripura,1253987
 Ooty,India,Tamil Nadu,1253993
 Bara Uchāna,India,Haryana,1254000
 Ubaidullāhganj,India,Madhya Pradesh,1254005
+Tyāgadurgam,India,Tamil Nadu,1254012
 Turaiyūr,India,Tamil Nadu,1254043
 Tura,India,Meghalaya,1254046
 Tuni,India,Andhra Pradesh,1254054
@@ -13348,6 +13588,7 @@ Tulsīpur,India,Uttar Pradesh,1254102
 Tuljāpur,India,Maharashtra,1254111
 Tufānganj,India,West Bengal,1254131
 Tuensang,India,Nagaland,1254133
+Tudiyalūr,India,Tamil Nadu,1254136
 Thiruvananthapuram,India,Kerala,1254163
 Trittāla,India,Kerala,1254165
 Tripunittura,India,Kerala,1254170
@@ -13359,25 +13600,31 @@ Tondi,India,Tamil Nadu,1254249
 Tohāna,India,Haryana,1254274
 Todaraisingh,India,Rajasthan,1254282
 Todabhim,India,Rajasthan,1254283
+Tittagudi,India,Tamil Nadu,1254300
 Titlāgarh,India,Odisha,1254304
 Titāgarh,India,West Bengal,1254309
 Tisaiyanvilai,India,Tamil Nadu,1254317
 Tiruvottiyūr,India,Tamil Nadu,1254320
 Cheyyar,India,Tamil Nadu,1254322
-Tiruvannāmalai,India,Tamil Nadu,1254327
+Tiruvannamalai,India,Tamil Nadu,1254327
+Tiruvankod,India,Tamil Nadu,1254329
 Tiruvallur,India,Tamil Nadu,1254331
 Tiruvalla,India,Kerala,1254335
+Thiruthuraipoondi,India,Tamil Nadu,1254341
 Thiruthani,India,Tamil Nadu,1254342
 Tiruttangal,India,Tamil Nadu,1254343
 Tirūrangādi,India,Kerala,1254345
 Tirur,India,Kerala,1254346
 Tiruppuvanam,India,Tamil Nadu,1254347
 Tiruppur,India,Tamil Nadu,1254348
+Tirupattur,India,Tamil Nadu,1254354
 Tirupparangunram,India,Tamil Nadu,1254356
 Tirupati,India,Andhra Pradesh,1254360
 Tirunelveli,India,Tamil Nadu,1254361
+Tirumangalam,India,Tamil Nadu,1254372
 Tirumala,India,Andhra Pradesh,1254373
 Tirukkoyilur,India,Tamil Nadu,1254377
+Tirukkalikkunram,India,Tamil Nadu,1254380
 Tiruchengode,India,Tamil Nadu,1254385
 Tiruchirappalli,India,Tamil Nadu,1254388
 Tiruchchendur,India,Tamil Nadu,1254390
@@ -13394,6 +13641,7 @@ Tīkamgarh,India,Madhya Pradesh,1254534
 Tijāra,India,Rajasthan,1254538
 Thoubāl,India,Manipur,1254570
 Thiruvarur,India,Tamil Nadu,1254589
+Thiruvaiyaru,India,Tamil Nadu,1254590
 Thāsra,India,Gujarat,1254624
 Tharād,India,Gujarat,1254638
 Thara,India,Gujarat,1254640
@@ -13407,6 +13655,7 @@ Thākurganj,India,Bihar,1254694
 Thakurdwara,India,Uttar Pradesh,1254695
 Tezu,India,Arunachal Pradesh,1254709
 Tezpur,India,Assam,1254710
+Tevāram,India,Tamil Nadu,1254712
 Terdāl,India,Karnataka,1254727
 Teonthar,India,Madhya Pradesh,1254732
 Thenkasi,India,Tamil Nadu,1254744
@@ -13420,7 +13669,7 @@ Tekāri,India,Bihar,1254797
 Tehri,India,Uttarakhand,1254808
 Teghra,India,Bihar,1254813
 Tāsgaon,India,Maharashtra,1254858
-Tarn Tāran,India,Punjab,1254868
+Tarn Taran,India,Punjab,1254868
 Tarikere,India,Karnataka,1254880
 Tharangambadi,India,Tamil Nadu,1254904
 Tārānagar,India,Rajasthan,1254908
@@ -13429,13 +13678,16 @@ Tāramangalam,India,Tamil Nadu,1254910
 Tarakeswar,India,West Bengal,1254912
 Tāoru,India,Haryana,1254948
 Tanuku,India,Andhra Pradesh,1254953
-Tāndūr,India,Telangana,1255004
+Tandur,India,Telangana,1255004
 Tānda,India,Uttar Pradesh,1255023
 Tāndā,India,Uttar Pradesh,1255024
 Tanakpur,India,Uttarakhand,1255027
+Tammampatti,India,Tamil Nadu,1255044
 Tamlūk,India,West Bengal,1255046
+Tamenglong,India,Manipur,1255056
 Tambaram,India,Tamil Nadu,1255062
 Talwāra,India,Punjab,1255076
+Talwandi Sābo,India,Punjab,1255078
 Talwandi Bhai,India,Punjab,1255082
 Taloda,India,Maharashtra,1255104
 Taliparamba,India,Kerala,1255121
@@ -13457,7 +13709,7 @@ Susner,India,Madhya Pradesh,1255301
 Suriāpet,India,Telangana,1255344
 Suriānwān,India,Uttar Pradesh,1255346
 Surendranagar,India,Gujarat,1255349
-Sūratgarh,India,Rajasthan,1255361
+Suratgarh,India,Rajasthan,1255361
 Surat,India,Gujarat,1255364
 Sūrandai,India,Tamil Nadu,1255372
 Surajpur,India,Chhattisgarh,1255381
@@ -13465,7 +13717,7 @@ Sūrajgarh,India,Rajasthan,1255383
 Supaul,India,Bihar,1255396
 Sunel,India,Rajasthan,1255425
 Sundarnagar,India,Himachal Pradesh,1255434
-Sundargarh,India,Odisha,1255437
+Sundergarh,India,Odisha,1255437
 Sunām,India,Punjab,1255449
 Sumbal,India,Jammu and Kashmir,1255478
 Sullya,India,Karnataka,1255482
@@ -13531,6 +13783,7 @@ Sirsāganj,India,Uttar Pradesh,1256050
 Sirsa,India,Haryana,1256052
 Sironj,India,Madhya Pradesh,1256064
 Sirohi,India,Rajasthan,1256067
+Sir Muttra,India,Rajasthan,1256070
 Sīrkāzhi,India,Tamil Nadu,1256075
 Sirhind,India,Punjab,1256087
 Sirālkoppa,India,Karnataka,1256100
@@ -13592,6 +13845,7 @@ Sherghāti,India,Bihar,1256572
 Sheopur,India,Madhya Pradesh,1256593
 Sheohar,India,Bihar,1256597
 Sheoganj,India,Rajasthan,1256598
+Shenkottai,India,Tamil Nadu,1256608
 Shehera,India,Gujarat,1256616
 Shegaon,India,Maharashtra,1256620
 Shāntipur,India,West Bengal,1256639
@@ -13618,6 +13872,7 @@ Shāhābād,India,Uttar Pradesh,1256753
 Shāhābād,India,Uttar Pradesh,1256755
 Shāhābād,India,Karnataka,1256759
 Siwāni,India,Haryana,1256773
+Settūr,India,Tamil Nadu,1256783
 Serchhīp,India,Mizoram,1256812
 Sedam,India,Karnataka,1256814
 Seoni Mālwa,India,Madhya Pradesh,1256823
@@ -13627,10 +13882,11 @@ Seondha,India,Madhya Pradesh,1256828
 Seohāra,India,Uttar Pradesh,1256832
 Shendurjana,India,Maharashtra,1256846
 Sendhwa,India,Madhya Pradesh,1256854
+Sendamangalam,India,Tamil Nadu,1256857
 Sehore,India,Madhya Pradesh,1256913
 Secunderabad,India,Telangana,1256922
 Sāyla,India,Gujarat,1256929
-Sawāi Mādhopur,India,Rajasthan,1256949
+Sawai Madhopur,India,Rajasthan,1256949
 Sāvli,India,Gujarat,1256955
 Sāvda,India,Maharashtra,1256959
 Savanūr,India,Karnataka,1256967
@@ -13659,6 +13915,7 @@ Saoner,India,Maharashtra,1257307
 Sānwer,India,Madhya Pradesh,1257313
 Sānkrāil,India,West Bengal,1257354
 Sankeshwar,India,Karnataka,1257369
+Sankarankovil,India,Tamil Nadu,1257379
 Sangrūr,India,Punjab,1257402
 Sāngola,India,Maharashtra,1257409
 Sangod,India,Rajasthan,1257410
@@ -13678,11 +13935,13 @@ Samthar,India,Uttar Pradesh,1257498
 Samrāla,India,Punjab,1257503
 Sāmpla,India,Haryana,1257508
 Samdari,India,Rajasthan,1257528
+Sāmbūrvadakara,India,Tamil Nadu,1257530
 Sāmbhar,India,Rajasthan,1257539
 Sambhal,India,Uttar Pradesh,1257540
 Sambalpur,India,Odisha,1257542
 Sāmba,India,Jammu and Kashmir,1257545
 Samāstipur,India,Bihar,1257551
+Samāna,India,Punjab,1257559
 Sāmalkot,India,Andhra Pradesh,1257565
 Samālkha,India,Haryana,1257566
 Samālka,India,Delhi,1257567
@@ -13705,13 +13964,14 @@ Sahaswān,India,Uttar Pradesh,1257800
 Sahaspur,India,Uttar Pradesh,1257802
 Saharsa,India,Bihar,1257804
 Sahāranpur,India,Uttar Pradesh,1257806
+Sāgwāra,India,Rajasthan,1257819
 Sagauli,India,Bihar,1257830
 Saugor,India,Madhya Pradesh,1257845
 Sāgar,India,Karnataka,1257851
 Safīpur,India,Uttar Pradesh,1257854
 Safidon,India,Haryana,1257855
 Sādri,India,Rajasthan,1257865
-Sadashivpet,India,Telangana,1257890
+Sadasivpet,India,Telangana,1257890
 Sadalgi,India,Karnataka,1257895
 Sadābād,India,Uttar Pradesh,1257896
 Sachīn,India,Gujarat,1257901
@@ -13729,7 +13989,7 @@ Robertsganj,India,Uttar Pradesh,1258111
 Risod,India,Maharashtra,1258124
 Rishra,India,West Bengal,1258126
 Rishīkesh,India,Uttarakhand,1258128
-Rīngas,India,Rajasthan,1258140
+Reengus,India,Rajasthan,1258140
 Richha,India,Uttar Pradesh,1258164
 Rewāri,India,Haryana,1258178
 Rewa,India,Madhya Pradesh,1258182
@@ -13742,6 +14002,7 @@ Remuna,India,Odisha,1258229
 Rehli,India,Madhya Pradesh,1258247
 Rāzām,India,Andhra Pradesh,1258270
 Raybag,India,Karnataka,1258278
+Rāyagada,India,Odisha,1258289
 Rāyadrug,India,Andhra Pradesh,1258290
 Rayachoti,India,Andhra Pradesh,1258291
 Rāya,India,Uttar Pradesh,1258292
@@ -13779,11 +14040,13 @@ Rāmpura,India,Punjab,1258584
 Rāmpura,India,Madhya Pradesh,1258592
 Rāmpur,India,Uttar Pradesh,1258598
 Rāmpur,India,Uttar Pradesh,1258599
+Rāmpur,India,Odisha,1258619
 Rāmnagar,India,Uttarakhand,1258637
 Rāmnagar,India,Bihar,1258639
 Rāmnagar,India,Uttar Pradesh,1258642
 Rāmjībanpur,India,West Bengal,1258658
 Rāmgundam,India,Telangana,1258662
+Rāmgarh,India,Rajasthan,1258674
 Rāmgarh,India,Rajasthan,1258677
 Rāmgarh,India,Jharkhand,1258686
 Rāmganj Mandi,India,Rajasthan,1258692
@@ -13796,7 +14059,7 @@ Rāmachandrapuram,India,Andhra Pradesh,1258756
 Rājūra,India,Maharashtra,1258786
 Rājula,India,Gujarat,1258795
 Rājsamand,India,Rajasthan,1258797
-Rājpura,India,Punjab,1258803
+Rajpura,India,Punjab,1258803
 Alirajpur,India,Madhya Pradesh,1258815
 Rajpur,India,Madhya Pradesh,1258816
 Rājpīpla,India,Gujarat,1258819
@@ -13811,7 +14074,7 @@ Rājgarh,India,Madhya Pradesh,1258875
 Rājgarh,India,Madhya Pradesh,1258876
 Rajaori,India,Jammu and Kashmir,1258891
 Rajauli,India,Bihar,1258895
-Rajapalaiyam,India,Tamil Nadu,1258916
+Rajapalayam,India,Tamil Nadu,1258916
 Rāzampeta,India,Andhra Pradesh,1258922
 Rājaldesar,India,Rajasthan,1258928
 Rājākhera,India,Rajasthan,1258930
@@ -13826,6 +14089,7 @@ Raigarh,India,Chhattisgarh,1259005
 Rāiganj,India,West Bengal,1259009
 Rāichūr,India,Karnataka,1259012
 Rāhuri,India,Maharashtra,1259019
+Rāhon,India,Punjab,1259022
 Rahimatpur,India,Maharashtra,1259026
 Rāhatgarh,India,Madhya Pradesh,1259034
 Rahata,India,Maharashtra,1259036
@@ -13844,6 +14108,7 @@ Puttūr,India,Karnataka,1259124
 Pushkar,India,Rajasthan,1259148
 Pusad,India,Maharashtra,1259154
 Purwā,India,Uttar Pradesh,1259157
+Purushottampur,India,Odisha,1259158
 Puruliya,India,West Bengal,1259163
 Purnia,India,Bihar,1259166
 Pūrna,India,Maharashtra,1259177
@@ -13859,14 +14124,16 @@ Punāsa,India,Madhya Pradesh,1259239
 Punalūr,India,Kerala,1259243
 Pūnāhāna,India,Haryana,1259244
 Pulwama,India,Jammu and Kashmir,1259251
-Puliyangudi,India,Tamil Nadu,1259263
+Puliyankudi,India,Tamil Nadu,1259263
 Pulivendla,India,Andhra Pradesh,1259264
 Pulgaon,India,Maharashtra,1259272
 Pukhrāyān,India,Uttar Pradesh,1259283
+Pugalūr,India,Tamil Nadu,1259286
 Pudunagaram,India,Kerala,1259296
 Pudukkottai,India,Tamil Nadu,1259297
 Proddatūr,India,Andhra Pradesh,1259312
 Pratāpgarh,India,Rajasthan,1259338
+Pottanūr,India,Tamil Nadu,1259361
 Port Blair,India,Andaman and Nicobar,1259385
 Porsa,India,Madhya Pradesh,1259388
 Porbandar,India,Gujarat,1259395
@@ -13935,6 +14202,7 @@ Pen,India,Maharashtra,1259931
 Pehowa,India,Haryana,1259939
 Peddāpuram,India,Andhra Pradesh,1259954
 Peddapalli,India,Telangana,1259961
+Peddanāyakkanpālaiyam,India,Tamil Nadu,1259965
 Pedana,India,Andhra Pradesh,1259986
 Payyanur,India,Kerala,1259994
 Pawāyan,India,Uttar Pradesh,1260003
@@ -13997,6 +14265,7 @@ Pāndharkawada,India,Maharashtra,1260547
 French Rocks,India,Karnataka,1260553
 Pandaria,India,Chhattisgarh,1260556
 Panjim,India,Goa,1260607
+Pānakkudi,India,Tamil Nadu,1260609
 Panāgar,India,Madhya Pradesh,1260612
 Pāmūru,India,Andhra Pradesh,1260615
 Pāmpur,India,Jammu and Kashmir,1260618
@@ -14027,7 +14296,9 @@ Paithan,India,Maharashtra,1260833
 Pahāsu,India,Uttar Pradesh,1260868
 Padrauna,India,Uttar Pradesh,1260909
 Padra,India,Gujarat,1260911
+Padmapur,India,Odisha,1260916
 Padmanābhapuram,India,Tamil Nadu,1260918
+Pādiyanallūr,India,Tamil Nadu,1260925
 Padampur,India,Rajasthan,1260938
 Padampur,India,Odisha,1260940
 Padam,India,Ladakh,1260942
@@ -14038,6 +14309,7 @@ Ottapalam,India,Kerala,1261008
 Dharashiv,India,Maharashtra,1261012
 Orai,India,Uttar Pradesh,1261039
 Ongole,India,Andhra Pradesh,1261045
+Omalur,India,Tamil Nadu,1261049
 Okha,India,Gujarat,1261066
 Ozar,India,Maharashtra,1261068
 Od,India,Gujarat,1261084
@@ -14051,6 +14323,7 @@ Nowgong,India,Madhya Pradesh,1261164
 North Lakhimpur,India,Assam,1261181
 North Guwāhāti,India,Assam,1261186
 Nongstoin,India,Meghalaya,1261205
+Nongpoh,India,Meghalaya,1261208
 Nokha,India,Rajasthan,1261227
 Nohar,India,Rajasthan,1261234
 Noāmundi,India,Jharkhand,1261242
@@ -14068,10 +14341,11 @@ Nīlēshwar,India,Kerala,1261394
 Nilanga,India,Maharashtra,1261396
 Nilambūr,India,Kerala,1261398
 Nilakottai,India,Tamil Nadu,1261401
-Nīlgiri,India,Odisha,1261402
+Nilagiri,India,Odisha,1261402
 Nihtaur,India,Uttar Pradesh,1261415
 Nidadavole,India,Andhra Pradesh,1261446
 Nichlaul,India,Uttar Pradesh,1261451
+Ngūr,India,Mizoram,1261468
 Neyyāttinkara,India,Kerala,1261470
 Neyveli,India,Tamil Nadu,1261473
 New Delhi,India,Delhi,1261481
@@ -14083,6 +14357,7 @@ Nellimarla,India,Andhra Pradesh,1261531
 Nellikkuppam,India,Tamil Nadu,1261532
 Nelamangala,India,Karnataka,1261539
 Nedumangād,India,Kerala,1261553
+Nazareth,India,Tamil Nadu,1261564
 Nāyudupet,India,Andhra Pradesh,1261567
 Nayāgarh,India,Odisha,1261580
 Nawanshahr,India,Punjab,1261598
@@ -14114,6 +14389,7 @@ Narwāna,India,Haryana,1261739
 Narsīpatnam,India,Andhra Pradesh,1261748
 Narsinghgarh,India,Madhya Pradesh,1261752
 Narsimhapur,India,Madhya Pradesh,1261754
+Narsampet,India,Telangana,1261760
 Naroli,India,Dadra and Nagar Haveli and Daman and Diu,1261767
 Nārnaund,India,Haryana,1261771
 Narnaul,India,Haryana,1261772
@@ -14123,6 +14399,7 @@ Nargund,India,Karnataka,1261800
 Narela,India,Delhi,1261809
 Naregal,India,Karnataka,1261810
 Nārāyanpet,India,Telangana,1261823
+Nārāyankher,India,Telangana,1261826
 Naraingarh,India,Haryana,1261828
 Nāravārikuppam,India,Tamil Nadu,1261835
 Naraura,India,Uttar Pradesh,1261837
@@ -14158,6 +14435,7 @@ Naldurg,India,Maharashtra,1262073
 Nalbāri,India,Assam,1262078
 Nakūr,India,Uttar Pradesh,1262089
 Naksalbāri,India,West Bengal,1262092
+Nakrekal,India,Telangana,1262093
 Nakodar,India,Punjab,1262097
 Najībābād,India,Uttar Pradesh,1262109
 Najafgarh,India,Delhi,1262111
@@ -14176,7 +14454,7 @@ Nāgaur,India,Rajasthan,1262216
 Nāgar Karnūl,India,Telangana,1262230
 Nagari,India,Andhra Pradesh,1262240
 Nagar,India,Rajasthan,1262253
-Negapatam,India,Tamil Nadu,1262260
+Nagapattinam,India,Tamil Nadu,1262260
 Nāgamangala,India,Karnataka,1262266
 Nagalapuram,India,Andhra Pradesh,1262270
 Naduvannūr,India,Kerala,1262285
@@ -14213,6 +14491,7 @@ Mūlki,India,Karnataka,1262546
 Mulgund,India,Karnataka,1262553
 Mulbāgal,India,Karnataka,1262562
 Muluppilagadu,India,Kerala,1262566
+Mūlanūr,India,Tamil Nadu,1262567
 Mūl,India,Maharashtra,1262574
 Muktsar,India,Punjab,1262578
 Mukher,India,Maharashtra,1262591
@@ -14243,7 +14522,7 @@ Moga,India,Punjab,1262951
 Modāsa,India,Gujarat,1262958
 Misrikh,India,Uttar Pradesh,1262988
 Mirzāpur,India,Uttar Pradesh,1262995
-Miriālgūda,India,Telangana,1263012
+Miryalaguda,India,Telangana,1263012
 Mīrganj,India,Uttar Pradesh,1263015
 Mīrānpur Katra,India,Uttar Pradesh,1263021
 Mīrānpur,India,Uttar Pradesh,1263022
@@ -14264,6 +14543,7 @@ Mehndāwal,India,Uttar Pradesh,1263185
 Mehkar,India,Maharashtra,1263195
 Meerut,India,Uttar Pradesh,1263214
 Medinīpur,India,West Bengal,1263220
+Medchal,India,Telangana,1263226
 Medak,India,Telangana,1263230
 Mayiladuthurai,India,Tamil Nadu,1263247
 Mayāng Imphāl,India,Manipur,1263255
@@ -14276,6 +14556,7 @@ Maudaha,India,Uttar Pradesh,1263303
 Mau Aimma,India,Uttar Pradesh,1263306
 Mau,India,Madhya Pradesh,1263309
 Mau,India,Uttar Pradesh,1263311
+Mattigiri,India,Tamil Nadu,1263329
 Mattanur,India,Kerala,1263331
 Mathura,India,Uttar Pradesh,1263364
 Mātābhānga,India,West Bengal,1263395
@@ -14324,11 +14605,12 @@ Mandlā,India,Madhya Pradesh,1263852
 Mandi Dabwāli,India,Haryana,1263859
 Mandi,India,Himachal Pradesh,1263862
 Mandāwar,India,Uttar Pradesh,1263879
+Mandāwa,India,Rajasthan,1263883
 Mandapeta,India,Andhra Pradesh,1263898
 Mandapam,India,Tamil Nadu,1263900
 Māndalgarh,India,Rajasthan,1263911
 Māndal,India,Rajasthan,1263917
-Mancherāl,India,Telangana,1263936
+Mancherial,India,Telangana,1263936
 Manchar,India,Maharashtra,1263937
 Manāwar,India,Madhya Pradesh,1263940
 Mānāvadar,India,Gujarat,1263943
@@ -14336,6 +14618,7 @@ Manāsa,India,Madhya Pradesh,1263949
 Manapparai,India,Tamil Nadu,1263952
 Manamadurai,India,Tamil Nadu,1263965
 Manali,India,Tamil Nadu,1263968
+Mahabalipuram,India,Tamil Nadu,1263997
 Mālvan,India,Maharashtra,1264007
 Mālūr,India,Karnataka,1264010
 Mālpura,India,Rajasthan,1264032
@@ -14350,6 +14633,7 @@ Malegaon,India,Maharashtra,1264115
 Malavalli,India,Karnataka,1264136
 Malout,India,Punjab,1264138
 Malappuram,India,Kerala,1264154
+Mukandgarh,India,Rajasthan,1264195
 Mākum,India,Assam,1264196
 Maksi,India,Madhya Pradesh,1264198
 Makrāna,India,Rajasthan,1264206
@@ -14358,7 +14642,7 @@ Mairwa,India,Bihar,1264282
 Mainpuri,India,Uttar Pradesh,1264292
 Maināguri,India,West Bengal,1264301
 Maihar,India,Madhya Pradesh,1264317
-Mahwah,India,Rajasthan,1264323
+Mahwa,India,Rajasthan,1264323
 Mahuva,India,Gujarat,1264326
 Mahudha,India,Gujarat,1264344
 Maholi,India,Uttar Pradesh,1264356
@@ -14395,6 +14679,7 @@ Madhuban,India,Bihar,1264557
 Madhepura,India,Bihar,1264570
 Madgaon,India,Goa,1264588
 Maddūr,India,Karnataka,1264592
+Madattukkulam,India,Tamil Nadu,1264602
 Madanapalle,India,Andhra Pradesh,1264621
 Machilīpatnam,India,Andhra Pradesh,1264637
 Machhlīshahr,India,Uttar Pradesh,1264643
@@ -14402,7 +14687,7 @@ Māchhīwāra,India,Punjab,1264644
 Mācherla,India,Andhra Pradesh,1264647
 Lunglei,India,Mizoram,1264688
 Lūnāvāda,India,Gujarat,1264700
-Ludhiāna,India,Punjab,1264728
+Ludhiana,India,Punjab,1264728
 Lucknow,India,Uttar Pradesh,1264733
 Luckeesarai,India,Bihar,1264735
 Losal,India,Rajasthan,1264756
@@ -14417,6 +14702,7 @@ Lingsugūr,India,Karnataka,1264890
 Limbdi,India,Gujarat,1264912
 Leteri,India,Madhya Pradesh,1264949
 Leh,India,Ladakh,1264976
+Lawngtlai,India,Mizoram,1264986
 Loha,India,Maharashtra,1264987
 Lāwar Khās,India,Uttar Pradesh,1264989
 Lauri,India,Madhya Pradesh,1265005
@@ -14450,6 +14736,7 @@ Kuttuparamba,India,Kerala,1265394
 Kuttippuram,India,Kerala,1265395
 Koothanallur,India,Tamil Nadu,1265400
 Kuttampuzha,India,Kerala,1265401
+Kuthalam,India,Tamil Nadu,1265402
 Kutiyāna,India,Gujarat,1265415
 Kutiatodu,India,Kerala,1265418
 Kushtagi,India,Karnataka,1265446
@@ -14458,6 +14745,7 @@ Kurnool,India,Andhra Pradesh,1265491
 Kurinjippādi,India,Tamil Nadu,1265504
 Kurduvādi,India,Maharashtra,1265521
 Kurandvād,India,Maharashtra,1265539
+Kūrāli,India,Punjab,1265545
 Kuppam,India,Andhra Pradesh,1265555
 Kunnamkulam,India,Kerala,1265579
 Kunnamangalam,India,Kerala,1265580
@@ -14476,6 +14764,7 @@ Kulti,India,West Bengal,1265711
 Kulpahār,India,Uttar Pradesh,1265716
 Kulittalai,India,Tamil Nadu,1265723
 Kulgam,India,Jammu and Kashmir,1265734
+Kulasegaram,India,Tamil Nadu,1265742
 Kukshi,India,Madhya Pradesh,1265752
 Kukatpally,India,Telangana,1265767
 Kuju,India,Jharkhand,1265773
@@ -14484,7 +14773,7 @@ Kudāl,India,Maharashtra,1265809
 Kudachi,India,Karnataka,1265811
 Kuchera,India,Rajasthan,1265821
 Kuchāman,India,Rajasthan,1265828
-Kuchaiburi,India,Odisha,1265830
+Rairangpur,India,Odisha,1265830
 Krishnarājpet,India,Karnataka,1265852
 Krishnarājāsāgara,India,Karnataka,1265854
 Krishnanagar,India,West Bengal,1265859
@@ -14502,7 +14791,9 @@ Kōttakkal,India,Kerala,1265932
 Kottagūdem,India,Telangana,1265938
 Kotputli,India,Rajasthan,1265961
 Kotma,India,Madhya Pradesh,1265964
+Kot Kapūra,India,Punjab,1265973
 Kotharia,India,Gujarat,1265989
+Kothakota,India,Telangana,1266000
 Kotdwāra,India,Uttarakhand,1266014
 Kotapārh,India,Chhattisgarh,1266029
 Kotamangalam,India,Kerala,1266031
@@ -14518,7 +14809,7 @@ Koregaon,India,Maharashtra,1266117
 Korba,India,Chhattisgarh,1266122
 Koratla,India,Telangana,1266124
 Koratagere,India,Karnataka,1266126
-Korāput,India,Odisha,1266128
+Koraput,India,Odisha,1266128
 Koppal,India,Karnataka,1266154
 Kopargaon,India,Maharashtra,1266162
 Kopāganj,India,Uttar Pradesh,1266164
@@ -14529,6 +14820,7 @@ Kondapalle,India,Andhra Pradesh,1266209
 Kondagaon,India,Chhattisgarh,1266216
 Konch,India,Uttar Pradesh,1266217
 Konārka,India,Odisha,1266220
+Kombai,India,Tamil Nadu,1266240
 Kolasib,India,Mizoram,1266258
 Kollegāl,India,Karnataka,1266267
 Kolhāpur,India,Maharashtra,1266285
@@ -14536,7 +14828,7 @@ Kolāras,India,Madhya Pradesh,1266302
 Kolār,India,Karnataka,1266305
 Colachel,India,Tamil Nadu,1266322
 Kokrajhar,India,Assam,1266330
-Kohīma,India,Nagaland,1266366
+Kohima,India,Nagaland,1266366
 Koelwār,India,Bihar,1266372
 Kodungallūr,India,Kerala,1266385
 Kodoli,India,Maharashtra,1266390
@@ -14544,21 +14836,24 @@ Kodīnar,India,Gujarat,1266397
 Kodarma,India,Jharkhand,1266414
 Kodār,India,Telangana,1266416
 Kodaikānāl,India,Tamil Nadu,1266425
+Kuchinda,India,Odisha,1266433
 Koch Bihār,India,West Bengal,1266436
 Koāth,India,Bihar,1266448
 Kizhake Chālakudi,India,Kerala,1266452
 Kithor,India,Uttar Pradesh,1266461
 Kishtwār,India,Jammu and Kashmir,1266475
+Renwāl,India,Rajasthan,1266485
 Kishangarh,India,Rajasthan,1266486
 Kishanganj,India,Bihar,1266489
 Kīratpur,India,Uttar Pradesh,1266509
 Kiraoli,India,Uttar Pradesh,1266510
+Ulundurpet,India,Tamil Nadu,1266511
 Kinwat,India,Maharashtra,1266518
 Kichha,India,Uttarakhand,1266575
 Khūtār,India,Uttar Pradesh,1266596
 Khusropur,India,Bihar,1266598
 Khurja,India,Uttar Pradesh,1266607
-Khurda,India,Odisha,1266616
+Khordha,India,Odisha,1266616
 Khurai,India,Madhya Pradesh,1266620
 Khunti,India,Jharkhand,1266622
 Khuldābād,India,Maharashtra,1266631
@@ -14581,6 +14876,7 @@ Khatauli,India,Uttar Pradesh,1266849
 Khārupatia,India,Assam,1266862
 Kharsia,India,Chhattisgarh,1266872
 Kharkhauda,India,Haryana,1266891
+Kharhiāl,India,Odisha,1266924
 Khargone,India,Madhya Pradesh,1266928
 Khardah,India,West Bengal,1266945
 Kharar,India,Punjab,1266960
@@ -14611,11 +14907,13 @@ Khagaria,India,Bihar,1267189
 Khadki,India,Maharashtra,1267195
 Khada,India,Uttar Pradesh,1267202
 Khāchrod,India,Madhya Pradesh,1267203
+Kaithoon,India,Rajasthan,1267213
 Kesinga,India,Odisha,1267222
 Keshorai Pātan,India,Rajasthan,1267226
 Keshod,India,Gujarat,1267227
 Kesariyā,India,Bihar,1267231
 Kerūr,India,Karnataka,1267239
+Keonjhargarh,India,Odisha,1267267
 Kendrāparha,India,Odisha,1267283
 Kenda,India,West Bengal,1267290
 Kemrī,India,Uttar Pradesh,1267297
@@ -14623,6 +14921,7 @@ Kekri,India,Rajasthan,1267336
 Kayamkulam,India,Kerala,1267360
 Kayalpattinam,India,Tamil Nadu,1267361
 Kawardha,India,Chhattisgarh,1267369
+Kāveripatnam,India,Tamil Nadu,1267385
 Kāvali,India,Andhra Pradesh,1267394
 Kattivākkam,India,Tamil Nadu,1267433
 Kattanam,India,Kerala,1267435
@@ -14647,6 +14946,7 @@ Chitrakoot Dham,India,Uttar Pradesh,1267629
 Karwar,India,Karnataka,1267635
 Karur,India,Tamil Nadu,1267648
 Karungappalli,India,Kerala,1267657
+Karumattampatti,India,Tamil Nadu,1267661
 Kartārpur,India,Punjab,1267669
 Kurseong,India,West Bengal,1267675
 Karol Bāgh,India,Delhi,1267696
@@ -14654,6 +14954,7 @@ Karnāl,India,Haryana,1267708
 Karmāla,India,Maharashtra,1267716
 Kārkala,India,Karnataka,1267739
 Karjat,India,Maharashtra,1267742
+Kariapatti,India,Tamil Nadu,1267745
 Karīmnagar,India,Telangana,1267755
 Karīmganj,India,Assam,1267758
 Karhal,India,Uttar Pradesh,1267772
@@ -14661,14 +14962,16 @@ Kargil,India,Ladakh,1267776
 Karera,India,Madhya Pradesh,1267786
 Kareli,India,Madhya Pradesh,1267794
 Karauli,India,Rajasthan,1267819
+Karanjiā,India,Odisha,1267842
 Kāranja,India,Maharashtra,1267853
 Karamsad,India,Gujarat,1267862
 Kāramadai,India,Tamil Nadu,1267869
 Kāraikkudi,India,Tamil Nadu,1267885
 Kāraikāl,India,Puducherry,1267887
 Karād,India,Maharashtra,1267904
-Kapūrthala,India,Punjab,1267911
+Kapurthala Town,India,Punjab,1267911
 Kāpren,India,Rajasthan,1267923
+Kapasan,India,Rajasthan,1267934
 Kapadvanj,India,Gujarat,1267939
 Kānth,India,Uttar Pradesh,1267972
 Kantai,India,Bihar,1267976
@@ -14702,6 +15005,7 @@ Kamalganj,India,Uttar Pradesh,1268276
 Kāmākhyānagar,India,Odisha,1268279
 Kalyani,India,West Bengal,1268293
 Kalyān,India,Maharashtra,1268295
+Kalwākurti,India,Telangana,1268300
 Kalugumalai,India,Tamil Nadu,1268310
 Kālpi,India,Uttar Pradesh,1268325
 Kalpatta,India,Kerala,1268327
@@ -14753,9 +15057,11 @@ Jhumri Telaiya,India,Jharkhand,1268775
 Jalandhar,India,Punjab,1268782
 Shādīpur Julāna,India,Haryana,1268785
 Jugsālai,India,Jharkhand,1268799
+Jowai,India,Meghalaya,1268810
 Jorhat,India,Assam,1268820
 Jora,India,Madhya Pradesh,1268823
 Jalārpet,India,Tamil Nadu,1268834
+Jogipet,India,Telangana,1268846
 Jogbani,India,Bihar,1268855
 Jodiya Bandar,India,Gujarat,1268863
 Jodhpur,India,Rajasthan,1268865
@@ -14803,6 +15109,7 @@ Jānsath,India,Uttar Pradesh,1269227
 Jānjgīr,India,Chhattisgarh,1269239
 Jangipur,India,West Bengal,1269247
 Jangaon,India,Telangana,1269256
+Jandiāla Gurū,India,Punjab,1269267
 Jandiāla,India,Punjab,1269269
 Jāmuria,India,West Bengal,1269280
 Jāmul,India,Chhattisgarh,1269289
@@ -14834,6 +15141,7 @@ Jalālī,India,Uttar Pradesh,1269441
 Jalālābād,India,Punjab,1269445
 Jalālābad,India,Uttar Pradesh,1269446
 Jalālābād,India,Uttar Pradesh,1269447
+Jalakandapuram,India,Tamil Nadu,1269449
 Jājpur,India,Odisha,1269477
 Jaito,India,Punjab,1269488
 Jaitāran,India,Rajasthan,1269498
@@ -14854,6 +15162,7 @@ Jagatsinghapur,India,Odisha,1269581
 Jagalūr,India,Karnataka,1269602
 Jagādhri,India,Haryana,1269605
 Jāfarābād,India,Gujarat,1269612
+Jadcherla,India,Telangana,1269625
 Jabalpur,India,Madhya Pradesh,1269633
 Etmadpur,India,Uttar Pradesh,1269646
 Itārsi,India,Madhya Pradesh,1269653
@@ -14872,15 +15181,16 @@ Indergarh,India,Uttar Pradesh,1269752
 Indargarh,India,Madhya Pradesh,1269757
 Indāpur,India,Maharashtra,1269761
 Indāpur,India,Maharashtra,1269762
-Imphāl,India,Manipur,1269771
+Imphal,India,Manipur,1269771
 Ilkal,India,Karnataka,1269784
+Ilaiyankudi,India,Tamil Nadu,1269796
 Igatpuri,India,Maharashtra,1269810
 Idar,India,Gujarat,1269818
 Idappadi,India,Tamil Nadu,1269819
 Ichhāwar,India,Madhya Pradesh,1269824
 Ichchāpuram,India,Andhra Pradesh,1269827
 Ichalkaranji,India,Maharashtra,1269834
-Hyderābād,India,Telangana,1269843
+Hyderabad,India,Telangana,1269843
 Hadagalli,India,Karnataka,1269849
 Hatti,India,Karnataka,1269850
 Husainābād,India,Jharkhand,1269862
@@ -14908,7 +15218,7 @@ Hisar,India,Haryana,1270022
 Hiriyūr,India,Karnataka,1270032
 Hirekerūr,India,Karnataka,1270036
 Hīrākud,India,Odisha,1270059
-Hinjilikatu,India,Odisha,1270066
+Hinjilicut,India,Odisha,1270066
 Hingoli,India,Maharashtra,1270072
 Hinganghāt,India,Maharashtra,1270077
 Hindupur,India,Andhra Pradesh,1270079
@@ -14964,6 +15274,7 @@ Gursarāi,India,Uttar Pradesh,1270618
 Gursahāiganj,India,Uttar Pradesh,1270619
 Gurmatkāl,India,Karnataka,1270627
 Gurugram,India,Haryana,1270642
+Gurdaspur,India,Punjab,1270647
 Gunupur,India,Odisha,1270667
 Guntur,India,Andhra Pradesh,1270668
 Guntakal,India,Andhra Pradesh,1270670
@@ -14981,10 +15292,12 @@ Gūduvāncheri,India,Tamil Nadu,1270787
 Gūdūr,India,Andhra Pradesh,1270791
 Gudiyatham,India,Tamil Nadu,1270800
 Gudivāda,India,Andhra Pradesh,1270801
+Gudalur,India,Tamil Nadu,1270819
 Gudalur,India,Tamil Nadu,1270820
 Gubbi,India,Karnataka,1270824
 Goyerkāta,India,West Bengal,1270845
 Govardhan,India,Uttar Pradesh,1270863
+Gotan,India,Rajasthan,1270884
 Gosāba,India,West Bengal,1270896
 Gormi,India,Madhya Pradesh,1270903
 Gorantla,India,Andhra Pradesh,1270923
@@ -15049,12 +15362,13 @@ Gangārāmpur,India,West Bengal,1271670
 Gangāpur,India,Rajasthan,1271675
 Gangāpur,India,Rajasthan,1271676
 Gangāpur,India,Maharashtra,1271680
-Gangānagar,India,Rajasthan,1271685
+Sri Ganganagar,India,Rajasthan,1271685
 Gangākher,India,Maharashtra,1271688
 Gandhinagar,India,Gujarat,1271715
 Gāndhīdhām,India,Gujarat,1271717
 Gandevi,India,Gujarat,1271722
 Ganderbal,India,Jammu and Kashmir,1271729
+Gajwel,India,Telangana,1271777
 Gajraula,India,Uttar Pradesh,1271780
 Gajendragarh,India,Karnataka,1271789
 Gadwāl,India,Telangana,1271819
@@ -15065,10 +15379,10 @@ Gadag,India,Karnataka,1271850
 Fort Gloster,India,West Bengal,1271871
 Forbesganj,India,Bihar,1271874
 Fīrozpur Jhirka,India,Haryana,1271881
-Ferozepore,India,Punjab,1271883
+Firozpur,India,Punjab,1271883
 Fīrozābād,India,Uttar Pradesh,1271885
 Ferokh,India,Kerala,1271888
-Fāzilka,India,Punjab,1271891
+Fazilka,India,Punjab,1271891
 Fatwa,India,Bihar,1271892
 Fatehpur Sīkri,India,Uttar Pradesh,1271900
 Fatehpur,India,Rajasthan,1271910
@@ -15096,6 +15410,7 @@ Erandol,India,Maharashtra,1272025
 Emmiganūr,India,Andhra Pradesh,1272045
 Eluru,India,Andhra Pradesh,1272051
 Elūr,India,Kerala,1272052
+Elumalai,India,Tamil Nadu,1272053
 Ellenabad,India,Haryana,1272061
 Elamanchili,India,Andhra Pradesh,1272084
 Egra,India,West Bengal,1272101
@@ -15124,6 +15439,7 @@ Doddaballapura,India,Karnataka,1272473
 Doda,India,Jammu and Kashmir,1272476
 Diu,India,Dadra and Nagar Haveli and Daman and Diu,1272502
 Deesa,India,Gujarat,1272513
+Dirba,India,Punjab,1272517
 Diphu,India,Assam,1272525
 Dīnhāta,India,West Bengal,1272532
 Dindori,India,Madhya Pradesh,1272540
@@ -15159,6 +15475,7 @@ Dhārūr,India,Maharashtra,1272819
 Dhāruhera,India,Haryana,1272822
 Dhārni,India,Madhya Pradesh,1272829
 Dharamsala,India,Himachal Pradesh,1272832
+Dharmkot,India,Punjab,1272839
 Dharmavaram,India,Andhra Pradesh,1272842
 Dharmapuri,India,Tamil Nadu,1272847
 Dharmanagar,India,Tripura,1272852
@@ -15187,6 +15504,7 @@ Devgadh Bāriya,India,Gujarat,1273104
 Devarkonda,India,Telangana,1273109
 Devanahalli,India,Karnataka,1273123
 Devakottai,India,Tamil Nadu,1273128
+Devadanapatti,India,Tamil Nadu,1273132
 Deūlgaon Rāja,India,Maharashtra,1273136
 Deshnoke,India,Rajasthan,1273153
 Dergaon,India,Assam,1273166
@@ -15221,6 +15539,7 @@ Darsi,India,Andhra Pradesh,1273448
 Dārjiling,India,West Bengal,1273467
 Darbhanga,India,Bihar,1273491
 Dāpoli,India,Maharashtra,1273512
+Danta,India,Rajasthan,1273528
 Dandeli,India,Karnataka,1273574
 Dinapore,India,Bihar,1273581
 Damoh,India,Madhya Pradesh,1273587
@@ -15246,6 +15565,7 @@ Cuncolim,India,Goa,1273793
 Cumbum,India,Andhra Pradesh,1273795
 Kadapa,India,Andhra Pradesh,1273800
 Cuddalore,India,Tamil Nadu,1273802
+Coonoor,India,Tamil Nadu,1273833
 Kundapura,India,Karnataka,1273834
 Colonelganj,India,Uttar Pradesh,1273850
 Colgong,India,Bihar,1273856
@@ -15259,11 +15579,12 @@ Chunār,India,Uttar Pradesh,1273923
 Chotila,India,Gujarat,1273960
 Chorwād,India,Gujarat,1273970
 Chopda,India,Maharashtra,1273992
+Sholavandan,India,Tamil Nadu,1274005
 Chodavaram,India,Andhra Pradesh,1274020
 Rampachodavaram,India,Andhra Pradesh,1274021
 Chittūr,India,Kerala,1274032
 Chittoor,India,Andhra Pradesh,1274033
-Chittaurgarh,India,Rajasthan,1274040
+Chittorgarh,India,Rajasthan,1274040
 Chittaranjan,India,West Bengal,1274043
 Chitradurga,India,Karnataka,1274056
 Chitarpur,India,Jharkhand,1274073
@@ -15273,6 +15594,7 @@ Chīrāla,India,Andhra Pradesh,1274106
 Chīpurupalle,India,Andhra Pradesh,1274116
 Chiplūn,India,Maharashtra,1274119
 Chintamani,India,Karnataka,1274129
+Chinnūr,India,Telangana,1274142
 Chinna Salem,India,Tamil Nadu,1274146
 Chinnamanūr,India,Tamil Nadu,1274151
 Chincholi,India,Karnataka,1274169
@@ -15302,15 +15624,18 @@ Chhanerā,India,Madhya Pradesh,1274364
 Chhala,India,Gujarat,1274369
 Chhabra,India,Rajasthan,1274381
 Chettipālaiyam,India,Tamil Nadu,1274389
+Chetput,India,Tamil Nadu,1274393
 Chetput,India,Tamil Nadu,1274394
+Cheranmahadevi,India,Tamil Nadu,1274414
 Chennimalai,India,Tamil Nadu,1274422
 Chengannūr,India,Kerala,1274428
 Chengam,India,Tamil Nadu,1274429
 Chengalpattu,India,Tamil Nadu,1274430
 Chavara,India,Kerala,1274466
 Chetwayi,India,Kerala,1274468
+Chaumu,India,Rajasthan,1274496
 Chaksu,India,Rajasthan,1274532
-Chatrapur,India,Odisha,1274533
+Chhatrapur,India,Odisha,1274533
 Chatrā,India,Jharkhand,1274536
 Chas,India,Jharkhand,1274553
 Charthāwal,India,Uttar Pradesh,1274560
@@ -15361,15 +15686,17 @@ Būndu,India,Jharkhand,1275097
 Būndi,India,Rajasthan,1275103
 Buldāna,India,Maharashtra,1275117
 Bulandshahr,India,Uttar Pradesh,1275120
+Buguda,India,Odisha,1275132
 Budhlāda,India,Punjab,1275147
 Budhāna,India,Uttar Pradesh,1275152
 Budaun,India,Uttar Pradesh,1275163
 Bramhapuri,India,Maharashtra,1275191
-Brājarājnagar,India,Odisha,1275194
+Brajarajnagar,India,Odisha,1275194
 Brahmapur,India,Odisha,1275198
 Botad,India,Gujarat,1275218
 Borsad,India,Gujarat,1275230
 Borivli,India,Maharashtra,1275248
+Borāwar,India,Rajasthan,1275302
 Bongaigaon,India,Assam,1275321
 Mumbai,India,Maharashtra,1275339
 Bolpur,India,West Bengal,1275346
@@ -15386,11 +15713,12 @@ Bishrāmpur,India,Jharkhand,1275446
 Bishnupur,India,West Bengal,1275462
 Bisauli,India,Uttar Pradesh,1275476
 Bīsalpur,India,Uttar Pradesh,1275481
+Bisālgarh,India,Tripura,1275484
 Birūr,India,Karnataka,1275488
 Bīrpur,India,Bihar,1275499
 Birmitrapur,India,Odisha,1275506
 Beed,India,Maharashtra,1275539
-Binka,India,Odisha,1275558
+Binika,India,Odisha,1275558
 Bindki,India,Uttar Pradesh,1275572
 Etāwa,India,Madhya Pradesh,1275582
 Bilthra,India,Uttar Pradesh,1275589
@@ -15407,20 +15735,23 @@ Bilāri,India,Uttar Pradesh,1275646
 Bilāra,India,Rajasthan,1275647
 Bikramganj,India,Bihar,1275655
 Bikram,India,Bihar,1275656
-Bīkaner,India,Rajasthan,1275665
+Bikaner,India,Rajasthan,1275665
 Bijnor,India,Uttar Pradesh,1275679
 Bijbehara,India,Jammu and Kashmir,1275692
 Bijāwar,India,Madhya Pradesh,1275694
 Bījāpur,India,Chhattisgarh,1275700
 Vijayapura,India,Karnataka,1275701
 Bijaipur,India,Madhya Pradesh,1275705
+Bijaynagar,India,Rajasthan,1275708
 Bihtā,India,Bihar,1275712
 Bihār Sharīf,India,Bihar,1275716
 Bihārīganj,India,Bihar,1275719
 Bidhūna,India,Uttar Pradesh,1275732
+Bīdāsar,India,Rajasthan,1275736
 Bidar,India,Karnataka,1275738
 Biaora,India,Madhya Pradesh,1275762
 Kīl Bhuvanagiri,India,Tamil Nadu,1275768
+Boothapandi,India,Tamil Nadu,1275775
 Bhusawal,India,Maharashtra,1275778
 Bhundsi,India,Haryana,1275793
 Bhoom,India,Maharashtra,1275804
@@ -15444,9 +15775,10 @@ Bhindār,India,Rajasthan,1275925
 Bhind,India,Madhya Pradesh,1275926
 Bhīmunipatnam,India,Andhra Pradesh,1275930
 Bhimavaram,India,Andhra Pradesh,1275947
-Bhīlwāra,India,Rajasthan,1275960
+Bhilwara,India,Rajasthan,1275960
 Bhiloda,India,Gujarat,1275966
 Bhilai,India,Chhattisgarh,1275971
+Bhikkiwind Uttār,India,Punjab,1275974
 Bhīkhi,India,Punjab,1275977
 Bhikangaon,India,Madhya Pradesh,1275978
 Bhetia,India,Jharkhand,1275984
@@ -15463,7 +15795,7 @@ Bhātpāra,India,West Bengal,1276058
 Bhatkal,India,Karnataka,1276067
 Bathinda,India,Punjab,1276070
 Bhātāpāra,India,Chhattisgarh,1276084
-Bhasāwar,India,Rajasthan,1276092
+Bhusawar,India,Rajasthan,1276092
 Bharwāri,India,Uttar Pradesh,1276095
 Bharūch,India,Gujarat,1276100
 Bharthana,India,Uttar Pradesh,1276103
@@ -15480,7 +15812,7 @@ Bhainsdehi,India,Madhya Pradesh,1276265
 Bhāgalpur,India,Bihar,1276300
 Bhadreswar,India,West Bengal,1276320
 Bhadrāvati,India,Karnataka,1276321
-Bhadrakh,India,Odisha,1276325
+Bhadrak,India,Odisha,1276325
 Bhadrāchalam,India,Telangana,1276328
 Bhādra,India,Rajasthan,1276330
 Bhadohi,India,Uttar Pradesh,1276335
@@ -15542,6 +15874,7 @@ Barshi,India,Maharashtra,1276856
 Barpeta,India,Assam,1276867
 Barpāli,India,Odisha,1276870
 Baroda,India,Madhya Pradesh,1276885
+Chhipa Barod,India,Rajasthan,1276888
 Barnāla,India,Punjab,1276895
 Barnagar,India,Madhya Pradesh,1276897
 Bārmer,India,Rajasthan,1276901
@@ -15549,9 +15882,11 @@ Barki Saria,India,Jharkhand,1276919
 Barkā Kānā,India,Jharkhand,1276927
 Barjala,India,Tripura,1276938
 Bari Sādri,India,Rajasthan,1276939
+Baripāda,India,Odisha,1276942
 Bāri,India,Rajasthan,1276948
 Barhiya,India,Bihar,1276954
 Bārh,India,Bihar,1276977
+Bargūr,India,Tamil Nadu,1276978
 Bargi,India,Madhya Pradesh,1276982
 Bargarh,India,Odisha,1276988
 Bareli,India,Madhya Pradesh,1277005
@@ -15569,6 +15904,7 @@ Bāramūla,India,Jammu and Kashmir,1277085
 Bārāmati,India,Maharashtra,1277091
 Bārākpur,India,West Bengal,1277100
 Bāpatla,India,Andhra Pradesh,1277183
+Bāonlī,India,Rajasthan,1277194
 Bāola,India,Gujarat,1277196
 Banūr,India,Punjab,1277200
 Bantvāl,India,Karnataka,1277201
@@ -15602,13 +15938,15 @@ Bāmaur,India,Madhya Pradesh,1277482
 Balussheri,India,Kerala,1277505
 Bālurghāt,India,West Bengal,1277508
 Bālugaon,India,Odisha,1277514
+Bālugān,India,Odisha,1277515
 Balrāmpur,India,Uttar Pradesh,1277525
-Bālotra,India,Rajasthan,1277527
+Balotra,India,Rajasthan,1277527
 Baloda Bāzār,India,Chhattisgarh,1277530
 Balod,India,Chhattisgarh,1277535
 Bāli,India,West Bengal,1277539
 Ballia,India,Bihar,1277552
 Ballarpur,India,Maharashtra,1277557
+Baliguda,India,Odisha,1277576
 Bāli,India,Rajasthan,1277590
 Balasore,India,Odisha,1277599
 Balarāmpur,India,West Bengal,1277634
@@ -15619,6 +15957,7 @@ Bālāchor,India,Punjab,1277666
 Bakhtiyārpur,India,Bihar,1277684
 Bakhri,India,Bihar,1277688
 Budge Budge,India,West Bengal,1277723
+Viratnagar,India,Rajasthan,1277745
 Bairāgnia,India,Bihar,1277748
 Byndoor,India,Karnataka,1277759
 Bail-Hongal,India,Karnataka,1277765
@@ -15635,7 +15974,7 @@ Bāh,India,Uttar Pradesh,1277841
 Bagulā,India,West Bengal,1277844
 Bāghpat,India,Uttar Pradesh,1277882
 Bagdogra,India,West Bengal,1277897
-Bāgha Purāna,India,Punjab,1277902
+Bagha Purana,India,Punjab,1277902
 Bāgepalli,India,Karnataka,1277909
 Bāgbahra,India,Chhattisgarh,1277918
 Bagasra,India,Gujarat,1277924
@@ -15659,11 +15998,12 @@ Babīna,India,Uttar Pradesh,1278058
 Baberu,India,Uttar Pradesh,1278064
 Bābai,India,Madhya Pradesh,1278073
 Azamgarh,India,Uttar Pradesh,1278083
+Ayyampettāi,India,Tamil Nadu,1278090
 Ayodhya,India,Uttar Pradesh,1278094
 Ayakudi,India,Tamil Nadu,1278100
 Avanigadda,India,Andhra Pradesh,1278122
 Avinashi,India,Tamil Nadu,1278124
-Āvadi,India,Tamil Nadu,1278130
+Avadi,India,Tamil Nadu,1278130
 Ausa,India,Maharashtra,1278139
 Aurangābād,India,Bihar,1278148
 Aurangabad,India,Maharashtra,1278149
@@ -15702,6 +16042,7 @@ Arantāngi,India,Tamil Nadu,1278448
 Arni,India,Tamil Nadu,1278454
 Ārangaon,India,Maharashtra,1278455
 Arang,India,Chhattisgarh,1278458
+Aramboli,India,Tamil Nadu,1278463
 Arāmbāgh,India,West Bengal,1278466
 Arakkonam,India,Tamil Nadu,1278471
 Arrah,India,Bihar,1278483
@@ -15713,6 +16054,7 @@ Anta,India,Rajasthan,1278532
 Anshing,India,Maharashtra,1278534
 Annur,India,Tamil Nadu,1278539
 Annigeri,India,Karnataka,1278540
+Annāmalainagar,India,Tamil Nadu,1278546
 Ankola,India,Karnataka,1278551
 Ankleshwar,India,Gujarat,1278553
 Anjār,India,Gujarat,1278573
@@ -15727,9 +16069,11 @@ Anthiyur,India,Tamil Nadu,1278622
 Anantnag,India,Jammu and Kashmir,1278667
 Anantapur,India,Andhra Pradesh,1278672
 Anandpur,India,Punjab,1278676
+Anandpur,India,Odisha,1278681
 Anand,India,Gujarat,1278685
 Anakapalle,India,Andhra Pradesh,1278688
-Anamalais,India,Tamil Nadu,1278692
+Anaimalai,India,Tamil Nadu,1278692
+Āmūr,India,Telangana,1278697
 Amudālavalasa,India,Andhra Pradesh,1278698
 Āmta,India,West Bengal,1278703
 Amroli,India,Gujarat,1278707
@@ -15745,8 +16089,9 @@ Amīngarh,India,Karnataka,1278785
 Amet,India,Rajasthan,1278808
 Ambur,India,Tamil Nadu,1278815
 Ambikāpur,India,Chhattisgarh,1278827
-Ambattūr,India,Tamil Nadu,1278840
+Ambattur,India,Tamil Nadu,1278840
 Ambasamudram,India,Tamil Nadu,1278841
+Āmbāsa,India,Tripura,1278842
 Ambāla,India,Haryana,1278860
 Ambājogāi,India,Maharashtra,1278862
 Ambāh,India,Madhya Pradesh,1278868
@@ -15762,6 +16107,7 @@ Alot,India,Madhya Pradesh,1278964
 Along,India,Arunachal Pradesh,1278969
 Alnāvar,India,Karnataka,1278973
 Almora,India,Uttarakhand,1278974
+Allinagaram,India,Tamil Nadu,1278983
 Alappuzha,India,Kerala,1278985
 Prayagraj,India,Uttar Pradesh,1278994
 Alīpur Duār,India,West Bengal,1279003
@@ -15792,6 +16138,7 @@ Ajaigarh,India,Madhya Pradesh,1279181
 Aizawl,India,Mizoram,1279186
 Ahwa,India,Gujarat,1279213
 Ahraura,India,Uttar Pradesh,1279219
+Ahor,India,Rajasthan,1279221
 Ahmadpur,India,Maharashtra,1279227
 Ahilyanagar,India,Maharashtra,1279228
 Ahmedabad,India,Gujarat,1279233
@@ -15833,25 +16180,52 @@ Jharoda Kalān,India,Delhi,1443367
 Roshanpura,India,Delhi,1443381
 Dīndārpur,India,Delhi,1443383
 Singāpur,India,Telangana,1445156
+Nāgāvaram,India,Telangana,1445335
+Jilādiguda,India,Telangana,1445348
+Yamjāl,India,Telangana,1445350
 Ghatkesar,India,Telangana,1445378
+Kompalli,India,Telangana,1445797
 Vijayapura,India,Karnataka,1462711
 Adampur,India,Punjab,1462733
+Mullānwāla,India,Punjab,1462735
 Chanaje,India,Maharashtra,1463373
+Madhavaram,India,Tamil Nadu,1465594
+Maduraivayal,India,Tamil Nadu,1465621
 Porur,India,Tamil Nadu,1465622
+Mugalivakkam,India,Tamil Nadu,1465623
+Virugambakkam,India,Tamil Nadu,1465809
 Madipakkam,India,Tamil Nadu,1465825
+Ullagaram,India,Tamil Nadu,1465826
 Perungudi,India,Tamil Nadu,1465828
+Kotivakkam,India,Tamil Nadu,1465829
+Rajakilpakkam,India,Tamil Nadu,1465867
+Meddappakkam,India,Tamil Nadu,1465870
+Kullattūr,India,Tamil Nadu,1465872
+Kavanur,India,Tamil Nadu,1465873
+Kallamchavadi,India,Tamil Nadu,1465881
+Unamaucheri,India,Tamil Nadu,1465888
+Perunkalattu,India,Tamil Nadu,1465899
 Madambakkam,India,Tamil Nadu,1465910
+Nalambūr,India,Tamil Nadu,1466010
+Nerkunram,India,Tamil Nadu,1466012
+Kaikalapettai,India,Tamil Nadu,1466019
+Vīrarāghavapuram,India,Tamil Nadu,1466021
+Reddipālaiyam,India,Tamil Nadu,1466025
+Vengattūr,India,Tamil Nadu,1466089
+Tirumeshi,India,Tamil Nadu,1466093
 Powai,India,Maharashtra,6324621
 Navi Mumbai,India,Maharashtra,6619347
 Chockli,India,Kerala,6619506
 Panoor,India,Kerala,6619512
 Panchkula,India,Haryana,6690108
+Sholinganallur,India,Tamil Nadu,6693809
 koppana Agrahara,India,Karnataka,6695465
 Hebbagodi,India,Karnataka,6695467
 Bommasandra Industrial Area,India,Karnataka,6695468
 Murudeshwara,India,Karnataka,6941937
 Shivaji Nagar,India,Maharashtra,6943660
 Greater Noida,India,Uttar Pradesh,6954929
+Zerakpur,India,Punjab,6989891
 Bīna,India,Madhya Pradesh,6990539
 Mohali,India,Punjab,6992326
 Pithampur,India,Madhya Pradesh,7279595
@@ -15876,12 +16250,14 @@ Gaddi Annaram,India,Telangana,7302810
 Dasnapur,India,Telangana,7302812
 Kanuru,India,Andhra Pradesh,7302825
 Lal Bahadur Nagar,India,Telangana,7302826
+Madhira,India,Telangana,7302827
 Malkajgiri,India,Telangana,7302828
 Mandamarri,India,Telangana,7302829
 Chinnachowk,India,Andhra Pradesh,7302830
 Kyathampalle,India,Telangana,7302832
 Gajuwaka,India,Andhra Pradesh,7302833
 Katheru,India,Andhra Pradesh,7302834
+Metpalle,India,Telangana,7302835
 Manuguru,India,Telangana,7302836
 Kalyandurg,India,Andhra Pradesh,7302838
 Payakaraopeta,India,Andhra Pradesh,7302842
@@ -15906,28 +16282,54 @@ Bhawanipur,India,Bihar,7626554
 Bakhtiarpur,India,Bihar,7626561
 Pimpri-Chinchwad,India,Maharashtra,7626690
 Zira,India,Punjab,7645176
+Longowal,India,Punjab,7645181
 Adampur,India,Haryana,7646705
+Shamshabad,India,Telangana,7648816
 Thottada,India,Kerala,7660032
+Williamnagar,India,Meghalaya,7701509
+Nongthymmai,India,Meghalaya,7701510
 Kumbalangy,India,Kerala,7731699
 Devadurga,India,Karnataka,7909857
+Patran,India,Punjab,7910929
 Kharghar,India,Maharashtra,8133395
 Chendamangalam,India,Kerala,8181689
+Singampunari,India,Tamil Nadu,8199699
+Mannachanallur,India,Tamil Nadu,8223924
+Thuraiyur,India,Tamil Nadu,8223939
+Pallipalayam,India,Tamil Nadu,8223942
 Kumarapalayam,India,Tamil Nadu,8223943
+Parangipettai,India,Tamil Nadu,8223969
+Virudhachalam,India,Tamil Nadu,8223970
+Kattumannarkoil,India,Tamil Nadu,8223971
+Oddanchathiram,India,Tamil Nadu,8223974
+Udaipurwati,India,Rajasthan,8224612
+Sumerpur,India,Rajasthan,8224613
+Karingal,India,Tamil Nadu,8224696
+Arumanai,India,Tamil Nadu,8224697
+Kottur,India,Tamil Nadu,8224699
+Sankagiri,India,Tamil Nadu,8224728
 Ramagundam,India,Telangana,8347656
 Hanumana,India,Madhya Pradesh,8432864
 Mirganj,India,Bihar,8439149
 Sultānganj,India,Bihar,8439888
+Bagru,India,Rajasthan,8440759
 Nimach,India,Rajasthan,8441115
 Kamatgi,India,Maharashtra,8441290
 Azhikkōd,India,Kerala,8441383
 Kamalāpuram,India,Karnataka,8441674
 Nannambra,India,Kerala,8441929
+Vellalūr,India,Tamil Nadu,8441952
+Thimiri,India,Tamil Nadu,8442323
+Tādikombu,India,Tamil Nadu,8442529
+Mechcheri,India,Tamil Nadu,8442536
 Vāniyamkulam,India,Kerala,8443029
 Mehidpur,India,Madhya Pradesh,8457516
 Khoni,India,Maharashtra,8468820
 Karjan,India,Gujarat,8477241
 Cherpulassery,India,Kerala,8504418
 Biswanath Chariali,India,Assam,8541454
+Jalandhar Cantonment,India,Punjab,8541484
+Kagaznāgār,India,Telangana,8541672
 Prāntij,India,Gujarat,8541964
 Kirandul,India,Chhattisgarh,8581647
 Nedumbassery,India,Kerala,8618019
@@ -15938,41 +16340,66 @@ Gadag-Betageri,India,Karnataka,8740017
 Rabkavi-Banhatti,India,Karnataka,8740018
 Rudrapur,India,Uttarakhand,8740322
 Bada Malhera,India,Madhya Pradesh,8740328
+Laitumkhrah,India,Meghalaya,8740373
 Kurwai,India,Madhya Pradesh,8740787
 Jirapur,India,Madhya Pradesh,8740793
 Budhni,India,Madhya Pradesh,8740799
 Badi,India,Madhya Pradesh,8740814
 Areraj,India,Bihar,8740819
+Sunabeda,India,Odisha,8741024
+Rajgangpur,India,Odisha,8741053
 Lateri,India,Madhya Pradesh,8741091
 V.S.K.Valasai (Dindigul-Dist.),India,Tamil Nadu,8948694
+Dhamanagar,India,Odisha,9035005
 Barbigha,India,Bihar,9036524
+Joda,India,Odisha,9063948
 Kadodara,India,Gujarat,9072777
 Thodupuzha,India,Kerala,9072827
 Maithon,India,Jharkhand,9161141
 Neelankarai,India,Tamil Nadu,9212568
 Injambakkam,India,Tamil Nadu,9212569
+Palavakkam,India,Tamil Nadu,9212571
 Srikalahasti,India,Andhra Pradesh,9408449
+Nambol,India,Manipur,9782490
 Shahbazpur,India,Bihar,9794300
 Heli Mandi,India,Haryana,9915333
 Mānesar,India,Haryana,9915464
+Pammal,India,Tamil Nadu,9972720
+Anakaputhur,India,Tamil Nadu,9972722
+Valasaravakkam,India,Tamil Nadu,9972726
+Maduravoyal,India,Tamil Nadu,9972727
+Meenambakkam,India,Tamil Nadu,9972728
+Pallikaranai,India,Tamil Nadu,9972729
 Ganguwa,India,Haryana,9977407
 Gulgam,India,Jammu and Kashmir,9985580
 Kopawor,India,Jammu and Kashmir,10002798
 Barāra,India,Haryana,10152760
+Khairtal,India,Rajasthan,10165672
 Kansāpur,India,Haryana,10166426
 Sisauli,India,Haryana,10166427
+Kherli,India,Rajasthan,10168655
 Sārni,India,Madhya Pradesh,10209444
 Chāndāmeta,India,Madhya Pradesh,10210427
 Wānādongri,India,Maharashtra,10214288
 Nildoh,India,Maharashtra,10214289
 Vadgaon,India,Maharashtra,10214681
 Umarsera,India,Maharashtra,10214682
+Belpahar,India,Odisha,10244604
+Bhauri,India,Rajasthan,10249440
+Mahna,India,Punjab,10249538
+Rāman,India,Punjab,10249965
+Bhuwāna,India,Rajasthan,10250933
+Sātalkheri,India,Rajasthan,10253590
+Tapa,India,Punjab,10255848
+Mūllānpur,India,Punjab,10256367
 Pehlādpur Bāngar,India,Delhi,10261416
 Siraspur,India,Delhi,10261418
 Kundli,India,Haryana,10261433
 Kādīpur,India,Delhi,10261502
 Libāspur,India,Delhi,10261507
 Burāri,India,Delhi,10261509
+Gil,India,Punjab,10261622
+Sānehwāl,India,Punjab,10261694
 Karāla,India,Delhi,10263041
 Auhammadpur Mājri,India,Delhi,10263042
 Rāni Khera,India,Delhi,10263046
@@ -16013,6 +16440,10 @@ Kondli,India,Delhi,10265219
 Gharroli,India,Delhi,10265220
 Tilpat,India,Haryana,10265937
 Mīthepur,India,Delhi,10265943
+Choudwar,India,Odisha,10281812
+Goniāna Mandi,India,Punjab,10303818
+Singānuram,India,Telangana,10337414
+Bāda,India,Rajasthan,10347914
 Sarwar,India,Rajasthan,10347952
 Ettumanoor,India,Kerala,10376566
 Benipur,India,Bihar,10400284
@@ -16020,6 +16451,8 @@ Rosera,India,Bihar,10400291
 Sonepur,India,Bihar,10400293
 Mahnar Bazar,India,Bihar,10400295
 Jora Khurd,India,Madhya Pradesh,10431234
+Gothara,India,Rajasthan,10431770
+Lālru,India,Punjab,10436674
 Kardhān,India,Haryana,10436800
 Bablāi,India,Haryana,10436834
 Ahīwāra,India,Chhattisgarh,10447536
@@ -16034,10 +16467,19 @@ Yerkhera,India,Maharashtra,10469721
 Nārsala,India,Maharashtra,10469865
 Hudkeshwar Buzurg,India,Maharashtra,10469872
 Wāri,India,Maharashtra,10469921
+Vijayapuri North,India,Telangana,10490140
 Mahārājpur,India,Madhya Pradesh,10493516
 Umbri,India,Maharashtra,10503881
 Desāīganj,India,Maharashtra,10519399
+Rāmachandrapuran,India,Telangana,10524011
+Amīnpur,India,Telangana,10524013
+Bolārum,India,Telangana,10524016
+Bāspalli,India,Telangana,10524017
+Rāniganj,India,Telangana,10524295
 Nivāri,India,Madhya Pradesh,10524858
+Bādepalli,India,Telangana,10525092
+Achampet,India,Telangana,10525684
+Torūr,India,Telangana,10527154
 Rajākheri,India,Madhya Pradesh,10530672
 Makronia,India,Madhya Pradesh,10530675
 Damua,India,Madhya Pradesh,10535156
@@ -16052,6 +16494,9 @@ Aroor,India,Kerala,10628607
 Kadakkavoor,India,Kerala,10628608
 Kalavoor,India,Kerala,10629189
 Kalamassery,India,Kerala,10630431
+Sujānpur,India,Punjab,10684789
+Jugiāl,India,Punjab,10684812
+Mamun,India,Punjab,10684916
 Dyāne,India,Maharashtra,10688519
 Soyāgaon,India,Maharashtra,10688581
 Bāngarda,India,Madhya Pradesh,10689453
@@ -16059,12 +16504,20 @@ Bāngarda Chhota,India,Madhya Pradesh,10689545
 Bānk,India,Madhya Pradesh,10689554
 Rāvu,India,Madhya Pradesh,10689579
 Pālda,India,Madhya Pradesh,10689661
+Husainpur,India,Punjab,10701276
 Bodrī,India,Chhattisgarh,10704815
 Sirgittī,India,Chhattisgarh,10704820
 Lingiādīh,India,Chhattisgarh,10704831
 Tifrā,India,Chhattisgarh,10704836
 Deori,India,Chhattisgarh,10705043
 Nailā,India,Chhattisgarh,10707024
+Gorāya,India,Punjab,10713768
+Gobindgarh,India,Punjab,10733738
+Balaungi,India,Punjab,10733995
+Pudupattanam,India,Tamil Nadu,10766938
+Sarapāka,India,Telangana,10769689
+Sādpalli,India,Telangana,10769741
+Chandili,India,Odisha,10776734
 Ibrāhīmpatnam,India,Andhra Pradesh,10778122
 Rāmavarappādu,India,Andhra Pradesh,10778177
 Kānūru,India,Andhra Pradesh,10778953
@@ -16073,6 +16526,9 @@ Tādigadapa,India,Andhra Pradesh,10778957
 Bacheli,India,Chhattisgarh,10781410
 Cherthala,India,Kerala,10792588
 Cheppad,India,Kerala,10792592
+Keru,India,Rajasthan,10803336
+Sāngaria,India,Rajasthan,10803337
+Fālna,India,Rajasthan,10805222
 Akalkuva,India,Maharashtra,10815768
 Makhdumpur,India,Bihar,10834074
 Madhurampur Dehri,India,Bihar,10834495
@@ -16112,6 +16568,7 @@ Irivēri,India,Kerala,10910231
 Chelora,India,Kerala,10910247
 Kudali,India,Kerala,10910251
 Munderi,India,Kerala,10910255
+Saknepalli,India,Telangana,10916655
 Keevallur,India,Kerala,10922727
 Patuvilāyi,India,Kerala,10922733
 Patiriyat,India,Kerala,10922736
@@ -16134,6 +16591,7 @@ Eravattūr,India,Kerala,10925004
 Kunnummal,India,Kerala,10925009
 Chēmanchēri,India,Kerala,10925345
 Kizhariyūr,India,Kerala,10926303
+Nangli,India,Punjab,10926750
 Ulliyeri,India,Kerala,10929613
 Icchannūr,India,Kerala,10929640
 Talakkolattur,India,Kerala,10929642
@@ -16157,48 +16615,91 @@ Kurikuppi,India,Karnataka,10973824
 Thirunavaya,India,Kerala,11002689
 Nohsa,India,Bihar,11011454
 Kandāri,India,Maharashtra,11031613
+Bodupāl,India,Telangana,11038551
+Pīrzādagūda,India,Telangana,11038553
+Mīrpeta,India,Telangana,11038564
+Chautāpal,India,Telangana,11039180
+Moreh,India,Manipur,11072202
 Kakkanad,India,Kerala,11073561
 Abrama,India,Gujarat,11102685
 Phusro,India,Jharkhand,11127930
 Alangad,India,Kerala,11184118
+Andipalayam,India,Tamil Nadu,11184131
 Anklav,India,Gujarat,11184132
 Bagbera,India,Jharkhand,11184254
 Barauni,India,Bihar,11184261
 Boriavi,India,Gujarat,11184276
 Kanjari,India,Gujarat,11184277
+Vadakkanandal,India,Tamil Nadu,11184312
 Tangla,India,Assam,11184398
 Talod,India,Gujarat,11184400
+Sithurajapuram,India,Tamil Nadu,11184427
 Shrirampur,India,Maharashtra,11184435
 Savarkundla,India,Gujarat,11184442
+Resubelpara,India,Meghalaya,11184460
+Rampura Phul,India,Punjab,11184474
 Puthencruz,India,Kerala,11184488
 Peruvallur,India,Kerala,11184575
 Patdi,India,Gujarat,11184587
+Paravai,India,Tamil Nadu,11184590
 Paranda,India,Maharashtra,11184592
 Nedumpana,India,Kerala,11184656
 Chandrapura,India,Jharkhand,11184814
+Chinnalapatti,India,Tamil Nadu,11184821
 Chirkunda,India,Jharkhand,11184827
 Mulavukad,India,Kerala,11184889
 Edavilangu,India,Kerala,11185179
 Elamkunnapuzha,India,Kerala,11185182
+Jalda,India,Odisha,11185500
 Jamjodhpur,India,Gujarat,11185501
 Malkapur,India,Maharashtra,11185528
 Karthikappally,India,Kerala,11185601
+Kondalampatti,India,Tamil Nadu,11185658
+Koothappar,India,Tamil Nadu,11185663
 Koovappady,India,Kerala,11185666
 Madhapar,India,Gujarat,11185792
 Manendragarh,India,Chhattisgarh,11185818
 Maradu,India,Kerala,11185833
+Marthandam,India,Tamil Nadu,11185837
+Moonak,India,Punjab,11185885
 Moothakunnam,India,Kerala,11185888
+Vadavalli,India,Tamil Nadu,11185892
+Villukuri,India,Tamil Nadu,11186049
+Vilankurichi,India,Tamil Nadu,11186050
+Ayyalur,India,Tamil Nadu,11186287
 Chalthan,India,Gujarat,11186294
 Iroopara,India,Kerala,11189027
 Kidarakulam,India,Kerala,11189062
 Nagarukhra City,India,West Bengal,11203603
+Narasimhanaickenpalayam,India,Tamil Nadu,11203608
 Māmidālapādu,India,Andhra Pradesh,11253678
 Gopavaram,India,Andhra Pradesh,11271185
+Jūjūvādi,India,Tamil Nadu,11333755
+Mūkondapalli,India,Tamil Nadu,11333780
+Avalēpalli,India,Tamil Nadu,11333814
+Kādiganpalli,India,Tamil Nadu,11341323
+Lakkanahalli,India,Tamil Nadu,11344163
+Pāchchal,India,Tamil Nadu,11345757
+Kondasamudram,India,Tamil Nadu,11348644
 Podaturpet,India,Tamil Nadu,11421465
 Vinnamāla,India,Andhra Pradesh,11424018
+Vengikkal,India,Tamil Nadu,11439700
+Puliyankannu,India,Tamil Nadu,11441185
+Sevilimedu,India,Tamil Nadu,11442958
+Nattappettai,India,Tamil Nadu,11442994
+Kottaikādu,India,Tamil Nadu,11446369
 Kizhuparamba,India,Kerala,11452593
 Peringottupulam,India,Kerala,11452719
 Kodur,India,Kerala,11452749
+Devarshola,India,Tamil Nadu,11453083
+Tondalam,India,Tamil Nadu,11453263
+Kollivāyal,India,Tamil Nadu,11456498
+Kērkandi,India,Tamil Nadu,11460573
+Vīrakeralam,India,Tamil Nadu,11461632
+Idaiyarpālaiyam,India,Tamil Nadu,11461652
+Chinnavādampatti,India,Tamil Nadu,11461739
+Vellakkinar,India,Tamil Nadu,11461741
+Rakkiyapālaiyam,India,Tamil Nadu,11461746
 Kāttipparutti,India,Kerala,11462028
 Naduvattam,India,Kerala,11462031
 Kāladi,India,Kerala,11462062
@@ -16233,6 +16734,7 @@ Pirāyiri,India,Kerala,11477647
 Ambikāpuram,India,Kerala,11477658
 Puthuppariyāram,India,Kerala,11477665
 Marutharōd,India,Kerala,11477730
+Ūttukuli,India,Tamil Nadu,11484545
 Mēppādam,India,Kerala,11484907
 Kumārapuram,India,Kerala,11484935
 Vakkam,India,Kerala,11487287
@@ -16240,8 +16742,14 @@ Kīlattingal,India,Kerala,11487291
 Vellūr,India,Kerala,11487382
 Vettanād,India,Kerala,11487471
 Vattiyūrkāvu,India,Kerala,11487540
+Srvanampatti,India,Tamil Nadu,11488243
+Kālappatti,India,Tamil Nadu,11488244
+Sāmalāpuram,India,Tamil Nadu,11488277
 Iramallūr,India,Kerala,11499877
 Pudusseri,India,Kerala,11500480
+Kurichchi,India,Tamil Nadu,11500546
+Kuniyamuttūr,India,Tamil Nadu,11500547
+Rāmachettipālaiyam,India,Tamil Nadu,11500549
 Kokōtamangalam South,India,Kerala,11500733
 Chengalam,India,Kerala,11500776
 Mannanchōri,India,Kerala,11500804
@@ -16264,7 +16772,45 @@ Adichānallūr,India,Kerala,11502176
 Talattala,India,Kerala,11502184
 Mīnād,India,Kerala,11502187
 Puttankulam,India,Kerala,11502193
+Kumārapālaiyam,India,Tamil Nadu,11519456
+Palangarai,India,Tamil Nadu,11520026
+Tirumuruganpūndi,India,Tamil Nadu,11520175
+Velampālaiyam,India,Tamil Nadu,11520178
+Chettipālaiyam,India,Tamil Nadu,11520182
+Boyampālaiyam,India,Tamil Nadu,11520198
+Nerupperichchal,India,Tamil Nadu,11520202
+Mangalam,India,Tamil Nadu,11520272
+Murugampālaiyam,India,Tamil Nadu,11520292
+Mannarai,India,Tamil Nadu,11520308
+Muttanampālaiyam,India,Tamil Nadu,11520318
+Kāraippudūr,India,Tamil Nadu,11520363
+Vīrapāndi,India,Tamil Nadu,11520375
+Nallūr,India,Tamil Nadu,11520454
+Jāmbai,India,Tamil Nadu,11522068
+Pudūr,India,Tamil Nadu,11522093
+Tattānkuttai,India,Tamil Nadu,11522111
+Salangaippālaiyam,India,Tamil Nadu,11522157
+Sūryampālaiyam,India,Tamil Nadu,11522212
+Periya Semūr,India,Tamil Nadu,11522307
+Brāhmana Periya Agrahāram,India,Tamil Nadu,11522310
+Vīrappanchathiram,India,Tamil Nadu,11522311
+Kāsipālaiyam,India,Tamil Nadu,11522316
+Sūrampatti,India,Tamil Nadu,11522317
+Karumāndi Chellipālaiyam,India,Tamil Nadu,11522389
+Tindal,India,Tamil Nadu,11522441
 Cheruthazham,India,Kerala,11523476
+Idangansālai,India,Tamil Nadu,11532691
+Vīrnūr,India,Tamil Nadu,11556470
+Pottaneri Nallakavundanpatti,India,Tamil Nadu,11556532
+Elandakuttai,India,Tamil Nadu,11556871
+Ālampālaiyam,India,Tamil Nadu,11556989
+Kannampālaiyam,India,Tamil Nadu,11557957
+Sūleswaranpatti,India,Tamil Nadu,11563145
+Sundakkāmpālaiyam,India,Tamil Nadu,11563175
+Periyakottai,India,Tamil Nadu,11578914
+Dārāsuram,India,Tamil Nadu,11604574
+Tirunāgeswaram,India,Tamil Nadu,11604632
+Nānjikkottai,India,Tamil Nadu,11607796
 Churi,India,Jharkhand,11624842
 Saunda,India,Jharkhand,11626023
 Sirka,India,Jharkhand,11626032
@@ -16274,6 +16820,68 @@ Bermo,India,Jharkhand,11628557
 Sāram,India,Jharkhand,11628594
 Kathhāra,India,Jharkhand,11628608
 Jāridih,India,Jharkhand,11628615
+Kappiyara,India,Tamil Nadu,11655282
+Kadayal,India,Tamil Nadu,11655500
+Triparappu,India,Tamil Nadu,11655503
+Tiruvattār,India,Tamil Nadu,11655515
+Kāttatturai,India,Tamil Nadu,11655528
+Valvachatottam,India,Tamil Nadu,11655531
+Mulakumūd,India,Tamil Nadu,11655540
+Verukulambu,India,Tamil Nadu,11655546
+Ponmana,India,Tamil Nadu,11655584
+Nallavila,India,Tamil Nadu,11655747
+Ālūr,India,Tamil Nadu,11655763
+Āchāripallam Vāniyakudi,India,Tamil Nadu,11655782
+Dharmapuram,India,Tamil Nadu,11655802
+Nāranammālpuram,India,Tamil Nadu,11656142
+Pattamadai,India,Tamil Nadu,11656271
+Eruvādi,India,Tamil Nadu,11656566
+Chinna Āndānkovil,India,Tamil Nadu,11657280
+Tāndoni,India,Tamil Nadu,11657313
+Senapparetti,India,Tamil Nadu,11657535
+Pālaiyam,India,Tamil Nadu,11657965
+Sīlappādi,India,Tamil Nadu,11658143
+Kulattuppālaiyam,India,Tamil Nadu,11660715
+Sivagirippatti,India,Tamil Nadu,11661417
+Bhikshāndārkovil,India,Tamil Nadu,11661831
+Nangavaram,India,Tamil Nadu,11661969
+Pāppākurichchi,India,Tamil Nadu,11662007
+Tuvāgudi,India,Tamil Nadu,11662151
+Sankarapatti,India,Tamil Nadu,11663179
+Ellakkudi,India,Tamil Nadu,11663358
+Tiruverumbūr,India,Tamil Nadu,11663359
+Navalpattu,India,Tamil Nadu,11663478
+Tiruppālai,India,Tamil Nadu,11664417
+Ottakkadai,India,Tamil Nadu,11664459
+Melmadai,India,Tamil Nadu,11664489
+Anuppānadi,India,Tamil Nadu,11664493
+Vandiyūr,India,Tamil Nadu,11664494
+Pudukkottai,India,Tamil Nadu,11664510
+Vilāngudi,India,Tamil Nadu,11664517
+Ānaiyūr,India,Tamil Nadu,11664525
+Nāyanakulam,India,Tamil Nadu,11664530
+Kannānendal,India,Tamil Nadu,11664532
+Avaniyāpuram,India,Tamil Nadu,11664565
+Pālaiyampatti,India,Tamil Nadu,11664942
+Attimarappatti,India,Tamil Nadu,11676044
+Muttayyāpuram,India,Tamil Nadu,11676045
+Agaram,India,Tamil Nadu,11677565
+Chettināyakkanpatti,India,Tamil Nadu,11677688
+Sālamedu,India,Tamil Nadu,11678557
+Kammivapettai,India,Tamil Nadu,11678976
+Lālpettai,India,Tamil Nadu,11679084
+Gundupālaiyam,India,Puducherry,11679708
+Ariyānkuppam,India,Puducherry,11679729
+Manaveli,India,Puducherry,11679731
+Kottaikuppam,India,Tamil Nadu,11679803
+Chokkanāthapuram,India,Tamil Nadu,11680409
+Kāmayakkavundanpatti,India,Tamil Nadu,11680524
+Settiyārpatti,India,Tamil Nadu,11680678
+Vadakarai Kīl Pidāgai,India,Tamil Nadu,11680724
+Āyikudi,India,Tamil Nadu,11680754
+Kannānkurichchi,India,Tamil Nadu,11682149
+Periyapatti,India,Tamil Nadu,11683679
+Narasingapuram,India,Tamil Nadu,11685075
 Kushinagar,India,Uttar Pradesh,12032137
 Rohini,India,Delhi,12069922
 Mulugu,India,Telangana,12165955
@@ -16287,15 +16895,30 @@ Kanayannur,India,Kerala,12501153
 Shahuwadi,India,Maharashtra,12501195
 Maval,India,Maharashtra,12501197
 Lalganj,India,Uttar Pradesh,12501265
+Sadulshahar,India,Rajasthan,12501475
+Lehragaga,India,Punjab,12501476
 Santrampur,India,Gujarat,12501480
 Chanpatia,India,Bihar,12503489
 Bhadravati,India,Maharashtra,12503616
+Kavisuryanagar,India,Odisha,12518878
 Talala,India,Gujarat,12518919
 Nowrozabad,India,Madhya Pradesh,12518993
 Pakridayal,India,Bihar,12519043
 Motipur,India,Bihar,12519055
+Vazhapadi,India,Tamil Nadu,12519184
 Dooru Verinag,India,Jammu and Kashmir,12519446
+Chunchupally,India,Telangana,12519678
+Yadagirigutta,India,Telangana,12519688
+Bhupalpally,India,Telangana,12522576
+Byasanagar,India,Odisha,12522807
+Nalco,India,Odisha,12522811
+Mawlai-Mawïong,India,Meghalaya,12523250
+Teliamura,India,Tripura,12523317
+Kanchanpur,India,Tripura,12523341
+Keirao Bitra,India,Manipur,12523370
+Chumukedima,India,Nagaland,12523443
 Lanka,India,Assam,12523448
+Kiphire,India,Nagaland,12523494
 Seppa,India,Arunachal Pradesh,12524323
 Thaikkattussery,India,Kerala,12625364
 Pallipuram,India,Kerala,12639820
@@ -16509,6 +17132,64 @@ Kabnur,India,Maharashtra,13353688
 Ranjangaon S,India,Maharashtra,13353689
 Dehu Road,India,Maharashtra,13353690
 Wadgaon Kolhati,India,Maharashtra,13353691
+Samurou,India,Manipur,13494539
+Kuda,India,Nagaland,13494542
+Ghantapada,India,Odisha,13494582
+Dera Colliery Township,India,Odisha,13494583
+Lochapada,India,Odisha,13494584
+Khariar Road,India,Odisha,13494585
+Kurumbapet,India,Puducherry,13494586
+Bareta,India,Punjab,13494595
+Ahmedgarh,India,Punjab,13494596
+Naya Gaon,India,Punjab,13494597
+Ajeetgarh,India,Rajasthan,13494610
+Vidyavihar,India,Rajasthan,13494611
+Merta Road,India,Rajasthan,13494612
+Nandri,India,Rajasthan,13494613
+Fatehnagar,India,Rajasthan,13494614
+Thorapadi,India,Tamil Nadu,13494645
+Kangeyanallur,India,Tamil Nadu,13494687
+Neelagiri,India,Tamil Nadu,13494688
+Vathirairuppu,India,Tamil Nadu,13494689
+Keezhkulam,India,Tamil Nadu,13494690
+Kothanallur,India,Tamil Nadu,13494691
+Adiyanuthu,India,Tamil Nadu,13494692
+Nalloor,India,Tamil Nadu,13494693
+Inam Maniyachi,India,Tamil Nadu,13494694
+Palugal,India,Tamil Nadu,13494695
+Palappallam,India,Tamil Nadu,13494696
+Mamsapuram,India,Tamil Nadu,13494697
+Kallukuttam,India,Tamil Nadu,13494698
+Jalladiampet,India,Tamil Nadu,13494699
+Ammainaickanur,India,Tamil Nadu,13494700
+Methukummal,India,Tamil Nadu,13494701
+Kalinjur,India,Tamil Nadu,13494702
+Sankaraperi,India,Tamil Nadu,13494703
+Reethapuram,India,Tamil Nadu,13494704
+Polichalur,India,Tamil Nadu,13494705
+Palavansathu,India,Tamil Nadu,13494706
+Kilapavoor,India,Tamil Nadu,13494707
+Painkulam,India,Tamil Nadu,13494708
+Unnamalaikadai,India,Tamil Nadu,13494709
+Pacode,India,Tamil Nadu,13494710
+Ezhudesam,India,Tamil Nadu,13494711
+Edaicode,India,Tamil Nadu,13494712
+Viswanatham,India,Tamil Nadu,13494713
+Balakrishnapuram,India,Tamil Nadu,13494714
+Mathur,India,Tamil Nadu,13494715
+Allapuram,India,Tamil Nadu,13494716
+Puzhal,India,Tamil Nadu,13494717
+Kollancode,India,Tamil Nadu,13494718
+Mappilaiurani,India,Tamil Nadu,13494720
+Milavittan,India,Tamil Nadu,13494721
+Ramapuram,India,Tamil Nadu,13494722
+Maraimalainagar,India,Tamil Nadu,13494723
+Jawaharnagar,India,Telangana,13494730
+Khanapuram Haveli,India,Telangana,13494731
+Taranagar,India,Tripura,13494746
+Madhuban,India,Tripura,13494747
+Dukli,India,Tripura,13494748
+Charipara,India,Tripura,13494749
 Zaxo,Iraq,Duhok,89570
 Umm Qaşr,Iraq,Basra,89824
 Ţūz Khūrmātū,Iraq,Salah ad Din,90026
@@ -16700,6 +17381,7 @@ Marāgheh,"Iran, Islamic Republic of",Razavi Khorasan,124878
 Manjīl,"Iran, Islamic Republic of",Gilan Province,124967
 Malāyer,"Iran, Islamic Republic of",Hamadan Province,125185
 Malārd,"Iran, Islamic Republic of",Tehran,125188
+Makū,"Iran, Islamic Republic of",Bushehr,125206
 Maḩmūdābād,"Iran, Islamic Republic of",Mazandaran,125328
 Mahābād,"Iran, Islamic Republic of",West Azerbaijan,125446
 Langarūd,"Iran, Islamic Republic of",Gilan Province,125897
@@ -18998,6 +19680,8 @@ Prey Veng,Cambodia,Prey Veng,1822610
 Pursat,Cambodia,Pursat,1822768
 Phumĭ Véal Srê,Cambodia,Takeo,1822906
 Samraong,Cambodia,Otar Meanchey,1825093
+Phum Ânlŭng Vĭl,Cambodia,Battambang,1829773
+Phumĭ Âmpĭl Leu,Cambodia,Kampong Cham,1830040
 Tbeng Meanchey,Cambodia,Preah Vihear,1830098
 Paoy Paet,Cambodia,Banteay Meanchey,1830194
 Pailin,Cambodia,Pailin,1830205
@@ -19012,7 +19696,9 @@ Kampong Chhnang,Cambodia,Kampong Chhnang,1831167
 Kampong Cham,Cambodia,Kampong Cham,1831173
 Banlung,Cambodia,Ratanakiri,1831732
 Battambang,Cambodia,Battambang,1831797
+Ângk Tasaôm,Cambodia,Takeo,1831940
 Smach Mean Chey,Cambodia,Koh Kong,8740221
+Ou Bei Choan,Cambodia,Banteay Meanchey,11338545
 Tarawa,Kiribati,Gilbert Islands,2110257
 Moutsamoudou,Comoros,Anjouan,921753
 Moroni,Comoros,Grande Comore,921772
@@ -19081,7 +19767,7 @@ Sŏnbong,"Korea, Democratic People's Republic of",Rason,2040674
 Sinŭiju,"Korea, Democratic People's Republic of",P'yongan-bukto,2040893
 Sijung,"Korea, Democratic People's Republic of",Chagang,2041137
 Sakchu-ŭp,"Korea, Democratic People's Republic of",P'yongan-bukto,2041533
-Puryŏng,"Korea, Democratic People's Republic of",North Hamgyong,2041702
+Puryŏng-ŭp,"Korea, Democratic People's Republic of",North Hamgyong,2041702
 Yŏnggwang-ŭp,"Korea, Democratic People's Republic of",South Hamgyong,2042249
 Ŏrang,"Korea, Democratic People's Republic of",North Hamgyong,2042255
 Onsŏng,"Korea, Democratic People's Republic of",North Hamgyong,2042267
@@ -19868,6 +20554,7 @@ Ambovombe,Madagascar,Androy,1079048
 Ambositra,Madagascar,Amoron'i Mania,1079088
 Ambohitrolomahitsy,Madagascar,Analamanga,1079777
 Ambohidratrimo,Madagascar,Analamanga,1080522
+Ambodimanga II,Madagascar,Analanjirofo,1081199
 Ambodifotatra,Madagascar,Analanjirofo,1081530
 Amboasary,Madagascar,Anosy,1081790
 Amboanjo,Madagascar,Fitovinany Region,1081863
@@ -19990,7 +20677,7 @@ Dawei,Myanmar,Tanintharyi Region,1293625
 Taunggyi,Myanmar,Shan State,1293960
 Taungdwingyi,Myanmar,Magway,1294041
 Tachilek,Myanmar,Shan State,1295301
-Syriam,Myanmar,Yangon,1295395
+Thanlyin,Myanmar,Yangon,1295395
 Sittwe,Myanmar,Rakhine,1295765
 Shwebo,Myanmar,Sagaing Region,1296736
 Sagaing,Myanmar,Sagaing Region,1298482
@@ -20004,6 +20691,7 @@ Paungde,Myanmar,Bago Region,1300969
 Pakokku,Myanmar,Magway,1302439
 Hpa-An,Myanmar,Kayin State,1302849
 Nyaunglebin,Myanmar,Bago Region,1303406
+Namhkam,Myanmar,Shan State,1307101
 Myitkyina,Myanmar,Kachin State,1307741
 Myingyan,Myanmar,Mandalay Region,1307835
 Myawadi,Myanmar,Kayin State,1308052
@@ -20022,6 +20710,7 @@ Mawlaik,Myanmar,Sagaing Region,1310120
 Maubin,Myanmar,Ayeyarwady,1310362
 Martaban,Myanmar,Mon,1310460
 Mandalay,Myanmar,Mandalay Region,1311874
+Manaung,Myanmar,Rakhine,1311909
 Magway,Myanmar,Magway,1312609
 Loikaw,Myanmar,Kayah State,1313479
 Letpandan,Myanmar,Bago Region,1314042
@@ -20037,11 +20726,13 @@ Kayan,Myanmar,Yangon,1319533
 Kawthoung,Myanmar,Tanintharyi Region,1319573
 Kanbe,Myanmar,Yangon,1320944
 Kalaw,Myanmar,Shan State,1321275
+Insein,Myanmar,Yangon,1321937
 Hinthada,Myanmar,Ayeyarwady,1325211
 Heho,Myanmar,Shan State,1325259
 Hakha,Myanmar,Chin State,1325443
 Gwa,Myanmar,Rakhine,1325814
 Chauk,Myanmar,Magway,1327659
+Buthidaung Town,Myanmar,Rakhine,1327854
 Bogale,Myanmar,Ayeyarwady,1328121
 Bhamo,Myanmar,Kachin State,1328218
 Pathein,Myanmar,Ayeyarwady,1328421
@@ -20049,9 +20740,11 @@ Aungban,Myanmar,Shan State,1328865
 Ann,Myanmar,Rakhine,1328872
 Amarapura,Myanmar,Mandalay Region,1329221
 Myaydo,Myanmar,Magway,1329239
+Möng Yawng,Myanmar,Shan State,1847816
 Nay Pyi Taw,Myanmar,Nay Pyi Taw,6611854
 Tedim,Myanmar,Chin State,11072083
 Kyain Seikgyi Township,Myanmar,Kayin State,11810635
+Laukkai,Myanmar,Shan State,13494766
 Uliastay,Mongolia,Dzabkhan,1515007
 Ulaangom,Mongolia,Uvs Province,1515029
 Ölgii,Mongolia,Bayan-OElgii Province,1515436
@@ -22213,7 +22906,6 @@ Solana,Philippines,Cagayan Valley,1685880
 Sitangkai,Philippines,Autonomous Region in Muslim Mindanao,1686004
 Sipalay,Philippines,Western Visayas,1686102
 Silang,Philippines,Calabarzon,1686547
-Sigma,Philippines,Western Visayas,1686615
 Sibulan,Philippines,Central Visayas,1686728
 Sasmuan,Philippines,Central Luzon,1686933
 Lake Sebu,Philippines,Soccsksargen,1687029
@@ -22864,6 +23556,7 @@ Jampur,Pakistan,Punjab,1176241
 Jalalpur Pirwala,Pakistan,Punjab,1176358
 Jalalpur Jattan,Pakistan,Punjab,1176368
 Jahanian Shah,Pakistan,Punjab,1176444
+Jaglot,Pakistan,Gilgit-Baltistan,1176470
 Jacobabad,Pakistan,Sindh,1176515
 Islamabad,Pakistan,Islamabad,1176615
 Hyderabad,Pakistan,Sindh,1176734
@@ -24607,6 +25300,7 @@ Persianovka,Russian Federation,Rostov,802714
 Annino,Russian Federation,Moscow Oblast,819552
 Drozhzhino,Russian Federation,Moscow Oblast,819740
 Dagomys,Russian Federation,Krasnodar Krai,823674
+Gorod Shebekino,Russian Federation,Belgorod Oblast,824988
 Pavlovo,Russian Federation,Nizhny Novgorod Oblast,827329
 Belidzhi,Russian Federation,Dagestan,828055
 Lesnoy,Russian Federation,Sverdlovsk Oblast,829005
@@ -24816,7 +25510,7 @@ Udachny,Russian Federation,Sakha,2014624
 Tynda,Russian Federation,Amur Oblast,2014718
 Tulun,Russian Federation,Irkutsk Oblast,2014927
 Trudovoye,Russian Federation,Primorye,2015051
-Tikhookeanskiy,Russian Federation,Primorye,2015310
+Fokino,Russian Federation,Primorye,2015310
 Svobodnyy,Russian Federation,Amur Oblast,2015833
 Spassk-Dal’niy,Russian Federation,Primorye,2016187
 Slyudyanka,Russian Federation,Irkutsk Oblast,2016422
@@ -25385,7 +26079,7 @@ Vélingara,Senegal,Kolda,2244177
 Touba,Senegal,Diourbel Region,2244322
 Tivaouane,Senegal,Thies,2244386
 Tiébo,Senegal,Diourbel Region,2244616
-Tiadiaye,Senegal,Thies,2244786
+Thiadiaye,Senegal,Thies,2244786
 Thilogne,Senegal,Matam,2244797
 Thiès Nones,Senegal,Thies,2244799
 Thiès,Senegal,Thies,2244802
@@ -25396,7 +26090,7 @@ Saint-Louis,Senegal,Saint-Louis,2246452
 Rufisque,Senegal,Dakar,2246512
 Richard-Toll,Senegal,Saint-Louis,2246544
 Pout,Senegal,Thies,2246606
-Pourham,Senegal,Fatick,2246608
+Poukham Un,Senegal,Fatick,2246608
 Pikine,Senegal,Dakar,2246678
 Ouro Sogui,Senegal,Matam,2246922
 Nioro du Rip,Senegal,Kaolack,2247157
@@ -25424,9 +26118,9 @@ Kbombole,Senegal,Thies,2250668
 Kayar,Senegal,Thies,2250677
 Kaolack,Senegal,Kaolack,2250805
 Kanel,Senegal,Matam,2250849
-Kahone,Senegal,Fatick,2250982
+Kahone,Senegal,Kaolack,2250982
 Kaffrine,Senegal,Kaffrine,2251007
-Joal-Fadiout,Senegal,Thies,2251084
+Joal,Senegal,Thies,2251084
 Guinguinéo,Senegal,Fatick,2251230
 Goudomp,Senegal,Sedhiou,2251470
 Gossas Village,Senegal,Fatick,2251490
@@ -25909,7 +26603,6 @@ Ban Phai,Thailand,Khon Kaen,1614455
 Ban Phaeo,Thailand,Samut Sakhon,1614465
 Thambon Na Mueang,Thailand,Prachin Buri,1616222
 Ban Mo,Thailand,Saraburi,1616658
-Min Buri,Thailand,Bangkok,1616660
 Ban Lam Luk Ka,Thailand,Pathum Thani,1617111
 Ban Khlong Prawet,Thailand,Bangkok,1618177
 Ban Khlong Bang Ramat,Thailand,Bangkok,1618363
@@ -25980,7 +26673,6 @@ Sathorn,Thailand,Bangkok,10172776
 Bangkok Riverside,Thailand,Bangkok,10176275
 Huamak,Thailand,Bangkok,10227099
 Latkrabang,Thailand,Bangkok,11071484
-Don Mueang,Thailand,Bangkok,12750557
 Prachin Buri Town,Thailand,Prachin Buri,13405659
 Sam Sen Nai,Thailand,Bangkok,13494061
 Inner Huai Khwang,Thailand,Bangkok,13494063
@@ -27169,12 +27861,14 @@ Alushta,Ukraine,Crimea,713513
 Alchevsk,Ukraine,Luhansk,713716
 Okhtyrka,Ukraine,Sumy,713749
 Horishni Plavni,Ukraine,Poltava,6559559
+Saltivka,Ukraine,Kharkivs'ka Oblast',6722148
 Slavutych,Ukraine,Kiev,6930327
 Pivdennoukrainsk,Ukraine,Mykolaiv,7525990
 Varash,Ukraine,Rivne,8341919
 Novoyavorivs'k,Ukraine,Lviv,8468760
 Revivka,Ukraine,Poltava,11139610
 Reni,Ukraine,Odessa,12129128
+Korabel,Ukraine,Kherson,13512498
 Yumbe,Uganda,Northern Region,225835
 Wobulenzi,Uganda,Central Region,225858
 Wakiso,Uganda,Central Region,225964
@@ -29329,6 +30023,7 @@ Fresh Meadows,United States,New York,5118005
 Garden City,United States,New York,5118226
 Glen Cove,United States,New York,5118626
 Glendale,United States,New York,5118670
+Glenville,United States,New York,5118701
 Gloversville,United States,New York,5118743
 Grand Island,United States,New York,5119019
 Graniteville,United States,New York,5119049
@@ -31048,6 +31743,7 @@ Xuân Mai,Viet Nam,Hanoi,1560551
 Xuân Lộc,Viet Nam,Dong Nai,1560565
 Xóm Mỹ Xuân,Viet Nam,Ho Chi Minh City (HCMC),1561210
 Xóm Cái Nước,Viet Nam,An Giang,1561907
+Cái Đôi Vàm,Viet Nam,Ca Mau,1561914
 Trảng Bom,Viet Nam,Dong Nai,1562176
 Xã Long Hải,Viet Nam,Ho Chi Minh City (HCMC),1562278
 Vũng Tàu,Viet Nam,Ho Chi Minh City (HCMC),1562414
@@ -31131,6 +31827,7 @@ Hương Trà,Viet Nam,Thua Thien Hue Province,1580092
 Hương Thủy,Viet Nam,Thua Thien Hue Province,1580093
 Hưng Yên,Viet Nam,Hung Yen Province,1580142
 Huế,Viet Nam,Thua Thien Hue Province,1580240
+Hồng Ngự,Viet Nam,Dong Thap,1580400
 Hạ Long,Viet Nam,Quang Ninh,1580410
 Hoi An,Viet Nam,Da Nang City,1580541
 Hòa Bình,Viet Nam,Phu Tho,1580830
@@ -31198,6 +31895,7 @@ Bắc Kạn,Viet Nam,Thai Nguyen,1591538
 Ấp Phước Tĩnh,Viet Nam,Ho Chi Minh City (HCMC),1592500
 Ấp Hô Phòng,Viet Nam,Ca Mau,1593289
 Ấp Bình Châu,Viet Nam,Ho Chi Minh City (HCMC),1593889
+An Trạch,Viet Nam,Ca Mau,1594188
 An Nhơn,Viet Nam,Gia Lai,1594308
 An Khê,Viet Nam,Gia Lai,1594402
 Ba Dinh,Viet Nam,Hanoi,7289846
@@ -31219,6 +31917,7 @@ Ea Drăng,Viet Nam,Dak Lak,8724987
 Quảng Phú,Viet Nam,Dak Lak,8725037
 Đinh Văn,Viet Nam,Lam Dong,8991407
 Phú Quý,Viet Nam,Lam Dong,9000266
+Long Khánh,Viet Nam,Dong Nai,9075789
 Hòa Thành,Viet Nam,Tay Ninh,9081327
 Duyên Hải,Viet Nam,Vinh Long,9292220
 Vĩnh Thạnh,Viet Nam,Can Tho City,9533392
@@ -31229,6 +31928,7 @@ Quận Năm,Viet Nam,Ho Chi Minh City (HCMC),9645073
 Quận Mười Một,Viet Nam,Ho Chi Minh City (HCMC),9645084
 Quận Mười,Viet Nam,Ho Chi Minh City (HCMC),9645085
 Quận Ba,Viet Nam,Ho Chi Minh City (HCMC),9645086
+Gia Lâm,Viet Nam,Hanoi,9871722
 Quận Đức Thịnh,Viet Nam,Dong Thap,12166273
 Quận Đức Thành,Viet Nam,Dong Thap,12166275
 Huyện Lâm Hà,Viet Nam,Lam Dong,12217184
@@ -31544,6 +32244,7 @@ Kraaifontein,South Africa,Western Cape,3365083
 Hermanus,South Africa,Western Cape,3366880
 Grabouw,South Africa,Western Cape,3367513
 Gansbaai,South Africa,Western Cape,3367804
+Franschhoek,South Africa,Western Cape,3367877
 Ceres,South Africa,Western Cape,3369129
 Cape Town,South Africa,Western Cape,3369157
 Caledon,South Africa,Western Cape,3369179
