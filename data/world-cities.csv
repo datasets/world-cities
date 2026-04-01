@@ -28,6 +28,7 @@ As Saţwah,United Arab Emirates,Dubai,385024
 Al Ḩamīdīyah,United Arab Emirates,Ajman,414901
 Al Waheda,United Arab Emirates,Dubai,6691079
 Al Karama,United Arab Emirates,Dubai,6691091
+Al Wasl,United Arab Emirates,Dubai,6691096
 The Palm Jumeirah,United Arab Emirates,Dubai,6691113
 Bur Dubai,United Arab Emirates,Dubai,7289825
 Khalifah A City,United Arab Emirates,Abu Dhabi,8057551
@@ -342,6 +343,7 @@ Garupá,Argentina,Misiones,3433836
 Formosa,Argentina,Formosa,3433899
 Fontana,Argentina,Chaco,3433901
 Federal,Argentina,Entre Rios,3433956
+Ezeiza,Argentina,Buenos Aires,3433975
 Esquina,Argentina,Corrientes,3434095
 El Soberbio,Argentina,Misiones,3434291
 El Palomar,Argentina,Buenos Aires,3434509
@@ -4551,6 +4553,8 @@ Lawson,Canada,Saskatchewan,13589212
 Stonebridge,Canada,Saskatchewan,13589220
 Arcola East,Canada,Saskatchewan,13589240
 Dewdney East,Canada,Saskatchewan,13589242
+Fredericton Northside,Canada,New Brunswick,13607919
+Clayton Park West,Canada,Nova Scotia,13607951
 West Island,Cocos (Keeling) Islands,,7304591
 Yangambi,"Congo, The Democratic Republic of the",Tshopo,203717
 Watsa,"Congo, The Democratic Republic of the",Haut-Uele,204283
@@ -5132,6 +5136,7 @@ Calama,Chile,Antofagasta,3897347
 Cabrero,Chile,Biobio,3897557
 Cabildo,Chile,Valparaiso,3897595
 Buin,Chile,Santiago Metropolitan,3897774
+Batuco,Chile,Santiago Metropolitan,3898597
 Arica,Chile,Arica y Parinacota Region,3899361
 Arauco,Chile,Biobio,3899462
 Antofagasta,Chile,Antofagasta,3899539
@@ -5262,6 +5267,7 @@ Menglang,China,Yunnan,1280574
 Mangshi,China,Yunnan,1280623
 Mangnai Zhen,China,Qinghai,1280625
 Lop,China,Xinjiang,1280691
+Longshan,China,Yunnan,1280694
 Liuku,China,Yunnan,1280703
 Lhasa,China,Tibet,1280737
 Laojunmiao,China,Gansu,1280757
@@ -5378,6 +5384,7 @@ Zhuxi,China,Chongqing,1783793
 Zhutuo,China,Chongqing,1783802
 Zhuoshui,China,Chongqing,1783858
 Zhumadian,China,Henan,1783873
+Zhujing,China,Shanghai,1783903
 Zhujiajiao,China,Shanghai,1783920
 Shangqiu,China,Henan,1783934
 Zhuji,China,Zhejiang,1783940
@@ -5514,6 +5521,7 @@ Yangtun,China,Jiangsu,1787297
 Yangshuo,China,Guangxi,1787323
 Zhangjiagang,China,Jiangsu,1787331
 Yangquan,China,Shanxi,1787351
+Yangpu,China,Shanghai,1787375
 Yangliuqing,China,Tianjin,1787437
 Yangjiaying,China,Shanxi,1787503
 Yanghe,China,Ningxia,1787587
@@ -5531,6 +5539,7 @@ Xunyang,China,Shaanxi,1787873
 Xunsi,China,Sichuan,1787879
 Xunchang,China,Sichuan,1787901
 Xujiang,China,Jiangxi,1787925
+Xuhui,China,Shanghai,1787957
 Xuchang,China,Henan,1788046
 Xuantan,China,Sichuan,1788061
 Xuancheng,China,Anhui,1788081
@@ -5616,6 +5625,7 @@ Xi’an,China,Shaanxi,1790630
 Xiamen,China,Fujian,1790645
 Xiagezhuang,China,Shandong,1790744
 Wuzhou,China,Guangxi,1790840
+Wuzhong,China,Ningxia,1790842
 Wuzhen,China,Zhejiang,1790848
 Wuyang,China,Anhui,1790885
 Wuxue,China,Hubei,1790894
@@ -5699,7 +5709,7 @@ Tangwu,China,Shandong,1793315
 Tangshan,China,Hebei,1793346
 Tangping,China,Guangdong,1793364
 Tangjiazhuang,China,Hebei,1793385
-Binhe,China,Henan,1793419
+Tanghe,China,Henan,1793419
 Tanggu,China,Tianjin,1793424
 Tangba,China,Chongqing,1793463
 Taizhou,China,Jiangsu,1793505
@@ -5728,7 +5738,7 @@ Shangsi,China,Guangxi,1794103
 Sitou,China,Shandong,1794126
 Sishui,China,Shandong,1794140
 Simen,China,Gansu,1794203
-Simao,China,Yunnan,1794209
+Pu'er,China,Yunnan,1794209
 Dachang Shandao,China,Liaoning,1794227
 Sihu,China,Jiangsu,1794254
 Shunhe,China,Jiangsu,1794348
@@ -5847,6 +5857,7 @@ Qingshuping,China,Hunan,1797715
 Qingshizui,China,Qinghai,1797755
 Qingshanquan,China,Jiangsu,1797766
 Qingquan,China,Hubei,1797793
+Qingpu,China,Shanghai,1797798
 Qingping,China,Chongqing,1797804
 Huai'an,China,Jiangsu,1797873
 Qingfu,China,Sichuan,1797915
@@ -5865,11 +5876,13 @@ Qabqa,China,Qinghai,1798403
 Puzi,China,Chongqing,1798408
 Puyang Chengguanzhen,China,Henan,1798422
 Puyang,China,Zhejiang,1798425
+Putuo,China,Shanghai,1798439
 Putian,China,Fujian,1798449
 Puji,China,Shandong,1798462
 Puqi,China,Hubei,1798473
 Yongning,China,Guangxi,1798480
 Pulandian,China,Liaoning,1798490
+Pudong,China,Shanghai,1798524
 Pu’an,China,Sichuan,1798537
 Poyang,China,Jiangxi,1798548
 Pingyin,China,Shandong,1798632
@@ -5912,6 +5925,7 @@ Nanxi,China,Sichuan,1799686
 Nantou,China,Guangdong,1799714
 Nantong,China,Jiangsu,1799722
 Nanshu,China,Shandong,1799749
+Nanqiao,China,Shanghai,1799823
 Pucheng,China,Fujian,1799832
 Nanping,China,Chongqing,1799845
 Nanping,China,Fujian,1799846
@@ -5935,6 +5949,7 @@ Nada,China,Hainan,1800234
 Mu’er,China,Chongqing,1800333
 Mudong,China,Chongqing,1800334
 Miyang,China,Yunnan,1800430
+Minhang,China,Shanghai,1800480
 Mingshui,China,Shandong,1800498
 Mingguang,China,Anhui,1800519
 Minggang,China,Henan,1800521
@@ -5947,6 +5962,7 @@ Mentougou,China,Beijing,1800657
 Mengyin,China,Shandong,1800675
 Mengla,China,Yunnan,1800716
 Mengcheng Chengguanzhen,China,Anhui,1800764
+Meng’a,China,Yunnan,1800770
 Meizhou,China,Guangdong,1800779
 Meishan,China,Sichuan,1800818
 Wuchuan,China,Guangdong,1800829
@@ -6116,6 +6132,7 @@ Jingmen,China,Hubei,1805611
 Jingling,China,Hubei,1805618
 Jingguan,China,Chongqing,1805661
 Jingdezhen,China,Jiangxi,1805680
+Jing’an,China,Shanghai,1805701
 Jing’an,China,Guangdong,1805704
 Jinchang,China,Gansu,1805733
 Jincheng,China,Shanxi,1805741
@@ -6155,6 +6172,7 @@ Jianchang,China,Jiangxi,1806439
 Ji’an,China,Jiangxi,1806445
 Guangyuan,China,Sichuan,1806466
 Qionghai,China,Hainan,1806488
+Jiading,China,Shanghai,1806508
 Jiachuan,China,Sichuan,1806516
 Huzhou,China,Zhejiang,1806535
 Hutang,China,Jiangsu,1806591
@@ -6195,6 +6213,7 @@ Huacheng,China,Guangdong,1807738
 Houzhen,China,Shandong,1807761
 Hongzhou,China,Guizhou,1807916
 Honglu,China,Chongqing,1808075
+Hongkou,China,Shanghai,1808090
 Donghe,China,Sichuan,1808103
 Hongjiang,China,Hunan,1808106
 Honghe,China,Shandong,1808133
@@ -6394,6 +6413,7 @@ Yangchun,China,Guangdong,1814786
 Yiwu,China,Zhejiang,1814870
 Chongxing,China,Ningxia,1814882
 Chongqing,China,Chongqing,1814906
+Chengqiao,China,Shanghai,1814915
 Chonglong,China,Sichuan,1814919
 Chongkan,China,Chongqing,1814921
 Chóngfú,China,Zhejiang,1814928
@@ -6418,6 +6438,7 @@ Changyi,China,Shandong,1815482
 Changxin,China,Ningxia,1815494
 Changsha,China,Hunan,1815577
 Changqing,China,Shandong,1815585
+Changning,China,Shanghai,1815611
 Changning,China,Sichuan,1815617
 Changli,China,Hebei,1815656
 Changleng,China,Jiangxi,1815667
@@ -6464,6 +6485,7 @@ Basuo,China,Hainan,1816858
 Bashan,China,Jiangxi,1816865
 Baoying,China,Jiangsu,1816890
 Baocheng,China,Hainan,1816904
+Baoshan,China,Shanghai,1816917
 Shaoyang,China,Hunan,1816920
 Langzhong,China,Sichuan,1816924
 Baoluan,China,Chongqing,1816929
@@ -6867,11 +6889,13 @@ Hezhou,China,Guangxi,7576887
 Zhu Cheng City,China,Shandong,7602670
 Xingqiao,China,Zhejiang,7735165
 Changzheng,China,Shanghai,7843638
+Xiayang,China,Shanghai,7845495
 Shangri-La,China,Yunnan,7910932
 Maqin County,China,Qinghai,7931312
 Tongyangdao,China,Inner Mongolia,8054542
 Xilinhot,China,Inner Mongolia,8054802
 Lhoka,China,Tibet,8067345
+Huangpu,China,Shanghai,8307452
 Xili,China,Guangdong,8334017
 Ulanqab,China,Inner Mongolia,8335361
 Ordos,China,Inner Mongolia,8347664
@@ -7290,6 +7314,9 @@ São Lourenço,China,Guangdong,13527318
 Yùmén,China,Gansu,13535802
 Huyanghe,China,Xinjiang,13561750
 Tianducheng,China,Zhejiang,13561768
+Jinshan,China,Shanghai,13608000
+Fengxiang,China,Shanghai,13608002
+Chongming,China,,13608003
 Zipaquirá,Colombia,Cundinamarca,3665542
 Zarzal,Colombia,Valle del Cauca Department,3665559
 Zaragoza,Colombia,Antioquia,3665566
@@ -9268,6 +9295,7 @@ Reghaïa,Algeria,Algiers,2483757
 Reggane,Algeria,Adrar,2483761
 Râs el Oued,Algeria,Bordj Bou Arreridj,2483936
 Râs el Aïoun,Algeria,Batna,2483968
+Rais Hamidou,Algeria,Algiers,2484187
 Oum el Bouaghi,Algeria,Oum el Bouaghi,2484620
 Ouled Slama Fouaga,Algeria,Blida,2484777
 Ouled Moussa,Algeria,Boumerdes,2484835
@@ -9778,6 +9806,7 @@ Abū Ḩammād,Egypt,Sharqia,362615
 Abū an Numrus,Egypt,Giza,362865
 Abū al Maţāmīr,Egypt,Beheira,362882
 Abnūb,Egypt,Asyut,362973
+Hala'ib,Egypt,Red Sea,374290
 An Nūbārīyah,Egypt,Beheira,408919
 Awlād Şaqr,Egypt,Sharqia,409361
 Bi’r al ‘Abd,Egypt,North Sinai,410142
@@ -10941,6 +10970,7 @@ Vence,France,Provence-Alpes-Cote d'Azur,2970148
 Vélizy-Villacoublay,France,Ile-de-France,2970203
 Vauréal,France,Ile-de-France,2970432
 Vaulx-en-Velin,France,Rhone-Alpes,2970456
+Paris 15 Vaugirard,France,Ile-de-France,2970479
 Vanves,France,Ile-de-France,2970761
 Vannes,France,Brittany,2970777
 Vandœuvre-lès-Nancy,France,Grand Est,2970797
@@ -10963,6 +10993,7 @@ Thonon-les-Bains,France,Rhone-Alpes,2972742
 Thionville,France,Grand Est,2972811
 Thiais,France,Ile-de-France,2972893
 Tergnier,France,Hauts-de-France,2973146
+Paris 03 Temple,France,Ile-de-France,2973189
 Taverny,France,Ile-de-France,2973258
 Tassin-la-Demi-Lune,France,Rhone-Alpes,2973317
 Tarbes,France,Occitanie,2973385
@@ -11063,12 +11094,14 @@ Ris-Orangis,France,Ile-de-France,2983440
 Riom,France,Rhone-Alpes,2983489
 Rillieux-la-Pape,France,Rhone-Alpes,2983536
 Rezé,France,Pays de la Loire,2983770
+Paris 12 Reuilly,France,Ile-de-France,2983854
 Rennes,France,Brittany,2983990
 Reims,France,Grand Est,2984114
 Rambouillet,France,Ile-de-France,2984513
 Quimper,France,Brittany,2984701
 Puteaux,France,Ile-de-France,2985034
 Port-de-Bouc,France,Provence-Alpes-Cote d'Azur,2986025
+Paris 11 Popincourt,France,Ile-de-France,2986082
 Pontoise,France,Ile-de-France,2986140
 Pontivy,France,Brittany,2986160
 Pontarlier,France,Bourgogne,2986302
@@ -11084,10 +11117,13 @@ Pertuis,France,Provence-Alpes-Cote d'Azur,2987825
 Perpignan,France,Occitanie,2987914
 Périgueux,France,Nouvelle-Aquitaine,2987967
 Pau,France,Nouvelle-Aquitaine,2988358
+Paris 16 Passy,France,Ile-de-France,2988394
 Paris,France,Ile-de-France,2988507
 Pantin,France,Ile-de-France,2988621
+Paris 05 Panthéon,France,Ile-de-France,2988623
 Pamiers,France,Occitanie,2988670
 Palaiseau,France,Ile-de-France,2988758
+Paris 07 Palais-Bourbon,France,Ile-de-France,2988760
 Ozoir-la-Ferrière,France,Ile-de-France,2988867
 Oyonnax,France,Rhone-Alpes,2988888
 Outreau,France,Hauts-de-France,2988936
@@ -11098,8 +11134,10 @@ Orsay,France,Ile-de-France,2989204
 Orly,France,Ile-de-France,2989297
 Orléans,France,Centre-Val de Loire,2989317
 Orange,France,Provence-Alpes-Cote d'Azur,2989460
+Paris 09 Opéra,France,Ile-de-France,2989487
 Olivet,France,Centre-Val de Loire,2989611
 Octeville,France,Normandy,2989755
+Paris 14 Observatoire,France,Ile-de-France,2989781
 Noyon,France,Hauts-de-France,2989877
 Noisy-le-Sec,France,Ile-de-France,2990187
 Noisy-le-Grand,France,Ile-de-France,2990189
@@ -11155,6 +11193,7 @@ Meudon,France,Ile-de-France,2994144
 Metz,France,Grand Est,2994160
 Mérignac,France,Nouvelle-Aquitaine,2994393
 Menton,France,Provence-Alpes-Cote d'Azur,2994497
+Paris 20 Ménilmontant,France,Ile-de-France,2994540
 Melun,France,Ile-de-France,2994651
 Meaux,France,Ile-de-France,2994798
 Mazargues,France,Provence-Alpes-Cote d'Azur,2994895
@@ -11178,6 +11217,7 @@ Maisons-Laffitte,France,Ile-de-France,2996564
 Maisons-Alfort,France,Ile-de-France,2996568
 Mâcon,France,Bourgogne,2996882
 Lyon,France,Rhone-Alpes,2996944
+Paris 06 Luxembourg,France,Ile-de-France,2997000
 Lunéville,France,Grand Est,2997110
 Lunel,France,Occitanie,2997116
 Lucé,France,Centre-Val de Loire,2997246
@@ -11265,6 +11305,7 @@ Illzach,France,Grand Est,3012829
 Illkirch-Graffenstaden,France,Grand Est,3012834
 Hyères,France,Provence-Alpes-Cote d'Azur,3012937
 Houilles,France,Ile-de-France,3013097
+Paris 04 Hôtel-de-Ville,France,Ile-de-France,3013131
 Hérouville-Saint-Clair,France,Normandy,3013403
 Herblay-sur-Seine,France,Ile-de-France,3013477
 Hénin-Beaumont,France,Hauts-de-France,3013525
@@ -11287,6 +11328,7 @@ Grande-Synthe,France,Hauts-de-France,3015160
 Gradignan,France,Nouvelle-Aquitaine,3015419
 Goussainville,France,Ile-de-France,3015490
 Gonesse,France,Ile-de-France,3015689
+Paris 13 Gobelins,France,Ile-de-France,3015772
 Givors,France,Rhone-Alpes,3015902
 Gif-sur-Yvette,France,Ile-de-France,3016078
 Gien,France,Centre-Val de Loire,3016097
@@ -11326,6 +11368,8 @@ Ermont,France,Ile-de-France,3019897
 Épinay-sur-Seine,France,Ile-de-France,3020020
 Épinal,France,Grand Est,3020035
 Épernay,France,Grand Est,3020062
+Paris 10 Entrepôt,France,Ile-de-France,3020216
+Paris 08 Élysée,France,Ile-de-France,3020270
 Elbeuf,France,Normandy,3020307
 Élancourt,France,Ile-de-France,3020310
 Écully,France,Rhone-Alpes,3020392
@@ -11423,6 +11467,8 @@ Cahors,France,Occitanie,3029213
 Cagnes-sur-Mer,France,Provence-Alpes-Cote d'Azur,3029227
 Caen,France,Normandy,3029241
 Cachan,France,Ile-de-France,3029276
+Paris 19 Buttes-Chaumont,France,Ile-de-France,3029372
+Paris 18 Buttes-Montmartre,France,Ile-de-France,3029374
 Bry-sur-Marne,France,Ile-de-France,3029706
 Brunoy,France,Ile-de-France,3029748
 Bruay-la-Buissière,France,Hauts-de-France,3029825
@@ -11433,6 +11479,7 @@ Brie-Comte-Robert,France,Ile-de-France,3030101
 Brétigny-sur-Orge,France,Ile-de-France,3030257
 Brest,France,Brittany,3030300
 Bressuire,France,Nouvelle-Aquitaine,3030303
+Paris 02 Bourse,France,Ile-de-France,3030864
 Bourg-lès-Valence,France,Rhone-Alpes,3030985
 Bourg-la-Reine,France,Ile-de-France,3030990
 Bourges,France,Centre-Val de Loire,3031005
@@ -11464,6 +11511,7 @@ Beauvais,France,Hauts-de-France,3034006
 Beaune,France,Bourgogne,3034126
 Bayonne,France,Nouvelle-Aquitaine,3034475
 Bayeux,France,Normandy,3034483
+Paris 17 Batignolles-Monceau,France,Ile-de-France,3034610
 Bastia,France,Corsica,3034640
 Bar-le-Duc,France,Grand Est,3034911
 Balma,France,Occitanie,3035204
@@ -11512,6 +11560,7 @@ Agen,France,Nouvelle-Aquitaine,3038634
 Agde,France,Occitanie,3038638
 Achères,France,Ile-de-France,3038712
 Abbeville,France,Hauts-de-France,3038789
+Paris 01 Louvre,France,Ile-de-France,6269531
 Villeneuve-d'Ascq,France,Hauts-de-France,6543862
 Lyon 02,France,Rhone-Alpes,6543968
 Lyon 03,France,Rhone-Alpes,6543969
@@ -12441,6 +12490,7 @@ Furzedown,United Kingdom,England,12048252
 Seven Sisters,United Kingdom,England,12048325
 Tottenham Hale,United Kingdom,England,12048327
 Washwood Heath,United Kingdom,England,12076699
+Nigg,United Kingdom,Scotland,13269454
 Primrose Place,United Kingdom,England,13353776
 Saint George's,Grenada,Saint George Parish,3579925
 Zugdidi,Georgia,Samegrelo and Zemo Svaneti,610824
@@ -13176,6 +13226,7 @@ Rákospalota,Hungary,Budapest,3045965
 Rákoskeresztúr,Hungary,Pest County,3045971
 Pestlőrinc,Hungary,Budapest,3046433
 Pesterzsébet,Hungary,Budapest,3046445
+Pest,Hungary,Budapest,3046446
 Pécs,Hungary,Baranya,3046526
 Pápa,Hungary,Veszprem,3046686
 Paks,Hungary,Tolna County,3046768
@@ -13222,6 +13273,7 @@ Cegléd,Hungary,Pest County,3054543
 Budapest,Hungary,Budapest,3054643
 Budaörs,Hungary,Pest County,3054646
 Budafok,Hungary,Budapest,3054663
+Buda,Hungary,Budapest,3054667
 Baja,Hungary,Bacs-Kiskun,3055685
 Angyalföld,Hungary,Budapest,3055970
 Ajka,Hungary,Veszprem,3056357
@@ -13288,6 +13340,7 @@ Bireun,Indonesia,Aceh,1215350
 Binjai,Indonesia,North Sumatra,1215355
 Berastagi,Indonesia,North Sumatra,1215395
 Belawan,Indonesia,North Sumatra,1215412
+Barus,Indonesia,North Sumatra,1215468
 Bandar,Indonesia,North Sumatra,1215498
 Banda Aceh,Indonesia,Aceh,1215502
 Yogyakarta,Indonesia,Yogyakarta,1621177
@@ -13535,6 +13588,7 @@ Kebomas,Indonesia,East Java,1640765
 Kawasi,Indonesia,North Maluku,1640889
 Kawalu,Indonesia,West Java,1640902
 Katobu,Indonesia,Southeast Sulawesi,1640972
+Karawang,Indonesia,West Java,1641134
 Karangsembung,Indonesia,West Java,1641184
 Amlapura,Indonesia,Bali,1641301
 Karanganom,Indonesia,Central Java,1641333
@@ -14679,6 +14733,7 @@ Pānakkudi,India,Tamil Nadu,1260609
 Panāgar,India,Madhya Pradesh,1260612
 Pāmūru,India,Andhra Pradesh,1260615
 Pāmpur,India,Jammu and Kashmir,1260618
+Pāmban,India,Tamil Nadu,1260628
 Palwal,India,Haryana,1260637
 Pāloncha,India,Telangana,1260667
 Palani,India,Tamil Nadu,1260671
@@ -15709,7 +15764,6 @@ Gubbi,India,Karnataka,1270824
 Goyerkāta,India,West Bengal,1270845
 Govardhan,India,Uttar Pradesh,1270863
 Gotan,India,Rajasthan,1270884
-Gosāba,India,West Bengal,1270896
 Gormi,India,Madhya Pradesh,1270903
 Gorantla,India,Andhra Pradesh,1270923
 Gorakhpur,India,Haryana,1270926
@@ -15757,7 +15811,6 @@ Gauribidanur,India,Karnataka,1271459
 Gaurela,India,Chhattisgarh,1271464
 Guwahati,India,Assam,1271476
 Garhwa,India,Jharkhand,1271493
-Garui,India,West Bengal,1271495
 Garot,India,Madhya Pradesh,1271509
 Gariadhar,India,Gujarat,1271533
 Garhshankar,India,Punjab,1271538
@@ -16274,6 +16327,7 @@ Bastī,India,Uttar Pradesh,1276736
 Basoda,India,Madhya Pradesh,1276752
 Basni,India,Rajasthan,1276754
 Basmat,India,Maharashtra,1276757
+Basirhat City,India,West Bengal,1276759
 Basi,India,Punjab,1276764
 Basi,India,Punjab,1276765
 Basi,India,Rajasthan,1276767
@@ -16911,6 +16965,7 @@ Aroor,India,Kerala,10628607
 Kadakkavoor,India,Kerala,10628608
 Kalavoor,India,Kerala,10629189
 Kalamassery,India,Kerala,10630431
+Bunjwah,India,Jammu and Kashmir,10677907
 Sujānpur,India,Punjab,10684789
 Jugiāl,India,Punjab,10684812
 Mamun,India,Punjab,10684916
@@ -17088,7 +17143,6 @@ Ayyalur,India,Tamil Nadu,11186287
 Chalthan,India,Gujarat,11186294
 Iroopara,India,Kerala,11189027
 Kidarakulam,India,Kerala,11189062
-Nagarukhra City,India,West Bengal,11203603
 Narasimhanaickenpalayam,India,Tamil Nadu,11203608
 Māmidālapādu,India,Andhra Pradesh,11253678
 Gopavaram,India,Andhra Pradesh,11271185
@@ -17615,14 +17669,17 @@ Umm Qaşr,Iraq,Basra,89824
 Tikrīt,Iraq,Salah ad Din,90150
 Tallkayf,Iraq,Nineveh,90353
 Sīnah,Iraq,Duhok,90708
+Ash Sharqāt,Iraq,Salah ad Din,91057
 Sāmarrā’,Iraq,Salah ad Din,91597
 Nāḩīyat Saddat al Hindīyah,Iraq,Babil,91812
 Ṟuwandiz,Iraq,Erbil,92002
 Al Qā’im,Iraq,Anbar,92138
 Al-Hamdaniya,Iraq,Nineveh,92430
+Qal‘at Sukkar,Iraq,Dhi Qar,92511
 Mandalī,Iraq,Diyala,93709
 Koysinceq,Iraq,Erbil,94220
 Kifrī,Iraq,Diyala,94298
+Khānaqīn,Iraq,Diyala,94591
 Kirkuk,Iraq,Kirkuk,94787
 Karbala,Iraq,Karbala,94824
 Kelar,Iraq,Sulaymaniyah,95005
@@ -17699,11 +17756,14 @@ Qarchak,"Iran, Islamic Republic of",Tehran,32767
 Ṣāleḥīeh,"Iran, Islamic Republic of",Tehran,32843
 Golestān,"Iran, Islamic Republic of",Tehran,32900
 Shahre Jadide Andisheh,"Iran, Islamic Republic of",Tehran,32909
+Ferdowsīyeh,"Iran, Islamic Republic of",Tehran,33069
 Dezfūl,"Iran, Islamic Republic of",Khuzestan,36618
 Khorramdarreh,"Iran, Islamic Republic of",Zanjan,41210
 Pādegān-e Manjīl,"Iran, Islamic Republic of",Gilan Province,41428
 Kamālshahr,"Iran, Islamic Republic of",Alborz Province,41548
+Shahrak-e Mohandesī-ye Zerā‘ī,"Iran, Islamic Republic of",Alborz Province,41589
 Kavār,"Iran, Islamic Republic of",Fars,44439
+Shahrak-e Ţāleqānī,"Iran, Islamic Republic of",Khuzestan,45628
 Ābādeh,"Iran, Islamic Republic of",Fars,48918
 Yasuj,"Iran, Islamic Republic of",Kohgiluyeh and Boyer-Ahmad,66093
 Āzādshahr,"Iran, Islamic Republic of",Golestan,110831
@@ -17738,6 +17798,7 @@ Semnan,"Iran, Islamic Republic of",Semnan,116402
 Semīrom,"Iran, Islamic Republic of",Isfahan,116406
 Sāveh,"Iran, Islamic Republic of",Markazi,116667
 Sari,"Iran, Islamic Republic of",Mazandaran,116996
+Sardrūd,"Iran, Islamic Republic of",East Azerbaijan,117096
 Sardasht,"Iran, Islamic Republic of",West Azerbaijan,117111
 Sarāb,"Iran, Islamic Republic of",East Azerbaijan,117368
 Saqqez,"Iran, Islamic Republic of",Kurdistan Province,117392
@@ -17769,6 +17830,7 @@ Farrokh Shahr,"Iran, Islamic Republic of",Chaharmahal and Bakhtiari,120678
 Qā’en,"Iran, Islamic Republic of",South Khorasan Province,120694
 Qā’em Shahr,"Iran, Islamic Republic of",Mazandaran,120695
 Sarpol-e Z̄ahāb,"Iran, Islamic Republic of",Kermanshah Province,120931
+Poldokhtar,"Iran, Islamic Republic of",Lorestan Province,120949
 Poldasht,"Iran, Islamic Republic of",West Azerbaijan,120954
 Pīshvā,"Iran, Islamic Republic of",Tehran,120972
 Piranshahr,"Iran, Islamic Republic of",West Azerbaijan,121110
@@ -17806,6 +17868,7 @@ Marand,"Iran, Islamic Republic of",East Azerbaijan,124862
 Marāgheh,"Iran, Islamic Republic of",East Azerbaijan,124877
 Marāgheh,"Iran, Islamic Republic of",Razavi Khorasan,124878
 Manjīl,"Iran, Islamic Republic of",Gilan Province,124967
+Malekān,"Iran, Islamic Republic of",East Azerbaijan,125112
 Malāyer,"Iran, Islamic Republic of",Hamadan Province,125185
 Malārd,"Iran, Islamic Republic of",Tehran,125188
 Makū,"Iran, Islamic Republic of",Bushehr,125206
@@ -17831,6 +17894,7 @@ Kerman,"Iran, Islamic Republic of",Kerman,128234
 Kāzerūn,"Iran, Islamic Republic of",Fars,128321
 Kāshmar,"Iran, Islamic Republic of",Razavi Khorasan,128447
 Karaj,"Iran, Islamic Republic of",Alborz Province,128747
+Karahrūd,"Iran, Islamic Republic of",Markazi,128748
 Kangāvar,"Iran, Islamic Republic of",Kermanshah Province,128831
 Kāmyārān,"Iran, Islamic Republic of",Kurdistan Province,128905
 Kalāleh,"Iran, Islamic Republic of",Golestan,129512
@@ -17880,6 +17944,7 @@ Dārāb,"Iran, Islamic Republic of",Fars,137956
 Dāmghān,"Iran, Islamic Republic of",Semnan,138025
 Damāvand,"Iran, Islamic Republic of",Tehran,138042
 Chenārān,"Iran, Islamic Republic of",Razavi Khorasan,138742
+Charām,"Iran, Islamic Republic of",Kohgiluyeh and Boyer-Ahmad,138989
 Chālūs,"Iran, Islamic Republic of",Mazandaran,139223
 Bushehr,"Iran, Islamic Republic of",Bushehr,139817
 Būmahen,"Iran, Islamic Republic of",Tehran,139879
@@ -17900,6 +17965,7 @@ Bāneh,"Iran, Islamic Republic of",Kurdistan Province,141584
 Bandar-e Torkaman,"Iran, Islamic Republic of",Golestan,141653
 Bandar-e Māhshahr,"Iran, Islamic Republic of",Khuzestan,141663
 Bandar-e Lengeh,"Iran, Islamic Republic of",Hormozgan,141665
+Bandar-e Gaz,"Iran, Islamic Republic of",Golestan,141673
 Bandar-e Deylam,"Iran, Islamic Republic of",Bushehr,141676
 Bandar-e Anzalī,"Iran, Islamic Republic of",Gilan Province,141679
 Bandar Abbas,"Iran, Islamic Republic of",Hormozgan,141681
@@ -17946,15 +18012,19 @@ Bāqershahr,"Iran, Islamic Republic of",Tehran,400809
 Shahrak-e Qīāmdasht,"Iran, Islamic Republic of",Tehran,400833
 Showţ,"Iran, Islamic Republic of",West Azerbaijan,401118
 Pāsārgād,"Iran, Islamic Republic of",Fars,401202
+Naz̧arābād,"Iran, Islamic Republic of",Tehran,406462
 Shāhedshahr,"Iran, Islamic Republic of",Tehran,406472
 Eqbālīyeh,"Iran, Islamic Republic of",Tehran,406993
 Shāhīn Shahr,"Iran, Islamic Republic of",Isfahan,417472
+Zarrīn Shahr,"Iran, Islamic Republic of",Isfahan,418418
+Varnāmkhvāst,"Iran, Islamic Republic of",Isfahan,418444
 Tīrān,"Iran, Islamic Republic of",Isfahan,418446
 Rehnān,"Iran, Islamic Republic of",Isfahan,418521
 Shahreẕā,"Iran, Islamic Republic of",Isfahan,418533
 Goldasht,"Iran, Islamic Republic of",Isfahan,418556
 Qahderījān,"Iran, Islamic Republic of",Isfahan,418571
 Najafābād,"Iran, Islamic Republic of",Isfahan,418606
+Mobārakeh,"Iran, Islamic Republic of",Isfahan,418625
 Khowrzūq,"Iran, Islamic Republic of",Isfahan,418699
 Khomeynī Shahr,"Iran, Islamic Republic of",Isfahan,418710
 Kelīshād va Sūdarjān,"Iran, Islamic Republic of",Isfahan,418723
@@ -17963,8 +18033,10 @@ Fūlād Shahr,"Iran, Islamic Republic of",Isfahan,418838
 Falāvarjān,"Iran, Islamic Republic of",Isfahan,418851
 Isfahan,"Iran, Islamic Republic of",Isfahan,418863
 Dowlatābād,"Iran, Islamic Republic of",Isfahan,418868
+Dīzīcheh,"Iran, Islamic Republic of",Isfahan,418875
 Dastgerd,"Iran, Islamic Republic of",Isfahan,418886
 Dorcheh Pīāz,"Iran, Islamic Republic of",Isfahan,418896
+Chamgordān,"Iran, Islamic Republic of",Isfahan,418911
 Bahārestān,"Iran, Islamic Republic of",Isfahan,418943
 Abrīsham,"Iran, Islamic Republic of",Isfahan,418950
 Eslamshahr,"Iran, Islamic Republic of",Tehran,449504
@@ -17983,9 +18055,8 @@ Khāsh,"Iran, Islamic Republic of",Sistan and Baluchestan,1160571
 Jālq,"Iran, Islamic Republic of",Sistan and Baluchestan,1160907
 Iranshahr,"Iran, Islamic Republic of",Sistan and Baluchestan,1160939
 Chabahar,"Iran, Islamic Republic of",Sistan and Baluchestan,1161724
-Shahrak-e Shahīd Chamrān,"Iran, Islamic Republic of",Khuzestan,6648117
+Chamrān,"Iran, Islamic Republic of",Khuzestan,6648117
 Sheybān,"Iran, Islamic Republic of",Khuzestan,6648621
-Mobārakeh,"Iran, Islamic Republic of",Isfahan,6655800
 Fardīs,"Iran, Islamic Republic of",Tehran,6657205
 Parand,"Iran, Islamic Republic of",Tehran,6659672
 Şabbāshahr,"Iran, Islamic Republic of",Tehran,6672633
@@ -18138,6 +18209,7 @@ Torre del Greco,Italy,Campania,3165456
 Torre Annunziata,Italy,Campania,3165475
 Turin,Italy,Piedmont,3165524
 Tolentino,Italy,The Marches,3165595
+Todi,Italy,Umbria,3165612
 Tivoli,Italy,Lazio,3165624
 Thiene,Italy,Veneto,3165698
 Terzigno,Italy,Campania,3165737
@@ -18189,6 +18261,7 @@ San Severo,Italy,Apulia,3167731
 San Sebastiano,Italy,Lombardy,3167744
 San Salvo,Italy,Abruzzo,3167751
 Sanremo,Italy,Liguria,3167777
+Borgo San Paolo,Italy,Piedmont,3167895
 San Nicandro Garganico,Italy,Apulia,3167940
 San Miniato,Italy,Tuscany,3167953
 San Miniato Basso,Italy,Tuscany,3167954
@@ -18210,6 +18283,7 @@ Saluzzo,Italy,Piedmont,3168609
 Salsomaggiore Terme,Italy,Emilia-Romagna,3168627
 Salerno,Italy,Campania,3168673
 Sacile,Italy,Friuli Venezia Giulia,3168730
+Sabaudia,Italy,Lazio,3168764
 Ruvo di Puglia,Italy,Apulia,3168770
 Rutigliano,Italy,Apulia,3168775
 Rozzano,Italy,Lombardy,3168837
@@ -18271,7 +18345,7 @@ Palo del Colle,Italy,Apulia,3171562
 Palazzolo sull'Oglio,Italy,Lombardy,3171586
 Palagiano,Italy,Apulia,3171664
 Pagani,Italy,Campania,3171703
-Padova,Italy,Veneto,3171728
+Padua,Italy,Veneto,3171728
 Paderno Dugnano,Italy,Lombardy,3171737
 Ottaviano,Italy,Campania,3171778
 Ostuni,Italy,Apulia,3171786
@@ -18300,7 +18374,7 @@ Muggiò,Italy,Lombardy,3172479
 Monza,Italy,Lombardy,3172629
 Montichiari,Italy,Lombardy,3172681
 Montevarchi,Italy,Tuscany,3172718
-Montesilvano Marina,Italy,Abruzzo,3172729
+Montesilvano,Italy,Abruzzo,3172729
 Monterotondo,Italy,Lazio,3172768
 Montemurlo,Italy,Tuscany,3172828
 Montecchio Maggiore-Alte Ceccato,Italy,Veneto,3172979
@@ -18321,6 +18395,7 @@ Mirano,Italy,Veneto,3173369
 Mirandola,Italy,Emilia-Romagna,3173370
 Mira Taglio,Italy,Veneto,3173385
 Minturno,Italy,Lazio,3173391
+Nizza Millefonti,Italy,Piedmont,3173411
 Milan,Italy,Lombardy,3173435
 Miano,Italy,Campania,3173473
 Mestre,Italy,Veneto,3173529
@@ -18344,7 +18419,7 @@ Mariano Comense,Italy,Lombardy,3173949
 Marghera,Italy,Veneto,3173962
 Marcianise,Italy,Campania,3173995
 Marano di Napoli,Italy,Campania,3174021
-Mantova,Italy,Lombardy,3174051
+Mantua,Italy,Lombardy,3174051
 Manfredonia,Italy,Apulia,3174092
 Manduria,Italy,Apulia,3174096
 Malnate,Italy,Lombardy,3174141
@@ -18594,6 +18669,7 @@ Volla,Italy,Campania,6534268
 Gravina di Catania,Italy,Sicily,6534275
 Cesano Boscone,Italy,Lombardy,6534280
 Tor Lupara,Italy,Lazio,6534284
+Esquilino,Italy,Lazio,6545157
 Torvaianica,Italy,Lazio,6620312
 Quartiere Otto,Italy,Lombardy,6693840
 Infernetto,Italy,Lazio,6698332
@@ -18611,7 +18687,6 @@ Corigliano Scalo,Italy,Calabria,9003711
 Stella,Italy,Campania,10294260
 San Carlo All'Arena,Italy,Campania,10295350
 Spinaceto,Italy,Lazio,11257324
-Centro,Italy,Piedmont,11288634
 Crocetta,Italy,Piedmont,11288635
 Santa Rita,Italy,Piedmont,11288638
 Mirafiori Sud,Italy,Piedmont,11288639
@@ -18629,6 +18704,7 @@ Brera,Italy,Lombardy,11838094
 Adriano,Italy,Lombardy,12022803
 Chinatown,Italy,Lombardy,12022944
 Barriera di Lanzo,Italy,Piedmont,12022992
+Porta Palazzo,Italy,Piedmont,12023057
 Campo di Marte,Italy,Tuscany,12023195
 Chiaia,Italy,Campania,12070058
 Chiaiano,Italy,Campania,12070059
@@ -18647,6 +18723,16 @@ Casal de' Pazzi,Italy,Lazio,12188855
 Giardinetti-Tor Vergata,Italy,Lazio,12188858
 Casal Bertone,Italy,Lazio,12188859
 Vanchiglietta,Italy,Piedmont,13561926
+Circoiscrizione I,Italy,Piedmont,13607965
+Circoiscrizione II,Italy,Piedmont,13607966
+Circoiscrizione III,Italy,Piedmont,13607967
+Circoiscrizione IV,Italy,Piedmont,13607968
+Circoiscrizione V,Italy,Piedmont,13607969
+Circoiscrizione VI,Italy,Piedmont,13607970
+Circoiscrizione VII,Italy,Piedmont,13607971
+Circoiscrizione VIII,Italy,Piedmont,13607972
+Polo Nord,Italy,Piedmont,13607975
+Centro,Italy,Piedmont,13607979
 Saint Helier,Jersey,St Helier,3042091
 Spanish Town,Jamaica,Saint Catherine Parish,3488465
 Savanna-la-Mar,Jamaica,Westmoreland,3488613
@@ -20128,6 +20214,7 @@ Kyzyl-Kyya,Kyrgyzstan,Batken,1527719
 Kochkor-Ata,Kyrgyzstan,Jalal-Abad Region,1527903
 Kara Suu,Kyrgyzstan,Osh Region,1528091
 Karakol,Kyrgyzstan,Issyk-Kul,1528121
+Kara-Kul’,Kyrgyzstan,Jalal-Abad Region,1528124
 Kara-Balta,Kyrgyzstan,Chuy Region,1528182
 Kant,Kyrgyzstan,Chuy Region,1528193
 Jalal-Abad,Kyrgyzstan,Jalal-Abad Region,1528249
@@ -20168,6 +20255,7 @@ Paoy Paet,Cambodia,Banteay Meanchey,1830194
 Pailin,Cambodia,Pailin,1830205
 Mémót,Cambodia,Tboung Khmum,1830338
 Lumphat,Cambodia,Ratanakiri,1830377
+Kep,Cambodia,Kep,1830467
 Koh Kong,Cambodia,Koh Kong,1830468
 Kratié,Cambodia,Kratie,1830564
 Dar,Cambodia,Tboung Khmum,1830783
@@ -20364,6 +20452,7 @@ Gongju,"Korea, Republic of",Chungcheongnam-do,1842616
 Kyosai,"Korea, Republic of",Gyeongsangnam-do,1842754
 Koesan,"Korea, Republic of",North Chungcheong,1842800
 Koch'ang,"Korea, Republic of",Jeollabuk-do,1842859
+Gimpo-si,"Korea, Republic of",Gyeonggi-do,1842936
 Kimje,"Korea, Republic of",Jeollabuk-do,1842939
 Kimhae,"Korea, Republic of",Gyeongsangnam-do,1842943
 Gimcheon,"Korea, Republic of",Gyeongsangbuk-do,1842944
@@ -20585,6 +20674,7 @@ Vakarai,Sri Lanka,Eastern Province,1225187
 Trincomalee,Sri Lanka,Eastern Province,1226260
 Ratnapura,Sri Lanka,Sabaragamuwa Province,1228730
 Puttalam,Sri Lanka,North Western Province,1229293
+Pottuvil,Sri Lanka,Eastern Province,1229724
 Point Pedro,Sri Lanka,Northern Province,1229989
 Pita Kotte,Sri Lanka,Western Province,1230089
 Peliyagoda,Sri Lanka,Western Province,1230613
@@ -20592,10 +20682,12 @@ Panadura,Sri Lanka,Western Province,1231410
 Nuwara Eliya,Sri Lanka,Central Province,1232783
 Negombo,Sri Lanka,Western Province,1233369
 Mulleriyawa,Sri Lanka,Western Province,1234378
+Mullaittivu,Sri Lanka,Northern Province,1234393
 Dehiwala-Mount Lavinia,Sri Lanka,Western Province,1234569
 Moratuwa,Sri Lanka,Western Province,1234633
 Matara,Sri Lanka,Southern Province,1235846
 Matale,Sri Lanka,Central Province,1235855
+Mannar,Sri Lanka,Northern Province,1236150
 Maharagama,Sri Lanka,Western Province,1236854
 Kurunegala,Sri Lanka,North Western Province,1237980
 Sri Jayewardenepura Kotte,Sri Lanka,Western Province,1238992
@@ -20615,6 +20707,7 @@ Homagama,Sri Lanka,Western Province,1243936
 Hendala,Sri Lanka,Western Province,1244397
 Hatton,Sri Lanka,Central Province,1244596
 Hanwella Ihala,Sri Lanka,Western Province,1244773
+Hambantota,Sri Lanka,Southern Province,1244926
 Gampola,Sri Lanka,Central Province,1246000
 Galle,Sri Lanka,Southern Province,1246294
 Eravur Town,Sri Lanka,Eastern Province,1246924
@@ -20624,11 +20717,13 @@ Colombo,Sri Lanka,Western Province,1248991
 Chilaw,Sri Lanka,North Western Province,1249145
 Beruwala,Sri Lanka,Western Province,1249931
 Bentota,Sri Lanka,Southern Province,1249978
+Beliatta,Sri Lanka,Southern Province,1250066
 Batticaloa,Sri Lanka,Eastern Province,1250161
 Battaramulla South,Sri Lanka,Western Province,1250164
 Badulla,Sri Lanka,Uva Province,1250615
 Anuradhapura,Sri Lanka,North Central Province,1251081
 Ampara,Sri Lanka,Eastern Province,1251459
+Ambalantota,Sri Lanka,Southern Province,1251568
 Ambalangoda,Sri Lanka,Southern Province,1251574
 Zwedru,Liberia,Grand Gedeh County,2272491
 New Yekepa,Liberia,Nimba,2272790
@@ -21293,8 +21388,10 @@ Kyaukme,Myanmar,Shan State,1316943
 Kyaikto,Myanmar,Mon,1317375
 Kyaiklat,Myanmar,Ayeyarwady,1317397
 Kyaikkami,Myanmar,Mon,1317402
+Kungyangon,Myanmar,Yangon,1317511
 Kutkai,Myanmar,Shan State,1317682
 Kēng Tung,Myanmar,Shan State,1319364
+Kyimyindine,Myanmar,Yangon,1319389
 Kayan,Myanmar,Yangon,1319533
 Kawthoung,Myanmar,Tanintharyi Region,1319573
 Kawkareik,Myanmar,Kayin State,1319898
@@ -21325,11 +21422,13 @@ Aungban,Myanmar,Shan State,1328865
 Ann,Myanmar,Rakhine,1328872
 Amarapura,Myanmar,Mandalay Region,1329221
 Myaydo,Myanmar,Magway,1329239
+Ahlone,Myanmar,Yangon,1329548
 Zee Kone,Myanmar,Yangon,1463081
 Ah Lel,Myanmar,Yangon,1463085
 Shan Chaung,Myanmar,Yangon,1463102
 Oke Kan,Myanmar,Yangon,1463105
 Nyaung,Myanmar,Yangon,1463107
+San Chaung,Myanmar,Yangon,1480266
 Okpo,Myanmar,Yangon,1481644
 Shwenatha,Myanmar,Yangon,1481655
 Pawgan,Myanmar,Yangon,1481671
@@ -21417,10 +21516,10 @@ Ayoun El Atrous,Mauritania,Hodh El Gharbi,2381291
 Atar,Mauritania,Adrar,2381334
 Aleg,Mauritania,Brakna,2381659
 Akjoujt,Mauritania,Inchiri,2381690
-Ksar,Mauritania,Nouakchott Ouest,2595352
+Ksar,Mauritania,Nouakchott West,2595352
 Ṭinṭâne,Mauritania,Hodh El Gharbi,6911696
-Tevragh Zeina,Mauritania,Nouakchott Ouest,11009418
-Dar Naim,Mauritania,Nouakchott Nord,11496397
+Tevragh Zeina,Mauritania,Nouakchott West,11009418
+Dar Naim,Mauritania,Nouakchott North,11496397
 Guerou,Mauritania,Assaba,12718653
 Mbera,Mauritania,Hodh Ech Chargi,12718654
 Plymouth,Montserrat,Saint Anthony,3578069
@@ -21936,7 +22035,7 @@ Monterrey,Mexico,Nuevo Leon,3995465
 Monclova,Mexico,Coahuila,3995523
 Mezcales,Mexico,Nayarit,3996030
 Mexicali,Mexico,Baja California,3996069
-Meoqui,Mexico,Chihuahua,3996234
+Pedro Meoqui,Mexico,Chihuahua,3996234
 Ciudad Melchor Múzquiz,Mexico,Coahuila,3996271
 Medina,Mexico,Guanajuato,3996299
 Mazatlán,Mexico,Sinaloa,3996322
@@ -21977,7 +22076,7 @@ Ixtapa,Mexico,Jalisco,4004293
 Irapuato,Mexico,Guanajuato,4004330
 Huetamo de Núñez,Mexico,Michoacan,4004555
 Huatabampo,Mexico,Sonora,4004647
-Parral,Mexico,Chihuahua,4004867
+Hidalgo del Parral,Mexico,Chihuahua,4004867
 Heróica Zitácuaro,Mexico,Michoacan,4004885
 Nogales,Mexico,Sonora,4004886
 Heroica Caborca,Mexico,Sonora,4004887
@@ -22028,7 +22127,7 @@ Ciudad Hidalgo,Mexico,Michoacan,4013712
 Ciudad Guzmán,Mexico,Jalisco,4013714
 Ciudad Delicias,Mexico,Chihuahua,4013720
 Ciudad Constitución,Mexico,Baja California Sur,4013723
-Camargo,Mexico,Chihuahua,4013724
+Santa Rosalía de Camargo,Mexico,Chihuahua,4013724
 Anáhuac,Mexico,Nuevo Leon,4013726
 Ciudad Altamirano,Mexico,Guerrero,4013727
 Ciudad Acuña,Mexico,Coahuila,4013728
@@ -22055,7 +22154,7 @@ Apaseo el Alto,Mexico,Guanajuato,4018404
 Ameca,Mexico,Jalisco,4018582
 Allende,Mexico,Coahuila,4018761
 Ciudad de Allende,Mexico,Nuevo Leon,4018762
-Aldama,Mexico,Chihuahua,4018831
+Juan Aldama,Mexico,Chihuahua,4018831
 Ahualulco de Mercado,Mexico,Jalisco,4019082
 Aguascalientes,Mexico,Aguascalientes,4019233
 Agua Prieta,Mexico,Sonora,4019260
@@ -22965,6 +23064,7 @@ Schijndel,Netherlands,North Brabant,2747584
 Schiedam,Netherlands,South Holland,2747596
 Schiebroek,Netherlands,South Holland,2747597
 Scheveningen,Netherlands,South Holland,2747599
+Schagen,Netherlands,North Holland,2747720
 Sassenheim,Netherlands,South Holland,2747751
 Rotterdam,Netherlands,South Holland,2747891
 Roosendaal,Netherlands,North Brabant,2747930
@@ -22991,6 +23091,7 @@ Nunspeet,Netherlands,Gelderland,2749756
 Nuenen,Netherlands,North Brabant,2749780
 Nootdorp,Netherlands,South Holland,2749800
 Noordwijk-Binnen,Netherlands,South Holland,2749812
+Nijverdal,Netherlands,Overijssel,2750039
 Nijmegen,Netherlands,Gelderland,2750053
 Nijkerk,Netherlands,Gelderland,2750065
 Nieuw-Vennep,Netherlands,North Holland,2750121
@@ -23048,7 +23149,6 @@ Heerenveen,Netherlands,Friesland,2754669
 Heemstede,Netherlands,North Holland,2754692
 Heemskerk,Netherlands,North Holland,2754697
 Harlingen,Netherlands,Friesland,2754817
-Harenkarspel,Netherlands,North Holland,2754837
 Harderwijk,Netherlands,Gelderland,2754848
 Hardenberg,Netherlands,Overijssel,2754861
 Haarlem,Netherlands,North Holland,2755003
@@ -23115,6 +23215,7 @@ Bergeijk,Netherlands,North Brabant,2759132
 Bergen op Zoom,Netherlands,North Brabant,2759145
 Bergen,Netherlands,North Holland,2759154
 Benthuizen,Netherlands,South Holland,2759178
+Bennekom,Netherlands,Gelderland,2759197
 Barneveld,Netherlands,Gelderland,2759407
 Barendrecht,Netherlands,South Holland,2759426
 Baarn,Netherlands,Utrecht,2759544
@@ -23135,6 +23236,7 @@ Aalsmeer,Netherlands,North Holland,2760134
 Amsterdam-Zuidoost,Netherlands,North Holland,6544881
 Berkel en Rodenrijs,Netherlands,South Holland,6929992
 Ypenburg,Netherlands,South Holland,6941548
+Velserbroek,Netherlands,North Holland,7118109
 Maaspoort,Netherlands,North Brabant,13535632
 Alta,Norway,Finnmark,847633
 Trondheim,Norway,Trondelag,3133880
@@ -24098,6 +24200,7 @@ Rahim Yar Khan,Pakistan,Punjab,1167460
 Goth Radhan,Pakistan,Sindh,1167501
 Rabwah,Pakistan,Punjab,1167507
 Quetta,Pakistan,Balochistan,1167528
+Qubo Saeed Khan,Pakistan,Sindh,1167534
 Kambar,Pakistan,Sindh,1167622
 Qadirpur Ran,Pakistan,Punjab,1167648
 Qabula,Pakistan,Punjab,1167669
@@ -24203,6 +24306,7 @@ Khalabat,Pakistan,Khyber Pakhtunkhwa,1174301
 Khairpur Nathan Shah,Pakistan,Sindh,1174344
 Khairpur Tamewah,Pakistan,Punjab,1174355
 Khairpur,Pakistan,Sindh,1174357
+Garhi Khairo,Pakistan,Sindh,1174376
 Kasur,Pakistan,Punjab,1174625
 Kashmor,Pakistan,Sindh,1174653
 Karor,Pakistan,Punjab,1174720
@@ -24304,6 +24408,7 @@ Chunian,Pakistan,Punjab,1180942
 Chuhar Kana,Pakistan,Punjab,1180983
 Chhor,Pakistan,Sindh,1181022
 Choa Saidan Shah,Pakistan,Punjab,1181053
+Chitral,Pakistan,Khyber Pakhtunkhwa,1181065
 Chishtian,Pakistan,Punjab,1181073
 Chiniot,Pakistan,Punjab,1181096
 Chichawatni,Pakistan,Punjab,1181163
@@ -25024,6 +25129,7 @@ Ath Thumāmah Sab‘ah wa Arba‘ūn,Qatar,Baladiyat ad Dawhah,12242644
 Ath Thumāmah Sittah wa Arba‘ūn,Qatar,Baladiyat ad Dawhah,12242645
 Ath Thumāmah Khamsūn,Qatar,Baladiyat ad Dawhah,12242646
 Farīj al Amīr,Qatar,Baladiyat ar Rayyan,12242742
+Lusail,Qatar,Al Daayen,13512674
 Saint-Pierre,Réunion,Reunion,935214
 Saint-Paul,Réunion,Reunion,935221
 Saint-Louis,Réunion,Reunion,935223
@@ -25381,7 +25487,7 @@ Strunino,Russian Federation,Vladimir Oblast,487095
 Stroitel,Russian Federation,Belgorod Oblast,487147
 Strogino,Russian Federation,Moscow,487150
 Sterlitamak,Russian Federation,Bashkortostan Republic,487495
-Stavropol’,Russian Federation,Stavropol Kray,487846
+Stavropol,Russian Federation,Stavropol Kray,487846
 Staryy Oskol,Russian Federation,Belgorod Oblast,487928
 Staroshcherbinovskaya,Russian Federation,Krasnodar Krai,488635
 Starominskaya,Russian Federation,Krasnodar Krai,488742
@@ -26162,6 +26268,7 @@ Iskitim,Russian Federation,Novosibirsk Oblast,1505429
 Isil’kul’,Russian Federation,Omsk Oblast,1505438
 Ishim,Russian Federation,Tyumen Oblast,1505453
 Irbit,Russian Federation,Sverdlovsk Oblast,1505526
+Inta,Russian Federation,Komi,1505579
 Ilanskiy,Russian Federation,Krasnoyarsk Krai,1505933
 Gur’yevsk,Russian Federation,Kuzbass,1506073
 Gornyak,Russian Federation,Altai Krai,1506260
@@ -26924,6 +27031,9 @@ Munder Buiten,Suriname,Paramaribo District,8220838
 Tammenga,Suriname,Paramaribo District,8220851
 Welgelegen,Suriname,Paramaribo District,8220924
 Beekhuizen,Suriname,Paramaribo District,8220949
+Pontbuiten,Suriname,Wanica District,13607830
+Latour,Suriname,Paramaribo District,13607831
+Weg naar Zee,Suriname,Paramaribo District,13607832
 Yei,South Sudan,Central Equatoria,363619
 Yambio,South Sudan,Western Equatoria,363656
 Winejok,South Sudan,Northern Bahr al Ghazal,363807
@@ -26977,6 +27087,7 @@ Ahuachapán,El Salvador,Ahuachapan,3587426
 Aguilares,El Salvador,San Salvador Department,3587428
 Acajutla,El Salvador,Sonsonate Department,3587498
 Philipsburg,Sint Maarten (Dutch part),,3513392
+Zākīyah,Syrian Arab Republic,Rif-dimashq,162560
 Yabrūd,Syrian Arab Republic,Rif-dimashq,162627
 Ţayyibat al Imām,Syrian Arab Republic,Hama,163270
 Ţarţūs,Syrian Arab Republic,Tartus,163345
@@ -26998,6 +27109,7 @@ Jāsim,Syrian Arab Republic,Daraa,165997
 Qārah,Syrian Arab Republic,Rif-dimashq,166111
 Kabbasin,Syrian Arab Republic,Aleppo,166285
 Nubl,Syrian Arab Republic,Aleppo,166331
+Nawá,Syrian Arab Republic,Daraa,166365
 Maharda,Syrian Arab Republic,Hama,166742
 Maşyāf,Syrian Arab Republic,Hama,167046
 Manbij,Syrian Arab Republic,Aleppo,167357
@@ -27026,6 +27138,7 @@ Deir ez-Zor,Syrian Arab Republic,Deir ez-Zor,170794
 Ad Darbāsīyah,Syrian Arab Republic,Al-Hasakah,170887
 Dārayyā,Syrian Arab Republic,Rif-dimashq,170892
 Dar‘ā,Syrian Arab Republic,Daraa,170905
+Dā‘il,Syrian Arab Republic,Daraa,170959
 Burj Islām,Syrian Arab Republic,Latakia,171147
 Binnish,Syrian Arab Republic,Idlib,171451
 Batabo,Syrian Arab Republic,Aleppo,171694
@@ -27046,7 +27159,9 @@ Al Quţayfah,Syrian Arab Republic,Rif-dimashq,173312
 Al Quşayr,Syrian Arab Republic,Homs,173322
 Al Qunayţirah,Syrian Arab Republic,Quneitra,173334
 Al Qaryatayn,Syrian Arab Republic,Homs,173361
+Al Qāmishlī,Syrian Arab Republic,Al-Hasakah,173377
 Al Mayādīn,Syrian Arab Republic,Deir ez-Zor,173480
+Al Mālikīyah,Syrian Arab Republic,Al-Hasakah,173530
 Latakia,Syrian Arab Republic,Latakia,173576
 Al Kiswah,Syrian Arab Republic,Rif-dimashq,173598
 Al Ḩasakah,Syrian Arab Republic,Al-Hasakah,173811
@@ -27231,6 +27346,7 @@ Songkhla,Thailand,Songkhla,1606147
 Si Sa Ket,Thailand,Si Sa Ket,1606239
 Si Racha,Thailand,Chon Buri,1606250
 Sing Buri,Thailand,Sing Buri,1606270
+Si Maha Phot,Thailand,Prachin Buri,1606291
 Seka,Thailand,Bueng Kan,1606343
 Sawang Daen Din,Thailand,Sakon Nakhon,1606350
 Satun,Thailand,Satun,1606376
@@ -27251,6 +27367,7 @@ Ranot,Thailand,Songkhla,1607068
 Ra-ngae,Thailand,Narathiwat,1607083
 Prakhon Chai,Thailand,Buriram,1607257
 Prachin Buri,Thailand,Prachin Buri,1607280
+Prachantakham,Thailand,Prachin Buri,1607284
 Pom Prap Sattru Phai,Thailand,Bangkok,1607327
 Phu Kradueng,Thailand,Loei,1607435
 Phu Khiao,Thailand,Chaiyaphum,1607439
@@ -27300,6 +27417,7 @@ Lop Buri,Thailand,Lopburi,1609032
 Lom Sak,Thailand,Phetchabun,1609043
 Loei,Thailand,Loei,1609071
 Laem Sing,Thailand,Chanthaburi,1609278
+Laem Ngop,Thailand,Trat,1609283
 Kut Chap,Thailand,Udon Thani,1609324
 Kuchinarai,Thailand,Kalasin,1609345
 Bangkok,Thailand,Bangkok,1609350
@@ -27307,9 +27425,11 @@ Krathum Baen,Thailand,Samut Sakhon,1609395
 Klaeng,Thailand,Rayong,1609610
 Khon Kaen,Thailand,Khon Kaen,1609776
 Khon Buri,Thailand,Nakhon Ratchasima,1609795
+Khlong Yai,Thailand,Trat,1609863
 Khlong San,Thailand,Bangkok,1609879
 Khlong Luang,Thailand,Pathum Thani,1609899
 Khao Wong,Thailand,Kalasin,1609990
+Khao Saming,Thailand,Trat,1609997
 Kaset Wisai,Thailand,Roi Et,1610185
 Kaset Sombun,Thailand,Chaiyaphum,1610187
 Kantharalak,Thailand,Si Sa Ket,1610227
@@ -27338,6 +27458,7 @@ Bua Yai,Thailand,Nakhon Ratchasima,1611492
 Betong,Thailand,Yala,1611635
 Ban Tha Kham,Thailand,Bangkok,1612696
 Ban Selaphum,Thailand,Roi Et,1613284
+Ban Sang,Thailand,Prachin Buri,1613409
 Ban Samae Dam,Thailand,Bangkok,1613549
 Ban Phra,Thailand,Prachin Buri,1614115
 Ban Phe,Thailand,Rayong,1614288
@@ -27346,6 +27467,7 @@ Ban Phan Don,Thailand,Udon Thani,1614336
 Ban Phai,Thailand,Khon Kaen,1614455
 Ban Phaeo,Thailand,Samut Sakhon,1614465
 Thambon Na Mueang,Thailand,Prachin Buri,1616222
+Na Di,Thailand,Prachin Buri,1616464
 Ban Mo,Thailand,Saraburi,1616658
 Ban Lam Luk Ka,Thailand,Pathum Thani,1617111
 Ban Khlong Prawet,Thailand,Bangkok,1618177
@@ -27410,6 +27532,7 @@ Ban Ratsada,Thailand,Phuket,7091912
 Ban Khlong Bang Phran,Thailand,Bangkok,7503743
 Ban Lak Song,Thailand,Bangkok,7503760
 Khwaeng Bang Khae,Thailand,Bangkok,7504194
+Si Mahosot,Thailand,Prachin Buri,7510923
 Erawan,Thailand,Loei,7510940
 Ban Aranyik,Thailand,Phitsanulok,8205089
 Bang Bon,Thailand,Bangkok,8355932
@@ -27451,6 +27574,7 @@ Yovon,Tajikistan,Khatlon Province,1220112
 Hulbuk,Tajikistan,Khatlon Province,1220163
 Vakhsh,Tajikistan,Khatlon Province,1220219
 Istaravshan,Tajikistan,Sughd,1220253
+Shahriston,Tajikistan,Sughd,1220571
 Bokhtar,Tajikistan,Khatlon Province,1220747
 Panjakent,Tajikistan,Sughd,1220798
 Farkhor,Tajikistan,Khatlon Province,1220826
@@ -27491,6 +27615,7 @@ Kaka,Turkmenistan,Ahal,161901
 Gumdag,Turkmenistan,Balkan,161943
 Gökdepe,Turkmenistan,Ahal,161950
 Bereket,Turkmenistan,Balkan,161974
+Magtymguly,Turkmenistan,Balkan,161980
 Jebel,Turkmenistan,Balkan,161997
 Abadan,Turkmenistan,Ahal,162099
 Bäherden,Turkmenistan,Ahal,162158
@@ -27509,6 +27634,7 @@ Türkmengala,Turkmenistan,Mary,1218195
 Tejen,Turkmenistan,Ahal,1218239
 Seydi,Turkmenistan,Mary,1218420
 Saýat,Turkmenistan,Lebap,1218436
+Sarahs,Turkmenistan,Ahal,1218456
 Mary,Turkmenistan,Mary,1218667
 Hojambaz,Turkmenistan,Lebap,1218928
 Kerki,Turkmenistan,Lebap,1219002
@@ -27737,12 +27863,14 @@ Beykonak,Türkiye,Antalya,305680
 Kulu,Türkiye,Konya,305742
 Kulp,Türkiye,Diyarbakir Province,305750
 Kula,Türkiye,Manisa,305810
+Küçükçiğli,Türkiye,Izmir Province,305969
 Kozluk,Türkiye,Batman,306041
 Kozan,Türkiye,Adana,306112
 Kovancılar,Türkiye,Elazig,306207
 Korkuteli,Türkiye,Antalya,306474
 Konya,Türkiye,Konya,306571
 Konaklı,Türkiye,Antalya,306626
+Konak,Türkiye,Izmir Province,306641
 Kızıltepe,Türkiye,Mardin,307084
 Serinhisar,Türkiye,Denizli,307211
 Kırşehir,Türkiye,Kirsehir,307515
@@ -27805,7 +27933,6 @@ Emirdağ,Türkiye,Afyonkarahisar Province,315621
 Emet,Türkiye,Kuetahya,315639
 Elmalı,Türkiye,Antalya,315697
 Elmadağ,Türkiye,Ankara,315720
-Eleşkirt,Türkiye,Agri,315758
 Elbistan,Türkiye,Kahramanmaras,315795
 Elazığ,Türkiye,Elazig,315808
 Eğirdir,Türkiye,Isparta,315905
@@ -27831,6 +27958,7 @@ Ceyhan,Türkiye,Adana,318675
 Çeşme,Türkiye,Izmir Province,318755
 Çermik,Türkiye,Diyarbakir Province,318766
 Çay,Türkiye,Afyonkarahisar Province,319104
+Çat,Türkiye,Erzurum,319357
 Kestel,Türkiye,Antalya,319528
 Çağlayancerit,Türkiye,Kahramanmaras,320004
 Çiğli,Türkiye,Izmir Province,320257
@@ -27859,6 +27987,7 @@ Batman,Türkiye,Batman,321836
 Baskil,Türkiye,Elazig,321929
 Banaz,Türkiye,Usak,322051
 Balıkesir,Türkiye,Balikesir,322165
+Balatçık,Türkiye,Izmir Province,322212
 Ayvalık,Türkiye,Balikesir,322673
 Aydın,Türkiye,Aydin,322830
 Aşkale,Türkiye,Erzurum,323094
@@ -28059,9 +28188,11 @@ Oba,Türkiye,Antalya,8068982
 Cikcilli,Türkiye,Antalya,8069036
 Muratpaşa,Türkiye,Antalya,8074174
 Çubuklu,Türkiye,Istanbul,8623183
+Ataşehir,Türkiye,Izmir Province,9888776
 Bostanlı,Türkiye,Izmir Province,9888792
 Şemikler,Türkiye,Izmir Province,9888806
 Merkezefendi,Türkiye,Denizli,11238838
+Altınşehir,Türkiye,Adiyaman Province,13591680
 Tunapuna,Trinidad and Tobago,Tunapuna/Piarco,3573576
 Scarborough,Trinidad and Tobago,Tobago,3573703
 Sangre Grande,Trinidad and Tobago,Sangre Grande Regional Corporation,3573732
@@ -28370,7 +28501,7 @@ Mwanhuzi,"Tanzania, United Republic of",Simiyu,13132461
 Ruaha,"Tanzania, United Republic of",Morogoro,13132462
 Lebedyn,Ukraine,Sumy,613273
 Druzhkivka,Ukraine,Donetsk,616743
-Zvenihorodka,Ukraine,Cherkasy,686803
+Zvenyhorodka,Ukraine,Cherkasy,686803
 Zuhres,Ukraine,Donetsk,686818
 Zolotonosha,Ukraine,Cherkasy,686875
 Zolochiv,Ukraine,Lviv,686896
@@ -28383,13 +28514,13 @@ Zaporizhzhya,Ukraine,Zaporizhzhia,687700
 Pivdenne,Ukraine,Odesa,687997
 Katerynivka,Ukraine,Luhansk,688089
 Yevpatoriya,Ukraine,Crimea,688105
-Yenakiieve,Ukraine,Donetsk,688148
+Yenakiyeve,Ukraine,Donetsk,688148
 Yasynuvata,Ukraine,Donetsk,688373
 Yalta,Ukraine,Crimea,688533
 Yahotyn,Ukraine,Kyiv,688587
 Vyshhorod,Ukraine,Kyiv,688723
 Vynohradiv,Ukraine,Zakarpattia,688746
-Vyhurivshchyna-Troieshchyna,Ukraine,Kyiv City,688758
+Vyhurivshchyna-Troyeshchyna,Ukraine,Kyiv City,688758
 Voznesensk,Ukraine,Mykolaiv,688860
 Volochysk,Ukraine,Khmelnytskyi,689159
 Volnovakha,Ukraine,Donetsk,689198
@@ -28415,7 +28546,7 @@ Tokmak,Ukraine,Zaporizhzhia,691469
 Terny,Ukraine,Dnipropetrovsk,691605
 Ternivka,Ukraine,Dnipropetrovsk,691628
 Ternopil,Ukraine,Ternopil,691650
-Sievierodonetsk,Ukraine,Luhansk,691999
+Siverskodonetsk,Ukraine,Luhansk,691999
 Svitlovodsk,Ukraine,Kirovohrad,692087
 Dovzhansk,Ukraine,Luhansk,692105
 Svatove,Ukraine,Luhansk,692118
@@ -28433,7 +28564,7 @@ Sotsmisto,Ukraine,Donetsk,693065
 Sokal,Ukraine,Lviv,693301
 Snizhne,Ukraine,Donetsk,693381
 Smila,Ukraine,Cherkasy,693457
-Sloviansk,Ukraine,Donetsk,693468
+Slovyansk,Ukraine,Donetsk,693468
 Slavuta,Ukraine,Khmelnytskyi,693581
 Skvyra,Ukraine,Kyiv,693615
 Skadovsk,Ukraine,Kherson,693709
@@ -28463,11 +28594,12 @@ Popasna,Ukraine,Luhansk,696566
 Poltava,Ukraine,Poltava,696643
 Polonne,Ukraine,Khmelnytskyi,696660
 Polohy,Ukraine,Zaporizhzhia,696677
+Podil,Ukraine,Kyiv City,696877
 Pidhorodne,Ukraine,Dnipropetrovsk,696943
-Petrovskyi,Ukraine,Donetsk,697302
+Voznesenskyi,Ukraine,Donetsk,697302
 Pisochyn,Ukraine,Kharkivs'ka Oblast',697488
 Zlatopil,Ukraine,Kharkivs'ka Oblast',697576
-Pervomaisk,Ukraine,Luhansk,697592
+Sokolohirsk,Ukraine,Luhansk,697592
 Pervomaysk,Ukraine,Mykolaiv,697593
 Shakhtarske,Ukraine,Dnipropetrovsk,697616
 Pereiaslav,Ukraine,Kyiv,697637
@@ -28484,7 +28616,7 @@ Novyi Rozdil,Ukraine,Lviv,698874
 Novovolynsk,Ukraine,Volyn,699035
 Novoukrayinka,Ukraine,Kirovohrad,699078
 Samar,Ukraine,Dnipropetrovsk,699445
-Zviahel,Ukraine,Zhytomyr,699553
+Zvyahel,Ukraine,Zhytomyr,699553
 Nova Kakhovka,Ukraine,Kherson,699839
 Nova Darnytsya,Ukraine,Kyiv City,699871
 Nizhyn,Ukraine,Chernihiv,699942
@@ -28495,7 +28627,7 @@ Nadvirna,Ukraine,Ivano-Frankivsk,700507
 Mykolayiv,Ukraine,Mykolaiv,700569
 Mukachevo,Ukraine,Zakarpattia,700646
 Mostyska,Ukraine,Lviv,700696
-Molodohvardiisk,Ukraine,Luhansk,700829
+Otamanivka,Ukraine,Luhansk,700829
 Mohyliv-Podilskyy,Ukraine,Vinnytsia,700918
 Myrhorod,Ukraine,Poltava,701075
 Merefa,Ukraine,Kharkivs'ka Oblast',701347
@@ -28503,7 +28635,7 @@ Melitopol,Ukraine,Zaporizhzhia,701404
 Mariupol,Ukraine,Donetsk,701822
 Marhanets,Ukraine,Dnipropetrovsk,701855
 Malyn,Ukraine,Zhytomyr,702116
-Makiivka,Ukraine,Donetsk,702320
+Makiyivka,Ukraine,Donetsk,702320
 Liubotyn,Ukraine,Kharkivs'ka Oblast',702417
 Lviv,Ukraine,Lviv,702550
 Lutuhyne,Ukraine,Luhansk,702563
@@ -28517,7 +28649,7 @@ Kyiv,Ukraine,Kyiv City,703448
 Kurakhovo,Ukraine,Donetsk,703646
 Kupiansk,Ukraine,Kharkivs'ka Oblast',703656
 Kryvyy Rih,Ukraine,Dnipropetrovsk,703845
-Kriukiv,Ukraine,Poltava,703853
+Kryukiv,Ukraine,Poltava,703853
 Krolevets,Ukraine,Sumy,704000
 Kreminna,Ukraine,Luhansk,704138
 Kremenets,Ukraine,Ternopil,704143
@@ -28538,9 +28670,9 @@ Kostopil,Ukraine,Rivne,704737
 Korsun-Shevchenkivskyy,Ukraine,Cherkasy,704858
 Korostyshiv,Ukraine,Zhytomyr,704885
 Korosten,Ukraine,Zhytomyr,704901
-Kostiantynivka,Ukraine,Donetsk,705104
+Kostyantynivka,Ukraine,Donetsk,705104
 Konotop,Ukraine,Sumy,705135
-Slobozhans’ke,Ukraine,Kharkivs'ka Oblast',705183
+Slobozhanske,Ukraine,Kharkivs'ka Oblast',705183
 Kolomyia,Ukraine,Ivano-Frankivsk,705392
 Khrestivka,Ukraine,Donetsk,705797
 Holubivka,Ukraine,Luhansk,705809
@@ -28552,17 +28684,17 @@ Khmilnyk,Ukraine,Vinnytsia,706380
 Kherson,Ukraine,Kherson,706448
 Khartsyzk,Ukraine,Donetsk,706466
 Kharkiv,Ukraine,Kharkivs'ka Oblast',706483
-Khanzhenkove,Ukraine,Donetsk,706488
+Khanzhonkove,Ukraine,Donetsk,706488
 Kerch,Ukraine,Crimea,706524
 Koziatyn,Ukraine,Vinnytsia,706571
 Kaniv,Ukraine,Cherkasy,706900
-Kamianets-Podilskyi,Ukraine,Khmelnytskyi,706950
+Kamyanets-Podilskyi,Ukraine,Khmelnytskyi,706950
 Kalush,Ukraine,Ivano-Frankivsk,707099
 Kalynivka,Ukraine,Vinnytsia,707155
 Kakhovka,Ukraine,Kherson,707244
-Izium,Ukraine,Kharkivs'ka Oblast',707292
+Izyum,Ukraine,Kharkivs'ka Oblast',707292
 Iziaslav,Ukraine,Khmelnytskyi,707296
-Izmail,Ukraine,Odesa,707308
+Izmayil,Ukraine,Odesa,707308
 Ivano-Frankivsk,Ukraine,Ivano-Frankivsk,707471
 Irpin,Ukraine,Kyiv,707565
 Inhulets,Ukraine,Dnipropetrovsk,707601
@@ -28579,7 +28711,7 @@ Hadyach,Ukraine,Poltava,709054
 Feodosiya,Ukraine,Crimea,709161
 Fastiv,Ukraine,Kyiv,709248
 Enerhodar,Ukraine,Zaporizhzhia,709276
-Dzhankoi,Ukraine,Crimea,709334
+Dzhankoy,Ukraine,Crimea,709334
 Toretsk,Ukraine,Donetsk,709354
 Dunayivtsi,Ukraine,Khmelnytskyi,709429
 Dubno,Ukraine,Rivne,709540
@@ -28595,15 +28727,15 @@ Dniprorudne,Ukraine,Zaporizhzhia,709960
 Myrnohrad,Ukraine,Donetsk,710035
 Derhachi,Ukraine,Kharkivs'ka Oblast',710098
 Debaltseve,Ukraine,Donetsk,710229
-Chuhuiv,Ukraine,Kharkivs'ka Oblast',710374
+Chuhuyiv,Ukraine,Kharkivs'ka Oblast',710374
 Chortkiv,Ukraine,Ternopil,710400
-Chervonopartyzansk,Ukraine,Luhansk,710548
+Voznesenivka,Ukraine,Luhansk,710548
 Sheptytskyi,Ukraine,Lviv,710554
 Chernivtsi,Ukraine,Chernivtsi,710719
 Chernihiv,Ukraine,Chernihiv,710735
 Cherkasy,Ukraine,Cherkasy,710791
 Bucha,Ukraine,Kyiv,711350
-Brianka,Ukraine,Luhansk,711369
+Bryanka,Ukraine,Luhansk,711369
 Brovary,Ukraine,Kyiv,711390
 Brody,Ukraine,Lviv,711416
 Boiarka,Ukraine,Kyiv,711515
@@ -28626,10 +28758,10 @@ Bilohorodka,Ukraine,Kyiv,712590
 Bilychi,Ukraine,Kyiv City,712631
 Bar,Ukraine,Vinnytsia,712861
 Balta,Ukraine,Odesa,712886
-Balakliia,Ukraine,Kharkivs'ka Oblast',712926
+Balakliya,Ukraine,Kharkivs'ka Oblast',712926
 Balaklava,Ukraine,Sevastopol City,712930
 Bakhmach,Ukraine,Chernihiv,712967
-Bakhchysarai,Ukraine,Crimea,712969
+Bakhchysaray,Ukraine,Crimea,712969
 Avdiivka,Ukraine,Donetsk,713122
 Bakhmut,Ukraine,Donetsk,713174
 Armyansk,Ukraine,Crimea,713203
@@ -28649,6 +28781,7 @@ Varash,Ukraine,Rivne,8341919
 Svyatopetrivske,Ukraine,Kyiv,8354605
 Novoyavorivs'k,Ukraine,Lviv,8468760
 Obolon,Ukraine,Kyiv City,8519916
+Cheremushky,Ukraine,Odesa,9983718
 Molodizhnyi,Ukraine,Poltava,11139621
 Demiyivka,Ukraine,Kyiv City,11776362
 Borshchahivka,Ukraine,Kyiv City,11778464
@@ -28662,20 +28795,19 @@ Svyatoshyn,Ukraine,Kyiv City,13535747
 Dniprovskyi,Ukraine,Kyiv City,13546518
 Desna,Ukraine,Kyiv City,13546519
 Solomyansk,Ukraine,Kyiv City,13546520
-Shevchenko,Ukraine,Kyiv City,13546521
+Shevchenkivskyi,Ukraine,Kyiv City,13546521
 Zhulyany,Ukraine,Kyiv City,13546522
-Fortetsya,Ukraine,Kirovohrad,13546531
-Podilsk,Ukraine,Kirovohrad,13546532
+Fortechnyi,Ukraine,Kirovohrad,13546531
+Podilskyi,Ukraine,Kirovohrad,13546532
 Novyi Lviv,Ukraine,Lviv,13546540
-Budyonnivskyi,Ukraine,Donetsk,13561142
-Voroshylovskyi,Ukraine,Donetsk,13561143
-Kalininskyi,Ukraine,Donetsk,13561144
+Bohodukhivskyi,Ukraine,Donetsk,13561142
+Yuzivskyi,Ukraine,Donetsk,13561143
+Kalynivskyi,Ukraine,Donetsk,13561144
 Kyivskyi,Ukraine,Donetsk,13561145
-Kirovskyi,Ukraine,Donetsk,13561146
-Kuybyshevskyi,Ukraine,Donetsk,13561147
+Rutchenkivskyi,Ukraine,Donetsk,13561146
 Bosse,Ukraine,Donetsk,13561148
-Leninskyi,Ukraine,Donetsk,13561149
-Proletarskyi,Ukraine,Donetsk,13561150
+Oleksandrivskyi,Ukraine,Donetsk,13561149
+Chumakivskyi,Ukraine,Donetsk,13561150
 Tekstylnyk,Ukraine,Donetsk,13561228
 Podil,Ukraine,Poltava,13561777
 Kyivskyi,Ukraine,Poltava,13561778
@@ -28693,7 +28825,6 @@ Teremky,Ukraine,Kyiv City,13580112
 Vidradnyi,Ukraine,Kyiv City,13580113
 Chokolivka,Ukraine,Kyiv City,13580115
 Darnytskyi Masyv,Ukraine,Kyiv City,13580117
-Minskyi Masyv,Ukraine,Kyiv City,13580120
 Rayduzhnyi Masyv,Ukraine,Kyiv City,13580121
 Vyshhorodskyi Masyv,Ukraine,Kyiv City,13580123
 Mostytskyi Masyv,Ukraine,Kyiv City,13580125
@@ -28712,6 +28843,26 @@ Kybalchych,Ukraine,Kyiv City,13580322
 Pivnichno-Brovarskyi Masyv,Ukraine,Kyiv City,13580323
 Rusanivka,Ukraine,Kyiv City,13580324
 Saperna Slobidka,Ukraine,Kyiv City,13589474
+Minskyi Masyv,Ukraine,Kyiv City,13607610
+Smolyanskyi,Ukraine,Donetsk,13607653
+Tsentralno-Miskyi,Ukraine,Donetsk,13607654
+Khanzhonkivskyi,Ukraine,Donetsk,13607655
+Hruzkyi,Ukraine,Donetsk,13607656
+Hirnytskyi,Ukraine,Donetsk,13607657
+Berestovskyi,Ukraine,Donetsk,13607658
+Shevchenkivskyi,Ukraine,Luhansk,13607659
+Verhunskyi,Ukraine,Luhansk,13607660
+Vilkhivskyi,Ukraine,Luhansk,13607661
+Kamyanobridskyi,Ukraine,Luhansk,13607662
+Kovpakivskyi,Ukraine,Sumy,13607717
+Zarichnyi,Ukraine,Sumy,13607718
+Tsentralno-Miskyi,Ukraine,Donetsk,13607719
+Kindrativskyi,Ukraine,Donetsk,13607720
+Mykytivskyi,Ukraine,Donetsk,13607721
+Tsentralnyi,Ukraine,Donetsk,13607722
+Kalmiuskyi,Ukraine,Donetsk,13607723
+Livoberezhnyi,Ukraine,Donetsk,13607724
+Prymorskyi,Ukraine,Donetsk,13607725
 Yumbe,Uganda,Northern Region,225835
 Wobulenzi,Uganda,Central Region,225858
 Wakiso,Uganda,Central Region,225964
@@ -32249,6 +32400,7 @@ Southwest Waterfront,United States,District of Columbia,13526900
 The Trails of Frisco,United States,Texas,13561794
 Longfellow Community,United States,Minnesota,13562032
 Airport,United States,Hawaii,13589156
+Dakota Ridge,United States,Colorado,13607888
 Young,Uruguay,Rio Negro Department,3439525
 Trinidad,Uruguay,Flores Department,3439748
 Treinta y Tres,Uruguay,Treinta y Tres Department,3439781
@@ -32335,10 +32487,12 @@ Rishton,Uzbekistan,Fergana,1512955
 Qo’shko’pir,Uzbekistan,Xorazm Region,1512978
 Qo‘qon,Uzbekistan,Fergana,1512979
 Piskent,Uzbekistan,Tashkent Region,1512986
+Poytug‘,Uzbekistan,Andijan Region,1513010
 Payshamba Shahri,Uzbekistan,Samarqand Region,1513011
 Parkent,Uzbekistan,Tashkent Region,1513017
 Pop,Uzbekistan,Namangan,1513023
 Paxtakor Shahri,Uzbekistan,Jizzakh Region,1513038
+Paxtaobod,Uzbekistan,Andijan Region,1513040
 Olmaliq,Uzbekistan,Tashkent Region,1513064
 Ohangaron,Uzbekistan,Tashkent Region,1513072
 Nurota,Uzbekistan,Navoiy Region,1513087
@@ -32365,6 +32519,7 @@ Gurlan,Uzbekistan,Xorazm Region,1513962
 Guliston,Uzbekistan,Sirdaryo Region,1513966
 G’ijduvon Shahri,Uzbekistan,Bukhara,1513983
 G‘azalkent,Uzbekistan,Tashkent Region,1513996
+G’allaorol Shahri,Uzbekistan,Jizzakh Region,1514008
 Gagarin Shahri,Uzbekistan,Jizzakh Region,1514011
 Fergana,Uzbekistan,Fergana,1514019
 Jalolquduq,Uzbekistan,Andijan Region,1514109
@@ -32374,6 +32529,7 @@ Dardoq,Uzbekistan,Andijan Region,1514174
 Chust,Uzbekistan,Namangan,1514192
 Chirchiq,Uzbekistan,Tashkent Region,1514210
 Chinoz,Uzbekistan,Tashkent Region,1514215
+Chinobod,Uzbekistan,Andijan Region,1514219
 Chilanzar,Uzbekistan,Tashkent,1514230
 Sergeli,Uzbekistan,Tashkent,1514257
 Chortoq,Uzbekistan,Namangan,1514258
@@ -32720,7 +32876,6 @@ Thị Trấn Phước Bửu,Viet Nam,Ho Chi Minh City (HCMC),1576757
 Thị Trấn Lam Sơn,Viet Nam,Thanh Hoa Province,1577859
 La Gi,Viet Nam,Lam Dong,1577995
 Kỳ Anh,Viet Nam,Ha Tinh Province,1578163
-Kon Tum,Viet Nam,Quang Ngai,1578495
 Kon Tum,Viet Nam,Quang Ngai,1578500
 Kiến An,Viet Nam,Hai Phong,1579018
 Hương Trà,Viet Nam,Thua Thien Hue Province,1580092
@@ -32766,6 +32921,7 @@ Thị Trấn Đại Từ,Viet Nam,Thai Nguyen,1584242
 Dại Mỗ,Viet Nam,Hanoi,1584287
 Đại Lộc,Viet Nam,Da Nang City,1584301
 Củ Chi,Viet Nam,Ho Chi Minh City (HCMC),1584661
+Cô Tô,Viet Nam,An Giang,1584725
 Cờ Đỏ,Viet Nam,Can Tho City,1584784
 Cổ Lóa,Viet Nam,Hanoi,1584955
 Cổ Đô,Viet Nam,Hanoi,1585011
@@ -32810,6 +32966,7 @@ Bạch Mai,Viet Nam,Hanoi,1591493
 Bắc Giang,Viet Nam,Bac Ninh,1591527
 Bắc Kạn,Viet Nam,Thai Nguyen,1591538
 Ấp Phước Tĩnh,Viet Nam,Ho Chi Minh City (HCMC),1592500
+Lai Vung,Viet Nam,Dong Thap,1592832
 Ấp Hô Phòng,Viet Nam,Ca Mau,1593289
 Ấp Bình Châu,Viet Nam,Ho Chi Minh City (HCMC),1593889
 An Trạch,Viet Nam,Ca Mau,1594188
@@ -33194,6 +33351,7 @@ Muizenberg,South Africa,Western Cape,3363882
 Moorreesburg,South Africa,Western Cape,3363957
 Malmesbury,South Africa,Western Cape,3364346
 Lansdowne,South Africa,Western Cape,3364682
+Kuils River,South Africa,Western Cape,3364937
 Kraaifontein,South Africa,Western Cape,3365083
 Hermanus,South Africa,Western Cape,3366880
 Grabouw,South Africa,Western Cape,3367513
