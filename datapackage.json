@@ -54,7 +54,8 @@
           }
         ]
       },
-      "primaryKey": "geonameid"
+      "primaryKey": "geonameid",
+      "description": "List of major cities worldwide with their name, country, subcountry (state/province/region), and GeoNames ID."
     }
   ],
   "homepage": "http://github.com/datasets/world-cities",
