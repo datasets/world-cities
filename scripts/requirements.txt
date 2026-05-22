@@ -1,3 +1,4 @@
 requests==2.32.3
 pycountry==24.6.1
 pandas==2.2.3
+frictionless==5.18.0
