@@ -34,13 +34,22 @@ jobs:
       with:
         python-version: '3.12'
 
-    - name: Install Python dependencies
+    - name: Install dependencies
       run: |
         python -m venv venv
         source venv/bin/activate
         pip install --upgrade pip
         pip install -r scripts/requirements.txt
-        python scripts/process.py         
+
+    - name: Generate data
+      run: |
+        source venv/bin/activate
+        python scripts/process.py
+
+    - name: Validate data
+      run: |
+        source venv/bin/activate
+        frictionless validate datapackage.json
       
     - name: Push and Commit      
       env:
