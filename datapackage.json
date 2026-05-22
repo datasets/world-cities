@@ -9,25 +9,36 @@
   "sources": [
     {
       "name": "Geonames",
-      "path": "http://www.geonames.org/",
+      "path": "https://www.geonames.org/",
       "title": "Geonames"
+    },
+    {
+      "name": "Geonames cities15000 dump",
+      "path": "https://download.geonames.org/export/dump/cities15000.zip",
+      "title": "Geonames cities15000 dump"
+    },
+    {
+      "name": "Geonames admin1 codes ASCII",
+      "path": "https://download.geonames.org/export/dump/admin1CodesASCII.txt",
+      "title": "Geonames admin1 codes ASCII"
     }
   ],
   "keywords": [
     "geodata",
     "city"
   ],
-  "licensces": [
+  "licenses": [
     {
-      "name": "ODC-PDDL-1.0",
-      "path": "http://opendatacommons.org/licenses/pddl/",
-      "title": "Open Data Commons Public Domain Dedication and License v1.0"
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Attribution 4.0 International"
     }
   ],
   "resources": [
     {
       "name": "world-cities",
       "path": "data/world-cities.csv",
+      "description": "List of major cities of the world with population above 15,000, sourced from Geonames. Each city is identified by its English name, country, primary administrative subdivision (subcountry), and Geonames ID.",
       "format": "csv",
       "mediatype": "text/csv",
       "schema": {
