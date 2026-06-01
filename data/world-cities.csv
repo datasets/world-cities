@@ -131,6 +131,7 @@ Bulqizë,Albania,Diber County,783508
 Vlorë,Albania,Vlore County,3183719
 Tirana,Albania,Tirana,3183875
 Shkodër,Albania,Shkoder County,3184081
+Rrashbull,Albania,Durres County,3184271
 Peqin,Albania,Elbasan County,3184497
 Patos Fshat,Albania,Fier County,3184517
 Patos,Albania,Fier County,3184518
@@ -139,6 +140,7 @@ Lezhë,Albania,Lezhe County,3184935
 Kuçovë,Albania,Berat County,3185060
 Krujë,Albania,Durres County,3185082
 Kavajë,Albania,Tirana,3185211
+Fushë-Krujë,Albania,Durres County,3185638
 Fier-Çifçi,Albania,Fier County,3185670
 Fier,Albania,Fier County,3185672
 Durrës,Albania,Durres County,3185728
@@ -311,6 +313,7 @@ Villa Lugano,Argentina,Buenos Aires F.D.,3427408
 Villaguay,Argentina,Entre Rios,3427428
 Villa Gesell,Argentina,Buenos Aires,3427431
 Villa de Mayo,Argentina,Buenos Aires,3427453
+Tristán Suárez,Argentina,Buenos Aires,3427626
 Tortuguitas,Argentina,Buenos Aires,3427687
 Tigre,Argentina,Buenos Aires,3427761
 Tandil,Argentina,Buenos Aires,3427833
@@ -557,6 +560,7 @@ Villa Mercedes,Argentina,San Luis,7116866
 San Miguel,Argentina,Buenos Aires,7645166
 San Carlos de Bariloche,Argentina,Rio Negro,7647007
 Adrogué,Argentina,Buenos Aires,10172104
+La Unión,Argentina,Buenos Aires,11146328
 Ingeniero Pablo Nogués,Argentina,Buenos Aires,11147723
 Villa Sarmiento,Argentina,Buenos Aires,11148100
 José C. Paz,Argentina,Buenos Aires,12076997
@@ -4035,7 +4039,7 @@ Zhlobin,Belarus,Homyel' Voblasc',618806
 Zaslawye,Belarus,Minsk,619066
 Vitebsk,Belarus,Vitebsk,620127
 Vileyka,Belarus,Minsk,620181
-Volkovysk,Belarus,Grodnenskaya,620391
+Vaukavysk,Belarus,Grodnenskaya,620391
 Svetlogorsk,Belarus,Homyel' Voblasc',621074
 Stowbtsy,Belarus,Minsk,621266
 Smarhoń,Belarus,Grodnenskaya,621713
@@ -4814,7 +4818,7 @@ Zürich (Kreis 10) / Höngg,Switzerland,Zurich,2660306
 Herisau,Switzerland,Appenzell Ausserrhoden,2660365
 Grenchen,Switzerland,Solothurn,2660512
 Gossau,Switzerland,Saint Gallen,2660549
-Genève,Switzerland,Geneva,2660646
+Geneva,Switzerland,Geneva,2660646
 Fribourg,Switzerland,Fribourg,2660718
 Frauenfeld,Switzerland,Thurgau,2660727
 Emmen,Switzerland,Lucerne,2660911
@@ -11426,7 +11430,7 @@ Elbeuf,France,Normandy,3020307
 Écully,France,Rhone-Alpes,3020392
 Échirolles,France,Rhone-Alpes,3020495
 Eaubonne,France,Ile-de-France,3020601
-Dunkerque,France,Hauts-de-France,3020686
+Dunkirk,France,Hauts-de-France,3020686
 Dreux,France,Centre-Val de Loire,3020810
 Draveil,France,Ile-de-France,3020832
 Drancy,France,Ile-de-France,3020839
@@ -12015,6 +12019,7 @@ Macclesfield,United Kingdom,England,2643266
 Luton,United Kingdom,England,2643339
 Lowestoft,United Kingdom,England,2643490
 Louth,United Kingdom,England,2643553
+Loughton,United Kingdom,England,2643556
 Loughborough,United Kingdom,England,2643567
 Longton,United Kingdom,England,2643620
 Longfield,United Kingdom,England,2643696
@@ -13359,6 +13364,7 @@ Csepel-Csillagtelep,Hungary,Budapest,12749851
 Középső-Ferencváros,Hungary,Budapest,12749860
 Óhegy,Hungary,Budapest,12749904
 Újlipótváros,Hungary,Budapest,13589152
+Alsórákos,Hungary,Budapest,13645442
 Tongging,Indonesia,North Sumatra,1213442
 Teluk Nibung,Indonesia,North Sumatra,1213493
 Teluk Dalam,Indonesia,North Sumatra,1213495
@@ -18015,6 +18021,7 @@ Eyvān,"Iran, Islamic Republic of",Ilam Province,129929
 Jūybār,"Iran, Islamic Republic of",Mazandaran,129933
 Jask,"Iran, Islamic Republic of",Hormozgan,130276
 Jam,"Iran, Islamic Republic of",Bushehr,130451
+Jājarm,"Iran, Islamic Republic of",North Khorasan,130524
 Jahrom,"Iran, Islamic Republic of",Fars,130531
 Īz̄eh,"Iran, Islamic Republic of",Khuzestan,130697
 Īlām,"Iran, Islamic Republic of",Ilam Province,130802
@@ -18042,6 +18049,7 @@ Galūgāh,"Iran, Islamic Republic of",Mazandaran,134255
 Galūgāh,"Iran, Islamic Republic of",Mazandaran,134256
 Gālīkesh,"Iran, Islamic Republic of",Golestan,134282
 Fūman,"Iran, Islamic Republic of",Gilan Province,134441
+Fīrūzkūh,"Iran, Islamic Republic of",Tehran,134462
 Fīrūzābād,"Iran, Islamic Republic of",Fars,134518
 Ferūnābād,"Iran, Islamic Republic of",Tehran,134598
 Fereydūn Kenār,"Iran, Islamic Republic of",Mazandaran,134602
@@ -18069,6 +18077,7 @@ Dehdasht,"Iran, Islamic Republic of",Kohgiluyeh and Boyer-Ahmad,136987
 Dehāqān,"Iran, Islamic Republic of",Isfahan,137057
 Sūsangerd,"Iran, Islamic Republic of",Khuzestan,137268
 Darreh Shahr,"Iran, Islamic Republic of",Ilam Province,137436
+Dargaz,"Iran, Islamic Republic of",Razavi Khorasan,137585
 Dārān,"Iran, Islamic Republic of",Isfahan,137929
 Dārāb,"Iran, Islamic Republic of",Fars,137956
 Dāmghān,"Iran, Islamic Republic of",Semnan,138025
@@ -18077,6 +18086,7 @@ Choghādak,"Iran, Islamic Republic of",Bushehr,138381
 Chenārān,"Iran, Islamic Republic of",Razavi Khorasan,138742
 Charām,"Iran, Islamic Republic of",Kohgiluyeh and Boyer-Ahmad,138989
 Chālūs,"Iran, Islamic Republic of",Mazandaran,139223
+Chahār Dangeh,"Iran, Islamic Republic of",Tehran,139706
 Bushehr,"Iran, Islamic Republic of",Bushehr,139817
 Būmahen,"Iran, Islamic Republic of",Tehran,139879
 Būkān,"Iran, Islamic Republic of",West Azerbaijan,139889
@@ -18114,6 +18124,7 @@ Hashtrūd,"Iran, Islamic Republic of",East Azerbaijan,142554
 Shāzand,"Iran, Islamic Republic of",Markazi,142567
 Āstārā,"Iran, Islamic Republic of",Gilan Province,142676
 Āstāneh-ye Ashrafīyeh,"Iran, Islamic Republic of",Gilan Province,142679
+Āshkhāneh,"Iran, Islamic Republic of",North Khorasan,142768
 Asadābād,"Iran, Islamic Republic of",Hamadan Province,142872
 Arsanjān,"Iran, Islamic Republic of",Fars,142958
 Ardestān,"Iran, Islamic Republic of",Isfahan,143052
@@ -20729,7 +20740,7 @@ Zaysan,Kazakhstan,East Kazakhstan,1517060
 Zhangaqorghan,Kazakhstan,Kyzylorda,1517323
 Turar Ryskulov,Kazakhstan,Turkistan,1517501
 Ushtobe,Kazakhstan,Zhetysu Region,1517637
-Turkestan,Kazakhstan,Turkistan,1517945
+Turkistan,Kazakhstan,Turkistan,1517945
 Temirtau,Kazakhstan,Karaganda,1518262
 Tekeli,Kazakhstan,Zhetysu Region,1518296
 Tasbuget,Kazakhstan,Kyzylorda,1518431
@@ -21344,7 +21355,7 @@ Ambanja,Madagascar,Diana,1083724
 Ambalavao,Madagascar,Upper Matsiatra,1083968
 Alarobia,Madagascar,Analamanga,1084740
 Majuro,Marshall Islands,Majuro Atoll,2113779
-Dalap-Uliga-Dorrit,Marshall Islands,,8347657
+Dalap-Uliga-Dorrit,Marshall Islands,Majuro Atoll,8347657
 Zelino,North Macedonia,Zhelino,783926
 Vinica,North Macedonia,Vinica,784424
 Veles,North Macedonia,Veles,785058
@@ -24233,6 +24244,7 @@ Bañga,Philippines,Soccsksargen,1727400
 Banga,Philippines,Soccsksargen,1727401
 Bambang,Philippines,Cagayan Valley,1727663
 Bamban,Philippines,Central Luzon,1727681
+Balulang,Philippines,Northern Mindanao,1727741
 Baliuag,Philippines,Central Luzon,1727995
 Balayan,Philippines,Calabarzon,1728336
 Balanga,Philippines,Central Luzon,1728523
@@ -28705,10 +28717,10 @@ Zuhres,Ukraine,Donetsk,686818
 Zolotonosha,Ukraine,Cherkasy,686875
 Zolochiv,Ukraine,Lviv,686896
 Znamyanka,Ukraine,Kirovohrad,686919
-Zhytomyr,Ukraine,Zhytomyr,686967
+Zhytomyr,Ukraine,Zhytomyr Oblast,686967
 Zhmerynka,Ukraine,Vinnytsia,687116
 Zhovti Vody,Ukraine,Dnipropetrovsk,687196
-Zdolbuniv,Ukraine,Rivne,687432
+Zdolbuniv,Ukraine,Rivne Oblast,687432
 Zaporizhzhya,Ukraine,Zaporizhzhia,687700
 Pivdenne,Ukraine,Odesa,687997
 Katerynivka,Ukraine,Luhansk,688089
@@ -28716,24 +28728,24 @@ Yevpatoriya,Ukraine,Crimea,688105
 Yenakiyeve,Ukraine,Donetsk,688148
 Yasynuvata,Ukraine,Donetsk,688373
 Yalta,Ukraine,Crimea,688533
-Yahotyn,Ukraine,Kyiv,688587
-Vyshhorod,Ukraine,Kyiv,688723
+Yahotyn,Ukraine,Kyiv Oblast,688587
+Vyshhorod,Ukraine,Kyiv Oblast,688723
 Vynohradiv,Ukraine,Zakarpattia,688746
 Vyhurivshchyna-Troyeshchyna,Ukraine,Kyiv City,688758
 Voznesensk,Ukraine,Mykolaiv,688860
 Volochysk,Ukraine,Khmelnytskyi,689159
 Volnovakha,Ukraine,Donetsk,689198
 Vilnohirsk,Ukraine,Dnipropetrovsk,689200
-Vovchansk,Ukraine,Kharkivs'ka Oblast',689304
+Vovchansk,Ukraine,Kharkiv,689304
 Volodymyr-Volynskyi,Ukraine,Volyn,689378
-Vyshneve,Ukraine,Kyiv,689487
+Vyshneve,Ukraine,Kyiv Oblast,689487
 Vinnytsya,Ukraine,Vinnytsia,689558
 Vynnyky,Ukraine,Lviv,689564
 Vilnyansk,Ukraine,Zaporizhzhia,689584
 Verkhnodniprovsk,Ukraine,Dnipropetrovsk,689916
 Velyka Kokhnivka,Ukraine,Poltava,690254
 Bahacheve,Ukraine,Cherkasy,690312
-Vasylkiv,Ukraine,Kyiv,690412
+Vasylkiv,Ukraine,Kyiv Oblast,690412
 Uzhhorod,Ukraine,Zakarpattia,690548
 Uman,Ukraine,Cherkasy,690688
 Tulchyn,Ukraine,Vinnytsia,691016
@@ -28766,7 +28778,7 @@ Snizhne,Ukraine,Donetsk,693381
 Smila,Ukraine,Cherkasy,693457
 Slovyansk,Ukraine,Donetsk,693468
 Slavuta,Ukraine,Khmelnytskyi,693581
-Skvyra,Ukraine,Kyiv,693615
+Skvyra,Ukraine,Kyiv Oblast,693615
 Skadovsk,Ukraine,Kherson,693709
 Synelnykove,Ukraine,Dnipropetrovsk,693796
 Simferopol,Ukraine,Crimea,693805
@@ -28777,7 +28789,7 @@ Shepetivka,Ukraine,Khmelnytskyi,694216
 Shakhtarsk,Ukraine,Donetsk,694382
 Sevastopol,Ukraine,Sevastopol City,694423
 Selydove,Ukraine,Donetsk,694677
-Sarny,Ukraine,Rivne,694792
+Sarny,Ukraine,Rivne Oblast,694792
 Sambir,Ukraine,Lviv,694864
 Saki,Ukraine,Crimea,694910
 Rubizhne,Ukraine,Luhansk,695274
@@ -28785,42 +28797,42 @@ Rozdilna,Ukraine,Odesa,695344
 Kurakhove,Ukraine,Donetsk,695357
 Rovenky,Ukraine,Luhansk,695379
 Romny,Ukraine,Sumy,695464
-Rivne,Ukraine,Rivne,695594
+Rivne,Ukraine,Rivne Oblast,695594
 Rakhiv,Ukraine,Zakarpattia,695859
-Radomyshl,Ukraine,Zhytomyr,695912
+Radomyshl,Ukraine,Zhytomyr Oblast,695912
 Pyatykhatky,Ukraine,Dnipropetrovsk,695965
-Pryluky,Ukraine,Chernihiv,696108
+Pryluky,Ukraine,Chernihiv Oblast,696108
 Popasna,Ukraine,Luhansk,696566
 Poltava,Ukraine,Poltava,696643
 Polonne,Ukraine,Khmelnytskyi,696660
 Polohy,Ukraine,Zaporizhzhia,696677
 Podil,Ukraine,Kyiv City,696877
-Pidhorodne,Ukraine,Dnipropetrovsk,696943
+Pidhorodnye,Ukraine,Dnipropetrovsk,696943
 Voznesenskyi,Ukraine,Donetsk,697302
-Pisochyn,Ukraine,Kharkivs'ka Oblast',697488
-Zlatopil,Ukraine,Kharkivs'ka Oblast',697576
+Pisochyn,Ukraine,Kharkiv,697488
+Zlatopil,Ukraine,Kharkiv,697576
 Sokolohirsk,Ukraine,Luhansk,697592
 Pervomaysk,Ukraine,Mykolaiv,697593
 Shakhtarske,Ukraine,Dnipropetrovsk,697616
-Pereiaslav,Ukraine,Kyiv,697637
+Pereiaslav,Ukraine,Kyiv Oblast,697637
 Perevalsk,Ukraine,Luhansk,697650
 Pelahiivka,Ukraine,Donetsk,697771
 Pavlohrad,Ukraine,Dnipropetrovsk,697889
-Ovruch,Ukraine,Zhytomyr,698131
+Ovruch,Ukraine,Zhytomyr Oblast,698131
 Pokrov,Ukraine,Dnipropetrovsk,698436
 Oleksandriya,Ukraine,Kirovohrad,698625
 Ihren,Ukraine,Dnipropetrovsk,698709
 Odesa,Ukraine,Odesa,698740
-Obukhiv,Ukraine,Kyiv,698782
+Obukhiv,Ukraine,Kyiv Oblast,698782
 Novyi Rozdil,Ukraine,Lviv,698874
 Novovolynsk,Ukraine,Volyn,699035
 Novoukrayinka,Ukraine,Kirovohrad,699078
 Samar,Ukraine,Dnipropetrovsk,699445
-Zvyahel,Ukraine,Zhytomyr,699553
-Novhorod-Siverskyi,Ukraine,Chernihiv,699753
+Zvyahel,Ukraine,Zhytomyr Oblast,699553
+Novhorod-Siverskyi,Ukraine,Chernihiv Oblast,699753
 Nova Kakhovka,Ukraine,Kherson,699839
 Nova Darnytsya,Ukraine,Kyiv City,699871
-Nizhyn,Ukraine,Chernihiv,699942
+Nizhyn,Ukraine,Chernihiv Oblast,699942
 Nyzhnodniprovsk,Ukraine,Dnipropetrovsk,700022
 Nikopol,Ukraine,Dnipropetrovsk,700051
 Netishyn,Ukraine,Khmelnytskyi,700261
@@ -28831,24 +28843,24 @@ Mostyska,Ukraine,Lviv,700696
 Otamanivka,Ukraine,Luhansk,700829
 Mohyliv-Podilskyy,Ukraine,Vinnytsia,700918
 Myrhorod,Ukraine,Poltava,701075
-Merefa,Ukraine,Kharkivs'ka Oblast',701347
+Merefa,Ukraine,Kharkiv,701347
 Melitopol,Ukraine,Zaporizhzhia,701404
-Masany,Ukraine,Chernihiv,701643
+Masany,Ukraine,Chernihiv Oblast,701643
 Mariupol,Ukraine,Donetsk,701822
 Marhanets,Ukraine,Dnipropetrovsk,701855
-Malyn,Ukraine,Zhytomyr,702116
+Malyn,Ukraine,Zhytomyr Oblast,702116
 Makiyivka,Ukraine,Donetsk,702320
-Liubotyn,Ukraine,Kharkivs'ka Oblast',702417
+Liubotyn,Ukraine,Kharkiv,702417
 Lviv,Ukraine,Lviv,702550
 Lutuhyne,Ukraine,Luhansk,702563
 Lutsk,Ukraine,Volyn,702569
 Luhansk,Ukraine,Luhansk,702658
 Lubny,Ukraine,Poltava,702723
-Lozova,Ukraine,Kharkivs'ka Oblast',702760
+Lozova,Ukraine,Kharkiv,702760
 Lysychansk,Ukraine,Luhansk,702972
 Ladyzhyn,Ukraine,Vinnytsia,703428
 Kyiv,Ukraine,Kyiv City,703448
-Kupyansk,Ukraine,Kharkivs'ka Oblast',703656
+Kupyansk,Ukraine,Kharkiv,703656
 Kryvyy Rih,Ukraine,Dnipropetrovsk,703845
 Kryukiv,Ukraine,Poltava,703853
 Krolevets,Ukraine,Sumy,704000
@@ -28858,22 +28870,22 @@ Kremenchuk,Ukraine,Poltava,704147
 Khrustalnyi,Ukraine,Luhansk,704202
 Lyman,Ukraine,Donetsk,704204
 Yany Kapu,Ukraine,Crimea,704362
-Berestyn,Ukraine,Kharkivs'ka Oblast',704388
+Berestyn,Ukraine,Kharkiv,704388
 Sorokyne,Ukraine,Luhansk,704403
 Pokrovsk,Ukraine,Donetsk,704422
 Krasyliv,Ukraine,Khmelnytskyi,704492
 Kramatorsk,Ukraine,Donetsk,704508
-Kivsharivka,Ukraine,Kharkivs'ka Oblast',704608
+Kivsharivka,Ukraine,Kharkiv,704608
 Kovel,Ukraine,Volyn,704617
-Kotsyubynske,Ukraine,Kyiv,704670
+Kotsyubynske,Ukraine,Kyiv Oblast,704670
 Podilsk,Ukraine,Odesa,704679
-Kostopil,Ukraine,Rivne,704737
+Kostopil,Ukraine,Rivne Oblast,704737
 Korsun-Shevchenkivskyy,Ukraine,Cherkasy,704858
-Korostyshiv,Ukraine,Zhytomyr,704885
-Korosten,Ukraine,Zhytomyr,704901
+Korostyshiv,Ukraine,Zhytomyr Oblast,704885
+Korosten,Ukraine,Zhytomyr Oblast,704901
 Kostyantynivka,Ukraine,Donetsk,705104
 Konotop,Ukraine,Sumy,705135
-Slobozhanske,Ukraine,Kharkivs'ka Oblast',705183
+Slobozhanske,Ukraine,Kharkiv,705183
 Kolomyia,Ukraine,Ivano-Frankivsk,705392
 Khrestivka,Ukraine,Donetsk,705797
 Holubivka,Ukraine,Luhansk,705809
@@ -28884,38 +28896,38 @@ Khmelnytskyi,Ukraine,Khmelnytskyi,706369
 Khmilnyk,Ukraine,Vinnytsia,706380
 Kherson,Ukraine,Kherson,706448
 Khartsyzk,Ukraine,Donetsk,706466
-Kharkiv,Ukraine,Kharkivs'ka Oblast',706483
+Kharkiv,Ukraine,Kharkiv,706483
 Khanzhonkove,Ukraine,Donetsk,706488
 Kerch,Ukraine,Crimea,706524
-Koziatyn,Ukraine,Vinnytsia,706571
+Kozyatyn,Ukraine,Vinnytsia,706571
 Kaniv,Ukraine,Cherkasy,706900
 Kamyanets-Podilskyi,Ukraine,Khmelnytskyi,706950
 Kalush,Ukraine,Ivano-Frankivsk,707099
 Kalynivka,Ukraine,Vinnytsia,707155
 Kakhovka,Ukraine,Kherson,707244
-Izyum,Ukraine,Kharkivs'ka Oblast',707292
+Izyum,Ukraine,Kharkiv,707292
 Iziaslav,Ukraine,Khmelnytskyi,707296
 Izmayil,Ukraine,Odesa,707308
 Ivano-Frankivsk,Ukraine,Ivano-Frankivsk,707471
-Irpin,Ukraine,Kyiv,707565
+Irpin,Ukraine,Kyiv Oblast,707565
 Inhulets,Ukraine,Dnipropetrovsk,707601
 Ilovays’k,Ukraine,Donetsk,707679
 Chornomors’k,Ukraine,Odesa,707688
 Horodok,Ukraine,Khmelnytskyi,707752
 Horlivka,Ukraine,Donetsk,707753
 Hlukhiv,Ukraine,Sumy,707758
-Hostomel,Ukraine,Kyiv,708251
+Hostomel,Ukraine,Kyiv Oblast,708251
 Horodok,Ukraine,Lviv,708313
 Henichesk,Ukraine,Kherson,708878
 Haysyn,Ukraine,Vinnytsia,708901
 Hadyach,Ukraine,Poltava,709054
 Feodosiya,Ukraine,Crimea,709161
-Fastiv,Ukraine,Kyiv,709248
+Fastiv,Ukraine,Kyiv Oblast,709248
 Enerhodar,Ukraine,Zaporizhzhia,709276
 Dzhankoy,Ukraine,Crimea,709334
 Toretsk,Ukraine,Donetsk,709354
 Dunayivtsi,Ukraine,Khmelnytskyi,709429
-Dubno,Ukraine,Rivne,709540
+Dubno,Ukraine,Rivne Oblast,709540
 Drohobych,Ukraine,Lviv,709611
 Donetsk,Ukraine,Donetsk,709717
 Dolyna,Ukraine,Ivano-Frankivsk,709755
@@ -28926,43 +28938,43 @@ Dnipro,Ukraine,Dnipropetrovsk,709930
 Kamyanske,Ukraine,Dnipropetrovsk,709932
 Dniprorudne,Ukraine,Zaporizhzhia,709960
 Myrnohrad,Ukraine,Donetsk,710035
-Derhachi,Ukraine,Kharkivs'ka Oblast',710098
+Derhachi,Ukraine,Kharkiv,710098
 Debaltseve,Ukraine,Donetsk,710229
-Chuhuyiv,Ukraine,Kharkivs'ka Oblast',710374
+Chuhuyiv,Ukraine,Kharkiv,710374
 Chortkiv,Ukraine,Ternopil,710400
 Voznesenivka,Ukraine,Luhansk,710548
 Sheptytskyi,Ukraine,Lviv,710554
 Chernivtsi,Ukraine,Chernivtsi,710719
-Chernihiv,Ukraine,Chernihiv,710735
+Chernihiv,Ukraine,Chernihiv Oblast,710735
 Cherkasy,Ukraine,Cherkasy,710791
-Bucha,Ukraine,Kyiv,711350
+Bucha,Ukraine,Kyiv Oblast,711350
 Bryanka,Ukraine,Luhansk,711369
-Brovary,Ukraine,Kyiv,711390
+Brovary,Ukraine,Kyiv Oblast,711390
 Brody,Ukraine,Lviv,711416
-Boyarka,Ukraine,Kyiv,711515
+Boyarka,Ukraine,Kyiv Oblast,711515
 Bortnychi,Ukraine,Kyiv City,711562
-Boryspil,Ukraine,Kyiv,711660
+Boryspil,Ukraine,Kyiv Oblast,711660
 Boryslav,Ukraine,Lviv,711669
 Bolhrad,Ukraine,Odesa,711841
-Bohuslav,Ukraine,Kyiv,711867
-Bohuniya,Ukraine,Zhytomyr,711874
-Bohodukhiv,Ukraine,Kharkivs'ka Oblast',711894
+Bohuslav,Ukraine,Kyiv Oblast,711867
+Bohuniya,Ukraine,Zhytomyr Oblast,711874
+Bohodukhiv,Ukraine,Kharkiv,711894
 Bilhorod-Dnistrovskyi,Ukraine,Odesa,712160
-Bila Tserkva,Ukraine,Kyiv,712165
+Bila Tserkva,Ukraine,Kyiv Oblast,712165
 Berezhany,Ukraine,Ternopil,712374
-Berezan,Ukraine,Kyiv,712389
+Berezan,Ukraine,Kyiv Oblast,712389
 Berehove,Ukraine,Zakarpattia,712423
-Berdychiv,Ukraine,Zhytomyr,712441
+Berdychiv,Ukraine,Zhytomyr Oblast,712441
 Berdyansk,Ukraine,Zaporizhzhia,712451
 Bilopillia,Ukraine,Sumy,712559
 Bilohirsk,Ukraine,Crimea,712587
-Bilohorodka,Ukraine,Kyiv,712590
+Bilohorodka,Ukraine,Kyiv Oblast,712590
 Bilychi,Ukraine,Kyiv City,712631
 Bar,Ukraine,Vinnytsia,712861
 Balta,Ukraine,Odesa,712886
-Balakliya,Ukraine,Kharkivs'ka Oblast',712926
+Balakliya,Ukraine,Kharkiv,712926
 Balaklava,Ukraine,Sevastopol City,712930
-Bakhmach,Ukraine,Chernihiv,712967
+Bakhmach,Ukraine,Chernihiv Oblast,712967
 Bakhchysaray,Ukraine,Crimea,712969
 Avdiyivka,Ukraine,Donetsk,713122
 Bakhmut,Ukraine,Donetsk,713174
@@ -28974,24 +28986,24 @@ Alushta,Ukraine,Crimea,713513
 Alchevsk,Ukraine,Luhansk,713716
 Okhtyrka,Ukraine,Sumy,713749
 Horishni Plavni,Ukraine,Poltava,6559559
-Saltivka,Ukraine,Kharkivs'ka Oblast',6722148
-Zhuravlivka,Ukraine,Kharkivs'ka Oblast',6723020
-Pivnichna Saltivka,Ukraine,Kharkivs'ka Oblast',6723024
-Slavutych,Ukraine,Kyiv,6930327
+Saltivka,Ukraine,Kharkiv,6722148
+Zhuravlivka,Ukraine,Kharkiv,6723020
+Pivnichna Saltivka,Ukraine,Kharkiv,6723024
+Slavutych,Ukraine,Kyiv Oblast,6930327
 Pivdennoukrainsk,Ukraine,Mykolaiv,7525990
-Varash,Ukraine,Rivne,8341919
-Svyatopetrivske,Ukraine,Kyiv,8354605
+Varash,Ukraine,Rivne Oblast,8341919
+Svyatopetrivske,Ukraine,Kyiv Oblast,8354605
 Novoyavorivs'k,Ukraine,Lviv,8468760
 Obolon,Ukraine,Kyiv City,8519916
 Cheremushky,Ukraine,Odesa,9983718
-Molodizhnyi,Ukraine,Poltava,11139621
+Molodizhne,Ukraine,Poltava,11139621
 Demiyivka,Ukraine,Kyiv City,11776362
 Borshchahivka,Ukraine,Kyiv City,11778464
 Reni,Ukraine,Odesa,12129128
 Avtozavodskyi,Ukraine,Poltava,12167218
-Oleksiyivka,Ukraine,Kharkivs'ka Oblast',12500938
+Oleksiyivka,Ukraine,Kharkiv,12500938
 Knyahynyn,Ukraine,Ivano-Frankivsk,12519211
-Sofiivska Borschahivka,Ukraine,Kyiv,13513215
+Sofiivska Borschahivka,Ukraine,Kyiv Oblast,13513215
 Holosiyiv,Ukraine,Kyiv City,13535744
 Pechersk,Ukraine,Kyiv City,13535745
 Svyatoshyn,Ukraine,Kyiv City,13535747
@@ -29015,7 +29027,7 @@ Tekstylnyk,Ukraine,Donetsk,13561228
 Podil,Ukraine,Poltava,13561777
 Kyivskyi,Ukraine,Poltava,13561778
 Shevchenko,Ukraine,Poltava,13561779
-Rayon KTZ,Ukraine,Kharkivs'ka Oblast',13561808
+Rayon KTZ,Ukraine,Kharkiv,13561808
 Pravyi Bereh,Ukraine,Donetsk,13580034
 Nyvky,Ukraine,Kyiv City,13580041
 Pozniaky,Ukraine,Kyiv City,13580094
@@ -29067,9 +29079,10 @@ Tsentralnyi,Ukraine,Donetsk,13607722
 Kalmiuskyi,Ukraine,Donetsk,13607723
 Livoberezhnyi,Ukraine,Donetsk,13607724
 Prymorskyi,Ukraine,Donetsk,13607725
-Desnyanskyi,Ukraine,Chernihiv,13608465
-Novozavodskyi,Ukraine,Chernihiv,13608468
-Korolyov,Ukraine,Zhytomyr,13609094
+Desnyanskyi,Ukraine,Chernihiv Oblast,13608465
+Novozavodskyi,Ukraine,Chernihiv Oblast,13608468
+Hladkivka,Ukraine,Donetsk,13608551
+Korolyov,Ukraine,Zhytomyr Oblast,13609094
 Rakove,Ukraine,Khmelnytskyi,13631378
 Nyzhnya Telychka,Ukraine,Kyiv City,13631571
 Yumbe,Uganda,Northern Region,225835
@@ -30192,6 +30205,7 @@ Canyon Lake,United States,Texas,4678901
 Carrollton,United States,Texas,4679195
 Cedar Hill,United States,Texas,4679803
 Cedar Park,United States,Texas,4679867
+Celina,United States,Texas,4679944
 Channelview,United States,Texas,4680388
 Cibolo,United States,Texas,4681462
 Cinco Ranch,United States,Texas,4681485
