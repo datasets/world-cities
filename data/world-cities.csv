@@ -315,17 +315,22 @@ Villa Lugano,Argentina,Buenos Aires F.D.,3427408
 Villaguay,Argentina,Entre Rios,3427428
 Villa Gesell,Argentina,Buenos Aires,3427431
 Villa de Mayo,Argentina,Buenos Aires,3427453
+Valentín Alsina,Argentina,Buenos Aires,3427474
 Tristán Suárez,Argentina,Buenos Aires,3427626
 Tortuguitas,Argentina,Buenos Aires,3427687
 Tigre,Argentina,Buenos Aires,3427761
 Tandil,Argentina,Buenos Aires,3427833
+Sarandí,Argentina,Buenos Aires,3428050
+San Vicente,Argentina,Buenos Aires,3428067
 San Vicente,Argentina,Misiones,3428068
 Santo Tomé,Argentina,Corrientes,3428071
 Santos Lugares,Argentina,Buenos Aires,3428075
 Santa Teresita,Argentina,Buenos Aires,3428123
 Santa Elena,Argentina,Entre Rios,3428359
+Santa Clara del Mar,Argentina,Buenos Aires,3428373
 San Pedro,Argentina,Buenos Aires,3428576
 San Pedro,Argentina,Misiones,3428577
+San Miguel del Monte,Argentina,Buenos Aires,3428609
 San Luis del Palmar,Argentina,Corrientes,3428708
 San Lorenzo,Argentina,Corrientes,3428759
 San Justo,Argentina,Buenos Aires,3428775
@@ -337,12 +342,12 @@ Saladillo,Argentina,Buenos Aires,3429399
 Saladas,Argentina,Corrientes,3429403
 Retiro,Argentina,Buenos Aires F.D.,3429576
 Resistencia,Argentina,Chaco,3429577
+Remedios de Escalada de San Martín,Argentina,Buenos Aires,3429582
 Reconquista,Argentina,Santa Fe,3429594
 Quilmes,Argentina,Buenos Aires,3429652
 Puerto Rico,Argentina,Misiones,3429732
 Puerto Iguazú,Argentina,Misiones,3429777
 Puerto Esperanza,Argentina,Misiones,3429786
-Puerto Eldorado,Argentina,Misiones,3429790
 Posadas,Argentina,Misiones,3429886
 Pontevedra,Argentina,Buenos Aires,3429902
 Pirané,Argentina,Formosa,3429949
@@ -352,23 +357,33 @@ Paso de los Libres,Argentina,Corrientes,3430104
 Oberá,Argentina,Misiones,3430340
 Nogoyá,Argentina,Entre Rios,3430415
 Necochea,Argentina,Buenos Aires,3430443
+Navarro,Argentina,Buenos Aires,3430457
 Muñiz,Argentina,Buenos Aires,3430513
 Morón,Argentina,Buenos Aires,3430545
+Monte Chingolo,Argentina,Buenos Aires,3430595
 Monte Caseros,Argentina,Corrientes,3430598
 Montecarlo,Argentina,Misiones,3430601
+Miramar,Argentina,Buenos Aires,3430668
 Merlo,Argentina,Buenos Aires,3430697
 Mercedes,Argentina,Buenos Aires,3430708
 Mercedes,Argentina,Corrientes,3430709
 Haedo,Argentina,Buenos Aires,3430835
+Mar del Tuyú,Argentina,Buenos Aires,3430861
 Mar del Plata,Argentina,Buenos Aires,3430863
 Mar de Ajó,Argentina,Buenos Aires,3430866
+Magdalena,Argentina,Buenos Aires,3430957
 Luján,Argentina,Buenos Aires,3430988
 Los Polvorines,Argentina,Buenos Aires,3431057
 Lomas de Zamora,Argentina,Buenos Aires,3431271
+Lobos,Argentina,Buenos Aires,3431313
+Leandro N. Alem,Argentina,Misiones,3431391
+Las Flores,Argentina,Buenos Aires,3431788
 La Plata,Argentina,Buenos Aires,3432043
 La Paz,Argentina,Entre Rios,3432079
+Lanús,Argentina,Buenos Aires,3432135
 Jardín América,Argentina,Misiones,3433349
 Ituzaingó,Argentina,Corrientes,3433360
+Isidro Casanova,Argentina,Buenos Aires,3433424
 Hurlingham,Argentina,Buenos Aires,3433522
 Gualeguaychú,Argentina,Entre Rios,3433658
 Gualeguay,Argentina,Entre Rios,3433663
@@ -377,14 +392,17 @@ Gobernador Virasora,Argentina,Corrientes,3433753
 General Pacheco,Argentina,Buenos Aires,3433787
 General Juan Madariaga,Argentina,Buenos Aires,3433801
 General José de San Martín,Argentina,Chaco,3433803
+General Belgrano,Argentina,Buenos Aires,3433817
 Garupá,Argentina,Misiones,3433836
 Formosa,Argentina,Formosa,3433899
 Fontana,Argentina,Chaco,3433901
 Federal,Argentina,Entre Rios,3433956
 Ezeiza,Argentina,Buenos Aires,3433975
 Esquina,Argentina,Corrientes,3434095
+Ensenada,Argentina,Buenos Aires,3434141
 El Soberbio,Argentina,Misiones,3434291
 El Palomar,Argentina,Buenos Aires,3434509
+Eldorado,Argentina,Misiones,3434674
 Don Torcuato,Argentina,Buenos Aires,3435010
 Dolores,Argentina,Buenos Aires,3435038
 Curuzú Cuatiá,Argentina,Corrientes,3435103
@@ -396,19 +414,26 @@ Colegiales,Argentina,Buenos Aires F.D.,3435356
 Chascomús,Argentina,Buenos Aires,3435448
 Chajarí,Argentina,Entre Rios,3435486
 Castelar,Argentina,Buenos Aires,3435607
+Carmen de Areco,Argentina,Buenos Aires,3435644
+Cañuelas,Argentina,Buenos Aires,3435713
 Campana,Argentina,Buenos Aires,3435810
+Burzaco,Argentina,Buenos Aires,3435894
 Buenos Aires,Argentina,Buenos Aires F.D.,3435910
+Coronel Brandsen,Argentina,Buenos Aires,3435963
 Boedo,Argentina,Buenos Aires F.D.,3436003
+Berisso,Argentina,Buenos Aires,3436040
 Berazategui,Argentina,Buenos Aires,3436043
+Benito Juárez,Argentina,Buenos Aires,3436047
 Bella Vista,Argentina,Buenos Aires,3436061
 Belgrano,Argentina,Buenos Aires F.D.,3436077
 Barranqueras,Argentina,Chaco,3436124
 Barracas,Argentina,Buenos Aires F.D.,3436134
+Baradero,Argentina,Buenos Aires,3436150
+Banfield,Argentina,Buenos Aires,3436152
 Balcarce,Argentina,Buenos Aires,3436177
 Azul,Argentina,Buenos Aires,3436199
 Ayacucho,Argentina,Buenos Aires,3436221
-Avellaneda,Argentina,Buenos Aires,3436230
-Aristóbulo del Valle,Argentina,Misiones,3436287
+Avellaneda,Argentina,Santa Fe,3436230
 Apóstoles,Argentina,Misiones,3436311
 Zapala,Argentina,Neuquen,3832132
 Yerba Buena,Argentina,Tucuman,3832260
@@ -417,6 +442,7 @@ Villa Paula de Sarmiento,Argentina,San Juan,3832653
 Villa Nueva,Argentina,Cordoba,3832662
 Villa María,Argentina,Cordoba,3832694
 Villa Dolores,Argentina,Cordoba,3832756
+Villa del Rosario,Argentina,Cordoba,3832765
 Villa Constitución,Argentina,Santa Fe,3832778
 Villa Carlos Paz,Argentina,Cordoba,3832791
 Villa Ángela,Argentina,Chaco,3832811
@@ -428,10 +454,14 @@ Venado Tuerto,Argentina,Santa Fe,3833062
 Veinticinco de Mayo,Argentina,Buenos Aires,3833112
 Ushuaia,Argentina,Tierra del Fuego,3833367
 Unquillo,Argentina,Cordoba,3833412
+Tupungato,Argentina,Mendoza,3833512
+Tunuyán,Argentina,Mendoza,3833520
 Tres Isletas,Argentina,Chaco,3833794
 Tres Arroyos,Argentina,Buenos Aires,3833859
 Trenque Lauquen,Argentina,Buenos Aires,3833875
 Trelew,Argentina,Chubut,3833883
+Tostado,Argentina,Santa Fe,3834048
+Toay,Argentina,La Pampa,3834310
 Termas de Río Hondo,Argentina,Santiago del Estero,3834502
 Tartagal,Argentina,Salta,3834601
 Tafí Viejo,Argentina,Tucuman,3834813
@@ -439,6 +469,8 @@ Sunchales,Argentina,Santa Fe,3834971
 Santo Tomé,Argentina,Santa Fe,3835793
 Santiago del Estero,Argentina,Santiago del Estero,3835869
 Santa Rosa,Argentina,La Pampa,3835994
+Santa Rosa,Argentina,Salta,3836011
+Santa María,Argentina,Catamarca,3836142
 Santa Lucía,Argentina,San Juan,3836194
 Santa Fe,Argentina,Santa Fe,3836277
 San Salvador de Jujuy,Argentina,Jujuy,3836564
@@ -449,11 +481,13 @@ San Nicolás de los Arroyos,Argentina,Buenos Aires,3836846
 San Miguel de Tucumán,Argentina,Tucuman,3836873
 San Martín de los Andes,Argentina,Neuquen,3836951
 San Martín,Argentina,Mendoza,3836992
+Villa General San Martín,Argentina,San Juan,3836993
 San Luis,Argentina,San Luis,3837056
+San Lorenzo,Argentina,Salta,3837102
 San Justo,Argentina,Santa Fe,3837124
 San Juan,Argentina,San Juan,3837213
-San José de Jáchal,Argentina,San Juan,3837240
 San Jorge,Argentina,Santa Fe,3837441
+San Isidro,Argentina,Catamarca,3837506
 San Francisco,Argentina,Cordoba,3837675
 Catamarca,Argentina,Catamarca,3837702
 San Carlos de Bolívar,Argentina,Buenos Aires,3837855
@@ -461,7 +495,12 @@ San Antonio Oeste,Argentina,Rio Negro,3837980
 Salto,Argentina,Buenos Aires,3838227
 Salta,Argentina,Salta,3838233
 Rufino,Argentina,Santa Fe,3838506
+Rosario de Lerma,Argentina,Salta,3838561
+Rosario de la Frontera,Argentina,Salta,3838564
 Rosario,Argentina,Santa Fe,3838583
+Rojas,Argentina,Buenos Aires,3838650
+Rodeo del Medio,Argentina,Mendoza,3838684
+Rivadavia,Argentina,Mendoza,3838759
 Río Tercero,Argentina,Cordoba,3838793
 Río Segundo,Argentina,Cordoba,3838797
 Río Grande,Argentina,Tierra del Fuego,3838854
@@ -470,16 +509,23 @@ Río Cuarto,Argentina,Cordoba,3838874
 Río Colorado,Argentina,Rio Negro,3838879
 Río Ceballos,Argentina,Cordoba,3838902
 Rawson,Argentina,Chubut,3839307
+Ramallo,Argentina,Buenos Aires,3839444
 Rafaela,Argentina,Santa Fe,3839479
 Quitilipi,Argentina,Chaco,3839490
 Punta Alta,Argentina,Buenos Aires,3839982
 Puerto Madryn,Argentina,Chubut,3840092
+Puerto Deseado,Argentina,Santa Cruz,3840104
 Profesor Salvador Mazza,Argentina,Salta,3840259
 Presidencia Roque Sáenz Peña,Argentina,Chaco,3840300
 Pocito,Argentina,San Juan,3840860
 Plottier,Argentina,Neuquen,3840885
+Pilar,Argentina,Cordoba,3841149
+Pigüé,Argentina,Buenos Aires,3841159
+Pico Truncado,Argentina,Santa Cruz,3841309
+Pichanal,Argentina,Salta,3841390
 Pergamino,Argentina,Buenos Aires,3841490
 Pérez,Argentina,Santa Fe,3841500
+Perdriel,Argentina,Mendoza,3841504
 Pehuajó,Argentina,Buenos Aires,3841679
 Paraná,Argentina,Entre Rios,3841956
 Palpalá,Argentina,Jujuy,3842190
@@ -488,11 +534,15 @@ Nueve de Julio,Argentina,Buenos Aires,3842881
 Neuquén,Argentina,Neuquen,3843123
 Morteros,Argentina,Cordoba,3843619
 Monteros,Argentina,Tucuman,3843803
+San José de Metán,Argentina,Salta,3844298
 Mendoza,Argentina,Mendoza,3844421
 Marcos Juárez,Argentina,Cordoba,3844899
+Malargüe,Argentina,Mendoza,3845181
 Machagai,Argentina,Chaco,3845330
 Lincoln,Argentina,Buenos Aires,3846864
 Libertador General San Martín,Argentina,Jujuy,3846915
+Las Varillas,Argentina,Cordoba,3847613
+Las Heras,Argentina,Santa Cruz,3848353
 Las Breñas,Argentina,Chaco,3848687
 La Rioja,Argentina,La Rioja,3848950
 La Falda,Argentina,Cordoba,3851331
@@ -504,10 +554,14 @@ Jesús María,Argentina,Cordoba,3853510
 Granadero Baigorria,Argentina,Santa Fe,3854895
 Gobernador Gálvez,Argentina,Santa Fe,3854985
 General Villegas,Argentina,Buenos Aires,3855041
+Los Toldos,Argentina,Buenos Aires,3855043
 General Roca,Argentina,Rio Negro,3855065
 General Pinedo,Argentina,Chaco,3855074
 General Pico,Argentina,La Pampa,3855075
+General Güemes,Argentina,Salta,3855090
 General Mosconi,Argentina,Salta,3855116
+General Alvear,Argentina,Mendoza,3855139
+General Acha,Argentina,La Pampa,3855143
 Gálvez,Argentina,Santa Fe,3855244
 Firmat,Argentina,Santa Fe,3855554
 Famaillá,Argentina,Tucuman,3855666
@@ -515,6 +569,7 @@ Esquel,Argentina,Chubut,3855974
 Esperanza,Argentina,Santa Fe,3856022
 Embarcación,Argentina,Salta,3856231
 Embalse,Argentina,Cordoba,3856235
+El Calafate,Argentina,Santa Cruz,3858677
 El Bolsón,Argentina,Rio Negro,3858765
 Diamante,Argentina,Entre Rios,3859384
 Deán Funes,Argentina,Cordoba,3859512
@@ -523,9 +578,12 @@ Cruz del Eje,Argentina,Cordoba,3859828
 Crespo,Argentina,Entre Rios,3859904
 Cosquín,Argentina,Cordoba,3859965
 Coronel Suárez,Argentina,Buenos Aires,3860164
+Coronel Pringles,Argentina,Buenos Aires,3860174
 Coronda,Argentina,Santa Fe,3860217
 Córdoba,Argentina,Cordoba,3860259
 Comodoro Rivadavia,Argentina,Chubut,3860443
+Colonia Caroya,Argentina,Cordoba,3860801
+Colón,Argentina,Buenos Aires,3860828
 Cipolletti,Argentina,Rio Negro,3861056
 Cinco Saltos,Argentina,Rio Negro,3861061
 Chivilcoy,Argentina,Buenos Aires,3861344
@@ -533,18 +591,23 @@ Chimbas,Argentina,San Juan,3861416
 Chilecito,Argentina,La Rioja,3861445
 Charata,Argentina,Chaco,3861678
 Chacabuco,Argentina,Buenos Aires,3861953
+San José de los Cerrillos,Argentina,Salta,3862086
 Centenario,Argentina,Neuquen,3862144
 Caucete,Argentina,San Juan,3862240
 Catriel,Argentina,Rio Negro,3862254
 Juan José Castelli,Argentina,Chaco,3862320
 Casilda,Argentina,Santa Fe,3862351
 Carmen de Patagones,Argentina,Buenos Aires,3862583
+Carlos Casares,Argentina,Buenos Aires,3862607
 Carcarañá,Argentina,Santa Fe,3862655
 Capitán Bermúdez,Argentina,Santa Fe,3862738
 Cañada de Gómez,Argentina,Santa Fe,3862981
 Caleta Olivia,Argentina,Santa Cruz,3863379
+Cafayate,Argentina,Salta,3863503
+Bragado,Argentina,Buenos Aires,3863882
 Bell Ville,Argentina,Cordoba,3864331
 Bella Vista,Argentina,Tucuman,3864375
+Belén,Argentina,Catamarca,3864430
 Bahía Blanca,Argentina,Buenos Aires,3865086
 Arroyo Seco,Argentina,Santa Fe,3865385
 Arroyito,Argentina,Cordoba,3865424
@@ -559,13 +622,17 @@ Aguilares,Argentina,Tucuman,3866496
 Balvanera,Argentina,Buenos Aires F.D.,6693228
 Villa Santa Rita,Argentina,Buenos Aires F.D.,6693230
 Villa Mercedes,Argentina,San Luis,7116866
+Avellaneda,Argentina,Buenos Aires,7535637
 San Miguel,Argentina,Buenos Aires,7645166
 San Carlos de Bariloche,Argentina,Rio Negro,7647007
+Moreno,Argentina,Buenos Aires,7778796
 Adrogué,Argentina,Buenos Aires,10172104
 La Unión,Argentina,Buenos Aires,11146328
 Ingeniero Pablo Nogués,Argentina,Buenos Aires,11147723
 Villa Sarmiento,Argentina,Buenos Aires,11148100
+San Vicente,Argentina,Misiones,12035902
 José C. Paz,Argentina,Buenos Aires,12076997
+Rawson,Argentina,San Juan,13452524
 Pago Pago,American Samoa,Eastern District,5881576
 Döbling,Austria,State of Vienna,2600996
 Wolfsberg,Austria,Carinthia,2760910
@@ -669,7 +736,7 @@ Wangaratta,Australia,Victoria,2144764
 Wallan,Australia,Victoria,2144949
 Wahroonga,Australia,New South Wales,2145092
 Upper Coomera,Australia,Queensland,2145461
-Tuggeranong Administrative District,Australia,Australian Capital Territory,2145936
+Tuggeranong,Australia,Australian Capital Territory,2145936
 Truganina,Australia,Victoria,2145990
 Traralgon,Australia,Victoria,2146108
 Townsville,Australia,Queensland,2146142
@@ -2712,6 +2779,7 @@ Pinhalzinho,Brazil,Sao Paulo,3453787
 Espírito Santo do Pinhal,Brazil,Sao Paulo,3453807
 Pindobaçu,Brazil,Bahia,3453827
 Pindamonhangaba,Brazil,Sao Paulo,3453837
+Pindaí,Brazil,Bahia,3453858
 Pilar do Sul,Brazil,Sao Paulo,3453896
 Piedade,Brazil,Sao Paulo,3453926
 Balneário Piçarras,Brazil,Santa Catarina,3453943
@@ -3479,6 +3547,7 @@ Buritirama,Brazil,Bahia,3468734
 Buritama,Brazil,Sao Paulo,3468789
 Buri,Brazil,Sao Paulo,3468802
 Boquim,Brazil,Sergipe,3468823
+Buerarema,Brazil,Bahia,3468858
 Brusque,Brazil,Santa Catarina,3468879
 Brumado,Brazil,Bahia,3468893
 Brumadinho,Brazil,Minas Gerais,3468894
@@ -4087,7 +4156,6 @@ Lida,Belarus,Grodnenskaya,626081
 Krychaw,Belarus,Mogilev,626450
 Kalodzishchy,Belarus,Minsk,627083
 Kobryn,Belarus,Brest,627145
-Klimovichi,Belarus,Mogilev,627202
 Kalinkovichi,Belarus,Homyel' Voblasc',627751
 Ivatsevichi,Belarus,Brest,627800
 Ivanovo,Belarus,Brest,627811
@@ -4106,6 +4174,7 @@ Bobruysk,Belarus,Mogilev,630468
 Oshmyany,Belarus,Grodnenskaya,630515
 Fanipol,Belarus,Minsk,6846555
 San Pedro,Belize,Belize District,3581164
+San Ignacio,Belize,Cayo District,3581194
 Orange Walk,Belize,Orange Walk District,3581514
 Belmopan,Belize,Cayo District,3582672
 Belize City,Belize,Belize District,3582677
@@ -4460,6 +4529,7 @@ Aylmer,Canada,Quebec,6354934
 L'Ancienne-Lorette,Canada,Quebec,6534203
 Edmundston,Canada,New Brunswick,6545023
 Saint-Georges,Canada,Quebec,6620953
+La Baie,Canada,Quebec,6621036
 Hull,Canada,Quebec,6942644
 Buckingham,Canada,Quebec,6942645
 Thetford-Mines,Canada,Quebec,6943827
@@ -4614,6 +4684,9 @@ Arcola East,Canada,Saskatchewan,13589240
 Dewdney East,Canada,Saskatchewan,13589242
 Fredericton Northside,Canada,New Brunswick,13607919
 Clayton Park West,Canada,Nova Scotia,13607951
+Fort Garry South,Canada,Manitoba,13665232
+St. James-Assiniboia East,Canada,Manitoba,13665233
+Centre City,Canada,Alberta,13680114
 West Island,Cocos (Keeling) Islands,,7304591
 Yangambi,"Congo, The Democratic Republic of the",Tshopo,203717
 Watsa,"Congo, The Democratic Republic of the",Haut-Uele,204283
@@ -9196,6 +9269,7 @@ Djibouti,Djibouti,Djibouti,223817
 Dikhil,Djibouti,Dikhil,223890
 Arta,Djibouti,Arta,225037
 Ali Sabih,Djibouti,Ali Sabieh,225284
+Balbala,Djibouti,Djibouti,7648070
 Vordingborg,Denmark,Zealand,2610020
 Viby,Denmark,Central Jutland,2610310
 Viborg,Denmark,Central Jutland,2610319
@@ -9293,6 +9367,7 @@ Las Matas de Farfán,Dominican Republic,San Juan Province,3500370
 La Romana,Dominican Republic,La Romana,3500957
 Jarabacoa,Dominican Republic,La Vega,3504158
 Hato Mayor del Rey,Dominican Republic,Hato Mayor Province,3504765
+Guayacanes,Dominican Republic,San Pedro de Macoris,3504963
 Esperanza,Dominican Republic,Valverde Province,3505855
 Dajabón,Dominican Republic,Dajabon,3508952
 Cristo Rey,Dominican Republic,Nacional,3509183
@@ -9776,6 +9851,7 @@ Jarājūs,Egypt,Qena,355174
 Ītāy al Bārūd,Egypt,Beheira,355417
 Iţsā,Egypt,Faiyum,355420
 Esna,Egypt,Qena,355449
+Ihnāsyā al Madīnah,Egypt,Beni Suweif,355595
 Ihnāsīyah,Egypt,Beni Suweif,355596
 Idkū,Egypt,Beheira,355628
 Edfu,Egypt,Aswan,355635
@@ -13528,6 +13604,7 @@ Trucuk,Indonesia,Central Java,1623223
 Trenggalek,Indonesia,East Java,1623251
 Tondano,Indonesia,North Sulawesi,1623424
 Tomohon,Indonesia,North Sulawesi,1623446
+Toli-Toli,Indonesia,Central Sulawesi,1623502
 Tobelo,Indonesia,North Maluku,1623651
 Tiom,Indonesia,Highland Papua,1623772
 Timika,Indonesia,Central Papua,1623834
@@ -13727,6 +13804,7 @@ Kroya,Indonesia,Central Java,1639337
 Krian,Indonesia,East Java,1639356
 Kresek,Indonesia,West Java,1639362
 Kraksaan,Indonesia,East Java,1639431
+Kotamobagu,Indonesia,North Sulawesi,1639500
 Kotabumi,Indonesia,Lampung,1639524
 Klungkung,Indonesia,Bali,1639850
 Klaten,Indonesia,Central Java,1639900
@@ -13871,6 +13949,7 @@ Amuntai,Indonesia,South Kalimantan,1651461
 Ambon,Indonesia,Maluku,1651531
 Ambarawa,Indonesia,Central Java,1651555
 Amahai,Indonesia,Maluku,1651591
+Airmadidi,Indonesia,North Sulawesi,1651763
 Agats,Indonesia,South Papua,1651852
 Adiwerna,Indonesia,Central Java,1651887
 Padalarang,Indonesia,West Java,1963770
@@ -15130,7 +15209,7 @@ Mukeriān,India,Punjab,1262596
 Muhammadābād,India,Uttar Pradesh,1262624
 Muhammadābād,India,Uttar Pradesh,1262625
 Muhammadābād,India,Uttar Pradesh,1262626
-Mughal Sarāi,India,Uttar Pradesh,1262634
+Pandit Deen Dayal Upadhyaya Nagar,India,Uttar Pradesh,1262634
 Mudkhed,India,Maharashtra,1262651
 Mudhol,India,Karnataka,1262663
 Mudgal,India,Karnataka,1262664
@@ -16948,6 +17027,7 @@ Shella,India,Meghalaya,8430980
 Hanumana,India,Madhya Pradesh,8432864
 Mirganj,India,Bihar,8439149
 Sultānganj,India,Bihar,8439888
+Modīnagar,India,Uttar Pradesh,8440756
 Bagru,India,Rajasthan,8440759
 Nimach,India,Rajasthan,8441115
 Kamatgi,India,Maharashtra,8441290
@@ -18573,6 +18653,7 @@ Rozzano,Italy,Lombardy,3168837
 Rovigo,Italy,Veneto,3168843
 Rovereto,Italy,Trentino-Alto Adige,3168854
 Rosignano Solvay-Castiglioncello,Italy,Tuscany,3168930
+Rosignano Marittimo,Italy,Tuscany,3168931
 Roseto degli Abruzzi,Italy,Abruzzo,3168936
 Romano di Lombardia,Italy,Lombardy,3169056
 Rome,Italy,Lazio,3169070
@@ -19021,6 +19102,7 @@ Circoiscrizione VII,Italy,Piedmont,13607971
 Circoiscrizione VIII,Italy,Piedmont,13607972
 Polo Nord,Italy,Piedmont,13607975
 Centro,Italy,Piedmont,13607979
+Chieti Scalo,Italy,Abruzzo,13607980
 Saint Helier,Jersey,St Helier,3042091
 Spanish Town,Jamaica,Saint Catherine Parish,3488465
 Savanna-la-Mar,Jamaica,Westmoreland,3488613
@@ -21313,6 +21395,7 @@ Aguelmous,Morocco,Beni Mellal-Khenifra,2561290
 Agouraï,Morocco,Fes-Meknes,2561358
 Agadir,Morocco,Souss-Massa,2561668
 Skhirate,Morocco,Rabat-Sale-Kenitra,2562055
+Azla,Morocco,Tanger-Tetouan-Al Hoceima,2571932
 Ribat Al Khayr,Morocco,Fes-Meknes,2596460
 Boujniba,Morocco,Beni Mellal-Khenifra,6546693
 Errachidia,Morocco,Draa-Tafilalet,7280528
@@ -23083,7 +23166,6 @@ Maiduguri,Nigeria,Borno State,2331447
 Magumeri,Nigeria,Borno State,2331528
 Lokoja,Nigeria,Kogi State,2331939
 Lere,Nigeria,Kaduna State,2332079
-Lekki,Nigeria,Lagos,2332121
 Lapai,Nigeria,Niger State,2332249
 Lalupon,Nigeria,Oyo State,2332357
 Lagos,Nigeria,Lagos,2332459
@@ -24204,7 +24286,7 @@ Labo,Philippines,Bicol Region,1708291
 Koronadal,Philippines,Soccsksargen,1708522
 Kidapawan,Philippines,Soccsksargen,1708824
 Kawit,Philippines,Calabarzon,1709003
-Kalibo (poblacion),Philippines,Western Visayas,1709632
+Kalibo,Philippines,Western Visayas,1709632
 Kalamansig,Philippines,Soccsksargen,1709717
 Kabankalan,Philippines,Western Visayas,1709968
 Kabacan,Philippines,Soccsksargen,1710011
@@ -25415,6 +25497,7 @@ Cidade Universitária,Portugal,Lisbon,12776117
 Campo De Ourique,Portugal,Lisbon,12777908
 Ngerulmud,Palau,Melekeok,8063361
 Yby Yaú,Paraguay,Concepcion,3436622
+Villeta,Paraguay,Central Department,3436710
 Villarrica,Paraguay,Guaira,3436714
 Villa Hayes,Paraguay,Presidente Hayes,3436725
 Villa Elisa,Paraguay,Central Department,3436728
@@ -25428,6 +25511,7 @@ Nemby,Paraguay,Central Department,3437665
 Loma Plata,Paraguay,Boqueron Department,3437824
 Limpio,Paraguay,Central Department,3437842
 Lambaré,Paraguay,Central Department,3437863
+Doctor Juan Eulogio Estigarribia,Paraguay,Caaguazu Department,3437905
 Itauguá,Paraguay,Central Department,3437918
 Itá,Paraguay,Central Department,3437954
 Fernando de la Mora,Paraguay,Central Department,3438115
@@ -26165,7 +26249,7 @@ Krymsk,Russian Federation,Krasnodar Krai,540251
 Kropotkin,Russian Federation,Krasnodar Krai,540761
 Kronstadt,Russian Federation,St.-Petersburg,540771
 Krasnyy Sulin,Russian Federation,Rostov,541404
-Biryulëvo Zapadnoye,Russian Federation,Moscow Oblast,541406
+Biryulëvo Zapadnoye,Russian Federation,Moscow,541406
 Krasnoye Selo,Russian Federation,St.-Petersburg,542000
 Krasnovishersk,Russian Federation,Perm Krai,542184
 Krasnoufimsk,Russian Federation,Sverdlovsk Oblast,542199
@@ -26458,7 +26542,7 @@ Ryl’sk,Russian Federation,Kursk Oblast,695019
 Neftekumsk,Russian Federation,Stavropol Kray,797781
 Alagir,Russian Federation,North Ossetia-Alania,802078
 Persianovka,Russian Federation,Rostov,802714
-Annino,Russian Federation,Moscow Oblast,819552
+Annino,Russian Federation,Moscow,819552
 Drozhzhino,Russian Federation,Moscow Oblast,819740
 Dagomys,Russian Federation,Krasnodar Krai,823674
 Gorod Shebekino,Russian Federation,Belgorod Oblast,824988
@@ -27608,6 +27692,7 @@ Thoen,Thailand,Lampang,1150154
 Thap Than,Thailand,Uthai Thani,1150210
 Tha Muang,Thailand,Kanchanaburi,1150246
 Tha Maka,Thailand,Kanchanaburi,1150275
+Takua Pa,Thailand,Phang Nga,1150452
 Tak,Thailand,Tak,1150490
 Surat Thani,Thailand,Surat Thani,1150515
 Sukhothai,Thailand,Sukhothai,1150533
@@ -33214,6 +33299,7 @@ Thanh Liệt,Viet Nam,Hanoi,1566126
 Thanh Hóa,Viet Nam,Thanh Hoa Province,1566166
 Thái Nguyên,Viet Nam,Thai Nguyen,1566319
 Thái Bình,Viet Nam,Hung Yen Province,1566346
+Tây Tựu,Viet Nam,Hanoi,1566545
 Tây Ninh,Viet Nam,Tay Ninh,1566559
 Tây Hồ,Viet Nam,Hanoi,1566566
 Tân Châu,Viet Nam,An Giang,1567032
@@ -33287,6 +33373,7 @@ Kon Tum,Viet Nam,Quang Ngai,1578500
 Kim Liên,Viet Nam,Nghe An Province,1578904
 Kiến An,Viet Nam,Hai Phong,1579018
 Kiến An,Viet Nam,An Giang,1579019
+Khánh Hòa,Viet Nam,An Giang,1579635
 Hương Trà,Viet Nam,Thua Thien Hue Province,1580092
 Hương Thủy,Viet Nam,Thua Thien Hue Province,1580093
 Hưng Yên,Viet Nam,Hung Yen Province,1580142
@@ -33295,6 +33382,7 @@ Huế,Viet Nam,Thua Thien Hue Province,1580240
 Hồng Ngự,Viet Nam,Dong Thap,1580400
 Hạ Long,Viet Nam,Quang Ninh,1580410
 Hoi An,Viet Nam,Da Nang City,1580541
+Hoang Cau,Viet Nam,Hanoi,1580730
 Hòa Bình,Viet Nam,Phu Tho,1580830
 Hà Tĩnh,Viet Nam,Ha Tinh Province,1581047
 Hà Tiên,Viet Nam,An Giang,1581052
@@ -33394,6 +33482,8 @@ Lai Châu,Viet Nam,Lai Chau Province,8456741
 Thị Trấn Việt Quang,Viet Nam,Tuyen Quang,8473997
 Phu Quoc,Viet Nam,An Giang,8531735
 Bình Minh,Viet Nam,Vinh Long,8539621
+Thị Trấn Vân Du,Viet Nam,Thanh Hoa Province,8549745
+Thị Trấn Sao Vàng,Viet Nam,Thanh Hoa Province,8550302
 Bo,Viet Nam,Phu Tho,8551473
 Thành Phố Bà Rịa,Viet Nam,Ho Chi Minh City (HCMC),8594709
 Lương Bằng,Viet Nam,Hung Yen Province,8612792
@@ -33462,6 +33552,18 @@ Linh Đàm,Viet Nam,Hanoi,13546524
 Bồ Đề,Viet Nam,Hanoi,13546525
 Hoàng Mai,Viet Nam,Nghe An Province,13562438
 Phổ Yên,Viet Nam,Thai Nguyen,13589354
+Yên Nghĩa,Viet Nam,Hanoi,13680012
+Dương Nội,Viet Nam,Hanoi,13680013
+Định Công,Viet Nam,Hanoi,13680014
+Đông Ngạc,Viet Nam,Hanoi,13680015
+Giảng Võ,Viet Nam,Hanoi,13680016
+Hoàng Liệt,Viet Nam,Hanoi,13680017
+Khương Đình,Viet Nam,Hanoi,13680018
+Kiến Hưng,Viet Nam,Hanoi,13680019
+Lĩnh Nam,Viet Nam,Hanoi,13680020
+Phúc Lợi,Viet Nam,Hanoi,13680021
+Phú Thương,Viet Nam,Hanoi,13680022
+Tương Mai,Viet Nam,Hanoi,13680023
 Port-Vila,Vanuatu,Shefa,2135171
 Mata-Utu,Wallis and Futuna,Uvea,4034821
 Apia,Samoa,Tuamasaga,4035413
