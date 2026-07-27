@@ -1787,6 +1787,7 @@ Teresina,Brazil,Piaui,3386496
 Tejuçuoca,Brazil,Ceara,3386528
 Tauá,Brazil,Ceara,3386551
 São João dos Inhamuns,Brazil,Ceara,3386567
+Tartarugalzinho,Brazil,Amapa,3386604
 Taquaritinga do Norte,Brazil,Pernambuco,3386622
 Taquarana,Brazil,Alagoas,3386628
 Tamboril,Brazil,Ceara,3386874
@@ -2136,7 +2137,6 @@ Glória do Goitá,Brazil,Pernambuco,3398920
 Glória,Brazil,Bahia,3398923
 Garanhuns,Brazil,Pernambuco,3399058
 Gameleira,Brazil,Pernambuco,3399132
-Frecheirinha,Brazil,Ceara,3399313
 Fortuna,Brazil,Maranhao,3399377
 Fortim,Brazil,Ceara,3399380
 Fortaleza,Brazil,Ceara,3399415
@@ -2197,6 +2197,7 @@ Caucaia,Brazil,Ceara,3402429
 Catolé do Rocha,Brazil,Paraiba,3402465
 Campo Alegre de Lourdes,Brazil,Bahia,3402496
 Catende,Brazil,Pernambuco,3402528
+Catarina,Brazil,Ceara,3402538
 Castelo do Piauí,Brazil,Piaui,3402548
 Castanhal,Brazil,Para,3402591
 Cascavel,Brazil,Ceara,3402613
@@ -2407,6 +2408,7 @@ União da Vitória,Brazil,Parana,3445746
 Unaí,Brazil,Minas Gerais,3445764
 Una,Brazil,Bahia,3445781
 Umuarama,Brazil,Parana,3445782
+Umburanas,Brazil,Bahia,3445802
 Umbaúba,Brazil,Sergipe,3445818
 Uberlândia,Brazil,Minas Gerais,3445831
 Uberaba,Brazil,Minas Gerais,3445839
@@ -2891,7 +2893,6 @@ Nossa Senhora do Socorro,Brazil,Sergipe,3456223
 Freguesia do Ó,Brazil,Sao Paulo,3456225
 Nossa Senhora das Dores,Brazil,Sergipe,3456234
 Nossa Senhora da Glória,Brazil,Sergipe,3456240
-Nordestina,Brazil,Bahia,3456270
 Nobres,Brazil,Mato Grosso,3456277
 Niterói,Brazil,Rio de Janeiro,3456283
 Niquelândia,Brazil,Goias,3456285
@@ -3037,6 +3038,7 @@ Laje,Brazil,Bahia,3459084
 Laguna,Brazil,Santa Catarina,3459094
 Lagoa Vermelha,Brazil,Rio Grande do Sul,3459126
 Lagoa Santa,Brazil,Minas Gerais,3459138
+Lagoa Real,Brazil,Bahia,3459147
 Lagoa Formosa,Brazil,Minas Gerais,3459181
 Lagoa da Prata,Brazil,Minas Gerais,3459251
 Presidente Dutra,Brazil,Bahia,3459261
@@ -3147,11 +3149,11 @@ Itamaraju,Brazil,Bahia,3460826
 Itajuípe,Brazil,Bahia,3460831
 Itajubá,Brazil,Minas Gerais,3460834
 Itajobi,Brazil,Sao Paulo,3460836
-Itagibá,Brazil,Bahia,3460837
 Itajaí,Brazil,Santa Catarina,3460845
 Itaiópolis,Brazil,Santa Catarina,3460869
 Itaí,Brazil,Sao Paulo,3460887
 Itaguaí,Brazil,Rio de Janeiro,3460899
+Itaeté,Brazil,Bahia,3460908
 Itacaré,Brazil,Bahia,3460940
 Itacarambi,Brazil,Minas Gerais,3460942
 Itabuna,Brazil,Bahia,3460949
@@ -3207,14 +3209,15 @@ Ibotirama,Brazil,Bahia,3461525
 Ibiúna,Brazil,Sao Paulo,3461528
 Ibititá,Brazil,Bahia,3461539
 Ibitinga,Brazil,Sao Paulo,3461550
+Ibitiara,Brazil,Bahia,3461556
 Ibirubá,Brazil,Rio Grande do Sul,3461559
 Ibirité,Brazil,Minas Gerais,3461563
-Ibirataia,Brazil,Bahia,3461565
 Ibirapitanga,Brazil,Bahia,3461572
 Ibirama,Brazil,Santa Catarina,3461576
 Ibiporã,Brazil,Parana,3461588
 Santa Rita de Cássia,Brazil,Bahia,3461591
 Ibipeba,Brazil,Bahia,3461592
+Ibicuí,Brazil,Bahia,3461602
 Ibicoara,Brazil,Bahia,3461604
 Ibicaraí,Brazil,Bahia,3461606
 Ibiá,Brazil,Minas Gerais,3461620
@@ -3709,7 +3712,9 @@ Agudo,Brazil,Rio Grande do Sul,3472831
 Aguaí,Brazil,Sao Paulo,3472969
 Água Clara,Brazil,Mato Grosso do Sul,3473042
 Afonso Cláudio,Brazil,Espirito Santo,3473129
+Adustina,Brazil,Bahia,3473140
 Adamantina,Brazil,Sao Paulo,3473157
+Acajutiba,Brazil,Bahia,3473218
 Abelardo Luz,Brazil,Santa Catarina,3473252
 Abaeté,Brazil,Minas Gerais,3473267
 Leblon,Brazil,Rio de Janeiro,3473654
@@ -4473,6 +4478,7 @@ Templeton-Est,Canada,Quebec,6162703
 Terrace,Canada,British Columbia,6162949
 Terrebonne,Canada,Quebec,6163012
 The Beaches,Canada,Ontario,6163363
+Thornhill,Canada,Ontario,6165683
 Thorold,Canada,Ontario,6165719
 Thunder Bay,Canada,Ontario,6166142
 Tillsonburg,Canada,Ontario,6166580
@@ -9978,6 +9984,7 @@ Hala'ib,Egypt,Red Sea,374290
 An Nūbārīyah,Egypt,Beheira,408919
 Awlād Şaqr,Egypt,Sharqia,409361
 Bi’r al ‘Abd,Egypt,North Sinai,410142
+Al-Manākh,Egypt,Port Said,410366
 Badr,Egypt,Cairo,415561
 Ar Riyāḑ,Egypt,Kafr el-Sheikh,416047
 Az Zarqā,Egypt,Damietta,419435
@@ -9994,6 +10001,7 @@ New Cairo,Egypt,Cairo,7799991
 El Shorouk,Egypt,Cairo,7799998
 Al Qāhirah al Jadīdah,Egypt,,8134081
 Aţ Ţārif,Egypt,New Valley,9073431
+Būr Fu’ād,Egypt,Port Said,9075170
 Al-'Ubūr,Egypt,Qalyubia,12451089
 Al-Khārijah,Egypt,New Valley,12640357
 Al-Minyā al-Jadīdah,Egypt,Minya,12640359
@@ -10002,6 +10010,8 @@ Ar-Rawḍah,Egypt,Damietta,12640363
 Ash-Shaykh Zāyid,Egypt,Giza,12640364
 Yūsuf aṣ-Ṣiddīq,Egypt,Faiyum,12640381
 New Bani Sewif City,Egypt,Beni Suweif,13118928
+Aḍ-Ḍawāḥy,Egypt,Port Said,13680148
+Az-Zuhūr,Egypt,Port Said,13680149
 El Marsa,Western Sahara,,2461993
 Laayoune,Western Sahara,,2462881
 Boujdour,Western Sahara,,2463029
@@ -13982,6 +13992,7 @@ Masohi,Indonesia,Maluku,8667930
 Amlapura city,Indonesia,Bali,11919949
 Kota Sambas,Indonesia,West Kalimantan,13405902
 Dalung,Indonesia,Bali,13645283
+Nusantara,Indonesia,East Kalimantan,13680164
 Wexford,Ireland,Leinster,2960964
 Waterford,Ireland,Munster,2960992
 Tullamore,Ireland,Leinster,2961086
@@ -18030,8 +18041,10 @@ Hādīshahr,"Iran, Islamic Republic of",East Azerbaijan,35017
 Gomīshān,"Iran, Islamic Republic of",Golestan,40047
 Khorramdarreh,"Iran, Islamic Republic of",Zanjan,41210
 Pādegān-e Manjīl,"Iran, Islamic Republic of",Gilan Province,41428
+Malekābād,"Iran, Islamic Republic of",Alborz Province,41466
 Kamālshahr,"Iran, Islamic Republic of",Alborz Province,41548
 Shahrak-e Mohandesī-ye Zerā‘ī,"Iran, Islamic Republic of",Alborz Province,41589
+Chahārbāgh,"Iran, Islamic Republic of",Alborz Province,41672
 ‘Eyn-e Do,"Iran, Islamic Republic of",Khuzestan,42517
 Āb Pakhsh,"Iran, Islamic Republic of",Bushehr,44172
 Kavār,"Iran, Islamic Republic of",Fars,44439
@@ -18354,6 +18367,7 @@ Qīāmdasht,"Iran, Islamic Republic of",Tehran,400833
 Showţ,"Iran, Islamic Republic of",West Azerbaijan,401118
 Pāsārgād,"Iran, Islamic Republic of",Fars,401202
 Vaḩīdīyeh,"Iran, Islamic Republic of",Tehran,404592
+Nasirshahr,"Iran, Islamic Republic of",Tehran,406462
 Shāhedshahr,"Iran, Islamic Republic of",Tehran,406472
 Ovrīn,"Iran, Islamic Republic of",Tehran,406487
 Eqbālīyeh,"Iran, Islamic Republic of",Tehran,406993
@@ -28217,6 +28231,7 @@ Mnihla,Tunisia,Ariana Governorate,13132710
 Douar Hicher,Tunisia,Manouba,13132711
 Ettadhamen,Tunisia,Ariana Governorate,13132712
 Nuku‘alofa,Tonga,Tongatapu,4032402
+Yumurtalık,Türkiye,Adana,296137
 Yüksekova,Türkiye,Hakkari,296173
 Yozgat,Türkiye,Yozgat,296562
 Yeşilova,Türkiye,Adana,296829
@@ -33426,6 +33441,7 @@ Chũ,Viet Nam,Bac Ninh,1585281
 Chơn Thành,Viet Nam,Dong Nai,1585317
 Chợ Lớn,Viet Nam,Ho Chi Minh City (HCMC),1585330
 Chí Linh,Viet Nam,Hai Phong,1585489
+Chiềng Cơi,Viet Nam,Son La Province,1585531
 Châu Phong,Viet Nam,An Giang,1585639
 Châu Đốc,Viet Nam,An Giang,1585660
 Cát Bà,Viet Nam,Hai Phong,1586052
