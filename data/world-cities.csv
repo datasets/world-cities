@@ -2664,6 +2664,7 @@ Rio Negrinho,Brazil,Santa Catarina,3451124
 Rio Grande da Serra,Brazil,Sao Paulo,3451134
 Rio Grande,Brazil,Rio Grande do Sul,3451138
 Rio do Sul,Brazil,Santa Catarina,3451152
+Rio do Antônio,Brazil,Bahia,3451185
 Rio de Janeiro,Brazil,Rio de Janeiro,3451190
 Rio das Pedras,Brazil,Sao Paulo,3451202
 Rio das Ostras,Brazil,Rio de Janeiro,3451205
@@ -2732,7 +2733,6 @@ Porteirinha,Brazil,Minas Gerais,3452956
 Portão,Brazil,Rio Grande do Sul,3452982
 Porciúncula,Brazil,Rio de Janeiro,3453010
 Porangatu,Brazil,Goias,3453014
-Ponto Novo,Brazil,Bahia,3453025
 Pontes e Lacerda,Brazil,Mato Grosso,3453060
 Ponte Nova,Brazil,Minas Gerais,3453078
 Ponta Porã,Brazil,Mato Grosso do Sul,3453150
@@ -3860,7 +3860,6 @@ Itabela,Brazil,Bahia,6317308
 Itaim Paulista,Brazil,Sao Paulo,6317317
 Itaobim,Brazil,Minas Gerais,6317328
 Itaquiraí,Brazil,Mato Grosso do Sul,6317333
-Itatim,Brazil,Bahia,6317335
 Itinga do Maranhão,Brazil,Maranhao,6317339
 Jaboatão dos Guararapes,Brazil,Pernambuco,6317344
 Jaíba,Brazil,Minas Gerais,6317358
@@ -6817,6 +6816,7 @@ Xingcheng,China,Liaoning,2033766
 Xilin Hot,China,Inner Mongolia,2033824
 Xifeng,China,Liaoning,2033866
 Xiaoshi,China,Liaoning,2033934
+Wūdān,China,Inner Mongolia,2034135
 Wuchang,China,Heilongjiang,2034141
 Wangqing,China,Jilin,2034221
 Hepingjie,China,Jilin,2034226
@@ -13404,6 +13404,7 @@ Croix-des-Bouquets,Haiti,Ouest,3727135
 Les Cayes,Haiti,Sud,3728097
 Cap-Haïtien,Haiti,Nord,3728474
 Arcahaie,Haiti,Ouest,3731088
+Cité Soleil,Haiti,Ouest,3740007
 Ti Port-de-Paix,Haiti,Nord-Ouest,3740016
 Carrefour,Haiti,Ouest,6201369
 Újszeged,Hungary,,714419
@@ -17940,6 +17941,7 @@ Saddat al Hindīyah,Iraq,Babil,91812
 Ṟuwandiz,Iraq,Erbil,92002
 Rānyah,Iraq,Sulaymaniyah,92052
 Al Qā’im,Iraq,Anbar,92138
+Habhab,Iraq,Diyala,92362
 Al-Hamdaniya,Iraq,Nineveh,92430
 Qal‘at Sukkar,Iraq,Dhi Qar,92511
 Qal‘at Şāliḩ,Iraq,Maysan,92537
@@ -17956,6 +17958,7 @@ Hīt,Iraq,Anbar,95788
 Ḩarir,Iraq,Erbil,96046
 Halabja,Iraq,Halabja,96205
 Ḩadīthah,Iraq,Anbar,96309
+Xebat,Iraq,Erbil,96833
 Soran,Iraq,Erbil,96961
 Dihok,Iraq,Duhok,96994
 Jamjamāl,Iraq,Sulaymaniyah,97417
@@ -18011,6 +18014,7 @@ Al ‘Amārah,Iraq,Maysan,99608
 Ad Dujayl,Iraq,Salah ad Din,99759
 Al Diwaniyah,Iraq,Al-Qadisiyah,99762
 Abū Ghurayb,Iraq,Baghdad,100077
+Derbendîxan,Iraq,Sulaymaniyah,384945
 Al Başrah al Qadīmah,Iraq,Basra,388349
 'Ākra,Iraq,Nineveh,445694
 Khasnahzān,Iraq,Erbil,446208
@@ -18020,9 +18024,11 @@ Sinjār,Iraq,Nineveh,448149
 ‘Anah,Iraq,Anbar,6765385
 Al-'Alam,Iraq,Salah ad Din,6871926
 Sadr City,Iraq,Baghdad,7802746
+Dêrelûk Devera Nihêliya,Iraq,Duhok,9253107
 Simele,Iraq,Duhok,10303650
 Shūrash,Iraq,Sulaymaniyah,13631406
 Abū al-Kahṣīb,Iraq,Basra,13631407
+Shelādiz,Iraq,Duhok,13680586
 Shahrak-e Qods,"Iran, Islamic Republic of",Tehran,362
 Lavāsān,"Iran, Islamic Republic of",Tehran,490
 Alvand,"Iran, Islamic Republic of",Qazvin Province,10570
@@ -18367,7 +18373,7 @@ Qīāmdasht,"Iran, Islamic Republic of",Tehran,400833
 Showţ,"Iran, Islamic Republic of",West Azerbaijan,401118
 Pāsārgād,"Iran, Islamic Republic of",Fars,401202
 Vaḩīdīyeh,"Iran, Islamic Republic of",Tehran,404592
-Nasirshahr,"Iran, Islamic Republic of",Tehran,406462
+Nasir Abaad,"Iran, Islamic Republic of",Tehran,406462
 Shāhedshahr,"Iran, Islamic Republic of",Tehran,406472
 Ovrīn,"Iran, Islamic Republic of",Tehran,406487
 Eqbālīyeh,"Iran, Islamic Republic of",Tehran,406993
@@ -27122,6 +27128,7 @@ Tumba,Sweden,Stockholm,2667094
 Tullinge,Sweden,Stockholm,2667109
 Trollhättan,Sweden,Vaestra Goetaland,2667303
 Trelleborg,Sweden,Skane,2667402
+Trångsund,Sweden,Stockholm,2667569
 Täby,Sweden,Stockholm,2669772
 Sundsvall,Sweden,Vaesternorrland,2670781
 Sundbyberg,Sweden,Stockholm,2670879
@@ -27156,6 +27163,7 @@ Lund,Sweden,Skane,2693678
 Ludvika,Sweden,Dalarna,2693759
 Ljungby,Sweden,Kronoberg,2694560
 Linköping,Sweden,OEstergoetland,2694762
+Limhamn,Sweden,Skane,2695019
 Lidköping,Sweden,Vaestra Goetaland,2696329
 Lidingö,Sweden,Stockholm,2696334
 Lerum,Sweden,Vaestra Goetaland,2696503
@@ -28181,7 +28189,7 @@ Beni Khalled,Tunisia,Nabeul Governorate,2472724
 Béja,Tunisia,Beja Governorate,2472774
 Zouila,Tunisia,Mahdia Governorate,2472833
 Zeramedine,Tunisia,Monastir Governorate,2472838
-Sejoumi,Tunisia,Tunis Governorate,2473164
+Sīdī Ḥusayn,Tunisia,Tunis Governorate,2473164
 Sahline,Tunisia,Monastir Governorate,2473190
 Chebba,Tunisia,Mahdia Governorate,2473229
 Aryanah,Tunisia,Ariana Governorate,2473247
@@ -28220,7 +28228,7 @@ Dar el Haj Taïeb,Tunisia,Sfax Governorate,2584420
 Ez Zahra,Tunisia,Ben Arous Governorate,2586370
 Borj Cedria,Tunisia,Ben Arous Governorate,6692494
 Ouerdanine,Tunisia,Monastir Governorate,7870039
-La Gazelle,Tunisia,Ariana Governorate,7870240
+Rawad,Tunisia,Ariana Governorate,7870240
 El Mourouj,Tunisia,Ben Arous Governorate,11204413
 Ezzouhour,Tunisia,Sousse Governorate,11204573
 Den Den,Tunisia,Manouba,12037388
@@ -29286,7 +29294,7 @@ Tekstylnyk,Ukraine,Donetsk,13561228
 Podil,Ukraine,Poltava,13561777
 Kyivskyi,Ukraine,Poltava,13561778
 Shevchenko,Ukraine,Poltava,13561779
-Rayon KTZ,Ukraine,Kharkiv,13561808
+Rayon KhTZ,Ukraine,Kharkiv,13561808
 Pravyi Bereh,Ukraine,Donetsk,13580034
 Nyvky,Ukraine,Kyiv City,13580041
 Pozniaky,Ukraine,Kyiv City,13580094
@@ -29354,6 +29362,16 @@ Karavayevi Dachi,Ukraine,Kyiv City,13645613
 Pivdenna Borshchahivka,Ukraine,Kyiv City,13645618
 Novobilychi,Ukraine,Kyiv City,13645622
 Nova Zabudova,Ukraine,Kyiv City,13645623
+Industrialnyi,Ukraine,Kharkiv,13680588
+Kyivskyi,Ukraine,Kharkiv,13680589
+Nemyshlyanskyi,Ukraine,Kharkiv,13680590
+Novobavarskyi,Ukraine,Kharkiv,13680594
+Nova Bavariya,Ukraine,Kharkiv,13680596
+Osnovyanskyi,Ukraine,Kharkiv,13680597
+Saltivskyi,Ukraine,Kharkiv,13680598
+Slobidskyi,Ukraine,Kharkiv,13680599
+Kholodna Hora,Ukraine,Kharkiv,13680600
+Shevchenkivskyi,Ukraine,Kharkiv,13680601
 Yumbe,Uganda,Northern Region,225835
 Wobulenzi,Uganda,Central Region,225858
 Wakiso,Uganda,Central Region,225964
@@ -33357,7 +33375,6 @@ Ninh Hòa,Viet Nam,Khanh Hoa,1571951
 Ninh Bình,Viet Nam,Ninh Binh,1571968
 Nha Trang,Viet Nam,Khanh Hoa,1572151
 Nhà Bè,Viet Nam,Ho Chi Minh City (HCMC),1572249
-Nghi Xuân,Viet Nam,Ha Tinh Province,1572526
 Nghi Sơn,Viet Nam,Thanh Hoa Province,1572532
 Nghĩa Lộ,Viet Nam,Lao Cai,1572565
 Nghĩa Đô,Viet Nam,Hanoi,1572585
