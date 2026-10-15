@@ -1242,11 +1242,13 @@ Patuakhali,Bangladesh,Barisal Division,7646711
 Dhanmondi,Bangladesh,Dhaka Division,7683974
 Pallabi,Bangladesh,Dhaka Division,7696679
 Azimpur,Bangladesh,Dhaka Division,7701354
+Demra,Bangladesh,Dhaka Division,7733115
 Paotana Hat,Bangladesh,Rangpur Division,7926419
 Karnaphuli,Bangladesh,Chittagong,8299875
 Bhanga,Bangladesh,Dhaka Division,8740356
 Paltan,Bangladesh,Dhaka Division,9827976
 Mirpur Model Thana,Bangladesh,Dhaka Division,11395976
+Gulshan,Bangladesh,Dhaka Division,11876505
 Motijheel,Bangladesh,Dhaka Division,13589478
 Zwijndrecht,Belgium,Flanders,2783081
 Zwevegem,Belgium,Flanders,2783089
@@ -16116,6 +16118,7 @@ Gairtganj,India,Madhya Pradesh,1271396
 Gevrai,India,Maharashtra,1271413
 Gaya,India,Bihar,1271439
 Gauripur,India,Assam,1271453
+Gauriganj,India,Uttar Pradesh,1271458
 Gauribidanur,India,Karnataka,1271459
 Gaurela,India,Chhattisgarh,1271464
 Guwahati,India,Assam,1271476
@@ -17984,7 +17987,6 @@ Tāzah Khūrmātū,Iraq,Kirkuk,90199
 Tallkayf,Iraq,Nineveh,90353
 Sumayl,Iraq,Duhok,90532
 Sīnah,Iraq,Duhok,90708
-Mostafa,Iraq,Maysan,91025
 Ash Sharqāt,Iraq,Salah ad Din,91057
 Shaqlāwah,Iraq,Erbil,91083
 Sāmarrā’,Iraq,Salah ad Din,91597
@@ -18355,6 +18357,7 @@ Chahār Dangeh,"Iran, Islamic Republic of",Tehran,139706
 Bushehr,"Iran, Islamic Republic of",Bushehr,139817
 Būmahen,"Iran, Islamic Republic of",Tehran,139879
 Būkān,"Iran, Islamic Republic of",West Azerbaijan,139889
+Bū’īn Zahrā,"Iran, Islamic Republic of",Qazvin Province,139903
 Borūjerd,"Iran, Islamic Republic of",Lorestan Province,140044
 Borūjen,"Iran, Islamic Republic of",Chaharmahal and Bakhtiari,140046
 Borāzjān,"Iran, Islamic Republic of",Bushehr,140097
@@ -20882,6 +20885,7 @@ Namsa,"Korea, Republic of",Jeollabuk-do,1840413
 Naju,"Korea, Republic of",Jeollanam-do,1840536
 Munsan,"Korea, Republic of",Gyeonggi-do,1840862
 Mungyeong,"Korea, Republic of",Gyeongsangbuk-do,1840886
+Paju,"Korea, Republic of",Gyeonggi-do,1840898
 Muan,"Korea, Republic of",Jeollanam-do,1840982
 Mokpo,"Korea, Republic of",Jeollanam-do,1841066
 Miryang,"Korea, Republic of",Gyeongsangnam-do,1841149
@@ -23091,25 +23095,25 @@ Malema,Mozambique,Nampula,12718696
 Messica,Mozambique,Manica,12718697
 Ribáuè,Mozambique,Nampula,12718698
 Xilembene,Mozambique,Gaza Province,12718700
-Ndiyona,Namibia,,876961
-Katima Mulilo,Namibia,,877178
-Windhoek,Namibia,,3352136
-Tsumeb,Namibia,,3352593
-Swakopmund,Namibia,,3352844
-Rundu,Namibia,,3353383
-Rehoboth,Namibia,,3353540
-Otjiwarongo,Namibia,,3353811
-Oshakati,Namibia,,3354021
-Ongwediva,Namibia,,3354147
-Ondangwa,Namibia,,3354247
-Okahandja,Namibia,,3354898
-Lüderitz,Namibia,,3355672
-Keetmanshoop,Namibia,,3356264
-Katutura,Namibia,,3356294
-Grootfontein,Namibia,,3357114
-Gobabis,Namibia,,3357247
-Walvis Bay,Namibia,,3359638
-Helao Nafidi,Namibia,,12718704
+Ndiyona,Namibia,Kavango East,876961
+Katima Mulilo,Namibia,Zambezi Region,877178
+Windhoek,Namibia,Khomas Region,3352136
+Tsumeb,Namibia,Oshikoto Region,3352593
+Swakopmund,Namibia,Erongo Region,3352844
+Rundu,Namibia,Kavango East,3353383
+Rehoboth,Namibia,Hardap Region,3353540
+Otjiwarongo,Namibia,Otjozondjupa Region,3353811
+Oshakati,Namibia,Oshana Region,3354021
+Ongwediva,Namibia,Oshana Region,3354147
+Ondangwa,Namibia,Oshana Region,3354247
+Okahandja,Namibia,Otjozondjupa Region,3354898
+Lüderitz,Namibia,Karas Region,3355672
+Keetmanshoop,Namibia,Karas Region,3356264
+Katutura,Namibia,Khomas Region,3356294
+Grootfontein,Namibia,Otjozondjupa Region,3357114
+Gobabis,Namibia,Omaheke Region,3357247
+Walvis Bay,Namibia,Erongo Region,3359638
+Helao Nafidi,Namibia,Ohangwena Region,12718704
 Nouméa,New Caledonia,South Province,2139521
 Mont-Dore,New Caledonia,South Province,2140066
 Dumbéa,New Caledonia,South Province,2141394
@@ -23424,6 +23428,7 @@ Alimosho,Nigeria,Lagos,2566676
 Akowonjo,Nigeria,Lagos,2566696
 Degema Hulk,Nigeria,Rivers State,2591159
 Lekki,Nigeria,Lagos,7732748
+Ogbia,Nigeria,Bayelsa State,10276592
 Chakwama,Nigeria,Jigawa State,12129605
 Tipitapa,Nicaragua,Managua Department,3616035
 Somoto,Nicaragua,Madriz Department,3616232
@@ -23464,6 +23469,7 @@ Bluefields,Nicaragua,South Caribbean Coast,3620680
 Ciudad Sandino,Nicaragua,Managua Department,3828262
 Zwolle,Netherlands,Overijssel,2743477
 Zwijndrecht,Netherlands,South Holland,2743493
+Zwaag,Netherlands,North Holland,2743595
 Zutphen,Netherlands,Gelderland,2743608
 Zoetermeer,Netherlands,South Holland,2743856
 Zevenaar,Netherlands,Gelderland,2743949
@@ -28152,13 +28158,14 @@ Venilale,Timor-Leste,Baucau,1943235
 Balkanabat,Turkmenistan,Balkan,161616
 Kaka,Turkmenistan,Ahal,161901
 Gyzylarbat,Turkmenistan,Balkan,161931
-Gämi,Turkmenistan,Ashgabat,161940
+Gämi,Turkmenistan,Ahal,161940
 Gumdag,Turkmenistan,Balkan,161943
 Gökdepe,Turkmenistan,Ahal,161950
 Bereket,Turkmenistan,Balkan,161974
 Magtymguly,Turkmenistan,Balkan,161980
 Jebel,Turkmenistan,Balkan,161997
 Abadan,Turkmenistan,Ahal,162099
+Ahal,Turkmenistan,Ahal,162121
 Bäherden,Turkmenistan,Ahal,162158
 Ashgabat,Turkmenistan,Ashgabat,162183
 Änew,Turkmenistan,Ahal,162199
@@ -28575,7 +28582,7 @@ Vakfıkebir,Türkiye,Trabzon,738228
 Uzunköprü,Türkiye,Edirne,738251
 Üsküdar,Türkiye,Istanbul,738329
 Ünye,Türkiye,Ordu,738349
-Umraniye,Türkiye,Istanbul,738377
+Ümraniye,Türkiye,Istanbul,738377
 Turhal,Türkiye,Tokat Province,738618
 Trabzon,Türkiye,Trabzon,738648
 Tosya,Türkiye,Kastamonu,738662
@@ -29457,6 +29464,7 @@ Saltivskyi,Ukraine,Kharkiv,13680598
 Slobidskyi,Ukraine,Kharkiv,13680599
 Kholodna Hora,Ukraine,Kharkiv,13680600
 Shevchenkivskyi,Ukraine,Kharkiv,13680601
+Kosmichnyi,Ukraine,Zaporizhzhia,13713025
 Yumbe,Uganda,Northern Region,225835
 Wobulenzi,Uganda,Central Region,225858
 Wakiso,Uganda,Central Region,225964
@@ -33687,27 +33695,27 @@ Tương Mai,Viet Nam,Hanoi,13680023
 Port-Vila,Vanuatu,Shefa,2135171
 Mata-Utu,Wallis and Futuna,Uvea,4034821
 Apia,Samoa,Tuamasaga,4035413
-Zvečan,No country found for alpha-2 code: XK,Mitrovica,783770
-Vushtrri,No country found for alpha-2 code: XK,Mitrovica,784097
-Vitina,No country found for alpha-2 code: XK,Gjilan,784372
-Ferizaj,No country found for alpha-2 code: XK,Ferizaj,784759
-Suva Reka,No country found for alpha-2 code: XK,Prizren,785238
-Shtime,No country found for alpha-2 code: XK,Ferizaj,785485
-Prizren,No country found for alpha-2 code: XK,Prizren,786712
-Pristina,No country found for alpha-2 code: XK,Pristina,786714
-Podujeva,No country found for alpha-2 code: XK,Pristina,786950
-Pejë,No country found for alpha-2 code: XK,Pec,787157
-Orahovac,No country found for alpha-2 code: XK,Gjakova,787456
-Llazicë,No country found for alpha-2 code: XK,Prizren,788470
-Leposaviq,No country found for alpha-2 code: XK,Mitrovica,788731
-Mitrovicë,No country found for alpha-2 code: XK,Mitrovica,789225
-Kosovo Polje,No country found for alpha-2 code: XK,Pristina,789228
-Istok,No country found for alpha-2 code: XK,Pec,789996
-Gjilan,No country found for alpha-2 code: XK,Gjilan,790674
-Glogovac,No country found for alpha-2 code: XK,Pristina,790701
-Dragash,No country found for alpha-2 code: XK,Prizren,791122
-Deçan,No country found for alpha-2 code: XK,Gjakova,791580
-Gjakovë,No country found for alpha-2 code: XK,Gjakova,791646
+Zvečan,Kosovo,Mitrovica,783770
+Vushtrri,Kosovo,Mitrovica,784097
+Vitina,Kosovo,Gjilan,784372
+Ferizaj,Kosovo,Ferizaj,784759
+Suva Reka,Kosovo,Prizren,785238
+Shtime,Kosovo,Ferizaj,785485
+Prizren,Kosovo,Prizren,786712
+Pristina,Kosovo,Pristina,786714
+Podujeva,Kosovo,Pristina,786950
+Pejë,Kosovo,Pec,787157
+Orahovac,Kosovo,Gjakova,787456
+Llazicë,Kosovo,Prizren,788470
+Leposaviq,Kosovo,Mitrovica,788731
+Mitrovicë,Kosovo,Mitrovica,789225
+Kosovo Polje,Kosovo,Pristina,789228
+Istok,Kosovo,Pec,789996
+Gjilan,Kosovo,Gjilan,790674
+Glogovac,Kosovo,Pristina,790701
+Dragash,Kosovo,Prizren,791122
+Deçan,Kosovo,Gjakova,791580
+Gjakovë,Kosovo,Gjakova,791646
 Zinjibār,Yemen,Abyan Governorate,69426
 Zabīd,Yemen,Al Hudaydah,69500
 Yarīm,Yemen,Ibb Governorate,69559
@@ -33836,6 +33844,7 @@ Northam,South Africa,Limpopo,969698
 Nkowakowa,South Africa,Limpopo,970341
 Nigel,South Africa,Gauteng,970566
 Newcastle,South Africa,KwaZulu-Natal,971421
+New Brighton,South Africa,Eastern Cape,971441
 Mbombela,South Africa,Mpumalanga,971534
 Mookgophong,South Africa,Limpopo,972206
 Mtubatuba,South Africa,KwaZulu-Natal,972803
@@ -33927,6 +33936,7 @@ Duiwelskloof,South Africa,Limpopo,1007514
 Driekoppies,South Africa,Mpumalanga,1008064
 Driefontein,South Africa,Mpumalanga,1008261
 Dimbaza,South Africa,Eastern Cape,1009863
+Despatch,South Africa,Eastern Cape,1010717
 Deneysville,South Africa,Free State,1010962
 Delmas,South Africa,Mpumalanga,1011031
 De Aar,South Africa,Northern Cape,1011632
@@ -34019,6 +34029,7 @@ Mankweng,South Africa,Limpopo,11204446
 Mkhuhlu,South Africa,Mpumalanga,11204552
 Kamaqhekeza,South Africa,Mpumalanga,11204695
 Phola,South Africa,Mpumalanga,11205133
+Motherwell,South Africa,Eastern Cape,11205248
 Ntuzuma,South Africa,KwaZulu-Natal,11205667
 Ncotshane,South Africa,KwaZulu-Natal,11205753
 Malamulele,South Africa,Limpopo,11282157
