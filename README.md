@@ -12,8 +12,8 @@ United Kingdom or the United States of America) or the major administrative sect
 See ``admin1`` field on [geonames website][geonames] for further info about subcountry.
 
 Notice that :
-* some cities like *Vatican city* or *Singapore* are a whole state so they don't belong to any subcountry. Therefore subcountry is ``N/A``.
-* There is no guaranty that a city has a unique name in a country and subcountry (At the time of writing, there are about 60 ambiguities). But for each city, 
+* some cities like *Vatican city* or *Singapore* are a whole state so they don't belong to any subcountry. Therefore subcountry is empty (not ``N/A``). The same is true for other cities that have no first-level region in geonames.
+* There is no guaranty that a city has a unique name in a country and subcountry (At the time of writing, 116 combinations of country, subcountry and name appear more than once). But for each city, 
 the source data primary key ``geonameid`` is provided.
 
 [geonames]: https://www.geonames.org/
@@ -22,10 +22,10 @@ the source data primary key ``geonameid`` is provided.
 
 ## Preparation
 
-[![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
-![.github/workflows/actions.yml](https://github.com/datasets/world-cities/actions/workflows/actions.yml/badge.svg?branch=master)
+[![Python 3.12](https://img.shields.io/badge/python-3.12-blue.svg)](https://www.python.org/downloads/release/python-3120/)
+![.github/workflows/actions.yml](https://github.com/datasets/world-cities/actions/workflows/actions.yml/badge.svg?branch=main)
 
-This repository uses [dataflows](https://github.com/datahq/dataflows) to process and normalize the data.
+This repository uses [pandas](https://pandas.pydata.org/) and [pycountry](https://github.com/pycountry/pycountry) to process and normalize the data.
 
 You first need to install the dependencies:
 

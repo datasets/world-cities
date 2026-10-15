@@ -31,16 +31,21 @@ header = [
 
 asciiCodesURL = 'http://download.geonames.org/export/dump/admin1CodesASCII.txt'
 
+# Codes that GeoNames uses but pycountry does not know.
+# XK is Kosovo (user-assigned code, not in ISO 3166-1).
+EXTRA_COUNTRY_NAMES = {
+    'XK': 'Kosovo',
+}
+
 def get_country_ascii_name(alpha_2_code):
-    try:
-        # Get the country using the alpha-2 code
-        country = pycountry.countries.get(alpha_2=alpha_2_code)
-        if country:
-            return country.name  # Assuming 'name' is the ASCII name
-        else:
-            return f"No country found for alpha-2 code: {alpha_2_code}"
-    except Exception as e:
-        return str(e)
+    if alpha_2_code in EXTRA_COUNTRY_NAMES:
+        return EXTRA_COUNTRY_NAMES[alpha_2_code]
+    country = pycountry.countries.get(alpha_2=alpha_2_code)
+    if country is None:
+        # Stop instead of writing an error message into the data.
+        # If this happens, add the code to EXTRA_COUNTRY_NAMES above.
+        raise ValueError(f"No country name for alpha-2 code: {alpha_2_code}")
+    return country.name
 
 def map_subcountry(row,df):
     # Filter df to match both admin_code and ascii_name
@@ -83,7 +88,7 @@ def process():
             writer.writerow([data[1], country, data[8], data[0], data[10]])
     header_csv = ['code', 'name', 'asciiname', 'geonameid']
     df = pd.read_csv(asciiCodesURL, header = None, delimiter = "\t", names = header_csv)
-    world_cities = pd.read_csv('data/world-cities.csv')
+    world_cities = pd.read_csv('data/world-cities.csv', keep_default_na=False)
     df['subcode'] = df['code'].str[3:]
     df['code'] = df['code'].str[:2]
 
