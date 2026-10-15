@@ -61,8 +61,7 @@ The city data comes from GeoNames and is licensed under the [Creative Commons At
 
 The country names come from pycountry, which is licensed under the LGPL-2.1 and includes iso-codes data (LGPL-2.1-or-later). ISO says its publications are protected by copyright. We could not establish whether this affects short country names, and the LGPL is a software licence. We found nothing that puts LGPL terms on this CSV, so we think the risk is low, but the position is unclear.
 
-All source code is licensed under the [MIT licence][mit].
+All source code is licensed under the [MIT licence](LICENSE).
 
-[mit]: https://opensource.org/licenses/MIT
 [lexman]: https://github.com/lexman
 [okfn]: https://okfn.org/
