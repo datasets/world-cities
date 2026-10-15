@@ -1,7 +1,7 @@
 {
   "name": "world-cities",
   "title": "Major cities of the world",
-  "description": "List of the world's major cities (above 15,000 inhabitants)",
+  "description": "List of the world's major cities: cities with more than 15,000 inhabitants, plus capitals and seats of government of any size. From GeoNames.",
   "repository": {
     "type": "git",
     "url": "git://github.com/datasets/world-cities.git"
@@ -38,29 +38,29 @@
     {
       "name": "world-cities",
       "path": "data/world-cities.csv",
-      "description": "List of major cities of the world with population above 15,000, sourced from Geonames. Each city is identified by its English name, country, primary administrative subdivision (subcountry), and Geonames ID.",
+      "description": "List of major cities of the world (more than 15,000 inhabitants, plus capitals and seats of government of any size), from GeoNames. Each city is identified by its name, country, first-level region (subcountry) and GeoNames id.",
       "format": "csv",
       "mediatype": "text/csv",
       "schema": {
         "fields": [
           {
             "name": "name",
-            "description": "English name of the city",
+            "description": "Name of the city (GeoNames name, UTF-8)",
             "type": "string"
           },
           {
             "name": "country",
-            "description": "Common name of the country, in english",
+            "description": "Country name (ISO 3166-1 official short name from pycountry, for example 'Viet Nam'; 'Kosovo' is added by the script)",
             "type": "string"
           },
           {
             "name": "subcountry",
-            "description": "Name of the major administrative area",
+            "description": "ASCII name of the first-level region (state or major administrative area); empty where GeoNames has none",
             "type": "string"
           },
           {
             "name": "geonameid",
-            "description": "id from geonames",
+            "description": "GeoNames id of the city",
             "type": "integer"
           }
         ]
@@ -68,7 +68,7 @@
       "primaryKey": "geonameid"
     }
   ],
-  "homepage": "http://github.com/datasets/world-cities",
+  "homepage": "https://github.com/datasets/world-cities",
   "related": [
     {
       "title": "Country list",

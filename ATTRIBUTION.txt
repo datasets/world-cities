@@ -1,0 +1,11 @@
+Attribution for world-cities
+
+Contains information from GeoNames (https://www.geonames.org/), licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0/).
+
+Country names come from the pycountry package (https://github.com/pycountry/pycountry), licensed under the LGPL-2.1, which includes the data of the Debian iso-codes project (https://salsa.debian.org/iso-codes-team/iso-codes). Licence of the country names as used here: unclear (see the README).
+
+Changes made to the source data: starting from the GeoNames file cities15000.txt (https://download.geonames.org/export/dump/cities15000.zip), the build script scripts/process.py keeps only the city name, the GeoNames id, the country and the first-level region. The country code is replaced by a country name from pycountry, and the first-level region code is replaced by the region's ASCII name from admin1CodesASCII.txt (https://download.geonames.org/export/dump/admin1CodesASCII.txt). All other columns (coordinates, population, alternate names, time zone and so on) are removed. The name "Kosovo" is added for the GeoNames code XK.
+
+Not endorsed by, or affiliated with, GeoNames, pycountry or the iso-codes project.
+
+The GeoNames data is provided "as is" without warranty or any representation of accuracy, timeliness or completeness.
