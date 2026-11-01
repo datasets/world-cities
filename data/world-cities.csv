@@ -106,6 +106,7 @@ Fayzabad,Afghanistan,Badakhshan,1142170
 Farah,Afghanistan,Farah,1142264
 Istālif,Afghanistan,Kabul,1142330
 Eslam Qaleh,Afghanistan,Herat,1142404
+Dasht-e Qal‘ah,Afghanistan,Takhar,1143814
 Charikar,Afghanistan,Parwan,1145352
 Baraki Barak,Afghanistan,Logar,1147066
 Bāmyān,Afghanistan,Bamyan,1147242
@@ -1193,7 +1194,9 @@ Lakshmīpur,Bangladesh,Chittagong,1196292
 Kesabpur,Bangladesh,Khulna Division,1197895
 Kafrul,Bangladesh,Dhaka Division,1199503
 Gazipur,Bangladesh,Dhaka Division,1200109
+Jāmirdia,Bangladesh,Mymensingh Division,1200303
 Hājīganj,Bangladesh,Chittagong,1201753
+Habirbāri,Bangladesh,Mymensingh Division,1201792
 Gopālganj,Bangladesh,Dhaka Division,1202120
 Farīdpur,Bangladesh,Dhaka Division,1203344
 Dukuria,Bangladesh,Dhaka Division,1203762
@@ -1220,7 +1223,7 @@ Jessore,Bangladesh,Khulna Division,1336140
 Brāhmanbāria,Bangladesh,Chittagong,1336142
 Pābna,Bangladesh,Rajshahi Division,1336143
 Tangail,Bangladesh,Dhaka Division,1336144
-Bogra,Bangladesh,Rajshahi Division,1337233
+Bogura,Bangladesh,Rajshahi Division,1337233
 Pīrgaaj,Bangladesh,Rangpur Division,1337239
 Nawābganj,Bangladesh,Rajshahi Division,1337240
 Madaripur,Bangladesh,Dhaka Division,1337245
@@ -1232,6 +1235,7 @@ Hāthazāri,Bangladesh,Chittagong,1462674
 Manikchari,Bangladesh,Chittagong,1462681
 Bhāndāria,Bangladesh,Barisal Division,1477498
 Bibir Hat,Bangladesh,Chittagong,6414184
+Lāma,Bangladesh,Chittagong,6415294
 Saidpur,Bangladesh,Rangpur Division,6545349
 Taluker Char Doani,Bangladesh,Khulna Division,7475889
 Natona,Bangladesh,Barisal Division,7476237
@@ -1246,10 +1250,12 @@ Demra,Bangladesh,Dhaka Division,7733115
 Paotana Hat,Bangladesh,Rangpur Division,7926419
 Karnaphuli,Bangladesh,Chittagong,8299875
 Bhanga,Bangladesh,Dhaka Division,8740356
+Kaliakair,Bangladesh,Dhaka Division,9171969
 Paltan,Bangladesh,Dhaka Division,9827976
 Mirpur Model Thana,Bangladesh,Dhaka Division,11395976
 Gulshan,Bangladesh,Dhaka Division,11876505
 Motijheel,Bangladesh,Dhaka Division,13589478
+Jessore Cantonment,Bangladesh,Khulna Division,13715450
 Zwijndrecht,Belgium,Flanders,2783081
 Zwevegem,Belgium,Flanders,2783089
 Zottegem,Belgium,Flanders,2783175
@@ -3888,6 +3894,7 @@ Itaquiraí,Brazil,Mato Grosso do Sul,6317333
 Itinga do Maranhão,Brazil,Maranhao,6317339
 Jaboatão dos Guararapes,Brazil,Pernambuco,6317344
 Jaíba,Brazil,Minas Gerais,6317358
+Jardim Presidente Dutra,Brazil,Sao Paulo,6317370
 Jenipapo dos Vieiras,Brazil,Maranhao,6317380
 Jijoca de Jericoacoara,Brazil,Ceara,6317383
 Juara,Brazil,Mato Grosso,6317397
@@ -4237,6 +4244,7 @@ Bolton,Canada,Ontario,5905308
 Boucherville,Canada,Quebec,5906267
 Bowmanville,Canada,Ontario,5906831
 Bracebridge,Canada,Ontario,5907092
+Bradford,Canada,Ontario,5907166
 Brampton,Canada,Ontario,5907364
 Brandon,Canada,Manitoba,5907896
 Brant,Canada,Ontario,5907983
@@ -4718,11 +4726,15 @@ Arcola East,Canada,Saskatchewan,13589240
 Dewdney East,Canada,Saskatchewan,13589242
 Fredericton Northside,Canada,New Brunswick,13607919
 Clayton Park West,Canada,Nova Scotia,13607951
-Fort Garry South,Canada,Manitoba,13665232
+Fort Garry,Canada,Manitoba,13665232
 St. James-Assiniboia East,Canada,Manitoba,13665233
 Centre City,Canada,Alberta,13680114
 Sainte-Foy–Sillery–Cap-Rouge,Canada,Quebec,13712912
 Cap-Rouge,Canada,Quebec,13712913
+Central St. John's,Canada,Newfoundland and Labrador,13731650
+West End,Canada,Newfoundland and Labrador,13731665
+East End,Canada,Newfoundland and Labrador,13731675
+Assiniboine South,Canada,Manitoba,13731807
 West Island,Cocos (Keeling) Islands,,7304591
 Yangambi,"Congo, The Democratic Republic of the",Tshopo,203717
 Watsa,"Congo, The Democratic Republic of the",Haut-Uele,204283
@@ -5414,7 +5426,7 @@ Zibihu,China,Yunnan,1279553
 Yingpan,China,Yunnan,1279575
 Yengisar,China,Xinjiang,1279590
 Quxu,China,Tibet,1279681
-Rikaze,China,Tibet,1279715
+Xigazê,China,Tibet,1279715
 Tengyue,China,Yunnan,1279891
 Jiuquan,China,Gansu,1279945
 Gar,China,Tibet,1280003
@@ -6729,6 +6741,7 @@ Zhonghe,China,Hainan,1885400
 Jiangyou,China,Sichuan,1885823
 Suzhou,China,Jiangsu,1886760
 Zhoushan,China,Zhejiang,1886762
+Nalong,China,Guangdong,1893316
 Dacheng,China,Hainan,1893595
 Wuduan,China,Jiangsu,1897997
 Guanshan,China,Jiangsu,1898013
@@ -8272,6 +8285,7 @@ Waldshut-Tiengen,Germany,Baden-Wurttemberg,2814791
 Waldkraiburg,Germany,Bavaria,2814874
 Waldkirch,Germany,Baden-Wurttemberg,2814883
 Waldbröl,Germany,North Rhine-Westphalia,2815137
+Bad Friedrichshall,Germany,Baden-Wurttemberg,2815174
 Waiblingen,Germany,Baden-Wurttemberg,2815330
 Waghäusel,Germany,Baden-Wurttemberg,2815487
 Wadgassen,Germany,Saarland,2815559
@@ -9822,6 +9836,7 @@ Kristiine,Estonia,Harjumaa,8435739
 Põhja-Tallinn,Estonia,Harjumaa,8435741
 Zefta,Egypt,Gharbia,346030
 Zaafarana,Egypt,Red Sea,346201
+Tūnis,Egypt,Sohag,347196
 Ţūkh,Egypt,Qalyubia,347236
 Timayy al Imdīd,Egypt,Dakahlia,347289
 Ţimā,Egypt,Sohag,347296
@@ -14099,7 +14114,7 @@ Zikhron Ya‘aqov,Israel,Haifa,293067
 Safed,Israel,Northern District,293100
 Yoqne‘am ‘Illit,Israel,Northern District,293153
 Yirkā,Israel,Northern District,293181
-Yehud,Israel,Central District,293207
+Yehud Monosson,Israel,Central District,293207
 Yavné,Israel,Central District,293222
 Jaffa,Israel,Tel Aviv,293253
 Yāfā,Israel,Northern District,293254
@@ -14522,6 +14537,7 @@ Soron,India,Uttar Pradesh,1255704
 Soro,India,Odisha,1255705
 Sorada,India,Odisha,1255712
 Sopur,India,Jammu and Kashmir,1255714
+Sopāra,India,Maharashtra,1255716
 Sonkach,India,Madhya Pradesh,1255743
 Sonīpat,India,Haryana,1255744
 Songadh,India,Gujarat,1255762
@@ -15185,7 +15201,7 @@ Narasaraopet,India,Andhra Pradesh,1261848
 Narasapur,India,Andhra Pradesh,1261852
 Narasannapeta,India,Andhra Pradesh,1261853
 Narakal,India,Kerala,1261864
-Nārāinpur,India,Chhattisgarh,1261870
+Narayanpur,India,Chhattisgarh,1261870
 Naraini,India,Madhya Pradesh,1261871
 Naraina,India,Rajasthan,1261872
 Napāsar,India,Rajasthan,1261882
@@ -17333,6 +17349,8 @@ Trikarpūr North,India,Kerala,10878435
 Trikarpūr South,India,Kerala,10878443
 Mādāyi,India,Puducherry,10878482
 Kunnimangalam,India,Puducherry,10878484
+Chaita,India,Bihar,10880198
+Chand Chaur,India,Bihar,10880526
 Molakālumuru,India,Karnataka,10883966
 Bhadauni,India,Bihar,10885305
 Satyāmangala,India,Karnataka,10888572
@@ -17378,6 +17396,7 @@ Kunnummal,India,Kerala,10925009
 Chēmanchēri,India,Kerala,10925345
 Kizhariyūr,India,Kerala,10926303
 Nangli,India,Punjab,10926750
+Nocchād,India,Kerala,10929452
 Ulliyeri,India,Kerala,10929613
 Icchannūr,India,Kerala,10929640
 Talakkolattur,India,Kerala,10929642
@@ -17669,6 +17688,8 @@ Vadakarai Kīl Pidāgai,India,Tamil Nadu,11680724
 Kannānkurichchi,India,Tamil Nadu,11682149
 Periyapatti,India,Tamil Nadu,11683679
 Narasingapuram,India,Tamil Nadu,11685075
+Bina,India,Bihar,11725221
+Hardi,India,Bihar,11725334
 Kushinagar,India,Uttar Pradesh,12032137
 Rohini,India,Delhi,12069922
 Mulugu,India,Telangana,12165955
@@ -17979,6 +18000,7 @@ Dukli,India,Tripura,13494748
 Charipara,India,Tripura,13494749
 Kanpur Cantonment,India,Uttar Pradesh,13645699
 Nani Daman,India,Dadra and Nagar Haveli and Daman and Diu,13665129
+Cooper's Camp,India,West Bengal,13731844
 Zaxo,Iraq,Duhok,89570
 Umm Qaşr,Iraq,Basra,89824
 Ţūz Khūrmātū,Iraq,Salah ad Din,90026
@@ -18290,7 +18312,7 @@ Jask,"Iran, Islamic Republic of",Hormozgan,130276
 Jam,"Iran, Islamic Republic of",Bushehr,130451
 Jājarm,"Iran, Islamic Republic of",North Khorasan,130524
 Jahrom,"Iran, Islamic Republic of",Fars,130531
-Īz̄eh,"Iran, Islamic Republic of",Khuzestan,130697
+Īẕeh,"Iran, Islamic Republic of",Khuzestan,130697
 Īlām,"Iran, Islamic Republic of",Ilam Province,130802
 Hoveyzeh,"Iran, Islamic Republic of",Khuzestan,130821
 Hendījān,"Iran, Islamic Republic of",Khuzestan,131559
@@ -19149,6 +19171,7 @@ Brera,Italy,Lombardy,11838094
 Adriano,Italy,Lombardy,12022803
 Chinatown,Italy,Lombardy,12022944
 Barriera di Lanzo,Italy,Piedmont,12022992
+Città Giardino,Italy,Piedmont,12023019
 Porta Palazzo,Italy,Piedmont,12023057
 Malafede,Italy,Lazio,12023071
 Campo di Marte,Italy,Tuscany,12023195
@@ -19180,6 +19203,7 @@ Circoiscrizione VIII,Italy,Piedmont,13607972
 Polo Nord,Italy,Piedmont,13607975
 Centro,Italy,Piedmont,13607979
 Chieti Scalo,Italy,Abruzzo,13607980
+Barriera di Orbassano,Italy,Piedmont,13731755
 Saint Helier,Jersey,St Helier,3042091
 Spanish Town,Jamaica,Saint Catherine Parish,3488465
 Savanna-la-Mar,Jamaica,Westmoreland,3488613
@@ -21712,9 +21736,9 @@ Ké-Macina,Mali,Segou,2455465
 Kayes,Mali,Kayes,2455518
 Kati,Mali,Koulikoro,2455558
 Kangaba,Mali,Koulikoro,2455735
-Kalaban Koro,Mali,Koulikoro,2455914
+Kalaban-Koro,Mali,Bamako,2455914
 Kadiolo,Mali,Sikasso,2455974
-Kabala,Mali,Koulikoro,2456018
+Kabala,Mali,Bamako,2456018
 Goundam,Mali,Tombouctou,2456917
 Gao,Mali,Gao,2457163
 Pèlèngana,Mali,Segou,2457410
@@ -22101,7 +22125,7 @@ Tehuacán,Mexico,Puebla,3516109
 Tecamachalco,Mexico,Puebla,3516188
 Teapa,Mexico,Tabasco,3516210
 Taxco de Alarcón,Mexico,Guerrero,3516225
-Tapachula,Mexico,Chiapas,3516266
+Tapachula de Córdova y Ordóñez,Mexico,Chiapas,3516266
 Tantoyuca,Mexico,Veracruz,3516271
 Tamuín,Mexico,San Luis Potosi,3516347
 Tampico,Mexico,Tamaulipas,3516355
@@ -22117,7 +22141,6 @@ Santa María Chimalhuacán,Mexico,Mexico,3517270
 Santa María Atzompa,Mexico,Oaxaca,3517280
 Heroica Ciudad de Tlaxiaco,Mexico,Oaxaca,3517285
 Santa Cruz Xoxocotlán,Mexico,Oaxaca,3517517
-Tecámac,Mexico,Mexico,3517524
 Santa Ana Chiautempan,Mexico,Tlaxcala,3517742
 Zinacatepec,Mexico,Puebla,3517795
 San Salvador El Seco,Mexico,Puebla,3517831
@@ -22125,7 +22148,7 @@ San Salvador Atenco,Mexico,Mexico,3517832
 San Rafael,Mexico,Mexico,3517917
 San Pablo de las Salinas,Mexico,Mexico,3518135
 San Pablo Autopan,Mexico,Mexico,3518138
-Zinacantepec,Mexico,Mexico,3518221
+San Miguel Zinacantepec,Mexico,Mexico,3518221
 San Miguel Coatlinchán,Mexico,Mexico,3518277
 San Miguel Ajusco,Mexico,Mexico City,3518293
 San Mateo Atenco,Mexico,Mexico,3518387
@@ -22135,7 +22158,7 @@ San Juan Zitlaltepec,Mexico,Mexico,3518593
 San Juan Ixtayopan,Mexico,Mexico City,3518650
 San Juan del Río,Mexico,Queretaro,3518692
 Tuxtepec,Mexico,Oaxaca,3518723
-San Jerónimo,Mexico,Mexico,3519076
+San Jerónimo Chicahualco,Mexico,Mexico,3519076
 San Francisco Tlalcilalcalpan,Mexico,Mexico,3519249
 San Francisco Acuautla,Mexico,Mexico,3519290
 Sanctorum,Mexico,Puebla,3519531
@@ -22176,12 +22199,12 @@ Ocosingo,Mexico,Chiapas,3522484
 Oaxaca,Mexico,Oaxaca,3522507
 Nuevo Laredo,Mexico,Tamaulipas,3522551
 Nogales,Mexico,Veracruz,3522696
-Nicolás Romero,Mexico,Mexico,3522732
+Villa Nicolás Romero,Mexico,Mexico,3522732
 Naucalpan de Juárez,Mexico,Mexico,3522790
 Naranjos,Mexico,Veracruz,3522804
 Nanchital de Lázaro Cárdenas del Río,Mexico,Veracruz,3522845
 Motul,Mexico,Yucatan,3522924
-Motozintla,Mexico,Chiapas,3522926
+Motozintla de Mendoza,Mexico,Chiapas,3522926
 Montemorelos,Mexico,Nuevo Leon,3523011
 Santiago Momoxpan,Mexico,Puebla,3523061
 Mixquiahuala de Juárez,Mexico,Hidalgo,3523127
@@ -22198,7 +22221,7 @@ Martínez de la Torre,Mexico,Veracruz,3523513
 Mapastepec,Mexico,Chiapas,3523590
 Magdalena Contreras,Mexico,Mexico City,3523760
 Macuspana,Mexico,Tabasco,3523791
-Reyes Acozac,Mexico,Mexico,3523900
+Los Reyes Acozac,Mexico,Mexico,3523900
 Los Reyes Acaquilpan,Mexico,Mexico,3523908
 Los Reyes de Juárez,Mexico,Puebla,3523909
 Linares,Mexico,Nuevo Leon,3524348
@@ -22208,11 +22231,11 @@ Lerdo de Tejada,Mexico,Veracruz,3524391
 Las Rosas,Mexico,Chiapas,3524618
 Las Margaritas,Mexico,Chiapas,3524744
 Las Choapas,Mexico,Veracruz,3524903
-Magdalena Atlicpac,Mexico,Mexico,3525424
+La Magdalena Atlicpac,Mexico,Mexico,3525424
 La Isla,Mexico,Veracruz,3525596
 San Antonio de la Cal,Mexico,Oaxaca,3526138
 Kanasín,Mexico,Yucatan,3526323
-Juchitepec,Mexico,Mexico,3526355
+Juchitepec de Mariano Rivapalacio,Mexico,Mexico,3526355
 Heroica Ciudad de Juchitán de Zaragoza,Mexico,Oaxaca,3526357
 José Cardel,Mexico,Veracruz,3526446
 Jojutla,Mexico,Morelos,3526467
@@ -22241,7 +22264,7 @@ Huejotzingo,Mexico,Puebla,3526953
 Huauchinango,Mexico,Puebla,3526992
 Huatusco,Mexico,Veracruz,3526993
 Ciudad de Huajuapan de León,Mexico,Oaxaca,3527023
-Comalapa,Mexico,Chiapas,3527542
+Frontera Comalapa,Mexico,Chiapas,3527542
 Frontera,Mexico,Tabasco,3527545
 Fortín de las Flores,Mexico,Veracruz,3527596
 Felipe Carrillo Puerto,Mexico,Quintana Roo,3527639
@@ -22271,7 +22294,7 @@ Comalcalco,Mexico,Tabasco,3530385
 Coatzintla,Mexico,Veracruz,3530513
 Coatzacoalcos,Mexico,Veracruz,3530517
 Coatepec,Mexico,Veracruz,3530531
-Coacalco,Mexico,Mexico,3530569
+San Francisco Coacalco,Mexico,Mexico,3530569
 Ciudad Victoria,Mexico,Tamaulipas,3530580
 Ciudad Serdán,Mexico,Puebla,3530584
 Fray Bernardino de Sahagún,Mexico,Hidalgo,3530587
@@ -22288,12 +22311,12 @@ Chilpancingo,Mexico,Guerrero,3530870
 Chilapa de Álvarez,Mexico,Guerrero,3530886
 Chignahuapan,Mexico,Puebla,3530908
 Chiconcuac,Mexico,Mexico,3530932
-Chicoloapan,Mexico,Mexico,3530937
+Chicoloapan de Juárez,Mexico,Mexico,3530937
 Chichén-Itzá,Mexico,Yucatan,3530978
 Chiapa de Corzo,Mexico,Chiapas,3531013
 Chetumal,Mexico,Quintana Roo,3531023
 Champotón,Mexico,Campeche,3531177
-Chalco,Mexico,Mexico,3531200
+Chalco de Díaz Covarrubias,Mexico,Mexico,3531200
 Cerro Azul,Mexico,Veracruz,3531321
 Catemaco,Mexico,Veracruz,3531416
 Carlos A. Carrillo,Mexico,Veracruz,3531556
@@ -22349,7 +22372,7 @@ Tonalá,Mexico,Chiapas,3816721
 Arriaga,Mexico,Chiapas,3816739
 San Mateo Huitzilzingo,Mexico,Mexico,3817641
 San Martín Cuautlalpan,Mexico,Mexico,3817649
-Tulantongo,Mexico,Mexico,3817714
+Santa María Tulantongo,Mexico,Mexico,3817714
 Tezoyuca,Mexico,Mexico,3817731
 Tepexpan,Mexico,Mexico,3817746
 Santa María Ajoloapan,Mexico,Mexico,3817809
@@ -22361,7 +22384,7 @@ San Andrés Cuexcontitlán,Mexico,Mexico,3827248
 San Mateo Otzacatipan,Mexico,Mexico,3827254
 San Pedro Totoltepec,Mexico,Mexico,3827255
 Santa María Totoltepec,Mexico,Mexico,3827256
-San Francisco Cuaxusco,Mexico,Mexico,3827263
+San Francisco Coaxusco,Mexico,Mexico,3827263
 Benito Juarez,Mexico,Mexico City,3827406
 Venustiano Carranza,Mexico,Mexico City,3827407
 Miguel Hidalgo,Mexico,Mexico City,3827408
@@ -23501,7 +23524,7 @@ Vlaardingen,Netherlands,South Holland,2745467
 Vianen,Netherlands,Utrecht,2745580
 Venray,Netherlands,Limburg,2745634
 Venlo,Netherlands,Limburg,2745641
-Velsen-Zuid,Netherlands,North Holland,2745673
+Velsen-Noord,Netherlands,North Holland,2745674
 Velp,Netherlands,Gelderland,2745677
 Veghel,Netherlands,North Brabant,2745726
 Veenendaal,Netherlands,Utrecht,2745774
@@ -23552,6 +23575,7 @@ Pijnacker,Netherlands,South Holland,2748591
 Papendrecht,Netherlands,South Holland,2748729
 Oud-Beijerland,Netherlands,South Holland,2749182
 Oss,Netherlands,North Brabant,2749234
+Osdorp,Netherlands,North Holland,2749242
 Oosterhout,Netherlands,North Brabant,2749450
 Ommoord,Netherlands,South Holland,2749604
 Oldenzaal,Netherlands,Overijssel,2749644
@@ -23573,7 +23597,6 @@ Middelharnis,Netherlands,South Holland,2750884
 Middelburg,Netherlands,Zeeland,2750896
 Merenwijk,Netherlands,South Holland,2750939
 Meppel,Netherlands,Drenthe,2750947
-Medemblik,Netherlands,North Holland,2751073
 Maastricht,Netherlands,Limburg,2751283
 Maassluis,Netherlands,South Holland,2751285
 Maarssen,Netherlands,Utrecht,2751316
@@ -23639,6 +23662,7 @@ Geleen,Netherlands,Limburg,2755616
 Geldrop,Netherlands,North Brabant,2755619
 Geldermalsen,Netherlands,Gelderland,2755633
 Geertruidenberg,Netherlands,North Brabant,2755669
+Etten-Leur,Netherlands,North Brabant,2755996
 Epe,Netherlands,Gelderland,2756059
 Enschede,Netherlands,Overijssel,2756071
 Enkhuizen,Netherlands,North Holland,2756077
@@ -23707,12 +23731,12 @@ Almelo,Netherlands,Overijssel,2759887
 Alkmaar,Netherlands,North Holland,2759899
 Alblasserdam,Netherlands,South Holland,2759915
 Aalten,Netherlands,Gelderland,2760123
-Aalsmeer,Netherlands,North Holland,2760134
 Amsterdam-Zuidoost,Netherlands,North Holland,6544881
 Berkel en Rodenrijs,Netherlands,South Holland,6929992
 Ypenburg,Netherlands,South Holland,6941548
 Velserbroek,Netherlands,North Holland,7118109
 Noord,Netherlands,North Holland,7648384
+Nieuw-Vennep - Getsewoud,Netherlands,North Holland,12547269
 Maaspoort,Netherlands,North Brabant,13535632
 Leidsche Rijn,Netherlands,Utrecht,13645515
 Amsterdam Nieuw-West,Netherlands,North Holland,13696813
@@ -24142,7 +24166,6 @@ Sumag,Philippines,Western Visayas,1685349
 Sultan sa Barongis,Philippines,Autonomous Region in Muslim Mindanao,1685373
 Sultan Kudarat,Philippines,Autonomous Region in Muslim Mindanao,1685378
 Subic,Philippines,Central Luzon,1685577
-Suay,Philippines,Western Visayas,1685622
 Sorsogon,Philippines,Bicol Region,1685755
 Solano,Philippines,Cagayan Valley,1685875
 Solana,Philippines,Cagayan Valley,1685880
@@ -24746,7 +24769,6 @@ Minchinabad,Pakistan,Punjab,1170398
 Mianwali,Pakistan,Punjab,1170425
 Mian Sahib,Pakistan,Sindh,1170436
 Mian Channun,Pakistan,Punjab,1170486
-Mehrabpur,Pakistan,Balochistan,1170564
 Mehar,Pakistan,Sindh,1170584
 Matli,Pakistan,Sindh,1170667
 Matiari,Pakistan,Sindh,1170677
@@ -24786,6 +24808,7 @@ Kot Mumin,Pakistan,Punjab,1172964
 Kot Malik Barkhurdar,Pakistan,Balochistan,1172993
 Kotli Loharan,Pakistan,Punjab,1173025
 Kotli,Pakistan,Azad Kashmir,1173055
+Kot Khaira,Pakistan,Punjab,1173176
 Kot Ghulam Muhammad,Pakistan,Punjab,1173272
 Kot Diji,Pakistan,Sindh,1173302
 Kot Addu,Pakistan,Punjab,1173378
@@ -24875,6 +24898,7 @@ Ghotki,Pakistan,Sindh,1178456
 Ghauspur,Pakistan,Sindh,1178560
 Gharo,Pakistan,Sindh,1178587
 Garh Maharaja,Pakistan,Punjab,1178841
+Gandakha,Pakistan,Balochistan,1179038
 Gambat,Pakistan,Sindh,1179061
 Gadani,Pakistan,Balochistan,1179185
 Fort Abbas,Pakistan,Punjab,1179223
@@ -24943,6 +24967,7 @@ Karimabad,Pakistan,Gilgit-Baltistan,1183614
 Bahawalpur,Pakistan,Punjab,1183880
 Bahawalnagar,Pakistan,Punjab,1183883
 Bāgh,Pakistan,Azad Kashmir,1183992
+Bagh,Pakistan,Punjab,1183994
 Baffa,Pakistan,Khyber Pakhtunkhwa,1184020
 Badin,Pakistan,Sindh,1184055
 Baddomalhi,Pakistan,Punjab,1184075
@@ -25848,7 +25873,7 @@ Bačka Palanka,Serbia,Vojvodina,3204674
 Apatin,Serbia,Vojvodina,3204793
 Knjazevac,Serbia,Central Serbia,6619277
 Udomlya,Russian Federation,Tver Oblast,452949
-Sosnovka,Russian Federation,St.-Petersburg,461698
+Sosnovka,Russian Federation,St. Petersburg,461698
 Sasovo,Russian Federation,Ryazan Oblast,461699
 Zyuzino,Russian Federation,Moscow,461740
 Zyablikovo,Russian Federation,Moscow,461835
@@ -25952,7 +25977,7 @@ Ust’-Dzheguta,Russian Federation,Karachayevo-Cherkesiya Republic,478130
 Usman’,Russian Federation,Lipetsk Oblast,478317
 Uryupinsk,Russian Federation,Volgograd Oblast,478544
 Urus-Martan,Russian Federation,Chechnya,478581
-Uritsk,Russian Federation,St.-Petersburg,478724
+Uritsk,Russian Federation,St. Petersburg,478724
 Unecha,Russian Federation,Bryansk Oblast,479028
 Ulyanovsk,Russian Federation,Ulyanovsk,479123
 Ukhta,Russian Federation,Komi,479411
@@ -26013,11 +26038,11 @@ Starominskaya,Russian Federation,Krasnodar Krai,488742
 Starodub,Russian Federation,Bryansk Oblast,488852
 Staraya Russa,Russian Federation,Novgorod Oblast,489088
 Staraya Kupavna,Russian Federation,Moscow Oblast,489162
-Staraya Derevnya,Russian Federation,St.-Petersburg,489226
+Staraya Derevnya,Russian Federation,St. Petersburg,489226
 Sovetsk,Russian Federation,Kirov Oblast,490067
 Sovetsk,Russian Federation,Kaliningrad Oblast,490068
 Sosnovyy Bor,Russian Federation,Leningradskaya Oblast',490172
-Sosnovaya Polyana,Russian Federation,St.-Petersburg,490377
+Sosnovaya Polyana,Russian Federation,St. Petersburg,490377
 Sosnogorsk,Russian Federation,Komi,490391
 Sortavala,Russian Federation,Karelia,490466
 Sorochinsk,Russian Federation,Orenburg Oblast,490554
@@ -26041,7 +26066,7 @@ Skhodnya,Russian Federation,Moscow Oblast,492448
 Sim,Russian Federation,Chelyabinsk,492944
 Sibay,Russian Federation,Bashkortostan Republic,493160
 Shuya,Russian Federation,Ivanovo Oblast,493231
-Shushary,Russian Federation,St.-Petersburg,493316
+Shushary,Russian Federation,St. Petersburg,493316
 Shumerlya,Russian Federation,Chuvash Republic,493463
 Mikhaylovsk,Russian Federation,Stavropol Kray,493702
 Shilovo,Russian Federation,Ryazan Oblast,494427
@@ -26064,7 +26089,7 @@ Severomorsk,Russian Federation,Murmansk,496278
 Severodvinsk,Russian Federation,Arkhangelskaya,496285
 Severnyy,Russian Federation,Moscow,496348
 Setun’,Russian Federation,Moscow,496456
-Sestroretsk,Russian Federation,St.-Petersburg,496478
+Sestroretsk,Russian Federation,St. Petersburg,496478
 Sertolovo,Russian Federation,Leningradskaya Oblast',496519
 Serpukhov,Russian Federation,Moscow Oblast,496527
 Sergiyev Posad,Russian Federation,Moscow Oblast,496638
@@ -26082,7 +26107,7 @@ Saratov,Russian Federation,Saratov Oblast,498677
 Sarapul,Russian Federation,Udmurtiya Republic,498687
 Saransk,Russian Federation,Mordoviya Republic,498698
 Saraktash,Russian Federation,Orenburg Oblast,498708
-Saint Petersburg,Russian Federation,St.-Petersburg,498817
+Saint Petersburg,Russian Federation,St. Petersburg,498817
 Samara,Russian Federation,Samara Oblast,499099
 Sal’sk,Russian Federation,Rostov,499161
 Salavat,Russian Federation,Bashkortostan Republic,499292
@@ -26113,7 +26138,7 @@ Ramenskoye,Russian Federation,Moscow Oblast,502965
 Ramenki,Russian Federation,Moscow,502971
 Pyatigorsk,Russian Federation,Stavropol Kray,503550
 Pushkino,Russian Federation,Moscow Oblast,503977
-Pushkin,Russian Federation,St.-Petersburg,504003
+Pushkin,Russian Federation,St. Petersburg,504003
 Pushchino,Russian Federation,Moscow Oblast,504042
 Pugachëv,Russian Federation,Saratov Oblast,504250
 Pskov,Russian Federation,Pskov Oblast,504341
@@ -26144,8 +26169,8 @@ Petushki,Russian Federation,Vladimir Oblast,509697
 Petrozavodsk,Russian Federation,Karelia,509820
 Petrovskaya,Russian Federation,Moscow Oblast,509981
 Petrovsk,Russian Federation,Saratov Oblast,509987
-Petrodvorets,Russian Federation,St.-Petersburg,510225
-Peterhof,Russian Federation,St.-Petersburg,510291
+Petrodvorets,Russian Federation,St. Petersburg,510225
+Peterhof,Russian Federation,St. Petersburg,510291
 Pestovo,Russian Federation,Novgorod Oblast,510364
 Pervouralsk,Russian Federation,Sverdlovsk Oblast,510808
 Perm,Russian Federation,Perm Krai,511196
@@ -26155,12 +26180,12 @@ Penza,Russian Federation,Penza Oblast,511565
 Pechora,Russian Federation,Komi,511794
 Pavlovskiy Posad,Russian Federation,Moscow Oblast,512023
 Pavlovskaya,Russian Federation,Krasnodar Krai,512051
-Pavlovsk,Russian Federation,St.-Petersburg,512052
+Pavlovsk,Russian Federation,St. Petersburg,512052
 Pavlovsk,Russian Federation,Voronezh Oblast,512053
 Pashkovskiy,Russian Federation,Krasnodar Krai,512382
 Pallasovka,Russian Federation,Volgograd Oblast,513042
 Ozëry,Russian Federation,Moscow Oblast,513378
-Ozerki,Russian Federation,St.-Petersburg,513471
+Ozerki,Russian Federation,St. Petersburg,513471
 Otradnyy,Russian Federation,Samara Oblast,513883
 Otradnoye,Russian Federation,Moscow,513896
 Otradnoye,Russian Federation,Leningradskaya Oblast',513898
@@ -26217,7 +26242,7 @@ Novoanninskiy,Russian Federation,Volgograd Oblast,519062
 Novoaleksandrovsk,Russian Federation,Stavropol Kray,519106
 Velikiy Novgorod,Russian Federation,Novgorod Oblast,519336
 Novaya Usman’,Russian Federation,Voronezh Oblast,519447
-Novaya Derevnya,Russian Federation,St.-Petersburg,519711
+Novaya Derevnya,Russian Federation,St. Petersburg,519711
 Noginsk,Russian Federation,Moscow Oblast,520068
 Nizhnyaya Tura,Russian Federation,Sverdlovsk Oblast,520204
 Nizhny Tagil,Russian Federation,Sverdlovsk Oblast,520494
@@ -26263,7 +26288,7 @@ Millerovo,Russian Federation,Rostov,526558
 Mikhaylovka,Russian Federation,Volgograd Oblast,527012
 Mikhalkovo,Russian Federation,Moscow,527057
 Michurinsk,Russian Federation,Tambov Oblast,527191
-Metallostroy,Russian Federation,St.-Petersburg,527361
+Metallostroy,Russian Federation,St. Petersburg,527361
 Menzelinsk,Russian Federation,Tatarstan Republic,527529
 Mendeleyevsk,Russian Federation,Tatarstan Republic,527579
 Meleuz,Russian Federation,Bashkortostan Republic,527717
@@ -26293,7 +26318,7 @@ Luzhniki,Russian Federation,Moscow,533067
 Lukhovitsy,Russian Federation,Moscow Oblast,533543
 Luga,Russian Federation,Leningradskaya Oblast',533690
 Losino-Petrovskiy,Russian Federation,Moscow Oblast,534015
-Lomonosov,Russian Federation,St.-Petersburg,534341
+Lomonosov,Russian Federation,St. Petersburg,534341
 Lodeynoye Pole,Russian Federation,Leningradskaya Oblast',534560
 Lobnya,Russian Federation,Moscow Oblast,534595
 Livny,Russian Federation,Oryol oblast,534701
@@ -26303,7 +26328,7 @@ Likino-Dulevo,Russian Federation,Moscow Oblast,535243
 Likhobory,Russian Federation,Moscow,535270
 Lianozovo,Russian Federation,Moscow,535330
 L’govskiy,Russian Federation,Kursk Oblast,535334
-Komendantsky aerodrom,Russian Federation,St.-Petersburg,535729
+Komendantsky aerodrom,Russian Federation,St. Petersburg,535729
 Lermontov,Russian Federation,Stavropol Kray,535886
 Leonovo,Russian Federation,Moscow,535966
 Leninskiye Gory,Russian Federation,Moscow Oblast,536098
@@ -26331,7 +26356,7 @@ Kurovskoye,Russian Federation,Moscow Oblast,538601
 Kurganinsk,Russian Federation,Krasnodar Krai,538836
 Kurchatov,Russian Federation,Kursk Oblast,538908
 Kurchaloy,Russian Federation,Chechnya,538913
-Kupchino,Russian Federation,St.-Petersburg,539061
+Kupchino,Russian Federation,St. Petersburg,539061
 Kuntsevo,Russian Federation,Moscow,539110
 Kungur,Russian Federation,Perm Krai,539147
 Kumertau,Russian Federation,Bashkortostan Republic,539283
@@ -26344,10 +26369,10 @@ Kubinka,Russian Federation,Moscow Oblast,540030
 Kstovo,Russian Federation,Nizhny Novgorod Oblast,540103
 Krymsk,Russian Federation,Krasnodar Krai,540251
 Kropotkin,Russian Federation,Krasnodar Krai,540761
-Kronstadt,Russian Federation,St.-Petersburg,540771
+Kronstadt,Russian Federation,St. Petersburg,540771
 Krasnyy Sulin,Russian Federation,Rostov,541404
 Biryulëvo Zapadnoye,Russian Federation,Moscow,541406
-Krasnoye Selo,Russian Federation,St.-Petersburg,542000
+Krasnoye Selo,Russian Federation,St. Petersburg,542000
 Krasnovishersk,Russian Federation,Perm Krai,542184
 Krasnoufimsk,Russian Federation,Sverdlovsk Oblast,542199
 Krasnokamsk,Russian Federation,Perm Krai,542327
@@ -26380,8 +26405,8 @@ Konstantinovsk,Russian Federation,Rostov,545277
 Kondopoga,Russian Federation,Karelia,545626
 Konakovo,Russian Federation,Tver Oblast,545673
 Kommunar,Russian Federation,Leningradskaya Oblast',545788
-Kolpino,Russian Federation,St.-Petersburg,546105
-Kolomyagi,Russian Federation,St.-Petersburg,546225
+Kolpino,Russian Federation,St. Petersburg,546105
+Kolomyagi,Russian Federation,St. Petersburg,546225
 Kolomna,Russian Federation,Moscow Oblast,546230
 Kolomenskoye,Russian Federation,Moscow,546244
 Kol’chugino,Russian Federation,Vladimir Oblast,546521
@@ -26469,12 +26494,12 @@ Gryazovets,Russian Federation,Vologda Oblast,558236
 Gryazi,Russian Federation,Lipetsk Oblast,558312
 Grozny,Russian Federation,Chechnya,558418
 Gribanovskiy,Russian Federation,Voronezh Oblast,558799
-Grazhdanka,Russian Federation,St.-Petersburg,559029
+Grazhdanka,Russian Federation,St. Petersburg,559029
 Goryachiy Klyuch,Russian Federation,Krasnodar Krai,559317
 Goryachevodskiy,Russian Federation,Stavropol Kray,559320
 Gorodishche,Russian Federation,Volgograd Oblast,559654
 Gorodets,Russian Federation,Nizhny Novgorod Oblast,559678
-Gorelovo,Russian Federation,St.-Petersburg,560142
+Gorelovo,Russian Federation,St. Petersburg,560142
 Gol’yanovo,Russian Federation,Moscow,560465
 Golitsyno,Russian Federation,Moscow Oblast,560756
 Glazov,Russian Federation,Udmurtiya Republic,561347
@@ -26524,7 +26549,7 @@ Davlekanovo,Russian Federation,Bashkortostan Republic,567006
 Dankov,Russian Federation,Lipetsk Oblast,567109
 Danilov,Russian Federation,Yaroslavl Oblast,567183
 Dagestanskiye Ogni,Russian Federation,Dagestan,567290
-Dachnoye,Russian Federation,St.-Petersburg,567311
+Dachnoye,Russian Federation,St. Petersburg,567311
 Chusovoy,Russian Federation,Perm Krai,567434
 Chudovo,Russian Federation,Novgorod Oblast,567774
 Chistopol’,Russian Federation,Tatarstan Republic,567990
@@ -26598,7 +26623,7 @@ Babushkin,Russian Federation,Moscow,579870
 Azov,Russian Federation,Rostov,580054
 Aznakayevo,Russian Federation,Tatarstan Republic,580062
 Avtury,Russian Federation,Chechnya,580218
-Avtovo,Russian Federation,St.-Petersburg,580222
+Avtovo,Russian Federation,St. Petersburg,580222
 Atkarsk,Russian Federation,Saratov Oblast,580420
 Astrakhan,Russian Federation,Astrakhan Oblast,580497
 Asha,Russian Federation,Chelyabinsk,580660
@@ -26654,7 +26679,7 @@ Kochubeyevskoye,Russian Federation,Stavropol Kray,841006
 Vnukovo,Russian Federation,Moscow,857689
 Moskovskiy,Russian Federation,Moscow,857690
 Usinsk,Russian Federation,Komi,863061
-Obukhovo,Russian Federation,St.-Petersburg,873901
+Obukhovo,Russian Federation,St. Petersburg,873901
 Staryy Malgobek,Russian Federation,Ingushetiya Republic,874045
 Zavodoukovsk,Russian Federation,Tyumen Oblast,1485357
 Zarinsk,Russian Federation,Altai Krai,1485439
@@ -26934,16 +26959,16 @@ Krasnaya Glinka,Russian Federation,Orenburg Oblast,7496732
 Kurortnyy,Russian Federation,Leningradskaya Oblast',8436165
 Chernaya Rechka,Russian Federation,Leningradskaya Oblast',8504946
 Untolovo,Russian Federation,Leningradskaya Oblast',8504947
-Petrogradka,Russian Federation,St.-Petersburg,8504948
-Vasyl'evsky Ostrov,Russian Federation,St.-Petersburg,8504949
+Petrogradka,Russian Federation,St. Petersburg,8504948
+Vasyl'evsky Ostrov,Russian Federation,St. Petersburg,8504949
 Parnas,Russian Federation,Leningradskaya Oblast',8504950
-Kalininskiy,Russian Federation,St.-Petersburg,8504951
-Krasnogvargeisky,Russian Federation,St.-Petersburg,8504952
-Admiralteisky,Russian Federation,St.-Petersburg,8504953
+Kalininskiy,Russian Federation,St. Petersburg,8504951
+Krasnogvargeisky,Russian Federation,St. Petersburg,8504952
+Admiralteisky,Russian Federation,St. Petersburg,8504953
 Krestovskiy ostrov,Russian Federation,Leningradskaya Oblast',8504955
 Akademicheskoe,Russian Federation,Leningradskaya Oblast',8504958
 Finlyandskiy,Russian Federation,Leningradskaya Oblast',8504959
-Centralniy,Russian Federation,St.-Petersburg,8504960
+Centralniy,Russian Federation,St. Petersburg,8504960
 Svetlanovskiy,Russian Federation,Leningradskaya Oblast',8504964
 Sampsonievskiy,Russian Federation,Leningradskaya Oblast',8504965
 Vostochnoe Degunino,Russian Federation,Moscow,8505053
@@ -28754,6 +28779,11 @@ Nilüfer,Türkiye,Bursa Province,10346824
 Merkezefendi,Türkiye,Denizli,11238838
 Altınşehir,Türkiye,Adiyaman Province,13591680
 Bağlar Mahallesi,Türkiye,Igdir,13697165
+Şahindere,Türkiye,Kars Province,13713176
+Yenişehir,Türkiye,Kars Province,13713184
+Şehitler,Türkiye,Kars Province,13713185
+Fırat,Türkiye,Agri,13715598
+Sursuru,Türkiye,Elazig,13731653
 Tunapuna,Trinidad and Tobago,Tunapuna/Piarco,3573576
 Scarborough,Trinidad and Tobago,Tobago,3573703
 Sangre Grande,Trinidad and Tobago,Sangre Grande Regional Corporation,3573732
@@ -28816,7 +28846,7 @@ Hualien City,"Taiwan, Province of China",Taiwan,1674504
 Xiulin,"Taiwan, Province of China",Taiwan,1674615
 Xingang,"Taiwan, Province of China",Taiwan,1674975
 Hsinchu,"Taiwan, Province of China",Taiwan,1675151
-Jinhu,"Taiwan, Province of China",Fukien,1675170
+Jinhu,"Taiwan, Province of China",Fujian,1675170
 Xiluo,"Taiwan, Province of China",Taiwan,1675232
 Xihu,"Taiwan, Province of China",Taiwan,1675281
 Xizhi,"Taiwan, Province of China",Taipei,1675393
@@ -28827,7 +28857,7 @@ Erlin,"Taiwan, Province of China",Taiwan,1676914
 Zhudong,"Taiwan, Province of China",Taiwan,1677053
 Zhushan,"Taiwan, Province of China",Taiwan,1677099
 Zhubei,"Taiwan, Province of China",Taiwan,1677112
-Jincheng,"Taiwan, Province of China",Fukien,1678008
+Jincheng,"Taiwan, Province of China",Fujian,1678008
 Keelung,"Taiwan, Province of China",Taiwan,1678228
 Chiayi City,"Taiwan, Province of China",Taiwan,1678836
 Chaozhou,"Taiwan, Province of China",Taiwan,1679047
@@ -29171,6 +29201,7 @@ Pereiaslav,Ukraine,Kyiv Oblast,697637
 Perevalsk,Ukraine,Luhansk,697650
 Pelahiivka,Ukraine,Donetsk,697771
 Pavlohrad,Ukraine,Dnipropetrovsk,697889
+Pasichna,Ukraine,Ivano-Frankivsk,697947
 Ovruch,Ukraine,Zhytomyr Oblast,698131
 Pokrov,Ukraine,Dnipropetrovsk,698436
 Oleksandriya,Ukraine,Kirovohrad,698625
@@ -29357,7 +29388,6 @@ Livyi Bereh,Ukraine,Dnipropetrovsk,11145146
 Demiyivka,Ukraine,Kyiv City,11776362
 Borshchahivka,Ukraine,Kyiv City,11778464
 Reni,Ukraine,Odesa,12129128
-Avtozavodskyi,Ukraine,Poltava,12167218
 Oleksiyivka,Ukraine,Kharkiv,12500938
 Knyahynyn,Ukraine,Ivano-Frankivsk,12519211
 Sofiivska Borschahivka,Ukraine,Kyiv Oblast,13513215
@@ -29465,6 +29495,7 @@ Slobidskyi,Ukraine,Kharkiv,13680599
 Kholodna Hora,Ukraine,Kharkiv,13680600
 Shevchenkivskyi,Ukraine,Kharkiv,13680601
 Kosmichnyi,Ukraine,Zaporizhzhia,13713025
+Moldavanka,Ukraine,Odesa,13731714
 Yumbe,Uganda,Northern Region,225835
 Wobulenzi,Uganda,Central Region,225858
 Wakiso,Uganda,Central Region,225964
@@ -33434,6 +33465,7 @@ Tân Bình,Viet Nam,Ho Chi Minh City (HCMC),1567043
 Tân An,Viet Nam,Tay Ninh,1567069
 Tam Kỳ,Viet Nam,Da Nang City,1567148
 Tam Giang,Viet Nam,Ca Mau,1567167
+Nha Bích,Viet Nam,Dong Nai,1567523
 Sơn Tây,Viet Nam,Hanoi,1567621
 Sơn La,Viet Nam,Son La Province,1567681
 Sông Cầu,Viet Nam,Dak Lak,1567723
